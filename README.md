@@ -6,8 +6,29 @@ bearbeitete Rudolf-Steiner-Textkorpus mit Quellenangaben und Korrekturprotokolle
 
 Der Katalog enthält **463 Einträge**, davon **324 vorhandene Texte** mit
 **4.988 Abschnitten** und **139 als nicht verfügbar gekennzeichnete Einträge**.
-Der bearbeitete Korpus liegt vollständig in `server/priv/content`; für den
-Betrieb ist kein separates Forschungsarchiv erforderlich.
+Der bearbeitete Korpus liegt vollständig unter
+[server/priv/content](server/priv/content); für den Betrieb ist kein separates
+Forschungsarchiv erforderlich.
+
+## Texte finden
+
+- **[Alle 324 bearbeiteten Texte](server/priv/content)** – vollständiger Textkorpus als JSON beziehungsweise komprimiertes JSON.
+- [Werkverzeichnis mit Titeln und Quellenangaben](server/priv/library/catalog.json).
+- [Korrekturprotokolle zu den einzelnen Werken](server/priv/proofreading/works).
+- [Korpusmanifest mit Dateipfaden und Prüfsummen](docs/repository/corpus-manifest.json).
+
+Diese fünf Kernwerke sind unkomprimiert direkt auf GitHub einsehbar:
+
+- [GA 003 – Wahrheit und Wissenschaft](server/priv/content/ga-003.json)
+- [GA 004 – Die Philosophie der Freiheit](server/priv/content/ga-004.json)
+- [GA 009 – Theosophie](server/priv/content/ga-009.json)
+- [GA 010 – Wie erlangt man Erkenntnisse der höheren Welten?](server/priv/content/ga-010.json)
+- [GA 013 – Die Geheimwissenschaft im Umriß](server/priv/content/ga-013.json)
+
+Die übrigen 319 Texte liegen als `.json.gz` vor, zum Beispiel
+[GA 120](server/priv/content/ga-120.json.gz). Zum Lesen die Datei herunterladen
+und mit gzip oder einem Archivprogramm entpacken. Der bearbeitete Text steht
+unter `passages[].text`, der erhaltene Ausgangstext unter `source_text`.
 
 Hinweise zum Repository-Umfang, den Korpusdateien und den Voraussetzungen:
 [Repository und Textkorpus](docs/repository.md). Die bestehenden
