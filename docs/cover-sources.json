@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "retrieved_at": "2026-10-08T10:17:08.562110+00:00",
+  "source": "Existing GA collection on Jonathan’s Kutscherei iMac",
+  "covers": [
+    {
+      "work_id": "ga-003",
+      "asset_name": "Cover-ga-003",
+      "asset_path": "apple/GA/Assets.xcassets/Cover-ga-003.imageset/cover.jpg",
+      "source_host": "kutscherei.local",
+      "source_collection": "/Volumes/GEHIRN II/ga",
+      "source_epub_path": "/Volumes/GEHIRN II/ga/epub/GA_3__odysseetheater.org__a20d6e263c__GA003.epub",
+      "source_record_path": "/Volumes/GEHIRN II/ga/data/documents/a20d6e263c825b9ef2a22989.json",
+      "source_url": "https://odysseetheater.org/GA/eBook/epub/GA003.epub",
+      "source_discovery_url": "https://steiner.wiki/Die_Rudolf_Steiner_Gesamtausgabe",
+      "source_epub_sha256": "c86a249f9ff97b358305e2db28d258ec3220e8400fe231976bbe0d5d64272f10",
+      "source_epub_title": "GA003 - Wahrheit und Wissenschaft (1892)",
+      "source_epub_cover_member": "images/cover_4.jpg",
+      "asset_sha256": "cfcad6504c2fea7acb47dc433d79b3391dedc0c98a64b1010e2146de381edcae",
+      "asset_bytes": 93236,
+      "pixel_width": 374,
+      "pixel_height": 600,
+      "extraction": "Unmodified bytes of the cover image referenced by the EPUB metadata and manifest.",
+      "visual_verification": {
+        "checked": true,
+        "observed_cover_text": "Rudolf Steiner, Wahrheit und Wissenschaft, Vorspiel einer Philosophie der Freiheit.",
+        "correspondence": "The EPUB title identifies the requested GA number; the visible author and title match the corresponding bundled work."
+      }
+    },
+    {
+      "work_id": "ga-004",
+      "asset_name": "Cover-ga-004",
+      "asset_path": "apple/GA/Assets.xcassets/Cover-ga-004.imageset/cover.jpg",
+      "source_host": "kutscherei.local",
+      "source_collection": "/Volumes/GEHIRN II/ga",
+      "source_epub_path": "/Volumes/GEHIRN II/ga/epub/GA_4__odysseetheater.org__a2decbf936__GA004.epub",
+      "source_record_path": "/Volumes/GEHIRN II/ga/data/documents/a2decbf93631606bc790f77c.json",
+      "source_url": "https://odysseetheater.org/GA/eBook/epub/GA004.epub",
+      "source_discovery_url": "https://steiner.wiki/GA_4",
+      "source_epub_sha256": "9a74892f36fcecac56b22bcdfd316446a3af25176c54c3aefb6c5efd6f5ed806",
+      "source_epub_title": "GA004 - Die Philosophie der Freiheit (1894)",
+      "source_epub_cover_member": "images/cover_1.jpg",
+      "asset_sha256": "1c4b131701fe593e7684e78c5a9d30086a188cc01be8e61adb3f4273aef7242c",
+      "asset_bytes": 85658,
+      "pixel_width": 374,
+      "pixel_height": 600,
+      "extraction": "Unmodified bytes of the cover image referenced by the EPUB metadata and manifest.",
+      "visual_verification": {
+        "checked": true,
+        "observed_cover_text": "Rudolf Steiner, Die Philosophie der Freiheit, Grundzüge einer modernen Weltanschauung.",
+        "correspondence": "The EPUB title identifies the requested GA number; the visible author and title match the corresponding bundled work."
+      }
+    },
+    {
+      "work_id": "ga-009",
+      "asset_name": "Cover-ga-009",
+      "asset_path": "apple/GA/Assets.xcassets/Cover-ga-009.imageset/cover.jpg",
+      "source_host": "kutscherei.local",
+      "source_collection": "/Volumes/GEHIRN II/ga",
+      "source_epub_path": "/Volumes/GEHIRN II/ga/epub/GA_9__odysseetheater.org__60aadd5095__GA009.epub",
+      "source_record_path": "/Volumes/GEHIRN II/ga/data/documents/60aadd50954f4015e7eadbad.json",
+      "source_url": "https://odysseetheater.org/GA/eBook/epub/GA009.epub",
+      "source_discovery_url": "https://steiner.wiki/Die_Rudolf_Steiner_Gesamtausgabe",
+      "source_epub_sha256": "9a262edf21a8b87f8e638dc251870ddde98aabf51dc1197c0c470ec7c9e18e52",
+      "source_epub_title": "GA009 - Theosophie. Einführung in übersinnliche Welterkenntnis und Menschenbestimmung (1904)",
+      "source_epub_cover_member": "images/cover_9-2.jpg",
+      "asset_sha256": "e7c0f6ba89b55178da8750fad4ecd2fff87f1d99e21a5818dfa2c939805cb1de",
+      "asset_bytes": 136968,
+      "pixel_width": 800,
+      "pixel_height": 1215,
+      "extraction": "Unmodified bytes of the cover image referenced by the EPUB metadata and manifest.",
+      "visual_verification": {
+        "checked": true,
+        "observed_cover_text": "Rudolf Steiner, Theosophie, Einführung in übersinnliche Welterkenntnis und Menschenbestimmung.",
+        "correspondence": "The EPUB title identifies the requested GA number; the visible author and title match the corresponding bundled work."
+      }
+    },
+    {
+      "work_id": "ga-010",
+      "asset_name": "Cover-ga-010",
+      "asset_path": "apple/GA/Assets.xcassets/Cover-ga-010.imageset/cover.jpg",
+      "source_host": "kutscherei.local",
+      "source_collection": "/Volumes/GEHIRN II/ga",
+      "source_epub_path": "/Volumes/GEHIRN II/ga/epub/GA_10__odysseetheater.org__b8b01ad20d__GA010.epub",
+      "source_record_path": "/Volumes/GEHIRN II/ga/data/documents/b8b01ad20d0663a4c560903b.json",
+      "source_url": "https://odysseetheater.org/GA/eBook/epub/GA010.epub",
+      "source_discovery_url": "https://steiner.wiki/Die_Rudolf_Steiner_Gesamtausgabe",
+      "source_epub_sha256": "c2a325082d17f47ca13655762c239b6608f4e5149aeba22544bef44dc2d16abd",
+      "source_epub_title": "GA010 - Wie erlangt man Erkenntnisse der höheren Welten? (1904/05)",
+      "source_epub_cover_member": "images/cover_10.jpg",
+      "asset_sha256": "4638cb0f23222b46b9f6c14d65ee52cca64bd5e08a510d20f97512bb0d13a590",
+      "asset_bytes": 84646,
+      "pixel_width": 374,
+      "pixel_height": 600,
+      "extraction": "Unmodified bytes of the cover image referenced by the EPUB metadata and manifest.",
+      "visual_verification": {
+        "checked": true,
+        "observed_cover_text": "Rudolf Steiner, Wie erlangt man Erkenntnisse der höheren Welten?",
+        "correspondence": "The EPUB title identifies the requested GA number; the visible author and title match the corresponding bundled work."
+      }
+    },
+    {
+      "work_id": "ga-013",
+      "asset_name": "Cover-ga-013",
+      "asset_path": "apple/GA/Assets.xcassets/Cover-ga-013.imageset/cover.jpg",
+      "source_host": "kutscherei.local",
+      "source_collection": "/Volumes/GEHIRN II/ga",
+      "source_epub_path": "/Volumes/GEHIRN II/ga/epub/GA_13__odysseetheater.org__9a85b330df__GA013.epub",
+      "source_record_path": "/Volumes/GEHIRN II/ga/data/documents/9a85b330df92e49e6b8d3d1a.json",
+      "source_url": "https://odysseetheater.org/GA/eBook/epub/GA013.epub",
+      "source_discovery_url": "https://steiner.wiki/Die_Rudolf_Steiner_Gesamtausgabe",
+      "source_epub_sha256": "596ed43b0a4dcd007f82b8606d3385f2dafed72d546c3f2e7f3de8dfe669fc5a",
+      "source_epub_title": "GA013 - Die Geheimwissenschaft im Umriß (1910)",
+      "source_epub_cover_member": "images/cover_13.jpg",
+      "asset_sha256": "fb4d1947da73239285703ba8ae49ca6770e5169b9c6d9dee9b0ec735049c710a",
+      "asset_bytes": 80516,
+      "pixel_width": 374,
+      "pixel_height": 600,
+      "extraction": "Unmodified bytes of the cover image referenced by the EPUB metadata and manifest.",
+      "visual_verification": {
+        "checked": true,
+        "observed_cover_text": "Rudolf Steiner, Die Geheimwissenschaft im Umriß.",
+        "correspondence": "The EPUB title identifies the requested GA number; the visible author and title match the corresponding bundled work."
+      }
+    },
+    {
+      "work_id": "ga-120",
+      "asset_name": "Cover-ga-120",
+      "asset_path": "apple/GA/Assets.xcassets/Cover-ga-120.imageset/cover.jpg",
+      "source_host": "kutscherei.local",
+      "source_collection": "/Volumes/GEHIRN II/ga",
+      "source_epub_path": "/Volumes/GEHIRN II/ga/epub/GA_120__odysseetheater.org__94a6e80b0b__GA120.epub",
+      "source_record_path": "/Volumes/GEHIRN II/ga/data/documents/94a6e80b0bcece65e379b6eb.json",
+      "source_url": "https://odysseetheater.org/GA/eBook/epub/GA120.epub",
+      "source_discovery_url": "https://steiner.wiki/Die_Rudolf_Steiner_Gesamtausgabe",
+      "source_epub_sha256": "62a2fb66bd2d390759889cfb694cbccfa5be956e83fe4a19a6fd08ee9f0a5af8",
+      "source_epub_title": "GA120 - Die Offenbarungen des Karma",
+      "source_epub_cover_member": "images/cover_85.jpg",
+      "asset_sha256": "529c058969bb8b1fe82492e4124dddf30fa791324c197bbc9275b9772a0c9d4a",
+      "asset_bytes": 106821,
+      "pixel_width": 395,
+      "pixel_height": 600,
+      "extraction": "Unmodified bytes of the cover image referenced by the EPUB metadata and manifest.",
+      "visual_verification": {
+        "checked": true,
+        "observed_cover_text": "Rudolf Steiner, Die Offenbarungen des Karma.",
+        "correspondence": "The EPUB title identifies the requested GA number; the visible author and title match the corresponding bundled work."
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+// Merge this record type into an exported development schema.
+// Do not replace a container's existing schema with this fragment.
+// No public-database permissions are granted: the reader uses privateCloudDatabase.
+RECORD TYPE GAReadingState (
+    payload ASSET,
+    schemaVersion INT64
+);

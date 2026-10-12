@@ -1,0 +1,10 @@
+Mode: built-in ImageGen, image edit.
+Edit target: approved ga-steiner-kursivpraegung-v1.png.
+
+LINEN BACKGROUND — transparent_background=false
+
+Edit target: provided sage-green linen GA / Steiner app icon. Create the clean background layer for this exact icon. Remove all lettering, the large GA and the smaller Steiner, including their shadows, outlines, highlights, dark interiors and pressed indentations. Fill those areas seamlessly with the identical sage-green woven linen bookcloth. Preserve the exact full-edge-to-edge textile, overall muted sage color, weave scale, flat straight-on viewpoint and even soft lighting of the reference. Blank uniform cloth only, no text, no objects, no border, no fold, no rounded corners, no vignette, no remnants or ghost impressions. Full-bleed opaque square1024×1024 high-quality background texture ready as the bottom layer in Apple Icon Composer. Preserve the reference as closely as possible.
+
+EMBOSSED FOREGROUND — transparent_background=true
+
+Use case: background-extraction. Edit target: the provided sage-linen GA / Steiner icon. Extract ONLY the existing dark green lettering GA and Steiner, including each glyph's original fine cloth interior texture and restrained pressed/debossed edge shading, onto a genuinely transparent alpha background. Keep the exact existing letter shapes, spelling, size, optical spacing and positions in the full square source canvas. Large italic serif uppercase GA and smaller italic serif Steiner below; do not redraw or substitute a font, do not redesign, move, crop or resize the lettering within the canvas. Make every pixel outside the letter silhouettes transparent, including all background weave, and make the interior counters of G,A,e etc truly transparent. Retain just the edge shading essential to the recessed effect, no colored rectangular patches or unrelated fabric. This is a transparent full-canvas foreground asset to overlay on the same clean sage-green linen background in Apple Icon Composer. No extra text, frame or shadows extending across the canvas. Transparent square 1024×1024 PNG.

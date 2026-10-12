@@ -1,0 +1,2123 @@
+{
+  "schema_version": 1,
+  "work_id": "ga-026",
+  "source_identity": {
+    "source_id": "ga-26",
+    "source_url": "https://fototausch.eu/api/ga/books/ga-26/download",
+    "source_sha256": "9ed29000b5a5c4c826e08a39d5732a0dd8224e4ca7f75523448d57b5b95e8ca7",
+    "source_epub_sha256": "fa4847fd400c0e0c347c34aaaf7d245547b43518ddbf831371588bec1a11857f"
+  },
+  "sources": [
+    {
+      "path": "research/proofreading-sources/ga-026.epub",
+      "sha256": "fa4847fd400c0e0c347c34aaaf7d245547b43518ddbf831371588bec1a11857f"
+    },
+    {
+      "path": "/tmp/ga-structure-sources/rudolf-steiner-ga-026.doc",
+      "sha256": "9ed29000b5a5c4c826e08a39d5732a0dd8224e4ca7f75523448d57b5b95e8ca7",
+      "kind": "original_IA_DOC"
+    },
+    {
+      "path": "/tmp/ga-structure-sources/rudolf-steiner-ga-026.docx",
+      "sha256": "d8d16f0a087346400be6c853b049f87ba155a7702f8785b24dc4e3d2e378b964",
+      "kind": "original_IA_DOC_converted_for_source_review"
+    }
+  ],
+  "contents_anchor": {
+    "id": "ga-026-source-contents",
+    "title": "Inhalt",
+    "source_role": "table_of_contents",
+    "passage_id": "ga-026-heading-0002",
+    "start_offset": 0,
+    "source_range": [
+      0,
+      2494
+    ],
+    "text_sha256": "c1af27b2153f4b31895f3e2c3c6fed3924dec464a2805ba1490c51cd1347e0a9",
+    "evidence": "Original EPUB/chapter-0001.xhtml names INHALT; original DOC paragraph index 11 (zero-based). The retained contents rows begin at ga-026-heading-0002 UTF-16 offset 0 and end at 2494 before the author preface. Original source title only supplies the navigation label; body characters are retained."
+  },
+  "main_rows": [
+    {
+      "order": 1,
+      "doc_paragraph_indexes_zero_based": [
+        12
+      ],
+      "raw_source_paragraphs": [
+        "Vorbemerkung"
+      ],
+      "original_contents_label": "Vorbemerkung",
+      "original_main_title": "Vorbemerkung",
+      "leitsaetze_range": null,
+      "current_navigation_id": "ga-026-toc-001",
+      "passage_id": "ga-026-heading-0002",
+      "current_start_offset": 2494
+    },
+    {
+      "order": 2,
+      "doc_paragraph_indexes_zero_based": [
+        13
+      ],
+      "raw_source_paragraphs": [
+        "Leitsätze 1-61"
+      ],
+      "original_contents_label": "Leitsätze 1-61",
+      "original_main_title": "Leitsätze 1-61",
+      "leitsaetze_range": [
+        1,
+        61
+      ],
+      "current_navigation_id": "ga-026-division-leitsaetze-1-61",
+      "passage_id": "ga-026-doc-heading-1",
+      "current_start_offset": 0
+    },
+    {
+      "order": 3,
+      "doc_paragraph_indexes_zero_based": [
+        14
+      ],
+      "raw_source_paragraphs": [
+        "Etwas vom Geist-Verstehen und Schicksals-Erleben (LS 62 bis 68)"
+      ],
+      "original_contents_label": "Etwas vom Geist-Verstehen und Schicksals-Erleben (LS 62 bis 68)",
+      "original_main_title": "Etwas vom Geist-Verstehen und Schicksals-Erleben",
+      "leitsaetze_range": [
+        62,
+        68
+      ],
+      "current_navigation_id": "ga-026-toc-025",
+      "passage_id": "ga-026-heading-0022",
+      "current_start_offset": 0
+    },
+    {
+      "order": 4,
+      "doc_paragraph_indexes_zero_based": [
+        15
+      ],
+      "raw_source_paragraphs": [
+        "Geistige Weltbereiche und menschliche Selbsterkenntnis (LS 69 bis 75) "
+      ],
+      "original_contents_label": "Geistige Weltbereiche und menschliche Selbsterkenntnis (LS 69 bis 75)",
+      "original_main_title": "Geistige Weltbereiche und menschliche Selbsterkenntnis",
+      "leitsaetze_range": [
+        69,
+        75
+      ],
+      "current_navigation_id": "ga-026-toc-028",
+      "passage_id": "ga-026-heading-0025",
+      "current_start_offset": 0
+    },
+    {
+      "order": 5,
+      "doc_paragraph_indexes_zero_based": [
+        16
+      ],
+      "raw_source_paragraphs": [
+        "Wie die Leitsätze anzuwenden sind (LS 76 bis 78) "
+      ],
+      "original_contents_label": "Wie die Leitsätze anzuwenden sind (LS 76 bis 78)",
+      "original_main_title": "Wie die Leitsätze anzuwenden sind",
+      "leitsaetze_range": [
+        76,
+        78
+      ],
+      "current_navigation_id": "ga-026-toc-031",
+      "passage_id": "ga-026-heading-0028",
+      "current_start_offset": 0
+    },
+    {
+      "order": 6,
+      "doc_paragraph_indexes_zero_based": [
+        17
+      ],
+      "raw_source_paragraphs": [
+        "Im Anbruch des Michael-Zeitalters (LS 79 bis 84)"
+      ],
+      "original_contents_label": "Im Anbruch des Michael-Zeitalters (LS 79 bis 84)",
+      "original_main_title": "Im Anbruch des Michael-Zeitalters",
+      "leitsaetze_range": [
+        79,
+        84
+      ],
+      "current_navigation_id": "ga-026-toc-033",
+      "passage_id": "ga-026-heading-0030",
+      "current_start_offset": 0
+    },
+    {
+      "order": 7,
+      "doc_paragraph_indexes_zero_based": [
+        18
+      ],
+      "raw_source_paragraphs": [
+        "Die menschliche Seelenverfassung vor dem Anbruch des Michael-Zeitalters  (LS 85 bis 87) "
+      ],
+      "original_contents_label": "Die menschliche Seelenverfassung vor dem Anbruch des Michael-Zeitalters (LS 85 bis 87)",
+      "original_main_title": "Die menschliche Seelenverfassung vor dem Anbruch des Michael-Zeitalters",
+      "leitsaetze_range": [
+        85,
+        87
+      ],
+      "current_navigation_id": "ga-026-toc-036",
+      "passage_id": "ga-026-heading-0033",
+      "current_start_offset": 0
+    },
+    {
+      "order": 8,
+      "doc_paragraph_indexes_zero_based": [
+        19
+      ],
+      "raw_source_paragraphs": [
+        "Aphorismen aus einem am 24. August in London gehaltenen Mitgliedervortrag (LS 88 bis 102"
+      ],
+      "original_contents_label": "Aphorismen aus einem am 24. August in London gehaltenen Mitgliedervortrag (LS 88 bis 102",
+      "original_main_title": "Aphorismen aus einem am 24. August in London gehaltenen Mitgliedervortrag",
+      "leitsaetze_range": [
+        88,
+        102
+      ],
+      "current_navigation_id": "ga-026-toc-038",
+      "passage_id": "ga-026-heading-0035",
+      "current_start_offset": 0
+    },
+    {
+      "order": 9,
+      "doc_paragraph_indexes_zero_based": [
+        20
+      ],
+      "raw_source_paragraphs": [
+        "Der Vor-Michaelische und der Michaels-Weg (LS 103 bis 105) "
+      ],
+      "original_contents_label": "Der Vor-Michaelische und der Michaels-Weg (LS 103 bis 105)",
+      "original_main_title": "Der Vor-Michaelische und der Michaels-Weg",
+      "leitsaetze_range": [
+        103,
+        105
+      ],
+      "current_navigation_id": "ga-026-toc-044",
+      "passage_id": "ga-026-heading-0041",
+      "current_start_offset": 0
+    },
+    {
+      "order": 10,
+      "doc_paragraph_indexes_zero_based": [
+        21
+      ],
+      "raw_source_paragraphs": [
+        "Michaels Aufgabe in der Ahriman-Sphäre.(LS 106 bis 108) "
+      ],
+      "original_contents_label": "Michaels Aufgabe in der Ahriman-Sphäre.(LS 106 bis 108)",
+      "original_main_title": "Michaels Aufgabe in der Ahriman-Sphäre.",
+      "leitsaetze_range": [
+        106,
+        108
+      ],
+      "current_navigation_id": "ga-026-toc-046",
+      "passage_id": "ga-026-doc-heading-37",
+      "current_start_offset": 0
+    },
+    {
+      "order": 11,
+      "doc_paragraph_indexes_zero_based": [
+        22
+      ],
+      "raw_source_paragraphs": [
+        "Michaels Erfahrungen und Erlebnisse während seiner kosmischen Mission. (LS 109 bis 111)"
+      ],
+      "original_contents_label": "Michaels Erfahrungen und Erlebnisse während seiner kosmischen Mission. (LS 109 bis 111)",
+      "original_main_title": "Michaels Erfahrungen und Erlebnisse während seiner kosmischen Mission.",
+      "leitsaetze_range": [
+        109,
+        111
+      ],
+      "current_navigation_id": "ga-026-toc-048",
+      "passage_id": "ga-026-doc-heading-39",
+      "current_start_offset": 0
+    },
+    {
+      "order": 12,
+      "doc_paragraph_indexes_zero_based": [
+        23
+      ],
+      "raw_source_paragraphs": [
+        "Menschheitszukunft und Michael-Tätigkeit.  (LS 112 bis 114) "
+      ],
+      "original_contents_label": "Menschheitszukunft und Michael-Tätigkeit. (LS 112 bis 114)",
+      "original_main_title": "Menschheitszukunft und Michael-Tätigkeit.",
+      "leitsaetze_range": [
+        112,
+        114
+      ],
+      "current_navigation_id": "ga-026-toc-050",
+      "passage_id": "ga-026-doc-heading-41",
+      "current_start_offset": 0
+    },
+    {
+      "order": 13,
+      "doc_paragraph_indexes_zero_based": [
+        24
+      ],
+      "raw_source_paragraphs": [
+        "Das Michael-Christus-Erlebnis des Menschen.  (LS 115 bis 117)"
+      ],
+      "original_contents_label": "Das Michael-Christus-Erlebnis des Menschen. (LS 115 bis 117)",
+      "original_main_title": "Das Michael-Christus-Erlebnis des Menschen.",
+      "leitsaetze_range": [
+        115,
+        117
+      ],
+      "current_navigation_id": "ga-026-toc-052",
+      "passage_id": "ga-026-doc-heading-43",
+      "current_start_offset": 0
+    },
+    {
+      "order": 14,
+      "doc_paragraph_indexes_zero_based": [
+        25
+      ],
+      "raw_source_paragraphs": [
+        "Michaels Mission im Weltenalter der Menschen-Freiheit.  (LS 118 bis 120) "
+      ],
+      "original_contents_label": "Michaels Mission im Weltenalter der Menschen-Freiheit. (LS 118 bis 120)",
+      "original_main_title": "Michaels Mission im Weltenalter der Menschen-Freiheit.",
+      "leitsaetze_range": [
+        118,
+        120
+      ],
+      "current_navigation_id": "ga-026-toc-054",
+      "passage_id": "ga-026-doc-heading-45",
+      "current_start_offset": 0
+    },
+    {
+      "order": 15,
+      "doc_paragraph_indexes_zero_based": [
+        26
+      ],
+      "raw_source_paragraphs": [
+        "Die Weltgedanken im Wirken Michaels und im Wirken Ahrimans.  (LS 121 bis 123) "
+      ],
+      "original_contents_label": "Die Weltgedanken im Wirken Michaels und im Wirken Ahrimans. (LS 121 bis 123)",
+      "original_main_title": "Die Weltgedanken im Wirken Michaels und im Wirken Ahrimans.",
+      "leitsaetze_range": [
+        121,
+        123
+      ],
+      "current_navigation_id": "ga-026-toc-056",
+      "passage_id": "ga-026-doc-heading-47",
+      "current_start_offset": 0
+    },
+    {
+      "order": 16,
+      "doc_paragraph_indexes_zero_based": [
+        27
+      ],
+      "raw_source_paragraphs": [
+        "Erste Betrachtung: Vor den Toren der Bewußtseinsseele.  (LS 124 bis 126)"
+      ],
+      "original_contents_label": "Erste Betrachtung: Vor den Toren der Bewußtseinsseele. (LS 124 bis 126)",
+      "original_main_title": "Erste Betrachtung: Vor den Toren der Bewußtseinsseele.",
+      "leitsaetze_range": [
+        124,
+        126
+      ],
+      "current_navigation_id": "ga-026-toc-058",
+      "passage_id": "ga-026-heading-0057",
+      "current_start_offset": 0
+    },
+    {
+      "order": 17,
+      "doc_paragraph_indexes_zero_based": [
+        28
+      ],
+      "raw_source_paragraphs": [
+        "Zweite Betrachtung: Wie die Michael-Kräfte in die Bewußtseinsseele wirken.  (LS 127 bis 130) "
+      ],
+      "original_contents_label": "Zweite Betrachtung: Wie die Michael-Kräfte in die Bewußtseinsseele wirken. (LS 127 bis 130)",
+      "original_main_title": "Zweite Betrachtung: Wie die Michael-Kräfte in die Bewußtseinsseele wirken.",
+      "leitsaetze_range": [
+        127,
+        130
+      ],
+      "current_navigation_id": "ga-026-toc-061",
+      "passage_id": "ga-026-heading-0059",
+      "current_start_offset": 0
+    },
+    {
+      "order": 18,
+      "doc_paragraph_indexes_zero_based": [
+        29
+      ],
+      "raw_source_paragraphs": [
+        "Fortsetzung der zweiten Betrachtung: (LS 131 bis 133) "
+      ],
+      "original_contents_label": "Fortsetzung der zweiten Betrachtung: (LS 131 bis 133)",
+      "original_main_title": "Fortsetzung der zweiten Betrachtung:",
+      "leitsaetze_range": [
+        131,
+        133
+      ],
+      "current_navigation_id": "ga-026-toc-064",
+      "passage_id": "ga-026-heading-0060",
+      "current_start_offset": 0
+    },
+    {
+      "order": 19,
+      "doc_paragraph_indexes_zero_based": [
+        30
+      ],
+      "raw_source_paragraphs": [
+        "Dritte Betrachtung: Michaels Leid über die Menschheitsentwicklung (LS 134 bis 136)"
+      ],
+      "original_contents_label": "Dritte Betrachtung: Michaels Leid über die Menschheitsentwicklung (LS 134 bis 136)",
+      "original_main_title": "Dritte Betrachtung: Michaels Leid über die Menschheitsentwicklung",
+      "leitsaetze_range": [
+        134,
+        136
+      ],
+      "current_navigation_id": "ga-026-toc-067",
+      "passage_id": "ga-026-doc-heading-54",
+      "current_start_offset": 0
+    },
+    {
+      "order": 20,
+      "doc_paragraph_indexes_zero_based": [
+        31
+      ],
+      "raw_source_paragraphs": [
+        "Weihnachtsbetrachtung: Das Logos-Mysterium.  (LS 137 bis 139)"
+      ],
+      "original_contents_label": "Weihnachtsbetrachtung: Das Logos-Mysterium. (LS 137 bis 139)",
+      "original_main_title": "Weihnachtsbetrachtung: Das Logos-Mysterium.",
+      "leitsaetze_range": [
+        137,
+        139
+      ],
+      "current_navigation_id": "ga-026-toc-069",
+      "passage_id": "ga-026-heading-0065",
+      "current_start_offset": 0
+    },
+    {
+      "order": 21,
+      "doc_paragraph_indexes_zero_based": [
+        32
+      ],
+      "raw_source_paragraphs": [
+        "Himmelsgeschichte. Mythologische Geschichte. Erdgeschichte. (LS 140 bis 143) "
+      ],
+      "original_contents_label": "Himmelsgeschichte. Mythologische Geschichte. Erdgeschichte. (LS 140 bis 143)",
+      "original_main_title": "Himmelsgeschichte. Mythologische Geschichte. Erdgeschichte.",
+      "leitsaetze_range": [
+        140,
+        143
+      ],
+      "current_navigation_id": "ga-026-toc-071",
+      "passage_id": "ga-026-heading-0067",
+      "current_start_offset": 0
+    },
+    {
+      "order": 22,
+      "doc_paragraph_indexes_zero_based": [
+        33
+      ],
+      "raw_source_paragraphs": [
+        "Was sich offenbart, wenn man in die wiederholten Erdenleben zurückschaut.  (LS 144 bis 146) "
+      ],
+      "original_contents_label": "Was sich offenbart, wenn man in die wiederholten Erdenleben zurückschaut. (LS 144 bis 146)",
+      "original_main_title": "Was sich offenbart, wenn man in die wiederholten Erdenleben zurückschaut.",
+      "leitsaetze_range": [
+        144,
+        146
+      ],
+      "current_navigation_id": "ga-026-toc-074",
+      "passage_id": "ga-026-doc-heading-57",
+      "current_start_offset": 969
+    },
+    {
+      "order": 23,
+      "doc_paragraph_indexes_zero_based": [
+        34,
+        35
+      ],
+      "raw_source_paragraphs": [
+        "Erster Teil der Betrachtung: Was offenbart sich, wenn man in die vorigen Leben zwischen Tod ",
+        "                                              und neuer Geburt zurückschaut?  (LS 147 bis 149) "
+      ],
+      "original_contents_label": "Erster Teil der Betrachtung: Was offenbart sich, wenn man in die vorigen Leben zwischen Tod und neuer Geburt zurückschaut? (LS 147 bis 149)",
+      "original_main_title": "Erster Teil der Betrachtung: Was offenbart sich, wenn man in die vorigen Leben zwischen Tod und neuer Geburt zurückschaut?",
+      "leitsaetze_range": [
+        147,
+        149
+      ],
+      "current_navigation_id": "ga-026-toc-076",
+      "passage_id": "ga-026-heading-0070",
+      "current_start_offset": 0
+    },
+    {
+      "order": 24,
+      "doc_paragraph_indexes_zero_based": [
+        36,
+        37
+      ],
+      "raw_source_paragraphs": [
+        "Zweiter Teil der Betrachtung: Was offenbart sich, wenn man in die vorigen Leben zwischen Tod ",
+        "          und neuer Geburt zurückschaut?  (LS 150 bis 152) "
+      ],
+      "original_contents_label": "Zweiter Teil der Betrachtung: Was offenbart sich, wenn man in die vorigen Leben zwischen Tod und neuer Geburt zurückschaut? (LS 150 bis 152)",
+      "original_main_title": "Zweiter Teil der Betrachtung: Was offenbart sich, wenn man in die vorigen Leben zwischen Tod und neuer Geburt zurückschaut?",
+      "leitsaetze_range": [
+        150,
+        152
+      ],
+      "current_navigation_id": "ga-026-toc-079",
+      "passage_id": "ga-026-heading-0074",
+      "current_start_offset": 0
+    },
+    {
+      "order": 25,
+      "doc_paragraph_indexes_zero_based": [
+        38
+      ],
+      "raw_source_paragraphs": [
+        "Was ist die Erde in Wirklichkeit im Makrokosmos?  (LS 153 bis 155) "
+      ],
+      "original_contents_label": "Was ist die Erde in Wirklichkeit im Makrokosmos? (LS 153 bis 155)",
+      "original_main_title": "Was ist die Erde in Wirklichkeit im Makrokosmos?",
+      "leitsaetze_range": [
+        153,
+        155
+      ],
+      "current_navigation_id": "ga-026-toc-081",
+      "passage_id": "ga-026-heading-0076",
+      "current_start_offset": 0
+    },
+    {
+      "order": 26,
+      "doc_paragraph_indexes_zero_based": [
+        39
+      ],
+      "raw_source_paragraphs": [
+        "Schlaf und Wachen im Lichte der vorangegangenen Betrachtungen.  (LS 156 bis 158) "
+      ],
+      "original_contents_label": "Schlaf und Wachen im Lichte der vorangegangenen Betrachtungen. (LS 156 bis 158)",
+      "original_main_title": "Schlaf und Wachen im Lichte der vorangegangenen Betrachtungen.",
+      "leitsaetze_range": [
+        156,
+        158
+      ],
+      "current_navigation_id": "ga-026-toc-083",
+      "passage_id": "ga-026-heading-0078",
+      "current_start_offset": 0
+    },
+    {
+      "order": 27,
+      "doc_paragraph_indexes_zero_based": [
+        40
+      ],
+      "raw_source_paragraphs": [
+        "Gnosis und Anthroposophie.  (LS 159 bis 161)"
+      ],
+      "original_contents_label": "Gnosis und Anthroposophie. (LS 159 bis 161)",
+      "original_main_title": "Gnosis und Anthroposophie.",
+      "leitsaetze_range": [
+        159,
+        161
+      ],
+      "current_navigation_id": "ga-026-toc-085",
+      "passage_id": "ga-026-heading-0079",
+      "current_start_offset": 0
+    },
+    {
+      "order": 28,
+      "doc_paragraph_indexes_zero_based": [
+        41
+      ],
+      "raw_source_paragraphs": [
+        "Die Freiheit des Menschen und das Michael-Zeitalter.  (LS 162 bis 164) "
+      ],
+      "original_contents_label": "Die Freiheit des Menschen und das Michael-Zeitalter. (LS 162 bis 164)",
+      "original_main_title": "Die Freiheit des Menschen und das Michael-Zeitalter.",
+      "leitsaetze_range": [
+        162,
+        164
+      ],
+      "current_navigation_id": "ga-026-toc-087",
+      "passage_id": "ga-026-heading-0081",
+      "current_start_offset": 0
+    },
+    {
+      "order": 29,
+      "doc_paragraph_indexes_zero_based": [
+        42
+      ],
+      "raw_source_paragraphs": [
+        "Wo ist der Mensch als denkendes und sich erinnerndes Wesen? (LS 165 bis 167) "
+      ],
+      "original_contents_label": "Wo ist der Mensch als denkendes und sich erinnerndes Wesen? (LS 165 bis 167)",
+      "original_main_title": "Wo ist der Mensch als denkendes und sich erinnerndes Wesen?",
+      "leitsaetze_range": [
+        165,
+        167
+      ],
+      "current_navigation_id": "ga-026-toc-089",
+      "passage_id": "ga-026-heading-0083",
+      "current_start_offset": 0
+    },
+    {
+      "order": 30,
+      "doc_paragraph_indexes_zero_based": [
+        43
+      ],
+      "raw_source_paragraphs": [
+        "Der Mensch in seiner makrokosmischen Wesenheit.  (LS 168 bis 170)"
+      ],
+      "original_contents_label": "Der Mensch in seiner makrokosmischen Wesenheit. (LS 168 bis 170)",
+      "original_main_title": "Der Mensch in seiner makrokosmischen Wesenheit.",
+      "leitsaetze_range": [
+        168,
+        170
+      ],
+      "current_navigation_id": "ga-026-toc-091",
+      "passage_id": "ga-026-heading-0084",
+      "current_start_offset": 0
+    },
+    {
+      "order": 31,
+      "doc_paragraph_indexes_zero_based": [
+        44
+      ],
+      "raw_source_paragraphs": [
+        "Des Menschen Sinnes- und Denkorganisation im Verhältnis zur Welt.  (LS 171 bis 173) "
+      ],
+      "original_contents_label": "Des Menschen Sinnes- und Denkorganisation im Verhältnis zur Welt. (LS 171 bis 173)",
+      "original_main_title": "Des Menschen Sinnes- und Denkorganisation im Verhältnis zur Welt.",
+      "leitsaetze_range": [
+        171,
+        173
+      ],
+      "current_navigation_id": "ga-026-toc-093",
+      "passage_id": "ga-026-heading-0086",
+      "current_start_offset": 0
+    },
+    {
+      "order": 32,
+      "doc_paragraph_indexes_zero_based": [
+        45
+      ],
+      "raw_source_paragraphs": [
+        "Gedächtnis und Gewissen.  (LS 174 bis 176) "
+      ],
+      "original_contents_label": "Gedächtnis und Gewissen. (LS 174 bis 176)",
+      "original_main_title": "Gedächtnis und Gewissen.",
+      "leitsaetze_range": [
+        174,
+        176
+      ],
+      "current_navigation_id": "ga-026-toc-095",
+      "passage_id": "ga-026-heading-0088",
+      "current_start_offset": 0
+    },
+    {
+      "order": 33,
+      "doc_paragraph_indexes_zero_based": [
+        46
+      ],
+      "raw_source_paragraphs": [
+        "Das scheinbare Erlöschen der Geist-Erkenntnis in der Neuzeit.  (LS 177 bis 179) "
+      ],
+      "original_contents_label": "Das scheinbare Erlöschen der Geist-Erkenntnis in der Neuzeit. (LS 177 bis 179)",
+      "original_main_title": "Das scheinbare Erlöschen der Geist-Erkenntnis in der Neuzeit.",
+      "leitsaetze_range": [
+        177,
+        179
+      ],
+      "current_navigation_id": "ga-026-toc-097",
+      "passage_id": "ga-026-heading-0090",
+      "current_start_offset": 0
+    },
+    {
+      "order": 34,
+      "doc_paragraph_indexes_zero_based": [
+        47
+      ],
+      "raw_source_paragraphs": [
+        "Die Erschütterungen beim Heraufkommen der Bewußtseinsseele.   (LS 180 bis 182) "
+      ],
+      "original_contents_label": "Die Erschütterungen beim Heraufkommen der Bewußtseinsseele. (LS 180 bis 182)",
+      "original_main_title": "Die Erschütterungen beim Heraufkommen der Bewußtseinsseele.",
+      "leitsaetze_range": [
+        180,
+        182
+      ],
+      "current_navigation_id": "ga-026-toc-099",
+      "passage_id": "ga-026-heading-0092",
+      "current_start_offset": 0
+    },
+    {
+      "order": 35,
+      "doc_paragraph_indexes_zero_based": [
+        48
+      ],
+      "raw_source_paragraphs": [
+        "Von der Natur zur Unter-Natur. (LS 183 bis 185) "
+      ],
+      "original_contents_label": "Von der Natur zur Unter-Natur. (LS 183 bis 185)",
+      "original_main_title": "Von der Natur zur Unter-Natur.",
+      "leitsaetze_range": [
+        183,
+        185
+      ],
+      "current_navigation_id": "ga-026-toc-101",
+      "passage_id": "ga-026-heading-0094",
+      "current_start_offset": 0
+    }
+  ],
+  "original_body_outline": [
+    {
+      "id": "ga-026-toc-001",
+      "title": "Vorbemerkung",
+      "level": 1,
+      "passage_id": "ga-026-heading-0002",
+      "start_offset": 2494,
+      "parent_id": null,
+      "source_evidence": "Original contents paragraph 12 names Vorbemerkung; actual author-body heading DOC paragraphs 51–52 begins at current UTF16 offset 2494",
+      "end_offset": 2564,
+      "heading_text": "Anthroposophische Leitsätze\n\nals Anregung vom Goetheanum herausgegeben"
+    },
+    {
+      "id": "ga-026-division-leitsaetze-1-61",
+      "title": "Leitsätze 1-61",
+      "level": 1,
+      "passage_id": "ga-026-doc-heading-1",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original Inhaltsverzeichnis paragraph 13; body original group headings paragraphs 65–225"
+    },
+    {
+      "id": "ga-026-toc-003",
+      "title": "Leitsätze Nr. 1 bis 3",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-1",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [65]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-004",
+      "title": "Leitsätze Nr. 4 und 5",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-2",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [72]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-005",
+      "title": "Leitsätze Nr. 6 und 7",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-3",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [78]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-006",
+      "title": "Leitsätze Nr. 8 bis 10",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-4",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [84]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-007",
+      "title": "Leitsätze Nr. 11 bis 13",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-5",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [91]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-008",
+      "title": "Leitsätze Nr. 14 bis 16",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-6",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [101]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-009",
+      "title": "Leitsätze Nr. 17 bis 19",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-7",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [107]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-010",
+      "title": "Leitsätze Nr. 20 bis 22",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-8",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [114]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-011",
+      "title": "Leitsätze Nr. 23 bis 25",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-9",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [121]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-012",
+      "title": "Leitsätze Nr. 26 bis 28",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-10",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [128]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-013",
+      "title": "Leitsätze Nr. 29 bis 31",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-11",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [135]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-014",
+      "title": "Leitsätze Nr. 32 bis 34",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-12",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [142]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-015",
+      "title": "Leitsätze Nr. 35 bis 37",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-13",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [149]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-016",
+      "title": "Zu den vorangegangenen Leitsätzen über die Bildnatur des Menschen",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-14",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [156]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-017",
+      "title": "Leitsätze Nr. 38 bis 40",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-15",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [174]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-018",
+      "title": "Leitsätze Nr. 41 bis 43",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-16",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [181]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-019",
+      "title": "Leitsätze Nr. 44 bis 46",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-17",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [188]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-020",
+      "title": "Leitsätze Nr. 47 bis 49",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-18",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [195]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-021",
+      "title": "Leitsätze Nr. 50 bis 52",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-19",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [202]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-022",
+      "title": "Leitsätze Nr. 53 bis 55",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-20",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [210]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-023",
+      "title": "Leitsätze Nr. 56 bis 58",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-21",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [217]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-024",
+      "title": "Leitsätze Nr. 59 bis 61",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-22",
+      "start_offset": 0,
+      "parent_id": "ga-026-division-leitsaetze-1-61",
+      "source_evidence": "Original DOC body paragraphs [224]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-025",
+      "title": "Etwas vom Geist-Verstehen und Schicksals-Erleben",
+      "level": 1,
+      "passage_id": "ga-026-heading-0022",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-026",
+      "title": "Leitsätze Nr. 62 bis 65",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-23",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-025",
+      "source_evidence": "Original DOC body paragraphs [256]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-027",
+      "title": "Leitsätze Nr. 66 bis 68",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-24",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-025",
+      "source_evidence": "Original DOC body paragraphs [264]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-028",
+      "title": "Geistige Weltbereiche und menschliche Selbsterkenntnis",
+      "level": 1,
+      "passage_id": "ga-026-heading-0025",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-029",
+      "title": "Leitsätze Nr. 69 bis 71",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-25",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-028",
+      "source_evidence": "Original DOC body paragraphs [287]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-030",
+      "title": "Leitsätze Nr. 72 bis 75",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-26",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-028",
+      "source_evidence": "Original DOC body paragraphs [294]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-031",
+      "title": "Wie die Leitsätze anzuwenden sind",
+      "level": 1,
+      "passage_id": "ga-026-heading-0028",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-032",
+      "title": "Leitsätze Nr. 76 bis 78",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-27",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-031",
+      "source_evidence": "Original DOC body paragraphs [313]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-033",
+      "title": "Im Anbruch des Michael-Zeitalters",
+      "level": 1,
+      "passage_id": "ga-026-heading-0030",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-034",
+      "title": "Leitsätze Nr. 79 bis 81",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-28",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-033",
+      "source_evidence": "Original DOC body paragraphs [332]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-035",
+      "title": "Leitsätze Nr. 82 bis 84",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-29",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-033",
+      "source_evidence": "Original DOC body paragraphs [339]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-036",
+      "title": "Die menschliche Seelenverfassung vor dem Anbruch des Michael-Zeitalters",
+      "level": 1,
+      "passage_id": "ga-026-heading-0033",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-037",
+      "title": "Leitsätze Nr. 85 bis 87",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-30",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-036",
+      "source_evidence": "Original DOC body paragraphs [356]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-038",
+      "title": "Aphorismen",
+      "level": 1,
+      "passage_id": "ga-026-heading-0035",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-039",
+      "title": "Leitsätze Nr. 88 bis 90",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-31",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-038",
+      "source_evidence": "Original DOC body paragraphs [381]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-040",
+      "title": "Leitsätze Nr. 91 bis 93",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-32",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-038",
+      "source_evidence": "Original DOC body paragraphs [388]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-041",
+      "title": "Leitsätze Nr. 94 bis 96",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-33",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-038",
+      "source_evidence": "Original DOC body paragraphs [395]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-042",
+      "title": "Leitsätze Nr. 97 bis 99",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-34",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-038",
+      "source_evidence": "Original DOC body paragraphs [402]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-043",
+      "title": "Leitsätze Nr. 100 bis 102",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-35",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-038",
+      "source_evidence": "Original DOC body paragraphs [409]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-044",
+      "title": "Der vor-michaelische und der Michaels-Weg",
+      "level": 1,
+      "passage_id": "ga-026-heading-0041",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-045",
+      "title": "Leitsätze Nr. 103 bis 105",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-36",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-044",
+      "source_evidence": "Original DOC body paragraphs [444]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-046",
+      "title": "Michaels Aufgabe in der Ahriman-Sphäre.",
+      "level": 1,
+      "passage_id": "ga-026-doc-heading-37",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original DOC body paragraphs [452]; printed dateline paragraph 453 is not a numbered title"
+    },
+    {
+      "id": "ga-026-toc-047",
+      "title": "Leitsätze Nr. 106 bis 108",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-38",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-046",
+      "source_evidence": "Original DOC body paragraphs [479]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-048",
+      "title": "Michaels Erfahrungen und Erlebnisse während der Erfüllung seiner kosmischen Mission.",
+      "level": 1,
+      "passage_id": "ga-026-doc-heading-39",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original DOC body paragraphs [486, 487]; printed dateline paragraph 488 is not a numbered title"
+    },
+    {
+      "id": "ga-026-toc-049",
+      "title": "Leitsätze Nr. 109 bis 111",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-40",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-048",
+      "source_evidence": "Original DOC body paragraphs [507]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-050",
+      "title": "Menschheitszukunft und Michael-Tätigkeit.",
+      "level": 1,
+      "passage_id": "ga-026-doc-heading-41",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original DOC body paragraphs [515]; printed dateline paragraph 516 is not a numbered title"
+    },
+    {
+      "id": "ga-026-toc-051",
+      "title": "Leitsätze Nr. 112 bis 114",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-42",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-050",
+      "source_evidence": "Original DOC body paragraphs [537]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-052",
+      "title": "Das Michael-Christus-Erlebnis des Menschen.",
+      "level": 1,
+      "passage_id": "ga-026-doc-heading-43",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original DOC body paragraphs [544]; printed dateline paragraph 545 is not a numbered title"
+    },
+    {
+      "id": "ga-026-toc-053",
+      "title": "Leitsätze Nr. 115 bis 117",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-44",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-052",
+      "source_evidence": "Original DOC body paragraphs [567]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-054",
+      "title": "Michaels Mission im Weltenalter der Menschen-Freiheit.",
+      "level": 1,
+      "passage_id": "ga-026-doc-heading-45",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original DOC body paragraphs [575]; printed dateline paragraph 576 is not a numbered title"
+    },
+    {
+      "id": "ga-026-toc-055",
+      "title": "Leitsätze Nr. 118 bis 120",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-46",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-054",
+      "source_evidence": "Original DOC body paragraphs [599]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-056",
+      "title": "Die Weltgedanken im Wirken Michaels und im Wirken Ahrimans.",
+      "level": 1,
+      "passage_id": "ga-026-doc-heading-47",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original DOC body paragraphs [606]; printed dateline paragraph 607 is not a numbered title"
+    },
+    {
+      "id": "ga-026-toc-057",
+      "title": "Leitsätze Nr. 121 bis 123",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-48",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-056",
+      "source_evidence": "Original DOC body paragraphs [626]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-058",
+      "title": "Erste Betrachtung: Vor den Toren der Bewußtseinsseele. Wie Michael seine Erdenmission durch Besiegung Luzifers überirdisch vorbereitet.",
+      "level": 1,
+      "passage_id": "ga-026-heading-0057",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original DOC consecutive heading paragraphs 633–634 (one original essay); consecutive centered bold subtitle is part of this same original essay title",
+      "end_offset": 80,
+      "heading_text": "Wie Michael seine Erdenmission durch Besiegung Luzifers überirdisch vorbereitet."
+    },
+    {
+      "id": "ga-026-toc-060",
+      "title": "Leitsätze Nr. 124 bis 126",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-49",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-058",
+      "source_evidence": "Original DOC body paragraphs [675]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-061",
+      "title": "Zweite Betrachtung: Wie die Michael-Kräfte in die erste Entfaltung der Bewußtseinsseele wirken.",
+      "level": 1,
+      "passage_id": "ga-026-heading-0059",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original DOC paragraph 683, unnumbered original heading; consecutive centered bold subtitle is part of this same original essay title",
+      "end_offset": 75,
+      "heading_text": "Wie die Michael-Kräfte in die erste Entfaltung der Bewußtseinsseele wirken."
+    },
+    {
+      "id": "ga-026-toc-063",
+      "title": "Leitsätze Nr. 127 bis 130",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-51",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-061",
+      "source_evidence": "Original DOC body paragraphs [709]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-064",
+      "title": "Fortsetzung der zweiten Betrachtung: Hemmung und Förderung der Michael-Kräfte im aufkommenden Zeitalter der Bewußtseinsseele.",
+      "level": 1,
+      "passage_id": "ga-026-heading-0060",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original DOC paragraph 717, continuation of second Betrachtung with its own original source heading; consecutive centered bold subtitle is part of this same original essay title",
+      "end_offset": 88,
+      "heading_text": "Hemmung und Förderung der Michael-Kräfte im aufkommenden Zeitalter der Bewußtseinsseele."
+    },
+    {
+      "id": "ga-026-toc-066",
+      "title": "Leitsätze Nr. 131 bis 133",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-53",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-064",
+      "source_evidence": "Original DOC body paragraphs [741]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-067",
+      "title": "Dritte Betrachtung: Michaels Leid über die Menschheitsentwicklung vor der Zeit seiner Erdenwirksamkeit.",
+      "level": 1,
+      "passage_id": "ga-026-doc-heading-54",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original DOC body paragraphs [748, 749]; printed dateline paragraph 750 is not a numbered title"
+    },
+    {
+      "id": "ga-026-toc-068",
+      "title": "Leitsätze Nr. 134 bis 136",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-55",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-067",
+      "source_evidence": "Original DOC body paragraphs [774]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-069",
+      "title": "Weihnachtsbetrachtung: Das Logos-Mysterium.",
+      "level": 1,
+      "passage_id": "ga-026-heading-0065",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-070",
+      "title": "Leitsätze Nr. 137 bis 139",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-56",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-069",
+      "source_evidence": "Original DOC body paragraphs [815]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-071",
+      "title": "Himmelsgeschichte. Mythologische Geschichte. Erdgeschichte. Mysterium von Golgatha.",
+      "level": 1,
+      "passage_id": "ga-026-heading-0067",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition; consecutive centered bold subtitle is part of this same original essay title",
+      "end_offset": 23,
+      "heading_text": "Mysterium von Golgatha."
+    },
+    {
+      "id": "ga-026-toc-073",
+      "title": "Leitsätze Nr. 140 bis 143",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-57",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-071",
+      "source_evidence": "Original DOC body paragraphs [866]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-074",
+      "title": "Was sich offenbart, wenn man in die wiederholten Erdenleben zurückschaut.",
+      "level": 1,
+      "passage_id": "ga-026-doc-heading-57",
+      "start_offset": 969,
+      "parent_id": null,
+      "source_evidence": "Original DOC paragraph 875, centered bold essay heading; original contents paragraph 33",
+      "end_offset": 1042
+    },
+    {
+      "id": "ga-026-toc-075",
+      "title": "Leitsätze Nr. 144 bis 146",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-58",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-074",
+      "source_evidence": "Original DOC body paragraphs [901]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-076",
+      "title": "Erster Teil der Betrachtung: Was offenbart sich, wenn man in die vorigen Leben zwischen Tod und neuer Geburt zurückschaut?",
+      "level": 1,
+      "passage_id": "ga-026-heading-0070",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original DOC paragraph 908 Heading1; consecutive centered bold subtitle is part of this same original essay title",
+      "end_offset": 94,
+      "heading_text": "Was offenbart sich, wenn man in die vorigen Leben\n\nzwischen Tod und neuer Geburt zurückschaut?"
+    },
+    {
+      "id": "ga-026-toc-078",
+      "title": "Leitsätze Nr. 147 bis 149",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-59",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-076",
+      "source_evidence": "Original DOC body paragraphs [931]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-079",
+      "title": "Zweiter Teil der Betrachtung: Was offenbart sich, wenn man in die vorigen Leben zwischen Tod und neuer Geburt zurückschaut?",
+      "level": 1,
+      "passage_id": "ga-026-heading-0074",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original DOC adjacent headings paragraphs 939–941; empty headings are title lines of a single original essay"
+    },
+    {
+      "id": "ga-026-toc-080",
+      "title": "Leitsätze Nr. 150 bis 152",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-60",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-079",
+      "source_evidence": "Original DOC body paragraphs [966]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-081",
+      "title": "Was ist die Erde in Wirklichkeit im Makrokosmos?",
+      "level": 1,
+      "passage_id": "ga-026-heading-0076",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-082",
+      "title": "Leitsätze Nr. 153 bis 155",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-61",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-081",
+      "source_evidence": "Original DOC body paragraphs [1000]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-083",
+      "title": "Schlaf und Wachen im Lichte der vorangegangenen Betrachtungen.",
+      "level": 1,
+      "passage_id": "ga-026-heading-0078",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-084",
+      "title": "Leitsätze Nr. 156 bis 158",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-62",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-083",
+      "source_evidence": "Original DOC body paragraphs [1027]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-085",
+      "title": "Gnosis und Anthroposophie.",
+      "level": 1,
+      "passage_id": "ga-026-heading-0079",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-086",
+      "title": "Leitsätze Nr. 159 bis 161",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-63",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-085",
+      "source_evidence": "Original DOC body paragraphs [1060]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-087",
+      "title": "Die Freiheit des Menschen und das Michael-Zeitalter.",
+      "level": 1,
+      "passage_id": "ga-026-heading-0081",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-088",
+      "title": "Leitsätze Nr. 162 bis 164",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-64",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-087",
+      "source_evidence": "Original DOC body paragraphs [1094]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-089",
+      "title": "Wo ist der Mensch als denkendes und sich erinnerndes Wesen?",
+      "level": 1,
+      "passage_id": "ga-026-heading-0083",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-090",
+      "title": "Leitsätze Nr. 165 bis 167",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-65",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-089",
+      "source_evidence": "Original DOC body paragraphs [1128]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-091",
+      "title": "Der Mensch in seiner makrokosmischen Wesenheit.",
+      "level": 1,
+      "passage_id": "ga-026-heading-0084",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-092",
+      "title": "Leitsätze Nr. 168 bis 170",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-66",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-091",
+      "source_evidence": "Original DOC body paragraphs [1168]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-093",
+      "title": "Des Menschen Sinnes- und Denkorganisation im Verhältnis zur Welt.",
+      "level": 1,
+      "passage_id": "ga-026-heading-0086",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-094",
+      "title": "Leitsätze Nr. 171 bis 173",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-67",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-093",
+      "source_evidence": "Original DOC body paragraphs [1202]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-095",
+      "title": "Gedächtnis und Gewissen.",
+      "level": 1,
+      "passage_id": "ga-026-heading-0088",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-096",
+      "title": "Leitsätze Nr. 174 bis 176",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-68",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-095",
+      "source_evidence": "Original DOC body paragraphs [1236]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-097",
+      "title": "Das scheinbare Erlöschen der Geist-Erkenntnis in der Neuzeit.",
+      "level": 1,
+      "passage_id": "ga-026-heading-0090",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-098",
+      "title": "Leitsätze Nr. 177 bis 179",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-69",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-097",
+      "source_evidence": "Original DOC body paragraphs [1268]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-099",
+      "title": "Die geschichtlichen Erschütterungen beim Heraufkommen der Bewußtseinsseele.",
+      "level": 1,
+      "passage_id": "ga-026-heading-0092",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-100",
+      "title": "Leitsätze Nr. 180 bis 182",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-70",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-099",
+      "source_evidence": "Original DOC body paragraphs [1299]; original contents assigns following Leitsätze to preceding essay"
+    },
+    {
+      "id": "ga-026-toc-101",
+      "title": "Von der Natur zur Unter-Natur.",
+      "level": 1,
+      "passage_id": "ga-026-heading-0094",
+      "start_offset": 0,
+      "parent_id": null,
+      "source_evidence": "Original EPUB body heading / retained source edition"
+    },
+    {
+      "id": "ga-026-toc-102",
+      "title": "Leitsätze Nr. 183 bis 185",
+      "level": 2,
+      "passage_id": "ga-026-doc-heading-71",
+      "start_offset": 0,
+      "parent_id": "ga-026-toc-101",
+      "source_evidence": "Original DOC body paragraphs [1326]; original contents assigns following Leitsätze to preceding essay"
+    }
+  ],
+  "preserved_passage_plan": {
+    "ga-026-heading-0002": {
+      "text_sha256": "d2681ec140aca0b3577ee591ea6a33d775d071b25f03c5d915b221da495b020e",
+      "source_text_sha256": "77b25ea158eba3321edd8dff8f2fc3ddf6475f92c6306e2cd4dcb313dfd7c833",
+      "reading_blocks": [
+        {
+          "kind": "prose",
+          "start_offset": 0,
+          "end_offset": 2494
+        },
+        {
+          "kind": "heading",
+          "level": 1,
+          "start_offset": 2494,
+          "end_offset": 2564
+        },
+        {
+          "kind": "prose",
+          "start_offset": 2564,
+          "end_offset": 7276
+        }
+      ]
+    },
+    "ga-026-doc-heading-1": {
+      "text_sha256": "a8eeca570fcd1c40f1ae580a4e2d8237e7655ddddb2619d47165306036ff4370",
+      "source_text_sha256": "3340f6a4aae618fcddf4d8ab784e3fcd42880a9b388ab9323308f9aa73399583",
+      "source_dateline": "(17. Februar 1924)"
+    },
+    "ga-026-doc-heading-2": {
+      "text_sha256": "a834b7783806d71c1c0c3d038e0ce77b188c2f9af127f88f4fe2c2abda4cd797",
+      "source_text_sha256": "a834b7783806d71c1c0c3d038e0ce77b188c2f9af127f88f4fe2c2abda4cd797",
+      "source_dateline": "(24. Februar 1924)"
+    },
+    "ga-026-doc-heading-3": {
+      "text_sha256": "64772dbdaec74f024d9e9036640d1a1501d0373d9b4206328ddad7a6b7ad4e3d",
+      "source_text_sha256": "e0aa1678a1619ef74ec666fb74a66b71611f8857e6fb1404b4527110003f136e",
+      "source_dateline": "(2. März 1924)"
+    },
+    "ga-026-doc-heading-4": {
+      "text_sha256": "165958b74a060ed14fc9aad66fa12c46a01f2c3bfc7a83e1a9f8a116cbf4879f",
+      "source_text_sha256": "87766b9560115945771fec54bbddbc16350dd3c39a238388dadfba7cda44f342",
+      "source_dateline": "(9. März 1924)"
+    },
+    "ga-026-doc-heading-5": {
+      "text_sha256": "becbad44d268b2ac8b4dfcade3050f138c41bd2edca5c3a6c484653e7963fd70",
+      "source_text_sha256": "9356e589e983e0f43a3b5831e309fb7fa1844d73557b58b5a78f8950ecdb40dc",
+      "source_dateline": "(16. März 1924)"
+    },
+    "ga-026-doc-heading-6": {
+      "text_sha256": "95d2230e48901ffe4f718bfabdcec7daafc116801892a9a45a884d899aec03c3",
+      "source_text_sha256": "391af6eb6c2227a99e1a0273631a35226fa781b74f2cd7394fce131dbaf8ffd1",
+      "source_dateline": "(23. März 1924)"
+    },
+    "ga-026-doc-heading-7": {
+      "text_sha256": "c9fe5751c4fb39367c59126c2cdce501e712c6100788ddf8395676fa425d49d2",
+      "source_text_sha256": "d5a4da42b23ff594c47d328ca6a44260695c92f6aa57847ce07794ad289abcb8",
+      "source_dateline": "(30. März 1924)"
+    },
+    "ga-026-doc-heading-8": {
+      "text_sha256": "ca82d165944178ef362dc412ad7ade6ad331c867ee75a76148e138e100ba251b",
+      "source_text_sha256": "b35007134fbd81dfcf733c4e3ca3058c109618372df03f156003f19b5b864ced",
+      "source_dateline": "(6. April 1924)"
+    },
+    "ga-026-doc-heading-9": {
+      "text_sha256": "8168878130f86803f05802fd471389cb8fb86e1dea4401667b0767563364558d",
+      "source_text_sha256": "cd2a6a72e6d6d0d4d56992a06f1932c37c4c2bc395bab8ede36caab7cf03e236",
+      "source_dateline": "(13. April 1924)"
+    },
+    "ga-026-doc-heading-10": {
+      "text_sha256": "e0eecd4db4ab38b2b6ca5d88f6d1bfa58f41991899951ea6cae618c4780626e4",
+      "source_text_sha256": "d44166522c96e07c5a739708f3ce6a6c11d9cbb9a908ad23ef9f0ab2c6a6ef08",
+      "source_dateline": "(20. April 1924)"
+    },
+    "ga-026-doc-heading-11": {
+      "text_sha256": "c3b832e138dd02f956825a62ffbe004253da1f2fc60328a3ca947bef0fc050b9",
+      "source_text_sha256": "de46a792a06fdb5ba1255e01547ae156e48e75aea9fd7121ae4d126f664def3f",
+      "source_dateline": "(27. April 1924)"
+    },
+    "ga-026-doc-heading-12": {
+      "text_sha256": "9baa6699d80a6294f394a740e6a084481009bd73c22cfd45f00067612dc8bd59",
+      "source_text_sha256": "b1a89bf1a1a0e36cf7eebc9c1ac4db0e759d4ffa80bdccc02253f7a5ae7ffcbe",
+      "source_dateline": "(4. Mai 1924)"
+    },
+    "ga-026-doc-heading-13": {
+      "text_sha256": "73e0cd57ffa8df2c191ce297246956d2382a0465530061c0a832daf9c3cd13be",
+      "source_text_sha256": "b667342fb7a8b98632d67a393167efbdde76258d33c57a53b692e92ac2221bec",
+      "source_dateline": "(11. Mai 1924)"
+    },
+    "ga-026-doc-heading-14": {
+      "text_sha256": "9e9e5103beb91812f2b2a43014541481bf2db1333fbe4cf7312117890ec56858",
+      "source_text_sha256": "c1027cf24fb8ebce217e34ef1c597764e4ba0cbe65df54f252220ec9f8c05199",
+      "source_dateline": "(18. Mai 1924)"
+    },
+    "ga-026-doc-heading-15": {
+      "text_sha256": "a03fd39fe023c682a6bf10a19de257df0a9343e4a0868ad752ef22ae84101533",
+      "source_text_sha256": "4b1738f3dd4c1f2c239896bd81fe897d99a5811e242f1e62427749599b9fca91",
+      "source_dateline": "(18. Mai 1924)"
+    },
+    "ga-026-doc-heading-16": {
+      "text_sha256": "f6eb96fb16508a63173ee67c18d1c2b26017b3f5eb09dd1a4560b0282b3a8790",
+      "source_text_sha256": "b906e69e05100ac65feb9c3a67f27b89cb3f6bdfb25d9243edef5c3de82e4ebf",
+      "source_dateline": "(25. Mai 1924)"
+    },
+    "ga-026-doc-heading-17": {
+      "text_sha256": "e7bda44208995a4d4f836a8f8844f17f6f9efcd28c27d7e7a82953f6080a2c21",
+      "source_text_sha256": "e41da50ed6ef40cec2694715d8743f7b24d4c0ddf2b4d4efc5adea0ce239b451",
+      "source_dateline": "(1. Juni 1924)"
+    },
+    "ga-026-doc-heading-18": {
+      "text_sha256": "e6a66735c1ea6449b3a815bb18c5aa4ed4f6008bff7b94c2d08316f8f711a75c",
+      "source_text_sha256": "fb82539c84b87abe36a7dbe358ed5b1136ff3aefb37cd6cb773942e1d5edf1df",
+      "source_dateline": "(8. Juni 1924)"
+    },
+    "ga-026-doc-heading-19": {
+      "text_sha256": "003c8c88ff0c1082d4e417a3be28b0ba8aea0da2e96c7961cce2962a641d4d3a",
+      "source_text_sha256": "177b1561c146da3c4fb95928cebfe688d0e4c5b831255f0bd029a9a7f12d5d64",
+      "source_dateline": "(15. Juni 1924)"
+    },
+    "ga-026-doc-heading-20": {
+      "text_sha256": "8c570954908b6aef602105bdf48ba507bc494fbec805b6d2e72c2f5a985a5e82",
+      "source_text_sha256": "5e3822bdb895aea71dbddea3fd10141eab6142b29ca3b99c58296f12f50206ba",
+      "source_dateline": "(22. Juni 1924)"
+    },
+    "ga-026-doc-heading-21": {
+      "text_sha256": "2ee43c18753c91c562453d71209952dd4a350e0f7d081eb3f0d85a945cbcf9f2",
+      "source_text_sha256": "cf4c4e68271bb7360e388876e85283c09364510584a22cfa7d3dd67a7620e6b0",
+      "source_dateline": "(29. Juni 1924)"
+    },
+    "ga-026-doc-heading-22": {
+      "text_sha256": "42ed387f8e796338a1c27a0642e0581512962c37f92ad08b08afaf9b8c51c161",
+      "source_text_sha256": "fc688dc702cbcad3f3d89c49f4bf717079feba6c35c0d28b2160bdbbbbb02d92",
+      "source_dateline": "(6. Juli 1924)"
+    },
+    "ga-026-heading-0022": {
+      "text_sha256": "6a4ca9b9fc2c161d0bdb1a8cda05d32cd78a06b2715de5be5a96ce9ccfbb2ba7",
+      "source_text_sha256": "9d1640109cc00aa98131e933e679f24d7248eeef305189be983a449b183f5377"
+    },
+    "ga-026-doc-heading-23": {
+      "text_sha256": "9d5414ade762ecea5163c043eedd1bf905c5fab46aa5ff49493c66e3de24350c",
+      "source_text_sha256": "9d5414ade762ecea5163c043eedd1bf905c5fab46aa5ff49493c66e3de24350c",
+      "source_dateline": "(13. Juli 1924)"
+    },
+    "ga-026-doc-heading-24": {
+      "text_sha256": "bfcf4f7fb183d15d6327c2b1e308a2f8e143cc29741bcec5a42f95996f2b2d6f",
+      "source_text_sha256": "0d8f62e5d596e2b7f5070d8c8a65e9701f7f2829c27db6bf90fb535973f1e8a8",
+      "source_dateline": "(20. Juli 1924)"
+    },
+    "ga-026-heading-0025": {
+      "text_sha256": "b1fd0a6b1605344389d7db1f69375abdfa4605296dac8c0a0a59141152c7622e",
+      "source_text_sha256": "b6f3be64487806e1bb880f8a1f1a784eb9cabd1a5dca63e3f5902d9233f5158d"
+    },
+    "ga-026-doc-heading-25": {
+      "text_sha256": "3524b7b5a53cc41ebeaf4f8afa07e882c976ea846c4146e4f6a06e3d375a787e",
+      "source_text_sha256": "9889f1d185540ed57ea35870c1273960363103015b5fcc4dfcf1f3e69e565d4f",
+      "source_dateline": "(27. Juli 1924)"
+    },
+    "ga-026-doc-heading-26": {
+      "text_sha256": "700b50735a62c9acc6202059c905c1271a447d712e6a2e64f2c3e023ab9b7cf3",
+      "source_text_sha256": "9a6461bb61a24482eabde75561f81da8ba7bff0a768abd7bf43e8b2ec4edf43f",
+      "source_dateline": "(3. August 1924)"
+    },
+    "ga-026-heading-0028": {
+      "text_sha256": "20b240025992f56993dc96df8709d1e69c0eae5e25e676efc78a3b26418ac5be",
+      "source_text_sha256": "2340cf26ec1cf2da86f5bfbcb0b3e31144ee6a4f73562a6922c622f440aaca05"
+    },
+    "ga-026-doc-heading-27": {
+      "text_sha256": "f6f874b45e83df759d6902c699358b88ec1449b5b3f103a5cb633670605df91f",
+      "source_text_sha256": "f0ebbc58ad715022c6631ce46f58926a8529be7a577f60dcce634524dc2f831d",
+      "source_dateline": "(10. August 1924)"
+    },
+    "ga-026-heading-0030": {
+      "text_sha256": "05cfbcc6d098f557ce46689129695f36e21933f6a7ab0eb9787186e36e4aaec4",
+      "source_text_sha256": "51a3dac1a67413899c87fa5a825531903ac954a250694a643f78404bac18bd84"
+    },
+    "ga-026-doc-heading-28": {
+      "text_sha256": "d988964827ae0daaf197f3ddc213dcba251e376f33989e3a03f90e816cf963fd",
+      "source_text_sha256": "5d80360852cadd2b24e6ad19c2182eca873155eb740751d7ef172e72894912c6",
+      "source_dateline": "(17. August 1924)"
+    },
+    "ga-026-doc-heading-29": {
+      "text_sha256": "bd200ad17d1418d3d8be664bb69acb48488535480e265bde89428e49b60c3be9",
+      "source_text_sha256": "bd200ad17d1418d3d8be664bb69acb48488535480e265bde89428e49b60c3be9",
+      "source_dateline": "(24. August 1924)"
+    },
+    "ga-026-heading-0033": {
+      "text_sha256": "79c60f9b4fef2047bfdec4da0aa1fac05a493f3075098cd240baed94119f8c3b",
+      "source_text_sha256": "1bcf991fbf003e3090cbe9d5f56e49d3ad2aadf920158ea980df51a6aa83e62a"
+    },
+    "ga-026-doc-heading-30": {
+      "text_sha256": "394b18767d933d118f6dfe0f749b1cfd83ba671c4aa47dd1defda02c430b20f3",
+      "source_text_sha256": "f230faf465335faf7bd7fdbf72b34ae267405566d90cf3296dd61424d72325a2",
+      "source_dateline": "(31. August 1924)"
+    },
+    "ga-026-heading-0035": {
+      "text_sha256": "21e9e4411c86b0178ef715740fefd55116381ad8a56ac899f97f920a9989ab96",
+      "source_text_sha256": "4f9dda659c04308173e7d508ee326e8dc18778a2f30ff5b16fadc9a01faf2660"
+    },
+    "ga-026-doc-heading-31": {
+      "text_sha256": "c9db5a65ceadba1427851011f5f019fe31ec1bf1178a2f3437c6c3c533ae0f55",
+      "source_text_sha256": "b68d3690fda092971ef3987edc04f1eb40c06faa87e27f1a498aa58c08005f77",
+      "source_dateline": "(7. September 1924)"
+    },
+    "ga-026-doc-heading-32": {
+      "text_sha256": "efcb0122c432db25eb4e118642424bb6a317467d2285b6982d8208f762e050b5",
+      "source_text_sha256": "efcb0122c432db25eb4e118642424bb6a317467d2285b6982d8208f762e050b5",
+      "source_dateline": "(14. September 1924)"
+    },
+    "ga-026-doc-heading-33": {
+      "text_sha256": "080f28142eee8afcac9a2d08d6b08bc98ff6fd5d24140225ed65a5721e5a6028",
+      "source_text_sha256": "7b27010a81a51929d8a6d63523b8b1b3849468959b80afd4241736c313c9fc64",
+      "source_dateline": "(21. September 1924)"
+    },
+    "ga-026-doc-heading-34": {
+      "text_sha256": "a4795c934fe158081eae5901cab84ec795c261323c7ec8a1ec292cb37a0c02e2",
+      "source_text_sha256": "da1051d87df35311eeea66c1861b2aff397482b4f7b92abae5290e254e4320db",
+      "source_dateline": "(28. September 1924)"
+    },
+    "ga-026-doc-heading-35": {
+      "text_sha256": "5ee67c666f0a41244e8a38624a7eaf345f107e6f19ee5807a3c6acd15fef584e",
+      "source_text_sha256": "5ee67c666f0a41244e8a38624a7eaf345f107e6f19ee5807a3c6acd15fef584e",
+      "source_dateline": "(5. Oktober 1924)"
+    },
+    "ga-026-heading-0041": {
+      "text_sha256": "9ef274352242b4540dfec594e0af5a4bda815e6155ac07e2be52185e5db0bea0",
+      "source_text_sha256": "36da1fc04bb102cd3959380cb54b7b9cc1ba21984bce3b8f03b104e32075af37"
+    },
+    "ga-026-doc-heading-36": {
+      "text_sha256": "fad37f32ac7f1e39c4533e3df4572b4666ffb60958dcc9f2d7288e98c3f3566c",
+      "source_text_sha256": "0185226ae31012dbe13a8e109137d300cb4b4ca2c6e6e8c8406a867ea922f651",
+      "source_dateline": "(12. Oktober 1924)"
+    },
+    "ga-026-doc-heading-37": {
+      "text_sha256": "9235ed5e9427658118733b60f5fa65d83e6e870078a715e2bc668aa44955d5d2",
+      "source_text_sha256": "c085e1c0572a1fdd34ddaf607c979ceac858125f058a5a7824679be67e1ff3e5",
+      "source_dateline": "(Goetheanum, 10. Oktober 1924)"
+    },
+    "ga-026-doc-heading-38": {
+      "text_sha256": "1e3544180b8870dd5642f01bf5f5e255e3771208d2ab671e9078449c3821644b",
+      "source_text_sha256": "8d8d93dcb297ebf5d76f0baebd016027728899ba4b14720bd118c43ed4ab6801",
+      "source_dateline": "(19. Oktober 1924)"
+    },
+    "ga-026-doc-heading-39": {
+      "text_sha256": "70d76638f603ad68c522729f0422bfb57190e19b37bdb4aa119b9627c17d0665",
+      "source_text_sha256": "4c62d47b255cde78e6a9086612ce19a2e6d7f523e94332920d723c4f7303ff83",
+      "source_dateline": "(Goetheanum, 19. Oktober 1924)"
+    },
+    "ga-026-doc-heading-40": {
+      "text_sha256": "26d653fd2ab20287a29b7b8f6860454cd067f1d75b303cb65ae1883033b220b0",
+      "source_text_sha256": "26d653fd2ab20287a29b7b8f6860454cd067f1d75b303cb65ae1883033b220b0",
+      "source_dateline": "(26. Oktober 1924)"
+    },
+    "ga-026-doc-heading-41": {
+      "text_sha256": "ca86283558fae223953f40ba94ca7e19553956fb71a2cccd4cd43372a202ca6e",
+      "source_text_sha256": "6f21d76377872833fe23bf903c5830d94e3b7f514386db7fc79a2d7e9a9b0e57",
+      "source_dateline": "(Goetheanum, 25. Oktober 1924)"
+    },
+    "ga-026-doc-heading-42": {
+      "text_sha256": "da9871632505c2230a3117ff462afe571ae34e1238f564c9705edc429b0a7009",
+      "source_text_sha256": "802eb132e7c6cfe45e52327ff00e3bd7120d96120fcd65e2255ae2064f2facb2",
+      "source_dateline": "(2. November 1924)"
+    },
+    "ga-026-doc-heading-43": {
+      "text_sha256": "48ec4faa1c4e88b80fb1a3c33ed4bbe555981770cfdec00243743d8492dd6c9b",
+      "source_text_sha256": "45f92f869ff9ea72eff4d360fc5ad2f3fc598cb2c3755d7e9e2155aff3a0ba01",
+      "source_dateline": "(Goetheanum, 2. November 1924)"
+    },
+    "ga-026-doc-heading-44": {
+      "text_sha256": "3a17ecabfdca6b708bd8c4ad5d705008bf4fcfe854b4f64b5b735c1e174597f9",
+      "source_text_sha256": "8a1f46d7cfc83f9b094077adf653ef1a69ed14161958bac6d169a38c5811f872",
+      "source_dateline": "(9. November 1924)"
+    },
+    "ga-026-doc-heading-45": {
+      "text_sha256": "66dc7e6c263e7472859fc5429ee6622727b36481f3df35ebd0bf9ad37045f955",
+      "source_text_sha256": "52fbef1d6fad55c7e0c8ddce38c02352a4326abbe2e09f75755760d2724c57aa",
+      "source_dateline": "(Goetheanum, 9. November 1924)"
+    },
+    "ga-026-doc-heading-46": {
+      "text_sha256": "91303bd91d2a0eaa2684fbd55350bd4ec40cbbad61c3d59bc127eb5f89992bf1",
+      "source_text_sha256": "9654a0d1ea85c3558b874f9da50c54ea9e83bbb98fe7a60e6ef1816c1641997c",
+      "source_dateline": "(16. November 1924)"
+    },
+    "ga-026-doc-heading-47": {
+      "text_sha256": "eb6039e632a2520470830b8c54e5d976169f7bf7e1d4c7a8dfae00ce936a7fe8",
+      "source_text_sha256": "c5068c171b57902f19a6c5a14e5c514ca0f4ffe81eccd65b949c96a19a958746",
+      "source_dateline": "(Goetheanum, 16. November 1924)"
+    },
+    "ga-026-doc-heading-48": {
+      "text_sha256": "501496bef1cc03c8bd8ab5c8afce5a1a64f305320843e7431f9d6f6e03aac5a9",
+      "source_text_sha256": "28ed210019f444b420a6ac807f2790164cfe5647ab3cfce51441f8bddd46f4f7",
+      "source_dateline": "(23. November 1924)"
+    },
+    "ga-026-heading-0057": {
+      "text_sha256": "14174c6c29d6d49cfacc7b9e8598356171287807b021768a27e0b926f01c43f4",
+      "source_text_sha256": "3209e824e7f49bad602369029c5b7b3e9790d8dfcb4fec84d0dd6919664c4a53",
+      "reading_blocks": [
+        {
+          "kind": "heading",
+          "level": 1,
+          "start_offset": 0,
+          "end_offset": 80
+        },
+        {
+          "kind": "prose",
+          "start_offset": 80,
+          "end_offset": 16896
+        }
+      ]
+    },
+    "ga-026-doc-heading-49": {
+      "text_sha256": "6f1855f2511493004fe554a259aade4fa560d2b47fc8225d39c3ed7b9869e031",
+      "source_text_sha256": "6f1855f2511493004fe554a259aade4fa560d2b47fc8225d39c3ed7b9869e031",
+      "source_dateline": "(30. November 1924)"
+    },
+    "ga-026-heading-0059": {
+      "text_sha256": "fcce2eb2cbbe0c639a882a6dd19ca67d2449822af1d8e504a2c28d6ab6c72046",
+      "source_text_sha256": "fcce2eb2cbbe0c639a882a6dd19ca67d2449822af1d8e504a2c28d6ab6c72046",
+      "reading_blocks": [
+        {
+          "kind": "heading",
+          "level": 1,
+          "start_offset": 0,
+          "end_offset": 75
+        }
+      ]
+    },
+    "ga-026-doc-heading-50": {
+      "text_sha256": "c2ae2f9b9b07d8ba5d2e75835e6c10aeb44d7fecb966e3927443d1c35cf6d6bf",
+      "source_text_sha256": "5ed280a4b6b6161067f050d670714488fdcb9defea90dd8816e05904217b3984",
+      "source_dateline": "(Goetheanum, 30. November 1924)",
+      "continuation_of": "ga-026-heading-0059"
+    },
+    "ga-026-doc-heading-51": {
+      "text_sha256": "13d2333b82f2f9306391bdfbde6e356c49b4e9bd583962f2022a885c5a0e3ee2",
+      "source_text_sha256": "82f395ce36796e70bde2f0fe579fe5489e32f907deed4b55ee990ac71a8003d7",
+      "source_dateline": "(7. Dezember 1924)"
+    },
+    "ga-026-heading-0060": {
+      "text_sha256": "b9b82017b8bf73a49d0e36d6442dafc41ba16eb0125a2e1211ac4192f5ac14f2",
+      "source_text_sha256": "b9b82017b8bf73a49d0e36d6442dafc41ba16eb0125a2e1211ac4192f5ac14f2",
+      "reading_blocks": [
+        {
+          "kind": "heading",
+          "level": 1,
+          "start_offset": 0,
+          "end_offset": 88
+        }
+      ]
+    },
+    "ga-026-doc-heading-52": {
+      "text_sha256": "d0a792f4cedcfa7ad840499a8d0dc1776018d1d811e1e92258127489309f5b61",
+      "source_text_sha256": "018d5e7114d3c53358b0837e0559d061e7485f0a28a5b6f3c1377caf536666f6",
+      "source_dateline": "(Goetheanum 6. Dezember 1924)",
+      "continuation_of": "ga-026-heading-0060"
+    },
+    "ga-026-doc-heading-53": {
+      "text_sha256": "94e3797c57681c46d513a2e794707594ba6cf8cda8edb3442da44df1f35d7403",
+      "source_text_sha256": "83c5ab27030236177fa5cc73c2fc75467a9a49c51a294179784d56c691b7256c",
+      "source_dateline": "(14. Dezember 1924)"
+    },
+    "ga-026-doc-heading-54": {
+      "text_sha256": "2e7bd8431e204c2679ea7fa6dbac1ca948a5b4bc82d1b37a838a1a27c59b5e5c",
+      "source_text_sha256": "a839729962e8260836f8cf36dadf4484de33fdfcf95f4ba8f016ab1ee4876446",
+      "source_dateline": "(Goetheanum, 14. Dezember 1924)"
+    },
+    "ga-026-doc-heading-55": {
+      "text_sha256": "d0a49261eeecaacd47d6890e661b6be9920c70228a944278bf156f5d99b0495d",
+      "source_text_sha256": "f76ef8150bcffbb2512c0473e87a4ace3a910a0ea9321f46a2fd74797bba765f",
+      "source_dateline": "(21. Dezember 1924)"
+    },
+    "ga-026-heading-0065": {
+      "text_sha256": "546874c53fdf6f93727662e84db59457cca6f959016b02e7dfad8df3a88cc4f5",
+      "source_text_sha256": "55b6c686d080d990c8d6af3fa570c12902fcf1c9fc9bb8fddef1405354f89867"
+    },
+    "ga-026-doc-heading-56": {
+      "text_sha256": "7b9f4ea2c0977d7663a61ee79d8297cc11b5d37c83b82278bfd37141bbcf920e",
+      "source_text_sha256": "9d4591182fe0afd5d429040b8e137fb4d9742c54b1a1356f3d192922d746ec84",
+      "source_dateline": "(28. Dezember 1924)"
+    },
+    "ga-026-heading-0067": {
+      "text_sha256": "2a11739ac39812e17a58331e35112719bd56f1007a6cf4aa5ce67694d8240ea0",
+      "source_text_sha256": "a584407e77f3c52856d4354ba2f07cd5ba002dd89d20560366f596ec1cd5e2cc",
+      "reading_blocks": [
+        {
+          "kind": "heading",
+          "level": 1,
+          "start_offset": 0,
+          "end_offset": 23
+        },
+        {
+          "kind": "prose",
+          "start_offset": 23,
+          "end_offset": 14081
+        }
+      ]
+    },
+    "ga-026-doc-heading-57": {
+      "text_sha256": "cbcadc3fc6c93355521f471bfce2d5dbb7814d0dda79b98c4d5f8cf34b1a30eb",
+      "source_text_sha256": "62a4850c15b8f1cea782463a74a4d2a7e2c250d1092a37867c43ba52e7521f72",
+      "source_dateline": "(4. Januar 1925)",
+      "reading_blocks": [
+        {
+          "kind": "prose",
+          "start_offset": 0,
+          "end_offset": 969
+        },
+        {
+          "kind": "heading",
+          "level": 1,
+          "start_offset": 969,
+          "end_offset": 1042
+        },
+        {
+          "kind": "prose",
+          "start_offset": 1042,
+          "end_offset": 8955
+        }
+      ]
+    },
+    "ga-026-doc-heading-58": {
+      "text_sha256": "b43a809978ae07fb68e85cb0b64feba6e98f03514fa422af6ae24e48450b06aa",
+      "source_text_sha256": "e5f74eaee7b74634bbe0d15ee841afe902e773c0253fa932336849750c5344a4",
+      "source_dateline": "(11. Januar 1925)"
+    },
+    "ga-026-heading-0070": {
+      "text_sha256": "04148105630248f28f9568221cc0c48bbde51c0982a8b9706cf09ce4d19b1add",
+      "source_text_sha256": "e803a15a93d83ebdd618763b165ce1d26876bb74068d75de51f85bce583f8e6c",
+      "reading_blocks": [
+        {
+          "kind": "heading",
+          "level": 1,
+          "start_offset": 0,
+          "end_offset": 94
+        },
+        {
+          "kind": "prose",
+          "start_offset": 94,
+          "end_offset": 7488
+        }
+      ]
+    },
+    "ga-026-doc-heading-59": {
+      "text_sha256": "2eee2104015bfe5added6d1a6cee5ca9534cd8e5ccd63f666ae3c0aafd1ef66a",
+      "source_text_sha256": "b32cf22bbd7014179c5dd432102c42fc2c2fb43dbfa940584cbbb57c7c32bc66",
+      "source_dateline": "(18. Januar 1925)"
+    },
+    "ga-026-heading-0074": {
+      "text_sha256": "7edfded25b9ac53b338c67a13e2801e1c42af708fe474d2034671b466153871e",
+      "source_text_sha256": "514fb9fec3d6834ac3f39d0915b7da52811492730ea6d0646ca5379fb50f693b"
+    },
+    "ga-026-doc-heading-60": {
+      "text_sha256": "5d61124da4c5289b262dc23afc3d5f3f3ad4874fb7a3c9a2a24ad25f24e23025",
+      "source_text_sha256": "0be3210ee73056f4d79886ce6dca047033aedb4ae3ea645f5847d065c9fb56aa",
+      "source_dateline": "(25. Januar 1925)"
+    },
+    "ga-026-heading-0076": {
+      "text_sha256": "8abad67bbde203d54d58befcb2427e56d31d73e170622250173373ed86685102",
+      "source_text_sha256": "37dd8e27af8ba182b12d70c742b3452bbb1e6c44911bf37a8570c0a2cb3a78c7"
+    },
+    "ga-026-doc-heading-61": {
+      "text_sha256": "3615699013a327febb4c25cb66fca8950da3470340b5de358f813b037e0b5330",
+      "source_text_sha256": "570df71d31ee8505a8af15c71e6c4a1093e8528ead4af677e9cd6136a038cd25",
+      "source_dateline": "(1. Februar 1925)"
+    },
+    "ga-026-heading-0078": {
+      "text_sha256": "64ea99e07d67a562351a99469af1a32b83b6c895e8e4c95884ec31ac94620fba",
+      "source_text_sha256": "8101f98067596649df46023e4253eae9bd1380ad6c1aab00c55618ae05401266"
+    },
+    "ga-026-doc-heading-62": {
+      "text_sha256": "e6388a84852dbbaf6db37709a20ef682793e75a5b03535011bde83849b032c8f",
+      "source_text_sha256": "c737e80dac72cbe83b7cc8a3efae213239e896c635d330b9f9c102235dd1f04f",
+      "source_dateline": "(8. Februar 1925)"
+    },
+    "ga-026-heading-0079": {
+      "text_sha256": "fb27ee01239c38aae2b0b78ac31563a80871735aec5e8b6928ff3606c135b087",
+      "source_text_sha256": "27db8f8de6ccdee96978a217362435b150e3031eb11f7fa2d3a8fd5e4d9b3f75"
+    },
+    "ga-026-doc-heading-63": {
+      "text_sha256": "0f3e7347850bce43d0ad65bd0f4e512f0ac9214a54125c77896b8d5c0bbee497",
+      "source_text_sha256": "ccb59289a0c4ceb2919f00108336ef760e8632544071dedcaa1efff12daf15a6",
+      "source_dateline": "(15. Februar 1925)"
+    },
+    "ga-026-heading-0081": {
+      "text_sha256": "436dc9073afdbff1a35c5a0c98ab40dffb66c8b7aec4cf3a69df962c8cf3d2b7",
+      "source_text_sha256": "da98914f1f66c34120e2cd473d7793389e4b7195d6a398a04debbb6462f5d0c3"
+    },
+    "ga-026-doc-heading-64": {
+      "text_sha256": "501d16cf9a493dda9b3034ac04c6313d9d54509756de74337d690e942157a878",
+      "source_text_sha256": "fa7889beb91f346d966deee1544de5ec6f65d4146bc568280eadcf45f1c24d44",
+      "source_dateline": "(22. Februar 1925)"
+    },
+    "ga-026-heading-0083": {
+      "text_sha256": "8218390bd2c64a2af2deff0314d0092f4adee748307b2b9cc3e98548127615dd",
+      "source_text_sha256": "04dc9c12c1795a1ec372d3f92324fa00843e50a0738431fa440dcd7659053287"
+    },
+    "ga-026-doc-heading-65": {
+      "text_sha256": "15b77eb4f6bfe9382f72c40144abcbc21a7da694135dc550099ddfb5398ba7d9",
+      "source_text_sha256": "dc0314261d772aa9f72ddee1aa115197f85824dd80db9c77ee74cc7ba42c0176",
+      "source_dateline": "(1. März 1925)"
+    },
+    "ga-026-heading-0084": {
+      "text_sha256": "7aea644e65361ca4fc945a6c52e7027af29f90050ba8209f1a38c44fbcb29b2e",
+      "source_text_sha256": "994e8a82d5729d6390d6b49317233ea0dbb4294e7f0bf906db811308cff30081"
+    },
+    "ga-026-doc-heading-66": {
+      "text_sha256": "bf1060a5ec650c72598c7ee8a5a95a75c4de85e07680f08f0ae429926fdcd1e3",
+      "source_text_sha256": "4e47347da9d763555cb95b670bc6c33199713acbfa2d6cfd1160199ae4130588",
+      "source_dateline": "(8. März 1925)"
+    },
+    "ga-026-heading-0086": {
+      "text_sha256": "d7a220e8b1bde1e2fd3e03ac0c8d4ee305fc578e75835ebca2706b216b326a92",
+      "source_text_sha256": "c522468519d598a10a76473e88cf2b46e57309da920135420095c0f9f3d9a561"
+    },
+    "ga-026-doc-heading-67": {
+      "text_sha256": "aae787185b5c838065cd00071cf903f40ae61ae4473a75113979ea37b3e7d853",
+      "source_text_sha256": "3f4e6942114de3934fc05a27b8ce1fa21c0e3dae4376065054a73c3e7bc8d487",
+      "source_dateline": "(15. März 1925)"
+    },
+    "ga-026-heading-0088": {
+      "text_sha256": "c5aae985170548c64ea873fcc1fb3af2a5f0753b398eb8403d7ed3292b902617",
+      "source_text_sha256": "1cda191d5b5c030f4395f3bb7b632face47bcda43d63233810f1be507b693b11"
+    },
+    "ga-026-doc-heading-68": {
+      "text_sha256": "f5192cee73c3ff8c0d949740d6f2beec6356e7bdaf18db9ae5ba3ef37d5d0597",
+      "source_text_sha256": "346f2c63229cd5bd0c652f550a878bc1a78042f6b0f41ffd186fa866c2549686",
+      "source_dateline": "(22. März 1925)"
+    },
+    "ga-026-heading-0090": {
+      "text_sha256": "a0c107cc1a242afc5ef0b779ea884a3317b6c3c4016c20bd8ec5222ef92e0098",
+      "source_text_sha256": "df0eaf6d85aa517fd22f98b58d21c3e42fea1f80ab250f6d166bdb80cea3ba7b"
+    },
+    "ga-026-doc-heading-69": {
+      "text_sha256": "8f4334afb1aa7038efb5d11a08a412bb4878cdfaaa22e5d3a202acf6f84385f6",
+      "source_text_sha256": "dbcf7af545253d8676b28caf8ef5859ec2699f0c635f3e73f89e2f3b5cb799f0",
+      "source_dateline": "(29. März 1925)"
+    },
+    "ga-026-heading-0092": {
+      "text_sha256": "4b1cb5a65d0def61659035aa4f1403c7914b0017fa33f8b39f46b8650062d3b4",
+      "source_text_sha256": "c0e05cd149abc7603017b723cba12726edca4e92ab16d906b7074e3d4855bd1d"
+    },
+    "ga-026-doc-heading-70": {
+      "text_sha256": "ddc19e4dfedcb960140b3750cdde973685c6360d142d423c90cfcbea6f65ae77",
+      "source_text_sha256": "a3c07887eb2ba93d191545794c9d3f657dd142e229f0322abc8b8aa63c5eab01",
+      "source_dateline": "(5. April 1925)"
+    },
+    "ga-026-heading-0094": {
+      "text_sha256": "7926e3350be484440017713e1022acfbd81b41eece879cf0046a958efe5825d3",
+      "source_text_sha256": "35be043689d0729e8f2043451bf13cb9b659e9e1206791e06e7909cce1a1164c"
+    },
+    "ga-026-doc-heading-71": {
+      "text_sha256": "09434a1af386686ec38860fe56d883e935787b5a209eaaf5df3f4230b6b2add3",
+      "source_text_sha256": "09434a1af386686ec38860fe56d883e935787b5a209eaaf5df3f4230b6b2add3",
+      "source_dateline": "(12. April 1925)"
+    }
+  },
+  "normalizations": [
+    {
+      "navigation_id": "ga-026-toc-038",
+      "original": "(LS 88 bis 102",
+      "display": "(LS 88 bis 102)",
+      "reason": "Original contents omits the closing parenthesis; only the navigation range delimiter is closed, while canonical/source body remains unchanged."
+    }
+  ],
+  "decision": "Original INHALT main labels and LS ranges govern navigation; original subordinate batch headings, targets, datelines, continuation links and body text remain unchanged."
+}

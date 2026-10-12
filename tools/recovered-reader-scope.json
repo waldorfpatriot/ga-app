@@ -1,0 +1,62 @@
+{
+  "works": [
+    {
+      "id": "ga-293",
+      "source_path": "research/unavailable-recovery/education-art/ga-293/GA293.epub",
+      "source_url": "https://odysseetheater.org/GA/eBook/epub/GA293.epub",
+      "source_sha256": "282224dd0df93aa33e618b61e038a99b535b66295ae1eca4013bc3d1a5e7706e",
+      "evidence_url": "https://steiner.wiki/GA_293",
+      "expected_passage_count": 15,
+      "scope": {
+        "start": "content18.xhtml#",
+        "exclude": [
+          "content220.xhtml#",
+          "content225.xhtml#"
+        ]
+      },
+      "scope_evidence": "Vierzehn Vorträge vom 21. August bis 5. September 1919 und Ansprache vom 20. August 1919. Geleitworte von Marie Steiner und Verlagsanmerkungen ausgeschlossen."
+    },
+    {
+      "id": "ga-294",
+      "source_path": "research/unavailable-recovery/education-art/ga-294/GA294.epub",
+      "source_url": "https://odysseetheater.org/GA/eBook/epub/GA294.epub",
+      "source_sha256": "92b702ef4aa87d1471aa953a5e6962a2f09bd08d2938ed303453c8dc8accb56a",
+      "evidence_url": "https://steiner.wiki/GA_294",
+      "expected_passage_count": 15,
+      "scope": {
+        "start": "content8.xhtml#",
+        "exclude": []
+      },
+      "scope_evidence": "Vierzehn Vorträge vom 21. August bis 5. September 1919 und Schlussworte vom 6. September 1919. Hinweise und Marie Steiners Vorwort ausgeschlossen.",
+      "editorial_suffixes": [
+        "Damit schließen die Allsführungen Rudolf Steiners am 5. September 1919."
+      ]
+    },
+    {
+      "id": "ga-296",
+      "source_path": "research/unavailable-recovery/education-art/ga-296/GA296.epub",
+      "source_url": "https://odysseetheater.org/GA/eBook/epub/GA296.epub",
+      "source_sha256": "e350bdc1c8011b1b1a35b31f8222ed3c73b8bc6bb702f167ec5a03ced95e4f94",
+      "evidence_url": "https://steiner.wiki/GA_296",
+      "expected_passage_count": 6,
+      "scope": {
+        "start": "content10.xhtml#",
+        "exclude": []
+      },
+      "scope_evidence": "Sechs Vorträge in Dornach vom 9. bis 17. August 1919; Hinweise ausgeschlossen."
+    },
+    {
+      "id": "ga-299",
+      "source_path": "research/unavailable-recovery/education-art/ga-299/GA299.epub",
+      "source_url": "https://odysseetheater.org/GA/eBook/epub/GA299.epub",
+      "source_sha256": "20b98268447c0ba2585d6e55b6c0f3c3807075689b4dea333da5c5afc03ce8de",
+      "evidence_url": "https://steiner.wiki/GA_299",
+      "expected_passage_count": 6,
+      "scope": {
+        "start": "content10.xhtml#",
+        "exclude": []
+      },
+      "scope_evidence": "Sechs Vorträge in Stuttgart vom 26. Dezember 1919 bis 3. Januar 1920; Hinweise ausgeschlossen."
+    }
+  ]
+}

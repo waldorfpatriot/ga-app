@@ -1,0 +1,683 @@
+{
+  "schema_version": 1,
+  "work_id": "ga-040",
+  "source_sha256": "9263a2efd8f66c17f6c686a4bf1c169f477331f1e2aa1bf4fea01fcfe950229a",
+  "evidence_docx_sha256": "b0726662c3e73a78b8b202f007afc295a2765b39c020ddb4ba3cfe00e1cfbb88",
+  "scope": "Geprüfte eigenständige Spruchanfänge bei unmittelbar aufeinanderfolgenden Verssegmenten. Der Seelenkalender wird gesondert anhand seiner 52 nummerierten Wochen geführt. Seitenwechsel und Abstand sind allein kein Werkbeweis. Getrennt gedruckte vollständige Spruchfassungen sind eigene Anfänge; fortlaufende Strophen bleiben innerhalb desselben Gedichts.",
+  "source_paragraph_index_unit": "zero_based_converted_original_doc_paragraph",
+  "candidates_reviewed": 152,
+  "starts_confirmed": 142,
+  "passages": {
+    "ga-040-doc-heading-9": [
+      {
+        "block_index": 2,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge auf S. 298 (Absatz 2729: »Wandelst zum Bilde 74«, Quellenhinweis Absatz 2730: Münchner Kongress, 18. Mai 1907); eigener vollständiger Doppelzeiler unter J auf S. 74, Original-DOC-Körperabsatz 566. Die Überschrift bezeichnet vier getrennte Doppelzeiler, je zwei unter J und B."
+      },
+      {
+        "block_index": 5,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge auf S. 298 (Absatz 2720: »Verdinglichst du den Willen 74«, Quellenhinweis Absatz 2721: Münchner Kongress, 18. Mai 1907); eigener vollständiger Doppelzeiler unter B auf S. 74, Original-DOC-Körperabsatz 569. Die Überschrift bezeichnet vier getrennte Doppelzeiler, je zwei unter J und B."
+      },
+      {
+        "block_index": 6,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2369: »Es leuchten gleich Sternen 75«); selbstständige Druckeinheit »Es leuchten gleich Sternen« auf S. 75, Original-DOC-Körperabsatz 571. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 12,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2632: »Offenbarung durch die Höhen 75«); selbstständige Druckeinheit »Offenbarung durch die Höhen dem Gotte,« auf S. 75, Original-DOC-Körperabsatz 577. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 20,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2641: »Rätsel an Rätsel 77«); selbstständige Druckeinheit »Rätsel an Rätsel stellt sich im Raum,« auf S. 77, Original-DOC-Körperabsatz 586. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 22,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2333: »Erkenne dich selbst 77«); selbstständige Druckeinheit »Erkenne dich selbst.« auf S. 77, Original-DOC-Körperabsatz 588. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 25,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2442: »Gottes schützender segnender Strahl 78«); selbstständige Druckeinheit »Gottes schützender segnender Strahl« auf S. 78, Original-DOC-Körperabsatz 592. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-10": [
+      {
+        "block_index": 7,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2341: »Es drangt sich an den Menschensinn 80«); selbstständige Druckeinheit »Es drängt sich an den Menschensinn« auf S. 80, Original-DOC-Körperabsatz 612. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 15,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2404: »Es sprechen zu den Sinnen 80«); selbstständige Druckeinheit »Es sprechen zu den Sinnen« auf S. 80, Original-DOC-Körperabsatz 620. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 22,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2389: »Es sprechen zu dem Menschensinn 81«); selbstständige Druckeinheit »Es sprechen zu dem Menschensinn« auf S. 81, Original-DOC-Körperabsatz 628. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 23,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2589: »Lebend offenbart der Geist 81«); selbstständige Druckeinheit »Lebend offenbart der Geist« auf S. 81, Original-DOC-Körperabsatz 629. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 35,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2498: »Im grenzenlosen Außen 83«); selbstständige Druckeinheit »Im grenzenlosen Außen« auf S. 83, Original-DOC-Körperabsatz 643. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 36,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2581: »In weiten Weltenfernen 83«); selbstständige Druckeinheit »In weiten Weltenfernen« auf S. 83, Original-DOC-Körperabsatz 644. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 47,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2542: »In deinem Denken leben Weltgedanken 86/87«); selbstständige Druckeinheit »In deinem Denken leben Weltgedanken,« auf S. 86, Original-DOC-Körperabsatz 657. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 48,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2575: »In meinem Denken leben Weltgedanken 87«); selbstständige Druckeinheit »In meinem Denken leben Weltgedanken,« auf S. 87, Original-DOC-Körperabsatz 659. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 58,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2395: »Es sprechen zu den Menschensinnen 88«); selbstständige Druckeinheit »Es sprechen zu den Menschensinnen« auf S. 88, Original-DOC-Körperabsatz 669. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 59,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2363: »Es lassen die Elemente 88«); selbstständige Druckeinheit »Es lassen die Elemente« auf S. 88, Original-DOC-Körperabsatz 670. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 65,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2156: »Aus dem Geiste ist alles 89«); selbstständige Druckeinheit »Aus dem Geiste ist alles Sein entsprungen,« auf S. 89, Original-DOC-Körperabsatz 676. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 66,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2372: »Es liegt in jeglichem Leben 89«); selbstständige Druckeinheit »Es liegt in jeglichem Leben« auf S. 89, Original-DOC-Körperabsatz 677. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 70,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2312: »Durch schwere Seelenhindernisse 89«); selbstständige Druckeinheit »Durch schwere Seelenhindernisse,« auf S. 89, Original-DOC-Körperabsatz 681. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 71,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2564: »In des Menschen Seelengründen 90«); selbstständige Druckeinheit »In des Menschen Seelengründen« auf S. 90, Original-DOC-Körperabsatz 683. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 86,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2166: »Das Böse, das Übel 93«); selbstständige Druckeinheit »Das Böse, das Übel,« auf S. 93, Original-DOC-Körperabsatz 699. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 95,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2716: »Urselbst 94«); selbstständige Druckeinheit »Urselbst,« auf S. 94, Original-DOC-Körperabsatz 709. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 102,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2532: »Im Urbeginne war das Wort 95«); selbstständige Druckeinheit »Im Urbeginne war das Wort,« auf S. 95, Original-DOC-Körperabsatz 717. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 103,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2525: »Im Urbeginne ist der Gedanke 96«); selbstständige Druckeinheit »Im Urbeginne ist der Gedanke,« auf S. 96, Original-DOC-Körperabsatz 719. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 111,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2527: »Im Urbeginne ist der Gedanke 97«); selbstständige Druckeinheit »Im Urbeginne ist der Gedanke,« auf S. 97, Original-DOC-Körperabsatz 728. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 119,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2529: »Im Urbeginne ist die Erinnerung 98«); selbstständige Druckeinheit »Im Urbeginne ist die Erinnerung,« auf S. 98, Original-DOC-Körperabsatz 737. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 131,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2534: »Im Urbeginne war die Kraft der Erinnerung 99«); selbstständige Druckeinheit »Im Urbeginne war die Kraft der Erinnerung.« auf S. 99, Original-DOC-Körperabsatz 750. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 145,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2197: »Der deutsche Geist 100«); selbstständige Druckeinheit »Der deutsche Geist hat nicht vollendet,« auf S. 100, Original-DOC-Körperabsatz 765. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 146,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2520: »Im Stoffe suchet 101«); selbstständige Druckeinheit »Im Stoffe suchet der Weltenkenner« auf S. 101, Original-DOC-Körperabsatz 766. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 147,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2540: »Im Wollen kommender Erdentage 102«); selbstständige Druckeinheit »Im Wollen kommender Erdentage« auf S. 102, Original-DOC-Körperabsatz 768. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 151,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2444: »Göttliche Offenbarung 103«); selbstständige Druckeinheit »Göttliche Offenbarung in geistigen Höhen,« auf S. 103, Original-DOC-Körperabsatz 773. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 152,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2400: »Es sprechen zu den Menschensinnen 104«; Absatz 2402: »Es sprechen zu den Menschensinnen 104«); selbstständige Druckeinheit »Es sprechen zu den Menschensinnen« auf S. 104, Original-DOC-Körperabsatz 775. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt. Mehrere Registereinträge desselben Incipits belegen getrennte Spruchfassungen mit jeweils eigener Quellenangabe."
+      },
+      {
+        "block_index": 153,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2400: »Es sprechen zu den Menschensinnen 104«; Absatz 2402: »Es sprechen zu den Menschensinnen 104«); selbstständige Druckeinheit »Es sprechen zu den Menschensinnen« auf S. 104, Original-DOC-Körperabsatz 776. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt. Mehrere Registereinträge desselben Incipits belegen getrennte Spruchfassungen mit jeweils eigener Quellenangabe."
+      }
+    ],
+    "ga-040-doc-heading-11": [
+      {
+        "block_index": 1,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2759: »Wenn der Mensch, warm in Liebe 106«); selbstständige Druckeinheit »Wenn der Mensch, warm in Liebe,« auf S. 106, Original-DOC-Körperabsatz 783. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 2,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2249: »Des Geistes Schattenwurf 107«); selbstständige Druckeinheit »Des Geistes Schattenwurf im Räume« auf S. 107, Original-DOC-Körperabsatz 785. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 4,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2705: »Suchst du dich selbst 107«); selbstständige Druckeinheit »Suchst du dich selbst,« auf S. 107, Original-DOC-Körperabsatz 787. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 8,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2172: »Das Innere finden wir 107«); selbstständige Druckeinheit »Das Innere finden wir am Äußeren,« auf S. 107, Original-DOC-Körperabsatz 791. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 9,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2408: »Es wechseln in des Jahres Lauf 109«); selbstständige Druckeinheit »Es wechseln in des Jahres Lauf« auf S. 109, Original-DOC-Körperabsatz 794. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 19,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2727: »Waltender, weiser Willensgeist 110«); selbstständige Druckeinheit »Waltender, weiser Willensgeist,« auf S. 110, Original-DOC-Körperabsatz 805. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 21,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2302: »Die Weltgedanken zu erfassen 111«); selbstständige Druckeinheit »Die Weltgedanken zu erfassen,« auf S. 111, Original-DOC-Körperabsatz 807. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 22,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2763: »Wenn in hellen Geisteskreisen 112«); selbstständige Druckeinheit »Wenn in hellen Geisteskreisen« auf S. 112, Original-DOC-Körperabsatz 808. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 24,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2494: »Im freien geisterfassenden Denken 112«); selbstständige Druckeinheit »Im freien geist-erfassenden Denken« auf S. 112, Original-DOC-Körperabsatz 810. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 25,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2491: »Im Farbenschein des Äthermeeres 113«); selbstständige Druckeinheit »Im Farbenschein des Äthermeeres« auf S. 113, Original-DOC-Körperabsatz 811. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-12": [
+      {
+        "block_index": 36,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2579: »In Urzeit Tagen 118«); selbstständige Druckeinheit »In Urzeit Tagen« auf S. 118, Original-DOC-Körperabsatz 851. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 62,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2559: »In der Lichtesluft 120«); selbstständige Druckeinheit »In der Lichtesluft des Geisterlandes« auf S. 120, Original-DOC-Körperabsatz 879. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 71,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2247: »Der Wolkendurchleuchter 121«); selbstständige Druckeinheit »Der Wolkendurchleuchter:« auf S. 121, Original-DOC-Körperabsatz 888. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 74,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2304: »Du selbst, erkennender 122«); selbstständige Druckeinheit »Du selbst, erkennender, fühlender,« auf S. 122, Original-DOC-Körperabsatz 891. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 76,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2811: »Zum Lichte uns zu wenden 123«); selbstständige Druckeinheit »Zum Lichte uns zu wenden« auf S. 123, Original-DOC-Körperabsatz 893. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 103,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2297: »Die Welt ist ohne den Geist 127«); selbstständige Druckeinheit »Die Welt ist ohne den Geist« auf S. 127, Original-DOC-Körperabsatz 924. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 119,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2242: »Der weißen Rasse neues Morgenrot 128«); selbstständige Druckeinheit »Der weißen Rasse neues Morgenrot« auf S. 128, Original-DOC-Körperabsatz 941. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-13": [
+      {
+        "block_index": 3,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2584: »Isis-Sophia 131«); selbstständige Druckeinheit »Isis-Sophia,« auf S. 131, Original-DOC-Körperabsatz 949. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-15": [
+      {
+        "block_index": 3,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2487: »Im Denken Klarheit 135«); selbstständige Druckeinheit »Im Denken Klarheit,« auf S. 135, Original-DOC-Körperabsatz 983. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 5,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2682: »Sprechend lebt der Mensch 137«); selbstständige Druckeinheit »Sprechend lebt der Mensch« auf S. 137, Original-DOC-Körperabsatz 986. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-16": [
+      {
+        "block_index": 1,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2790: »Willst du dich selbst erkennen 138«); selbstständige Druckeinheit »Willst du dich selbst erkennen,« auf S. 138, Original-DOC-Körperabsatz 990. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 8,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2326: »Erde verdecket die Sonne 139«); selbstständige Druckeinheit »Erde verdecket die Sonne,« auf S. 139, Original-DOC-Körperabsatz 998. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 9,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2379: »Es offenbaret sich das Göttliche 139«); selbstständige Druckeinheit »Es offenbaret sich das Göttliche« auf S. 139, Original-DOC-Körperabsatz 999. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-18": [
+      {
+        "block_index": 11,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2412: »Es wollte im Sinnenstoffe 145«); selbstständige Druckeinheit »Es wollte im Sinnenstoffe« auf S. 145, Original-DOC-Körperabsatz 1028. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 27,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2568: »In gegenwärtiger Erdenzeit 147«); selbstständige Druckeinheit »In gegenwärtiger Erdenzeit« auf S. 147, Original-DOC-Körperabsatz 1045. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 39,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2756: »Wenn der alte Mensch sagte 148«); selbstständige Druckeinheit »Wenn der alte Mensch sagte: «Erkenne dich selbst» -« auf S. 148, Original-DOC-Körperabsatz 1057. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 46,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2462: »Ich lasse erstarren 149«); selbstständige Druckeinheit »Ich lasse erstarren das Weltenwasser« auf S. 149, Original-DOC-Körperabsatz 1065. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 51,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2800: »Wir Menschen der Gegenwart 150«); selbstständige Druckeinheit »Wir Menschen der Gegenwart« auf S. 150, Original-DOC-Körperabsatz 1071. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-19": [
+      {
+        "block_index": 17,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2645: »Ringende Geisteskräfte 155«); selbstständige Druckeinheit »Ringende Geisteskräfte« auf S. 155, Original-DOC-Körperabsatz 1142. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-21": [
+      {
+        "block_index": 2,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2787: »Willst du dich selber erkennen 158«); selbstständige Druckeinheit »Willst du dich selber erkennen,« auf S. 158, Original-DOC-Körperabsatz 1164. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-22": [
+      {
+        "block_index": 4,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2657: »Schaue den Logos 162«); selbstständige Druckeinheit »Schaue den Logos« auf S. 162, Original-DOC-Körperabsatz 1212. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-23": [
+      {
+        "block_index": 19,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2457: »Ich bin das Bild der Welt 164«); selbstständige Druckeinheit »Ich bin das Bild der Welt.« auf S. 164, Original-DOC-Körperabsatz 1235. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-24": [
+      {
+        "block_index": 17,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2651: »Schau der Ruhesterne 169«); selbstständige Druckeinheit »Schau der Ruhesterne« auf S. 169, Original-DOC-Körperabsatz 1276. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 20,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2785: »Willst du das eigene Wesen 170«); selbstständige Druckeinheit »Willst du das eigene Wesen erkennen,« auf S. 170, Original-DOC-Körperabsatz 1280. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 21,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2523: »Im Suchen erkenne dich 170«); selbstständige Druckeinheit »Im Suchen erkenne dich,« auf S. 170, Original-DOC-Körperabsatz 1281. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-26": [
+      {
+        "block_index": 6,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2474: »Ich suche im Innern 175«); selbstständige Druckeinheit »Ich suche im Innern« auf S. 175, Original-DOC-Körperabsatz 1306. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 19,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2653: »Schau in deiner Seele Reich 176«); selbstständige Druckeinheit »Schau in deiner Seele Reich« auf S. 176, Original-DOC-Körperabsatz 1320. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 22,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2673: »Sieh, du mein Auge 177«); selbstständige Druckeinheit »Sieh, du mein Auge,« auf S. 177, Original-DOC-Körperabsatz 1324. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 30,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2678: »Sonne, du strahlentragende 178«); selbstständige Druckeinheit »Sonne, du strahlentragende,« auf S. 178, Original-DOC-Körperabsatz 1332. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-chapter-0002": [
+      {
+        "block_index": 1,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2216: »Der Masse, der starren 192«); selbstständige Druckeinheit »Der Masse, der starren, toten,« auf S. 192, Original-DOC-Körperabsatz 1466. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 11,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2319: »Emporzuschauen 193«); selbstständige Druckeinheit »Emporzuschauen, wie in der Mutter Geist« auf S. 193, Original-DOC-Körperabsatz 1477. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-30": [
+      {
+        "block_index": 8,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2222: »Der Mensch sieht nur das klar 196«); selbstständige Druckeinheit »Der Mensch sieht nur das klar in der Außenwelt,« auf S. 196, Original-DOC-Körperabsatz 1489. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 9,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2283: »Die Seele des Menschen 197«); selbstständige Druckeinheit »Die Seele des Menschen ist eine Blüte der Welt,« auf S. 197, Original-DOC-Körperabsatz 1491. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 10,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2416: »Ewiges Werden im Denken 197«); selbstständige Druckeinheit »Ewiges Werden im Denken,« auf S. 197, Original-DOC-Körperabsatz 1492. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 11,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2163: »Blind sind 198«); selbstständige Druckeinheit »Blind sind für des Weibes Schwächen« auf S. 198, Original-DOC-Körperabsatz 1493. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 22,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2239: »Der Wahrheit Same 200«); selbstständige Druckeinheit »Der Wahrheit Same liegt in der Liebe;« auf S. 200, Original-DOC-Körperabsatz 1506. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-31": [
+      {
+        "block_index": 10,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2275: »Die Liebe zum Übersinnlichen 203«); selbstständige Druckeinheit »Die Liebe zum Übersinnlichen wandelt« auf S. 203, Original-DOC-Körperabsatz 1521. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 13,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2174: »Das Leben ist eine Schule 203«); selbstständige Druckeinheit »Das Leben ist eine Schule.« auf S. 203, Original-DOC-Körperabsatz 1524. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 15,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2647: »Ruhiges Verweilen 204«); selbstständige Druckeinheit »Ruhiges Verweilen an den« auf S. 204, Original-DOC-Körperabsatz 1527. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 22,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2422: »Freuden sind 205«); selbstständige Druckeinheit »Freuden sind Geschenke des Schicksals,« auf S. 205, Original-DOC-Körperabsatz 1535. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 26,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2201: »Der Erdengeister voller Sinn 206«); selbstständige Druckeinheit »Der Erdengeister voller Sinn« auf S. 206, Original-DOC-Körperabsatz 1540. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 34,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2279: »Die Rätsel des Lebens 207«); selbstständige Druckeinheit »Die Rätsel des Lebens lösen sich« auf S. 207, Original-DOC-Körperabsatz 1549. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 38,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2168: »Das Denken ist der Dolmetsch 208«); selbstständige Druckeinheit »Das Denken ist der Dolmetsch,« auf S. 208, Original-DOC-Körperabsatz 1554. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 40,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2227: »Der Schlüssel zur Geisteswelt 208«); selbstständige Druckeinheit »Der Schlüssel zur Geisteswelt« auf S. 208, Original-DOC-Körperabsatz 1556. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 42,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2259: »Die Erkenntnis ist das Licht 209«); selbstständige Druckeinheit »Die Erkenntnis ist das Licht« auf S. 209, Original-DOC-Körperabsatz 1559. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 47,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2383: »Es ruhen in der Zukunft Schoß 210«); selbstständige Druckeinheit »Es ruhen in der Zukunft Schoß« auf S. 210, Original-DOC-Körperabsatz 1565. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 62,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2393: »Es sprechen zu dem Menschensinne 211«); selbstständige Druckeinheit »Es sprechen zu dem Menschensinne« auf S. 211, Original-DOC-Körperabsatz 1581. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-32": [
+      {
+        "block_index": 2,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2263: »Die Geisterwelt - sie bleibet 213«); selbstständige Druckeinheit »Die Geisterwelt - sie bleibet dir verschlossen,« auf S. 213, Original-DOC-Körperabsatz 1589. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 4,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2512: »Im Menschenherzen schlagen 214«); selbstständige Druckeinheit »Im Menschenherzen schlagen« auf S. 214, Original-DOC-Körperabsatz 1591. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-33": [
+      {
+        "block_index": 3,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2504: »Im Kopfe Glaubenskraft 215«); selbstständige Druckeinheit »Im Kopfe Glaubenskraft,« auf S. 215, Original-DOC-Körperabsatz 1609. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 8,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2774: »Wer will was Lebendiges 216«); selbstständige Druckeinheit »Wer will was Lebendiges erkennen und begreifen,« auf S. 216, Original-DOC-Körperabsatz 1615. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 9,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2731: »Wäre die Welt nicht Sonne-begabt 216«); selbstständige Druckeinheit »Ware die Welt nicht Sonne-begabt,« auf S. 216, Original-DOC-Körperabsatz 1616. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 10,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2724: »Von der Gewalt 217«); selbstständige Druckeinheit »Von der Gewalt, die alle Wesen bindet,« auf S. 217, Original-DOC-Körperabsatz 1618. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 16,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2375: »Es mag sich Feindliches ereignen 217«); selbstständige Druckeinheit »Es mag sich Feindliches ereignen,« auf S. 217, Original-DOC-Körperabsatz 1624. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 22,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2365: »Es leben die Pflanzen 218«); selbstständige Druckeinheit »Es leben die Pflanzen« auf S. 218, Original-DOC-Körperabsatz 1631. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 24,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2453: »Hohe Weltenrätsel 219«); selbstständige Druckeinheit »Hohe Weltenrätsel erblickt,« auf S. 219, Original-DOC-Körperabsatz 1634. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 27,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2347: »Es freuet sich das Menschenauge 220«); selbstständige Druckeinheit »Es freuet sich das Menschenauge« auf S. 220, Original-DOC-Körperabsatz 1638. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 33,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2148: »Als treue Gefährtin 220«); selbstständige Druckeinheit »Als treue Gefährtin« auf S. 220, Original-DOC-Körperabsatz 1644. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 35,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2781: »Wie die Blut' und Frucht 221«); selbstständige Druckeinheit »Wie die Blut' und Frucht,« auf S. 221, Original-DOC-Körperabsatz 1647. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 46,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2508: »Im Leben war sein Sinnen 221«); selbstständige Druckeinheit »Im Leben war sein Sinnen« auf S. 221, Original-DOC-Körperabsatz 1658. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 55,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2273: »Die Kräfte sind leere Hülsen nur 222«); selbstständige Druckeinheit »Die Kräfte sind leere Hülsen nur,« auf S. 222, Original-DOC-Körperabsatz 1667. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 56,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2207: »Der im Schmerz sich Erlebende 223«); selbstständige Druckeinheit »Der im Schmerz sich Erlebende« auf S. 223, Original-DOC-Körperabsatz 1668. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 73,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2671: »Sich selbst empfangen 224«); selbstständige Druckeinheit »Sich selbst empfangen vom Welten-Sein,« auf S. 224, Original-DOC-Körperabsatz 1686. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-34": [
+      {
+        "block_index": 2,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2766: »Wenn Ruhe der Seele Wogen 225«); selbstständige Druckeinheit »Wenn Ruhe der Seele Wogen glättet« auf S. 225, Original-DOC-Körperabsatz 1692. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 3,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2571: »In Gemeinsamkeit 226«); selbstständige Druckeinheit »In Gemeinsamkeit erlebte Wahrheit« auf S. 226, Original-DOC-Körperabsatz 1694. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 4,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2439: »Gemeinsam erlebte Wahrheit 226«); selbstständige Druckeinheit »Gemeinsam erlebte Wahrheit« auf S. 226, Original-DOC-Körperabsatz 1695. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 6,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2146: »Alles Äußere 227«); selbstständige Druckeinheit »Alles Äußere soll entzünden: Selbsterkenntnis.« auf S. 227, Original-DOC-Körperabsatz 1698. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 9,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2184: »Daß ich mit frohem Blick 228«); selbstständige Druckeinheit »Daß ich mit frohem Blick« auf S. 228, Original-DOC-Körperabsatz 1702. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 40,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2231: »Der Sonne Licht kräftigt 230«); selbstständige Druckeinheit »Der Sonne Licht kräftigt der Erde Schöpfung,« auf S. 230, Original-DOC-Körperabsatz 1735. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 43,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2176: »Das Rätsel der Welt 231«); selbstständige Druckeinheit »Das Rätsel der Welt will man lösen ?« auf S. 231, Original-DOC-Körperabsatz 1739. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 47,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2735: »Warum strebt, dunkler Sehnsucht 231«); selbstständige Druckeinheit »Warum strebt, dunkler Sehnsucht« auf S. 231, Original-DOC-Körperabsatz 1743. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-35": [
+      {
+        "block_index": 3,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2224: »Der Menschenseele Rätsel 232«); selbstständige Druckeinheit »Der Menschenseele Rätsel« auf S. 232, Original-DOC-Körperabsatz 1757. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-36": [
+      {
+        "block_index": 2,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2536: »Im Wehenall 234«); selbstständige Druckeinheit »Im Weltenall« auf S. 234, Original-DOC-Körperabsatz 1763. Das Originalregister schreibt OCR-bedingt »Im Wehenall«, die eigenständige Druckeinheit beginnt »Im Weltenall« auf S. 234; der Registereintrag nennt Frau Hahn, 1918."
+      },
+      {
+        "block_index": 9,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2299: »Die Welt ist voller Rätsel 234«); selbstständige Druckeinheit »Die Welt ist voller Rätsel,« auf S. 234, Original-DOC-Körperabsatz 1770. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 14,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2733: »Warum strebt des Menschen 235«); selbstständige Druckeinheit »Warum strebt des Menschen« auf S. 235, Original-DOC-Körperabsatz 1776. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 27,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2496: »Im freien Menschenwesen 236«); selbstständige Druckeinheit »Im freien Menschenwesen« auf S. 236, Original-DOC-Körperabsatz 1790. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 38,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2693: »Suche im eignen Wesen 137«); selbstständige Druckeinheit »Suche im eignen Wesen:« auf S. 237, Original-DOC-Körperabsatz 1802. Die Registerzahl ist im OCR »137«; der eigene Eintrag »Suche im eignen Wesen« gehört zur im Originalsatz belegten Druckeinheit auf S. 237."
+      },
+      {
+        "block_index": 39,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2544: »In deiner Seele Innerem 237«); selbstständige Druckeinheit »In deiner Seele Innerem suche:« auf S. 237, Original-DOC-Körperabsatz 1803. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 90,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2723: »Vom Kopf zum Fuß 242«); selbstständige Druckeinheit »Vom Kopf zum Fuß,« auf S. 242, Original-DOC-Körperabsatz 1859. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 91,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2229: »Der Sonne Licht, es hellt den Tag 243«); selbstständige Druckeinheit »Der Sonne Licht,« auf S. 243, Original-DOC-Körperabsatz 1861. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-37": [
+      {
+        "block_index": 1,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2289: »Die Sonne sendet zur Erde ihr Licht 246«); selbstständige Druckeinheit »Die Sonne sendet« auf S. 246, Original-DOC-Körperabsatz 1887. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 19,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2291: »Die Sonne sendet zur Erde Licht 247«); selbstständige Druckeinheit »Die Sonne sendet« auf S. 247, Original-DOC-Körperabsatz 1906. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 31,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2271: »Die Jugend erziehen 248«); selbstständige Druckeinheit »Die Jugend erziehen,« auf S. 248, Original-DOC-Körperabsatz 1919. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 32,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2255: »Des Menschen Erkenntnis 249«); selbstständige Druckeinheit »Des Menschen Erkenntnis« auf S. 249, Original-DOC-Körperabsatz 1921. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 35,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2346: »Es fragen die Menschen 2jo«); selbstständige Druckeinheit »Es fragen die Menschen« auf S. 250, Original-DOC-Körperabsatz 1925. Die Seitenzahl erscheint im Register-OCR als »2jo«; eigener Eintrag »Es fragen die Menschen«, im Körper auf S. 250."
+      },
+      {
+        "block_index": 36,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2269: »Die Jahre fließen in den Zeitenstrom 250«); selbstständige Druckeinheit »Die Jahre fließen in den Zeitenstrom,« auf S. 250, Original-DOC-Körperabsatz 1926. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 37,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2577: »In meinen Gedanken 251«); selbstständige Druckeinheit »In meinen Gedanken lebe der Vorsatz:« auf S. 251, Original-DOC-Körperabsatz 1928. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 48,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2761: »Wenn du auf den Geist 252«); selbstständige Druckeinheit »Wenn du auf den Geist des Weltenseins« auf S. 252, Original-DOC-Körperabsatz 1940. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-38": [
+      {
+        "block_index": 1,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2220: »Der Mensch findet des Ewigen Grund 253«); selbstständige Druckeinheit »Der Mensch findet« auf S. 253, Original-DOC-Körperabsatz 1950. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 7,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2754: »Welterkenntnis, Selbsterkenntnis 254«); selbstständige Druckeinheit »Welterkenntnis, Selbsterkenntnis:« auf S. 254, Original-DOC-Körperabsatz 1956. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 12,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2557: »In der Kunst erlöst 256«); selbstständige Druckeinheit »In der Kunst erlöst der Mensch« auf S. 256, Original-DOC-Körperabsatz 1961. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 40,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2600: »Meine Gedanken fliegen zur Schule hin 258«); selbstständige Druckeinheit »Meine Gedanken fliegen zur Schule hin:« auf S. 258, Original-DOC-Körperabsatz 1991. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 54,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2768: »Wer der Sprache Sinn versteht 259«); selbstständige Druckeinheit »Wer der Sprache Sinn versteht,« auf S. 259, Original-DOC-Körperabsatz 2006. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ],
+    "ga-040-doc-heading-39": [
+      {
+        "block_index": 3,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2310: »Du Widersinnszauber des Lebens 261«); selbstständige Druckeinheit »Du Widersinnszauber des Lebens,« auf S. 261, Original-DOC-Körperabsatz 2018. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 4,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2668: »Selbsterkenntnis wurzelt in Welterkenntnis 262«); selbstständige Druckeinheit »Selbsterkenntnis wurzelt in Welterkenntnis;« auf S. 262, Original-DOC-Körperabsatz 2020. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 43,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2643: »Raumeswände trennen schützend uns 266«); selbstständige Druckeinheit »Raumeswände trennen schützend uns« auf S. 266, Original-DOC-Körperabsatz 2062. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 44,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2446: »Guter Gedanken Licht 266«); selbstständige Druckeinheit »Guter Gedanken Licht« auf S. 266, Original-DOC-Körperabsatz 2063. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      },
+      {
+        "block_index": 89,
+        "evidence": "Originalausgabe 1991, eigener Eintrag im alphabetischen Verzeichnis der Überschriften und Spruchanfänge (Absatz 2464: »Ich möchte jeden Menschen 269«); selbstständige Druckeinheit »Ich möchte jeden Menschen« auf S. 269, Original-DOC-Körperabsatz 2111. Der vorangehende Versabschnitt endet als abgeschlossener anderer Spruch; der neue Abschnitt wird durch seinen eigenen Registereintrag belegt."
+      }
+    ]
+  },
+  "excluded_continuations": [
+    {
+      "passage_id": "ga-040-doc-heading-6",
+      "block_index": 36,
+      "evidence": "Fortsetzung des PLANETENTANZES auf S. 48. Original-DOC-Absatz 312 enthält den gemeinsamen Titel; Absätze 313–327 bilden vier Bilder unter diesem Titel, ohne weitere Werküberschriften. »Es blauet der Himmel« ist das zweite Bild, kein neues Gedicht. Original-Inhaltsverzeichnis: Absatz 34 »Planetentanz 47«."
+    },
+    {
+      "passage_id": "ga-040-doc-heading-6",
+      "block_index": 39,
+      "evidence": "Fortsetzung des PLANETENTANZES auf S. 49. Original-DOC-Absatz 312 enthält den gemeinsamen Titel; »Es funkeln die Sterne« (Absatz 321) ist das dritte Bild innerhalb der Absätze 313–327. Der nächste neue Titel folgt erst in Absatz 328: ZWÖLF STIMMUNGEN."
+    },
+    {
+      "passage_id": "ga-040-doc-heading-6",
+      "block_index": 42,
+      "evidence": "Fortsetzung des PLANETENTANZES auf S. 50. »Es waltet die Nacht« (Original-DOC-Absatz 325) ist das vierte Bild unter dem gemeinsamen Titel in Absatz 312; neuer Titel erst Absatz 328. Der Seitenwechsel schafft keine zusätzliche Werkgrenze."
+    },
+    {
+      "passage_id": "ga-040-doc-heading-12",
+      "block_index": 27,
+      "evidence": "Fortsetzung von »Suchet das wirklich praktische materielle Leben« über S. 116–117, Original-DOC-Absätze 836–850. Registerabsatz 2703 verzeichnet genau diesen Spruchanfang auf S. 116, Absatz 2704 denselben Vortrag Stuttgart, 24. September 1919. »Der Geist, der von uns …« hat keinen eigenen Eintrag; die Ausgabe 1998 druckt beide Seiten mit einer gemeinsamen Quellenangabe nach dem Schluss."
+    },
+    {
+      "passage_id": "ga-040-doc-heading-18",
+      "block_index": 75,
+      "evidence": "Fortsetzung unter DEN BERLINER FREUNDEN (Original-DOC-Absatz 1079), S. 151–153. »Es ist die Menschheit« beginnt auf S. 152 in Absatz 1096 und setzt den Gedankengang der Absätze 1080–1095 fort. Registerabsätze 2190 und 2387/2388 führen Überschrift und gemeinsamen Spruchanfang »Es siehet der Mensch«, gegeben Mitte November 1923; keine neue Werküberschrift vor Absatz 1124 URIEL-IMAGINATION."
+    },
+    {
+      "passage_id": "ga-040-doc-heading-18",
+      "block_index": 89,
+      "evidence": "Fortsetzung unter DEN BERLINER FREUNDEN (Original-DOC-Absatz 1079), S. 151–153. »Das Leid dringet heran« beginnt auf S. 153 in Absatz 1111 und gehört zum selben Spruch der Absätze 1080–1122. Gemeinsame Quellenangabe im Register 2387/2388, neuer Titel erst Absatz 1124 URIEL-IMAGINATION."
+    },
+    {
+      "passage_id": "ga-040-doc-heading-26",
+      "block_index": 33,
+      "evidence": "Fortsetzung von »Sonne, du strahlentragende« über S. 178–179, Original-DOC-Absätze 1332–1338: die drei Strophen auf S. 179 vervollständigen die Sonne/Herz-Paare der drei Strophen auf S. 178. Gemeinsamer Registereintrag 2678/2679 »Sonne, du strahlentragende 178«, Notizbuch November 1924; »Fühl’ ich in mein Herz« ist kein eigener Spruchanfang."
+    },
+    {
+      "passage_id": "ga-040-doc-heading-27",
+      "block_index": 27,
+      "evidence": "Zweite Menschenseele-Anrede innerhalb der GRUNDSTEINLEGUNG, Original-DOC-Titel Absatz 1346 und zusammengehöriger Text Absätze 1347–1414 auf S. 181–183. Absatz 1370 beginnt den internen Teil zu Geist-Besinnen; Register 2602/2603 führt »Menschenseele 181« mit der gemeinsamen Quelle Dornach, 25. Dezember 1923."
+    },
+    {
+      "passage_id": "ga-040-doc-heading-27",
+      "block_index": 49,
+      "evidence": "Dritte Menschenseele-Anrede innerhalb der GRUNDSTEINLEGUNG, Original-DOC-Titel Absatz 1346 und zusammengehöriger Text Absätze 1347–1414 auf S. 181–183. Absatz 1393 beginnt den internen Teil zu Geist-Erschauen; gemeinsame Quelle in Register 2602/2603. Nächster eigener Titel erst Absatz 1416 UR-WEIHENACHT."
+    },
+    {
+      "passage_id": "ga-040-doc-heading-27",
+      "block_index": 85,
+      "evidence": "Fortsetzung der UR-WEIHENACHT über S. 184–185, Original-DOC-Titel Absatz 1416, Text Absätze 1417–1442. »Göttliches Licht« in Absatz 1431 setzt »In der Zeiten Wende« fort. Gemeinsame Originalregistereinträge 2561 »In der Zeiten Wende 184« und 2717 »Ur-Weihenacht 184«; nächster Hauptteil erst Absatz 1444."
+    }
+  ],
+  "uncertain": []
+}

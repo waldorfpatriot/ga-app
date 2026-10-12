@@ -1,0 +1,4256 @@
+{
+  "ga-040-doc-heading-28": {
+    "segments": [
+      {
+        "kind": "prose",
+        "parts": [
+          0
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          1463
+        ],
+        "source_footers_after": [
+          189
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p9. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          1
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          1464
+        ],
+        "source_footers_after": [
+          189
+        ],
+        "source_page_references": [
+          254
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p717. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          2
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          1465
+        ],
+        "source_footers_after": [
+          189
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p718. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          3
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          1466
+        ],
+        "source_footers_after": [
+          189
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p719. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      }
+    ]
+  },
+  "ga-040-doc-heading-30": {
+    "segments": [
+      {
+        "kind": "heading",
+        "parts": [
+          0
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          1500
+        ],
+        "source_footers_after": [
+          195
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p736. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          1
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          1501
+        ],
+        "source_footers_after": [
+          195
+        ],
+        "source_page_references": [
+          195
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p737. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "attribution",
+        "parts": [
+          2
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          1502
+        ],
+        "source_footers_after": [
+          195
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p738. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          4,
+          5
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          1504,
+          1505
+        ],
+        "source_footers_after": [
+          196
+        ],
+        "source_page_references": [
+          196
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199, p740. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          6,
+          7
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1506,
+          1507
+        ],
+        "source_footers_after": [
+          196
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p741, p742. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          8
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1508
+        ],
+        "source_footers_after": [
+          196
+        ],
+        "source_page_references": [
+          196
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p743. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          9
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1510
+        ],
+        "source_footers_after": [
+          198
+        ],
+        "source_page_references": [
+          197
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          10
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1511
+        ],
+        "source_footers_after": [
+          198
+        ],
+        "source_page_references": [
+          197
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p745. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          11,
+          12
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1512,
+          1513
+        ],
+        "source_footers_after": [
+          198
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199, p746. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1514,
+          1515,
+          1516,
+          1517,
+          1518,
+          1519
+        ],
+        "source_footers_after": [
+          198
+        ],
+        "source_page_references": [
+          198
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p747, p201, p202, p226, p231, p231. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          19
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          1521
+        ],
+        "source_footers_after": [
+          199
+        ],
+        "source_page_references": [
+          199
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          20
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          1522
+        ],
+        "source_footers_after": [
+          199
+        ],
+        "source_page_references": [
+          199
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p749. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          21
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1523
+        ],
+        "source_footers_after": [
+          199
+        ],
+        "source_page_references": [
+          199
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p750. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          22
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1525
+        ],
+        "source_footers_after": [
+          202
+        ],
+        "source_page_references": [
+          200
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          23
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1526
+        ],
+        "source_footers_after": [
+          202
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p187. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          24
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1527
+        ],
+        "source_footers_after": [
+          202
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p194. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      }
+    ],
+    "edits": [
+      {
+        "old": "verzeh- renden",
+        "new": "verzehrenden",
+        "evidence": "Original 1991 DOC, http://bdn-steiner.ru/cat/ga/040.doc, paragraph formatting recovered with textutil. Dedication p737 has a printed line break inside verzehrenden; paragraph is prose."
+      }
+    ],
+    "omitted_parts": [
+      {
+        "block": 3,
+        "page": 195,
+        "source_doc_nodes": [
+          1503
+        ],
+        "evidence": "Original DOC paragraph p739: centered page footer, top margin245.3px and font9.5pt. Adjacent index references confirm dedication p195; the OCR footer is \"'95\"."
+      }
+    ]
+  },
+  "ga-040-doc-heading-31": {
+    "segments": [
+      {
+        "kind": "verse",
+        "parts": [
+          0
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1529
+        ],
+        "source_footers_after": [
+          202
+        ],
+        "source_page_references": [
+          201
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p753. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          1
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          1530
+        ],
+        "source_footers_after": [
+          202
+        ],
+        "source_page_references": [
+          201
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p754. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1531,
+          1532,
+          1533,
+          1534,
+          1535,
+          1536,
+          1537
+        ],
+        "source_footers_after": [
+          202
+        ],
+        "source_page_references": [
+          202
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p193, p199, p193, p199, p193, p193, p193. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          9
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1538
+        ],
+        "source_footers_after": [
+          202
+        ],
+        "source_page_references": [
+          202
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p755. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          10,
+          11
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1540,
+          1541
+        ],
+        "source_footers_after": [
+          203
+        ],
+        "source_page_references": [
+          203
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p757, p758. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          12
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1542
+        ],
+        "source_footers_after": [
+          203
+        ],
+        "source_page_references": [
+          203
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p759. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          13,
+          14
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1543,
+          1544
+        ],
+        "source_footers_after": [
+          203
+        ],
+        "source_page_references": [
+          203
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p760, p761. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          15,
+          16
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1546,
+          1547
+        ],
+        "source_footers_after": [
+          204
+        ],
+        "source_page_references": [
+          204
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p315, p315. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          17,
+          18,
+          19,
+          20
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1548,
+          1549,
+          1550,
+          1551
+        ],
+        "source_footers_after": [
+          204
+        ],
+        "source_page_references": [
+          204
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p763, p361, p360, p360. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          21
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1552
+        ],
+        "source_footers_after": [
+          204
+        ],
+        "source_page_references": [
+          204
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p764. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          22
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1554
+        ],
+        "source_footers_after": [
+          205
+        ],
+        "source_page_references": [
+          205
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p235. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          23,
+          24
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1555,
+          1556
+        ],
+        "source_footers_after": [
+          205
+        ],
+        "source_page_references": [
+          105
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p766, p767. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          25
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1557
+        ],
+        "source_footers_after": [
+          205
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p221. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1559,
+          1560,
+          1561,
+          1562,
+          1563,
+          1564
+        ],
+        "source_footers_after": [
+          206
+        ],
+        "source_page_references": [
+          206
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p769, p769, p769, p770, p770, p771. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          32
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1565
+        ],
+        "source_footers_after": [
+          206
+        ],
+        "source_page_references": [
+          206
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p772. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          33
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1566
+        ],
+        "source_footers_after": [
+          206
+        ],
+        "source_page_references": [
+          206
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p233. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          34,
+          35
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1568,
+          1569
+        ],
+        "source_footers_after": [
+          207
+        ],
+        "source_page_references": [
+          207
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p774, p775. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          36
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1570
+        ],
+        "source_footers_after": [
+          207
+        ],
+        "source_page_references": [
+          207
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p776. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          37
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1571
+        ],
+        "source_footers_after": [
+          207
+        ],
+        "source_page_references": [
+          207
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p777. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          38
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1573
+        ],
+        "source_footers_after": [
+          208
+        ],
+        "source_page_references": [
+          208
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          39
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1574
+        ],
+        "source_footers_after": [
+          208
+        ],
+        "source_page_references": [
+          208
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p228. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          40,
+          41
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1575,
+          1576
+        ],
+        "source_footers_after": [
+          208
+        ],
+        "source_page_references": [
+          208
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p779, p780. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          42
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1578
+        ],
+        "source_footers_after": [
+          209
+        ],
+        "source_page_references": [
+          209
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p782. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          43,
+          44,
+          45
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1579,
+          1580,
+          1581
+        ],
+        "source_footers_after": [
+          209
+        ],
+        "source_page_references": [
+          209
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p783, p361, p362. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          46
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1582
+        ],
+        "source_footers_after": [
+          209
+        ],
+        "source_page_references": [
+          209
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p784. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          47,
+          48,
+          49
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1584,
+          1585,
+          1586
+        ],
+        "source_footers_after": [
+          210
+        ],
+        "source_page_references": [
+          210
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199, p199, p193. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          50
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1587
+        ],
+        "source_footers_after": [
+          210
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p187. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          51,
+          52,
+          53,
+          54
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1588,
+          1589,
+          1590,
+          1591
+        ],
+        "source_footers_after": [
+          210
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p138, p199, p199, p199. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          55,
+          56,
+          57,
+          58
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1592,
+          1593,
+          1594,
+          1595
+        ],
+        "source_footers_after": [
+          210
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p187, p193, p199, p190. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          59,
+          60,
+          61
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1596,
+          1597,
+          1598
+        ],
+        "source_footers_after": [
+          210
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p683, p205, p201. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          62
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1600
+        ],
+        "source_footers_after": [
+          211
+        ],
+        "source_page_references": [
+          211
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p205. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          63
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1601
+        ],
+        "source_footers_after": [
+          211
+        ],
+        "source_page_references": [
+          211
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p787. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          64
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1602
+        ],
+        "source_footers_after": [
+          211
+        ],
+        "source_page_references": [
+          211
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p788. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      }
+    ]
+  },
+  "ga-040-doc-heading-32": {
+    "segments": [
+      {
+        "kind": "verse",
+        "parts": [
+          0
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1605
+        ],
+        "source_footers_after": [
+          212
+        ],
+        "source_page_references": [
+          212
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p791. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          1
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1606
+        ],
+        "source_footers_after": [
+          212
+        ],
+        "source_page_references": [
+          88,
+          104,
+          212
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p792. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          2
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1608
+        ],
+        "source_footers_after": [
+          214
+        ],
+        "source_page_references": [
+          213
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          3
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1609
+        ],
+        "source_footers_after": [
+          214
+        ],
+        "source_page_references": [
+          213
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p200. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1610,
+          1611,
+          1612,
+          1613,
+          1614,
+          1615,
+          1616,
+          1617,
+          1618,
+          1619,
+          1620,
+          1621
+        ],
+        "source_footers_after": [
+          214
+        ],
+        "source_page_references": [
+          214
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199, p193, p199, p199, p199, p193, p193, p193, p201, p202, p190, p201. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          16
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1622
+        ],
+        "source_footers_after": [
+          214
+        ],
+        "source_page_references": [
+          214
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p794. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      }
+    ]
+  },
+  "ga-040-doc-heading-33": {
+    "segments": [
+      {
+        "kind": "verse",
+        "parts": [
+          0,
+          1,
+          2
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1625,
+          1626,
+          1627
+        ],
+        "source_footers_after": [
+          215
+        ],
+        "source_page_references": [
+          215
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p405, p199, p199. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1628,
+          1629,
+          1630,
+          1631
+        ],
+        "source_footers_after": [
+          215
+        ],
+        "source_page_references": [
+          215
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p797, p798, p798, p799. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          7
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1632
+        ],
+        "source_footers_after": [
+          215
+        ],
+        "source_page_references": [
+          81,
+          215
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p800. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          8
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1634
+        ],
+        "source_footers_after": [
+          216
+        ],
+        "source_page_references": [
+          216
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          9
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1635
+        ],
+        "source_footers_after": [
+          216
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p336. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1637,
+          1638,
+          1639,
+          1640,
+          1641,
+          1642
+        ],
+        "source_footers_after": [
+          217
+        ],
+        "source_page_references": [
+          217
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p190, p201, p190, p202, p202, p193. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1643,
+          1644,
+          1645,
+          1646,
+          1647,
+          1648
+        ],
+        "source_footers_after": [
+          217
+        ],
+        "source_page_references": [
+          217
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p803, p193, p190, p201, p714, p190. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          22
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1650
+        ],
+        "source_footers_after": [
+          218
+        ],
+        "source_page_references": [
+          218
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p805. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          23
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1651
+        ],
+        "source_footers_after": [
+          218
+        ],
+        "source_page_references": [
+          218
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p806. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          24
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1653
+        ],
+        "source_footers_after": [
+          219
+        ],
+        "source_page_references": [
+          219
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          25
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1654
+        ],
+        "source_footers_after": [
+          219
+        ],
+        "source_page_references": [
+          219
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p228. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          26
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1655
+        ],
+        "source_footers_after": [
+          219
+        ],
+        "source_page_references": [
+          219
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p808. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1657,
+          1658,
+          1659,
+          1660,
+          1661,
+          1662
+        ],
+        "source_footers_after": [
+          220
+        ],
+        "source_page_references": [
+          220
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p193, p199, p202, p193, p193, p193. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          33,
+          34
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1663,
+          1664
+        ],
+        "source_footers_after": [
+          220
+        ],
+        "source_page_references": [
+          220
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p398, p190. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1666,
+          1667,
+          1668,
+          1669,
+          1670,
+          1671,
+          1672,
+          1673,
+          1674,
+          1675,
+          1676
+        ],
+        "source_footers_after": [
+          223
+        ],
+        "source_page_references": [
+          221
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p190, p193, p201, p201, p193, p199, p190, p190, p190, p193, p190. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          46
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1677
+        ],
+        "source_footers_after": [
+          223
+        ],
+        "source_page_references": [
+          221
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p408. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          47
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          1678
+        ],
+        "source_footers_after": [
+          223
+        ],
+        "source_page_references": [
+          222
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p70. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1679,
+          1680,
+          1681,
+          1682,
+          1683,
+          1684,
+          1685
+        ],
+        "source_footers_after": [
+          223
+        ],
+        "source_page_references": [
+          222
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p811, p812, p813, p331, p814, p814, p332. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          55
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1686
+        ],
+        "source_footers_after": [
+          223
+        ],
+        "source_page_references": [
+          222
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p815. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          56
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1687
+        ],
+        "source_footers_after": [
+          223
+        ],
+        "source_page_references": [
+          223
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p190. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          57,
+          58,
+          59
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1688,
+          1689,
+          1690
+        ],
+        "source_footers_after": [
+          223
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p816, p201, p193. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1691,
+          1692,
+          1693,
+          1694,
+          1695,
+          1696,
+          1697,
+          1698,
+          1699,
+          1700,
+          1701
+        ],
+        "source_footers_after": [
+          223
+        ],
+        "source_page_references": [
+          223
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p817, p193, p199, p190, p193, p190, p190, p193, p190, p205, p190. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          71
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          1703
+        ],
+        "source_footers_after": [
+          224
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p819. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          72
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1704
+        ],
+        "source_footers_after": [
+          224
+        ],
+        "source_page_references": [
+          224
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p405. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          73
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1705
+        ],
+        "source_footers_after": [
+          224
+        ],
+        "source_page_references": [
+          224
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p820. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          74
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1706
+        ],
+        "source_footers_after": [
+          224
+        ],
+        "source_page_references": [
+          224
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p200. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      }
+    ],
+    "edits": [
+      {
+        "old": "Wie die Blut' und Frucht,",
+        "new": "Wie die Blüt' und Frucht,",
+        "evidence": "Printed 1998 scan, https://odysseetheater.org/GA/Buecher/GA_040.pdf; wording of the retained 1991 edition otherwise preserved. Page326 visually reads Blüt'; both umlaut dots are present."
+      },
+      {
+        "old": "Ware die Welt nicht",
+        "new": "Wäre die Welt nicht",
+        "evidence": "Printed 1998 scan, https://odysseetheater.org/GA/Buecher/GA_040.pdf; wording of the retained 1991 edition otherwise preserved. Page230 visually confirms Wäre in the matching four-line verse."
+      }
+    ]
+  },
+  "ga-040-doc-heading-34": {
+    "segments": [
+      {
+        "kind": "verse",
+        "parts": [
+          0
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1709
+        ],
+        "source_footers_after": [
+          225
+        ],
+        "source_page_references": [
+          225
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p823. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          1
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1710
+        ],
+        "source_footers_after": [
+          225
+        ],
+        "source_page_references": [
+          225
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p824. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          2
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1711
+        ],
+        "source_footers_after": [
+          225
+        ],
+        "source_page_references": [
+          225
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p825. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          3
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1713
+        ],
+        "source_footers_after": [
+          226
+        ],
+        "source_page_references": [
+          226
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p827. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          4,
+          5
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1714,
+          1716
+        ],
+        "source_footers_after": [
+          226,
+          227
+        ],
+        "source_page_references": [
+          226
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p828, p829. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          6
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1718
+        ],
+        "source_footers_after": [
+          227
+        ],
+        "source_page_references": [
+          227
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p831. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          7
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1719
+        ],
+        "source_footers_after": [
+          227
+        ],
+        "source_page_references": [
+          227
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p832. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          8
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1720
+        ],
+        "source_footers_after": [
+          227
+        ],
+        "source_page_references": [
+          227
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p833. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1722,
+          1723,
+          1724,
+          1725,
+          1726,
+          1727,
+          1728,
+          1729
+        ],
+        "source_footers_after": [
+          228
+        ],
+        "source_page_references": [
+          228
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p205, p202, p202, p202, p229, p205, p231, p231. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1730,
+          1731,
+          1732,
+          1733,
+          1734,
+          1735,
+          1736,
+          1737
+        ],
+        "source_footers_after": [
+          228
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p835, p202, p205, p205, p205, p231, p229, p226. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "attribution",
+        "parts": [
+          25
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          1738
+        ],
+        "source_footers_after": [
+          228
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p836. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          26,
+          27,
+          28,
+          29
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1740,
+          1741,
+          1742,
+          1743
+        ],
+        "source_footers_after": [
+          229
+        ],
+        "source_page_references": [
+          229
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199, p201, p190, p193. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          30
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1744
+        ],
+        "source_footers_after": [
+          229
+        ],
+        "source_page_references": [
+          229
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p204. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          31
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1745
+        ],
+        "source_footers_after": [
+          229
+        ],
+        "source_page_references": [
+          229
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p838. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          32
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          1747
+        ],
+        "source_footers_after": [
+          230
+        ],
+        "source_page_references": [
+          230
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p840. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1748,
+          1749,
+          1750,
+          1751,
+          1752,
+          1753,
+          1754
+        ],
+        "source_footers_after": [
+          230
+        ],
+        "source_page_references": [
+          230
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p841, p842, p843, p844, p843, p843, p843. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          40,
+          41
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1755,
+          1756
+        ],
+        "source_footers_after": [
+          230
+        ],
+        "source_page_references": [
+          230
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p845, p846. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          42
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1757
+        ],
+        "source_footers_after": [
+          230
+        ],
+        "source_page_references": [
+          230
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p847. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          43,
+          44,
+          45,
+          46
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1759,
+          1760,
+          1761,
+          1762
+        ],
+        "source_footers_after": [
+          231
+        ],
+        "source_page_references": [
+          231
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199, p193, p193, p199. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1763,
+          1764,
+          1765,
+          1766,
+          1767,
+          1768,
+          1769,
+          1770,
+          1771
+        ],
+        "source_footers_after": [
+          231
+        ],
+        "source_page_references": [
+          231
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p408, p202, p201, p190, p205, p202, p205, p205, p229. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      }
+    ],
+    "edits": [
+      {
+        "old": "Denn e r ist selbst",
+        "new": "Denn er ist selbst",
+        "evidence": "Original 1991 DOC, http://bdn-steiner.ru/cat/ga/040.doc, paragraph formatting recovered with textutil. Paragraph1762 contains a spaced emphasis OCR artifact; closing phrase is continuous er. Only spacing changes."
+      }
+    ]
+  },
+  "ga-040-doc-heading-35": {
+    "segments": [
+      {
+        "kind": "verse",
+        "parts": [
+          0,
+          1,
+          2
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1774,
+          1775,
+          1776
+        ],
+        "source_footers_after": [
+          232
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p850, p851, p68. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          3
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1777
+        ],
+        "source_footers_after": [
+          232
+        ],
+        "source_page_references": [
+          232
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p852. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      }
+    ]
+  },
+  "ga-040-doc-heading-36": {
+    "segments": [
+      {
+        "kind": "verse",
+        "parts": [
+          0
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1780
+        ],
+        "source_footers_after": [
+          233
+        ],
+        "source_page_references": [
+          233
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p855. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          1
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1781
+        ],
+        "source_footers_after": [
+          233
+        ],
+        "source_page_references": [
+          233
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p856. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1783,
+          1784,
+          1785,
+          1786,
+          1787,
+          1788,
+          1789
+        ],
+        "source_footers_after": [
+          234
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199, p193, p190, p190, p190, p201, p190. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1790,
+          1791,
+          1792,
+          1793,
+          1794
+        ],
+        "source_footers_after": [
+          234
+        ],
+        "source_page_references": [
+          234
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p858, p859, p193, p190, p201. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1796,
+          1797,
+          1798,
+          1799,
+          1800,
+          1801,
+          1802,
+          1803
+        ],
+        "source_footers_after": [
+          235
+        ],
+        "source_page_references": [
+          235
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p193, p202, p193, p190, p199, p193, p193, p199. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          22,
+          23,
+          24,
+          25
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1804,
+          1805,
+          1806,
+          1807
+        ],
+        "source_footers_after": [
+          235
+        ],
+        "source_page_references": [
+          235
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p215, p190, p190, p193. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          26
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1808
+        ],
+        "source_footers_after": [
+          235
+        ],
+        "source_page_references": [
+          235
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p861. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          27,
+          28,
+          29,
+          30,
+          31
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1810,
+          1811,
+          1812,
+          1813,
+          1814
+        ],
+        "source_footers_after": [
+          236
+        ],
+        "source_page_references": [
+          236
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p193, p193, p193, p190, p190. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          32,
+          33,
+          34,
+          35,
+          36
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1815,
+          1816,
+          1817,
+          1818,
+          1819
+        ],
+        "source_footers_after": [
+          236
+        ],
+        "source_page_references": [
+          236
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p233, p193, p193, p193, p199. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          37
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1820
+        ],
+        "source_footers_after": [
+          236
+        ],
+        "source_page_references": [
+          236
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p200. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          38
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1822
+        ],
+        "source_footers_after": [
+          237
+        ],
+        "source_page_references": [
+          137
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p193. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          39
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1823
+        ],
+        "source_footers_after": [
+          237
+        ],
+        "source_page_references": [
+          237
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p820. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          40
+        ],
+        "join": " ",
+        "level": 2,
+        "source_doc_nodes": [
+          1825
+        ],
+        "source_footers_after": [
+          238
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p865. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          41
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          1826
+        ],
+        "source_footers_after": [
+          238
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p866. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          42
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1827
+        ],
+        "source_footers_after": [
+          238
+        ],
+        "source_page_references": [
+          238
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p867. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          43,
+          44,
+          45
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          1828,
+          1829,
+          1830
+        ],
+        "source_footers_after": [
+          238
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p868, p869, p869. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          46
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          1832
+        ],
+        "source_footers_after": [
+          239
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p871. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1833,
+          1834,
+          1835,
+          1836,
+          1837,
+          1838,
+          1839,
+          1840,
+          1841,
+          1842,
+          1843,
+          1844,
+          1845,
+          1846,
+          1847,
+          1848
+        ],
+        "source_footers_after": [
+          239
+        ],
+        "source_page_references": [
+          239
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p872, p842, p843, p844, p873, p843, p844, p844, p844, p843, p842, p843, p844, p843, p843, p844. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          63
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          1849
+        ],
+        "source_footers_after": [
+          239
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p874. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          64
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          1851
+        ],
+        "source_footers_after": [
+          240
+        ],
+        "source_page_references": [
+          240
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p876. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1852,
+          1853,
+          1854,
+          1855,
+          1856,
+          1857,
+          1858,
+          1859,
+          1860,
+          1861
+        ],
+        "source_footers_after": [
+          240
+        ],
+        "source_page_references": [
+          240
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p877, p190, p199, p193, p202, p190, p190, p202, p202, p205. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          75
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          1863
+        ],
+        "source_footers_after": [
+          241
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p879. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1864,
+          1865,
+          1866,
+          1867,
+          1868,
+          1869,
+          1870,
+          1871,
+          1872,
+          1873,
+          1874,
+          1875,
+          1876,
+          1877
+        ],
+        "source_footers_after": [
+          241
+        ],
+        "source_page_references": [
+          241
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p880, p315, p360, p360, p361, p361, p362, p387, p387, p387, p387, p390, p390, p881. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          90
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1879
+        ],
+        "source_footers_after": [
+          242
+        ],
+        "source_page_references": [
+          242
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p315. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          91
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1881
+        ],
+        "source_footers_after": [
+          243
+        ],
+        "source_page_references": [
+          243
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p435. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1882,
+          1883,
+          1884,
+          1885,
+          1886,
+          1887,
+          1888
+        ],
+        "source_footers_after": [
+          243
+        ],
+        "source_page_references": [
+          243
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p884, p190, p190, p190, p205, p202, p190. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          99
+        ],
+        "join": " ",
+        "level": 2,
+        "source_doc_nodes": [
+          1890
+        ],
+        "source_footers_after": [
+          244
+        ],
+        "source_page_references": [
+          244
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p886. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1891,
+          1892,
+          1893,
+          1894,
+          1895,
+          1896,
+          1897,
+          1898,
+          1899,
+          1900,
+          1901,
+          1902,
+          1903
+        ],
+        "source_footers_after": [
+          244
+        ],
+        "source_page_references": [
+          244
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p887, p888, p889, p890, p889, p891, p892, p892, p893, p894, p895, p894, p896. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      }
+    ],
+    "edits": [
+      {
+        "old": "MORGENSPRUCH FÜR DIE VIER UN T EREN KLASSEN",
+        "new": "MORGENSPRUCH FÜR DIE VIER UNTEREN KLASSEN",
+        "evidence": "Printed 1998 scan, https://odysseetheater.org/GA/Buecher/GA_040.pdf; wording of the retained 1991 edition otherwise preserved. Page350 prints Morgenspruch für die vier unteren Klassen; the retained original heading has spurious internal spaces."
+      }
+    ]
+  },
+  "ga-040-doc-heading-37": {
+    "segments": [
+      {
+        "kind": "verse",
+        "parts": [
+          0
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1906
+        ],
+        "source_footers_after": [
+          246
+        ],
+        "source_page_references": [
+          245
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p898. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1907,
+          1908,
+          1909,
+          1910,
+          1911,
+          1912,
+          1913,
+          1914,
+          1915,
+          1916,
+          1917,
+          1918,
+          1919,
+          1920,
+          1921,
+          1922,
+          1923,
+          1924
+        ],
+        "source_footers_after": [
+          246
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p899, p451, p900, p900, p900, p449, p449, p901, p449, p902, p901, p901, p901, p901, p901, p903, p904, p905. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          19
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1926
+        ],
+        "source_footers_after": [
+          247
+        ],
+        "source_page_references": [
+          247
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p507. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          20
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          1928
+        ],
+        "source_footers_after": [
+          248
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p908. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1929,
+          1930,
+          1931,
+          1932,
+          1933,
+          1934,
+          1935,
+          1936,
+          1937,
+          1938
+        ],
+        "source_footers_after": [
+          248
+        ],
+        "source_page_references": [
+          248
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p880, p315, p315, p360, p360, p360, p361, p360, p361, p383. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          31
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1939
+        ],
+        "source_footers_after": [
+          248
+        ],
+        "source_page_references": [
+          248
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p909. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          32
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1941
+        ],
+        "source_footers_after": [
+          249
+        ],
+        "source_page_references": [
+          249
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p911. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          33
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1942
+        ],
+        "source_footers_after": [
+          249
+        ],
+        "source_page_references": [
+          249
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p912. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          34
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1943
+        ],
+        "source_footers_after": [
+          249
+        ],
+        "source_page_references": [
+          249
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p913. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          35
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1945
+        ],
+        "source_footers_after": [
+          250
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p915. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          36
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1946
+        ],
+        "source_footers_after": [
+          250
+        ],
+        "source_page_references": [
+          250
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p916. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          37
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1948
+        ],
+        "source_footers_after": [
+          251
+        ],
+        "source_page_references": [
+          251
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p236. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          38
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1949
+        ],
+        "source_footers_after": [
+          251
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p918. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          39,
+          40,
+          41,
+          42,
+          43
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1950,
+          1951,
+          1952,
+          1953,
+          1954
+        ],
+        "source_footers_after": [
+          251
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p919, p193, p190, p199, p199. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          44,
+          45,
+          46,
+          47
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1955,
+          1956,
+          1957,
+          1958
+        ],
+        "source_footers_after": [
+          251
+        ],
+        "source_page_references": [
+          251
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p920, p494, p494, p494. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          48
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1960
+        ],
+        "source_footers_after": [
+          252
+        ],
+        "source_page_references": [
+          252
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p704. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          49
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1961
+        ],
+        "source_footers_after": [
+          252
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p922. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          50,
+          51,
+          52,
+          53
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1962,
+          1963,
+          1964,
+          1965
+        ],
+        "source_footers_after": [
+          252
+        ],
+        "source_page_references": [
+          77,
+          146
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p923, p924, p925, p925. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          54
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1966
+        ],
+        "source_footers_after": [
+          252
+        ],
+        "source_page_references": [
+          252
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p776. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      }
+    ],
+    "edits": [
+      {
+        "old": "Des Leinens und Strebens",
+        "new": "Des Lernens und Strebens",
+        "evidence": "Printed 1998 scan, https://odysseetheater.org/GA/Buecher/GA_040.pdf; wording of the retained 1991 edition otherwise preserved. Page330 visually confirms Lernens in the same birthday verse."
+      }
+    ]
+  },
+  "ga-040-doc-heading-38": {
+    "segments": [
+      {
+        "kind": "verse",
+        "parts": [
+          0
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1969
+        ],
+        "source_footers_after": [
+          256
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p321. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1970,
+          1971,
+          1972,
+          1973,
+          1974
+        ],
+        "source_footers_after": [
+          256
+        ],
+        "source_page_references": [
+          252
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p928, p238, p509, p511, p929. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          6
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1975
+        ],
+        "source_footers_after": [
+          256
+        ],
+        "source_page_references": [
+          253,
+          263
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p930. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          7
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1976
+        ],
+        "source_footers_after": [
+          256
+        ],
+        "source_page_references": [
+          254
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p930. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          8
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          1977
+        ],
+        "source_footers_after": [
+          256
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p931. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          9
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1978
+        ],
+        "source_footers_after": [
+          256
+        ],
+        "source_page_references": [
+          255
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p321. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          10
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1979
+        ],
+        "source_footers_after": [
+          256
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p138. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          11
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1980
+        ],
+        "source_footers_after": [
+          256
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p668. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          12
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1981
+        ],
+        "source_footers_after": [
+          256
+        ],
+        "source_page_references": [
+          256
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p315. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1982,
+          1983,
+          1984,
+          1985,
+          1986
+        ],
+        "source_footers_after": [
+          256
+        ],
+        "source_page_references": [
+          256
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p932, p902, p904, p933, p904. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          18
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          1987
+        ],
+        "source_footers_after": [
+          256
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p934. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          19
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1988
+        ],
+        "source_footers_after": [
+          256
+        ],
+        "source_page_references": [
+          256
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p935. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          20
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          1990
+        ],
+        "source_footers_after": [
+          257
+        ],
+        "source_page_references": [
+          257
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p937. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          1991,
+          1992,
+          1993,
+          1994,
+          1995,
+          1996,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002
+        ],
+        "source_footers_after": [
+          257
+        ],
+        "source_page_references": [
+          257
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p468, p383, p362, p362, p383, p383, p383, p389, p881, p389, p390, p390. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009
+        ],
+        "source_footers_after": [
+          257
+        ],
+        "source_page_references": [
+          257
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p938, p939, p940, p940, p941, p942, p943. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017
+        ],
+        "source_footers_after": [
+          258
+        ],
+        "source_page_references": [
+          258
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p360, p360, p362, p360, p361, p315, p361. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          47
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2018
+        ],
+        "source_footers_after": [
+          258
+        ],
+        "source_page_references": [
+          258
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p945. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024
+        ],
+        "source_footers_after": [
+          258
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p946, p947, p947, p948, p948, p949. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          54
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2026
+        ],
+        "source_footers_after": [
+          259
+        ],
+        "source_page_references": [
+          259
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p435. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          55
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2027
+        ],
+        "source_footers_after": [
+          259
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p918. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          56
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2028
+        ],
+        "source_footers_after": [
+          259
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p951. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          57
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2029
+        ],
+        "source_footers_after": [
+          259
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p952. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          58
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2030
+        ],
+        "source_footers_after": [
+          259
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p953. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          59
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2031
+        ],
+        "source_footers_after": [
+          259
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p954. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      }
+    ]
+  },
+  "ga-040-doc-heading-39": {
+    "segments": [
+      {
+        "kind": "verse",
+        "parts": [
+          0
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2034
+        ],
+        "source_footers_after": [
+          260
+        ],
+        "source_page_references": [
+          260
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p957. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          1
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2035
+        ],
+        "source_footers_after": [
+          260
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p958. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          2
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2036
+        ],
+        "source_footers_after": [
+          260
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p959. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          3
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2038
+        ],
+        "source_footers_after": [
+          261
+        ],
+        "source_page_references": [
+          261
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          4
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2040
+        ],
+        "source_footers_after": [
+          262
+        ],
+        "source_page_references": [
+          262
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p435. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2041,
+          2042,
+          2043,
+          2044,
+          2045,
+          2046,
+          2047
+        ],
+        "source_footers_after": [
+          262
+        ],
+        "source_page_references": [
+          262
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p962, p963, p963, p239, p236, p239, p963. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          2048,
+          2049,
+          2050,
+          2051,
+          2052,
+          2053
+        ],
+        "source_footers_after": [
+          262
+        ],
+        "source_page_references": [
+          262
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p964, p236, p708, p435, p240, p507. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          18,
+          19,
+          20,
+          21
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2055,
+          2056,
+          2057,
+          2058
+        ],
+        "source_footers_after": [
+          264
+        ],
+        "source_page_references": [
+          263
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p190, p201, p199, p202. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          22
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2059
+        ],
+        "source_footers_after": [
+          264
+        ],
+        "source_page_references": [
+          253,
+          263
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p966. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2060,
+          2061,
+          2062,
+          2063,
+          2064,
+          2065
+        ],
+        "source_footers_after": [
+          264
+        ],
+        "source_page_references": [
+          263
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p747, p231, p226, p229, p226, p226. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          29
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          2066
+        ],
+        "source_footers_after": [
+          264
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p967. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          30
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2067
+        ],
+        "source_footers_after": [
+          264
+        ],
+        "source_page_references": [
+          264
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p468. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          31
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          2069
+        ],
+        "source_footers_after": [
+          265
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p969. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          32
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2070
+        ],
+        "source_footers_after": [
+          265
+        ],
+        "source_page_references": [
+          265
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p970. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2071,
+          2072,
+          2073,
+          2074,
+          2075,
+          2076,
+          2077,
+          2078,
+          2079,
+          2080
+        ],
+        "source_footers_after": [
+          265
+        ],
+        "source_page_references": [
+          265
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p766, p201, p231, p971, p202, p205, p231, p229, p229, p226. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          43
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2082
+        ],
+        "source_footers_after": [
+          266
+        ],
+        "source_page_references": [
+          266
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p190. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2083,
+          2084,
+          2085,
+          2086,
+          2087,
+          2088
+        ],
+        "source_footers_after": [
+          266
+        ],
+        "source_page_references": [
+          266
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p325, p193, p190, p199, p193, p190. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          50
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          2090
+        ],
+        "source_footers_after": [
+          267
+        ],
+        "source_page_references": [
+          267
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p956. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2091,
+          2092,
+          2093,
+          2094,
+          2095,
+          2096,
+          2097,
+          2098,
+          2099,
+          2100,
+          2101,
+          2102,
+          2103,
+          2104,
+          2105,
+          2106,
+          2107,
+          2108,
+          2109,
+          2110
+        ],
+        "source_footers_after": [
+          267
+        ],
+        "source_page_references": [
+          267
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p974, p975, p975, p975, p975, p976, p975, p977, p975, p978, p978, p977, p977, p975, p978, p975, p978, p975, p977, p979. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "heading",
+        "parts": [
+          71
+        ],
+        "join": " ",
+        "level": 3,
+        "source_doc_nodes": [
+          2112
+        ],
+        "source_footers_after": [
+          268
+        ],
+        "source_page_references": [
+          268
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p70. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2113,
+          2114,
+          2115,
+          2116,
+          2117,
+          2118,
+          2119,
+          2120,
+          2121,
+          2122,
+          2123,
+          2124,
+          2125,
+          2126,
+          2127,
+          2128,
+          2129
+        ],
+        "source_footers_after": [
+          268
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p981, p332, p331, p332, p331, p331, p331, p812, p814, p332, p813, p331, p332, p332, p332, p332, p814. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "verse",
+        "parts": [
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102
+        ],
+        "join": "\n",
+        "source_doc_nodes": [
+          2131,
+          2132,
+          2133,
+          2134,
+          2135,
+          2136,
+          2137,
+          2138,
+          2139,
+          2140,
+          2141,
+          2142,
+          2143,
+          2144
+        ],
+        "source_footers_after": [
+          269
+        ],
+        "source_page_references": [
+          269
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p199, p199, p199, p193, p199, p199, p193, p193, p199, p199, p193, p193, p193, p193. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      }
+    ]
+  },
+  "ga-040-doc-heading-40": {
+    "segments": [
+      {
+        "kind": "prose",
+        "parts": [
+          0
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          2147
+        ],
+        "source_footers_after": [
+          274
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p985. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      }
+    ],
+    "edits": [
+      {
+        "old": "Einzel- ausgabe",
+        "new": "Einzelausgabe",
+        "evidence": "Original 1991 DOC, http://bdn-steiner.ru/cat/ga/040.doc, paragraph formatting recovered with textutil. Bibliographic prose p985 has a printed wrap after Einzel-."
+      }
+    ]
+  },
+  "ga-040-doc-heading-41": {
+    "segments": [
+      {
+        "kind": "prose",
+        "parts": [
+          0
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          2149
+        ],
+        "source_footers_after": [
+          274
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p987. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          1,
+          2
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          2150,
+          2151
+        ],
+        "source_footers_after": [
+          274
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p988, p989. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          3
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          2152,
+          2154
+        ],
+        "source_footers_after": [
+          274,
+          275
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p990, p992. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          4
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          2155
+        ],
+        "source_footers_after": [
+          275
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p993. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      },
+      {
+        "kind": "prose",
+        "parts": [
+          5
+        ],
+        "join": " ",
+        "source_doc_nodes": [
+          2156
+        ],
+        "source_footers_after": [
+          275
+        ],
+        "evidence": "1991 DOC paragraph indices are zero based across all <p> elements in the textutil HTML witness. Paragraph classes: p994. Numeric paragraphs are page footers; source_footers_after is evidence of footer order, not an unconditional page-start assignment."
+      }
+    ],
+    "edits": [
+      {
+        "old": "Welt- wirkens",
+        "new": "Weltwirkens",
+        "evidence": "Original 1991 DOC, http://bdn-steiner.ru/cat/ga/040.doc, paragraph formatting recovered with textutil. Prose p989, line-end split of Weltwirkens."
+      },
+      {
+        "old": "Weltwir- ken",
+        "new": "Weltwirken",
+        "evidence": "Original 1991 DOC, http://bdn-steiner.ru/cat/ga/040.doc, paragraph formatting recovered with textutil. Prose p989, line-end split of Weltwirken."
+      },
+      {
+        "old": "Gottes- lebens",
+        "new": "Gotteslebens",
+        "evidence": "Original 1991 DOC, http://bdn-steiner.ru/cat/ga/040.doc, paragraph formatting recovered with textutil. Prose p992, line-end split of Gotteslebens."
+      },
+      {
+        "old": "verabscheuungs- würdigste",
+        "new": "verabscheuungswürdigste",
+        "evidence": "Original 1991 DOC, http://bdn-steiner.ru/cat/ga/040.doc, paragraph formatting recovered with textutil. Prose p992, line-end split of verabscheuungswürdigste."
+      },
+      {
+        "old": "Strebens- keim",
+        "new": "Strebenskeim",
+        "evidence": "Original 1991 DOC, http://bdn-steiner.ru/cat/ga/040.doc, paragraph formatting recovered with textutil. Prose p993, line-end split of Strebenskeim."
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+Method: built-in ImageGen; native vectors and mask exports for lettering.
+
+FINAL LINEN PROMPT
+Use case: precise-object-edit.
+Input image: the ORIGINAL 300 x 400 photograph of the blue cloth-bound book. This original is the sole material reference; do not use any previously generated square icon as a texture reference.
+Asset type: flat square PNG texture/background for Apple Icon Composer.
+Primary request: create a completely text-free, edge-to-edge square blue linen book-cover background from this photograph, preserving the original weave's appearance and original blue color as faithfully as possible. Remove all gold letters. The result is the background layer only.
+Match the photograph's very fine, worn, understated woven flax/linen fabric: irregular extremely fine horizontal and vertical fibers, faint color mottling and moderate abrasion, subtle natural unevenness, without large crosshatching, knitted loops, coarse diagonal fibers or exaggerated fabric contrast.
+Original measured cloth median RGB: 59, 93, 144 (#3B5D90), with lighter muted blue at the top and a darker lower area. Keep this subdued blue palette and desaturated gray-blue fibers rather than a bright electric blue.
+Keep a very narrow understated binding crease close to the left edge, as in the original, around x=4% of width. Nearly flat front view, flat diffuse light, no depth or bevel. Adapt the portrait photograph to a square; retain its historical bookcloth character.
+Full square 1024 x 1024 canvas, fully opaque and rectilinear corners: NO rounded corners, NO transparent pixels, NO outside margin, NO border. Icon Composer supplies its own outer mask.
+Strictly no text, letters, gold, logos, ornament, objects, scenery, drop shadow or watermark. Do not invent graphic elements. This should look like a close reproduction of the physical blue material from the original photograph, with all writing removed.
+
+INITIAL GOLD PROMPT
+Use case: product-mockup.
+Input image: the ORIGINAL 300 x 400 photograph of the blue cloth-bound book. The tiny actual gold lettering on this original photograph is the sole GOLD MATERIAL reference.
+Asset type: full-frame square gold-stamping texture PNG, to be clipped through separate vector letter masks.
+Primary request: reconstruct and enlarge ONLY the appearance of the original book cover's pale gold hot-foil stamping into a usable 1024 x 1024 full-canvas gold material swatch. Study the original pale metallic beige-gold letters. Their texture is quiet, old, matte and finely broken over the underlying linen grain.
+Measured source gold median RGB: 218, 212, 185 (#DAD4B9); brighter centers about #EEE8CD and worn darker areas about #9B957C. Use the original muted PALE CHAMPAGNE-GOLD palette, low saturation, NOT vivid yellow or orange, with small natural variations.
+Very delicate microscopic woven cloth imprint passing into the stamping, subtle aging and fine fragmented foil grain. Extremely fine and restrained scale; mostly coherent quiet light gold surface. Soft flat diffuse light and no broad gradient. NO large flakes, NO crumpled foil, NO hammered texture, NO marble veins, NO scratches larger than fine cloth fibers, NO dramatic metal reflections, NO shiny chrome, NO jewelry.
+Fill the entire square with this single gold material, fully opaque, straight edges, no external border or corners, no object, no writing, no letters, no symbols, no blue cloth visible. This is a material swatch, not a finished icon.
+
+FINAL GOLD REFINEMENT PROMPT (selected gold-imagegen-selected.png)
+Use case: precise-object-edit.
+Input 1 is the edit target: a square material swatch. Input 2 is the ORIGINAL book photo, whose pale foil lettering is the reference.
+Make one targeted correction to Input 1: match its color and restrained surface finish MUCH more closely to the tiny PALE gold letters of Input 2.
+The current swatch is too yellow/brown and its texture too bumpy and contrasty. Correct the whole material to a LIGHT, LOW-SATURATION GRAYISH CHAMPAGNE-BEIGE gold, with average pixel color extremely close to RGB 218,212,185 (hex #DAD4B9). Blue channel about 185, NOT 140. This precise hue is essential. It should read almost as warm ivory/tarnished silver with a faint gold cast, not golden-yellow.
+Reduce the grain highlight/shadow contrast by approximately 65 percent and remove the raised pebble-like look. Keep just extremely fine irregular foil speckle and an understated imprint of the original linen threads. Mostly smooth matte pale gold stamped surface, with gently worn tiny pores. Original color fidelity is more important than dramatic metallic rendering.
+No dramatic reflections, no crumpling, no hammered/pebbled metal, no chunky fibers.
+Full-canvas opaque square texture, 1024x1024, no letters, no blue, no objects, no borders, no rounded corners, no gradients.
+

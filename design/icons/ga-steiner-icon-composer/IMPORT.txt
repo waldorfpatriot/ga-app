@@ -1,0 +1,50 @@
+GA / Steiner — Icon Composer assets
+
+Canvas: 1024 × 1024 pixels, square, without a rounded-corner mask.
+All import layers use the full canvas so their positions are already aligned.
+
+SEPARATE, EDITABLE LETTERING
+
+1. Create an iPhone/iPad/Mac icon in Icon Composer.
+2. Import 01-linen-background.png as the bottom layer.
+3. Import 02-ga.svg and 03-steiner.svg above it.
+4. Keep each layer centered with the same canvas scale. Do not trim the
+   transparent margins or resize the words independently unless you want
+   to change the composition.
+5. Disable Liquid Glass on the linen layer to keep the cloth texture.
+6. Start with Liquid Glass disabled on the lettering for a matte ink look.
+   Then tune the lettering's material and effects to your preference.
+
+The SVGs are outlined shapes, traced from the approved image. They do not
+require a font. Their colors are GA #37482A and Steiner #334426.
+Transparent PNG alternatives for the same two word layers are in png/.
+Use the SVG pair OR the PNG pair; importing both duplicates the lettering.
+
+EMBOSSED APPEARANCE ALTERNATIVE
+
+For the textured lettering treatment, import 01-linen-background.png and
+alternatives/02-lettering-embossed.png. This single transparent foreground
+contains both words and their shading. Disable Liquid Glass on these
+layers to preserve the baked material appearance. Do not add the separate
+GA/Steiner layers on top of this alternative.
+
+alternatives/02-lettering-combined.svg and .png provide both words as one
+flat foreground if you prefer to manipulate them as a single layer.
+
+REFERENCE AND SOURCE
+
+reference/ga-steiner-reference.png is the original approved flattened image.
+The background and embossed foreground were reconstructed with built-in
+ImageGen; the reconstruction can differ slightly from that reference.
+The SVG and flat PNG silhouettes preserve the reference's lettering and
+positioning, but omit its cloth texture and pressed lighting.
+
+sources/ contains the unscaled ImageGen outputs and exact edit prompts.
+Import-ready raster exports were normalized to 1024 × 1024 pixels.
+asset-manifest.json records layer dimensions, colors and source hashes.
+
+Apple's guidance: export layers on the full canvas, outline text, use SVG
+for vector shapes and PNG for raster artwork, and let Icon Composer apply
+the icon mask. Imported layers receive Liquid Glass by default; it can be
+disabled per layer.
+https://developer.apple.com/videos/play/wwdc2025/361/

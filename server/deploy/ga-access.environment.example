@@ -1,0 +1,11 @@
+# Copy to /etc/ga-access/environment, owner root:root, mode 0600.
+# Populate secrets through the deployment secret store; do not commit the real file.
+PHX_SERVER=true
+PHX_HOST=fototausch.eu
+PORT=4131
+GA_BIND_ADDRESS=127.0.0.1
+GA_ACCESS_TRUSTED_PROXY_IPS=127.0.0.1,::1
+DATABASE_URL=ecto://ga_access:REPLACE_DATABASE_PASSWORD@localhost/ga_access
+SECRET_KEY_BASE=REPLACE_WITH_MIX_PHX_GEN_SECRET
+GA_ACCESS_ENCRYPTION_KEY=REPLACE_WITH_BASE64_OF_32_RANDOM_BYTES
+POOL_SIZE=10

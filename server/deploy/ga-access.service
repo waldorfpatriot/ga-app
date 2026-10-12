@@ -1,0 +1,36 @@
+[Unit]
+Description=GA solidarity access API
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ga-access
+Group=ga-access
+WorkingDirectory=/opt/ga-access/current
+EnvironmentFile=/etc/ga-access/environment
+Environment=RELEASE_DISTRIBUTION=none
+Environment="ERL_FLAGS=+S 2:2 +A 4"
+Environment=RELEASE_TMP=/var/lib/ga-access
+Environment=ERL_CRASH_DUMP=/var/lib/ga-access/erl_crash.dump
+ExecStart=/opt/ga-access/current/bin/ga_server start
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=30
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+RestrictSUIDSGID=true
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+StateDirectory=ga-access
+MemoryMax=512M
+TasksMax=128
+UMask=0077
+LimitNOFILE=65535
+
+[Install]
+WantedBy=multi-user.target

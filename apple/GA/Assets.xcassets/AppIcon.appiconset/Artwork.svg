@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#203E51"/>
+  <defs>
+    <path id="page" d="M206 331 C316 286 414 308 501 371 L501 696 C408 632 310 620 206 669 Z"/>
+  </defs>
+  <g fill="#BEA079" transform="translate(0 28)">
+    <use href="#page"/>
+    <use href="#page" transform="translate(1024 0) scale(-1 1)"/>
+  </g>
+  <g fill="#F4EFDF">
+    <use href="#page"/>
+    <use href="#page" transform="translate(1024 0) scale(-1 1)"/>
+  </g>
+  <g fill="#203E51" font-family="Georgia, serif" font-size="226" text-anchor="middle" dominant-baseline="central">
+    <text x="354" y="509">G</text>
+    <text x="670" y="509">A</text>
+  </g>
+</svg>

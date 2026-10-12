@@ -1,0 +1,3632 @@
+{
+  "schema_version": 1,
+  "purpose": "Original German source recovery for unavailable art/education GA volumes",
+  "records": [
+    {
+      "work_id": "ga-281",
+      "ga_number": "281",
+      "title": "Die Kunst der Rezitation und Deklamation.",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-281/rudolf-steiner-ga-281.doc",
+          "path": "research/unavailable-recovery/education-art/ga-281/rudolf-steiner-ga-281.doc",
+          "format": "Word Document",
+          "ia_md5": "45061b0ff751b5e83c2e0c99a6049959",
+          "expected_bytes": 915968,
+          "sha256": "c041f06e144188b895942c34d7c2ce21cc62fbd37acc844bde7575e3c567654b",
+          "bytes": 915968
+        },
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-281/rudolf-steiner-ga-281_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-281/rudolf-steiner-ga-281_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "710b4fc3afeb79a1653d3cabbcfa3f0c",
+          "expected_bytes": 3890789,
+          "sha256": "7583fe855686c41034a77412dbf3086003132c595cb461ac5727e6c43af62ae2",
+          "bytes": 3890789
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA281.epub",
+          "path": "research/unavailable-recovery/education-art/ga-281/GA281.epub",
+          "format": "EPUB",
+          "sha256": "9ba6d66d069b9f7bd6e3c5331971d16cb95ecb5676f3898ead90365f66723139",
+          "bytes": 272982
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-281",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-281/ia_metadata.json",
+      "scan_imagecount": 256,
+      "doc_text_path": "research/unavailable-recovery/education-art/ga-281/doc-full.txt",
+      "doc_chars": 445305,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-281/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-281/ocr-full.txt",
+      "ocr_page_count": 256,
+      "ocr_chars": 450239,
+      "scope_reference_url": "https://anthrowiki.at/GA_281",
+      "epub_members": [
+        {
+          "member": "content10.xhtml",
+          "title": "I DIE KUNST DER REZITATION UND DEKLAMATION Erster Vortrag Dornach, 29. September 1920",
+          "body_chars": 26983,
+          "sha256": "1ca6e80c22f078c2df238c421e08a98ce54833648030e4e3bf526d6fc25a8bc1",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content25.xhtml",
+          "title": "DIE KUNST DER REZITATION UND DEKLAMATION Zweiter Vortrag Dornach, 6. Oktober 1920",
+          "body_chars": 26751,
+          "sha256": "cc305fa4e2c8e7365e6029449904849ddae8102a36fc31873b4a5c8d11bff837",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content41.xhtml",
+          "title": "DIE KUNST DER REZITATION UND DEKLAMATION Dritter Vortrag Dornach) 13. Oktober 1920",
+          "body_chars": 31866,
+          "sha256": "8d79bc44540379d2302299b30258cf605cb0d40200e80efd552bdfcf2e442c30",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content58.xhtml",
+          "title": "NIEDERGANG UND AUFBAU Eine Sprachbetrachtung",
+          "body_chars": 21885,
+          "sha256": "3e0b600eef9274550fb03c230253bfdb1eaa0c1fb330d18a9775a59b70877aa0",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content68.xhtml",
+          "title": "DIE KUNST DES MÜNDLICHEN VORTRAGES Dornach, 6. April 1921",
+          "body_chars": 60482,
+          "sha256": "af26e6f92e55fe1b0416891c8d53ef9a8e707c71b3efc680947536b9c6669de3",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content100.xhtml",
+          "title": "FORMENEMPFINDUNG IN DICHTUNG UND REZITATION Eine ästhetische Betrachtung Darmstadt, 30. Juli 1921",
+          "body_chars": 37974,
+          "sha256": "e7fa78261bb750ecc20e91f9d9aa484048ca61d75ff12dcb80930e41573d3673",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content119.xhtml",
+          "title": "DICHTUNG UND REZITATION Wien, 7. Juni 1922",
+          "body_chars": 36366,
+          "sha256": "91d42aec1e0ee52213ffeda1d586f6386e375b9e53309cfc40bb27ba4f7f2969",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content137.xhtml",
+          "title": "SILBENLAUTEN UND WORTESPRECHEN Stuttgart, 29. März 1923",
+          "body_chars": 38329,
+          "sha256": "6f04215cc630220cd66aa5e277a120b4dd331fba55e7c4b1c0085b1de4749759",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content158.xhtml",
+          "title": "Alliteration und Endreim Unschulds-Urzustand und Sündenfall-Zustand",
+          "body_chars": 8046,
+          "sha256": "ce5f59eeb739120f49356728c7fc7a02be0365377d2ff1212f66da7d79827ea8",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content162.xhtml",
+          "title": "II MARIB STEINER SEMINAR Januar / Februar 1928",
+          "body_chars": 30684,
+          "sha256": "fa281c2ba7ca2361ce06c24be6077e82843b57d981913ebaa720de93ad4cf524",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content186.xhtml",
+          "title": "III ANSPRACHEN ZU REZJTATJONS­VERANSTALTUNGEN LUDWIG UHLAND-MATINÉE Berlin, 1. Dezember 1912",
+          "body_chars": 15396,
+          "sha256": "92a7565114fa4d42f28ddaf3e49d28c21c71d8d429b749cd6a90d77dd8f202fe",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content194.xhtml",
+          "title": "VOM WESEN DES VOLKSLIEDES Berlin, 9. Februar 1913",
+          "body_chars": 16027,
+          "sha256": "acd42eca515a08c8c373f16cb452c03c53abe5938f7f43b511c12d9ecaabeb2b",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content205.xhtml",
+          "title": "ZWEI ANSPRACHEN FÜR CHRISTIAN MORGENSTERN I. Stuttgart, 24. November 1913",
+          "body_chars": 14419,
+          "sha256": "127e2150e70ff523961fc87b993393afcd3b4ad05a5752d5821f7f5ff7a6b749",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content212.xhtml",
+          "title": "FRIEDRICH LIENHARD-MATINÉE Stuitgärt, 16. Februar 1915",
+          "body_chars": 9032,
+          "sha256": "d241c06ee5ffa0c81260c97b1f4c3e85146d6881a50c7eea6fa6aaa3a812be77",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content216.xhtml",
+          "title": "LIENHARD-FEIER Dornach, 3. Oktober 1915",
+          "body_chars": 27088,
+          "sha256": "5db93898daa979c65d7c56d093bade069de051abbb3627e84c9792e9102c0226",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content232.xhtml",
+          "title": "LIENHARD-JORDAN-MATINÉE Stuttgart, 26. November 1915",
+          "body_chars": 21614,
+          "sha256": "3aee36a4f44956891a0c9cce6c56a4d3e84db9b701fd0068e44fa3dfffa1e5f4",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content247.xhtml",
+          "title": "Nachwort zur zweiten Auflage",
+          "body_chars": 15742,
+          "sha256": "2d0272105c9241bd17e54ffbb45dcdaec0e459f6d0176b6fedb2a53bf174c00c",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content253.xhtml",
+          "title": "REGISTER",
+          "body_chars": 4126,
+          "sha256": "00f91dc123aac45141756a7d119d919c2d2a67a60bf76ec70d8ab030863a4c88",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-281/epub-full.txt",
+      "epub_text_sha256": "b62f0bca09037c89885dc4ae9828ee5d3fa9faa0a3ff52ab0e2c01c87b0006a4",
+      "epub_full_chars": 434981,
+      "epub_full_words": 65835,
+      "scope": {
+        "start": 10,
+        "end": 246,
+        "exclude": [
+          58,
+          162
+        ],
+        "expected_sections": 14,
+        "evidence": "Steiner lectures/addresses; Marie Steiner Niedergang und Aufbau (content58) and 1928 seminar (content162) excluded; Nachwort begins content247."
+      },
+      "excluded_members": [
+        {
+          "member": "content58.xhtml",
+          "title": "NIEDERGANG UND AUFBAU Eine Sprachbetrachtung"
+        },
+        {
+          "member": "content162.xhtml",
+          "title": "II MARIB STEINER SEMINAR Januar / Februar 1928"
+        },
+        {
+          "member": "content247.xhtml",
+          "title": "Nachwort zur zweiten Auflage"
+        },
+        {
+          "member": "content253.xhtml",
+          "title": "REGISTER"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-281/candidate-passages.json",
+      "candidate_sha256": "2520e4d2ace9f0e81a10a129ca3c39e1e95d78d4ead0a077e8d4ba201d6d5ede",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-281/candidate-text.txt",
+      "candidate_text_sha256": "b685d15ab8fcf19dfde0b8d476d18fe2f4b6742a35e278f9ce3c757622678f22",
+      "candidate_chars": 363312,
+      "candidate_words": 55377,
+      "candidate_passage_count": 14,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "In diesen Stunden soll auf einiges, wenn auch skizzenhaft, hingewiesen werden, das sich auf die Rezitations- und Deklamationskunst bezieht. Ausgehen wollen wir dabei von dem Rezitieren und Deklamieren selbst. So daß wir gewissermaßen auf de",
+      "body_end_evidence": " gestorben.\n\nAls, aufs tiefste bewegt von der Seherin Worten\nUnd erschüttert, betäubt von den Schauern des Todes,\nOdas Reste die andern umringten,\nDa verschwand unbemerkt von der Schwelle der Grotte\nUnd gewann das Weite Sibich, der Welsche."
+    },
+    {
+      "work_id": "ga-282",
+      "ga_number": "282",
+      "title": "Sprachgestaltung und Dramatische Kunst.",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-282/rudolf-steiner-ga-282.doc",
+          "path": "research/unavailable-recovery/education-art/ga-282/rudolf-steiner-ga-282.doc",
+          "format": "Word Document",
+          "ia_md5": "c2520c7b5c8f2090163303049c331238",
+          "expected_bytes": 1774080,
+          "sha256": "226bbccde44174789f1faa9ef6ca9c26576cfbaa5148f2e1c959136eb35ecfaa",
+          "bytes": 1774080
+        },
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-282/rudolf-steiner-ga-282_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-282/rudolf-steiner-ga-282_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "6a693adbf7329d051fad3a08baeb437b",
+          "expected_bytes": 6834278,
+          "sha256": "3980492409dec2ac781613c96f5cd4fb727f4795688c3f6440e8076eaaedf31f",
+          "bytes": 6834278
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA282.epub",
+          "path": "research/unavailable-recovery/education-art/ga-282/GA282.epub",
+          "format": "EPUB",
+          "sha256": "d65a3a611e51a666925458d0f7cf83e77410f94fe15f55db84539ffc5cff6a20",
+          "bytes": 402967
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-282",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-282/ia_metadata.json",
+      "scan_imagecount": 412,
+      "doc_text_path": "research/unavailable-recovery/education-art/ga-282/doc-full.txt",
+      "doc_chars": 771411,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-282/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-282/ocr-full.txt",
+      "ocr_page_count": 412,
+      "ocr_chars": 776941,
+      "scope_reference_url": "https://anthrowiki.at/GA_282",
+      "epub_members": [
+        {
+          "member": "content14.xhtml",
+          "title": "APHORISTISCHES ÜBER SCHAUSPIELKUNST Eine Fragenbeantwortung Dornach, 10. April 1921",
+          "body_chars": 50397,
+          "sha256": "e19da252d04902303465cf844bd3e9ddd5a2f2f509a93d3c63987415c86e54da",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content36.xhtml",
+          "title": "SPRACHKURS für die Teilnehmer des Dramatischen Kurses I. Dornach, 2. September 1924, nachmittags",
+          "body_chars": 21221,
+          "sha256": "eccd65db4a0f0316a8275d56e45df2f5c12a4721591c732b5c6644d8d2322025",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content54.xhtml",
+          "title": "SPRACHGESTALTUNG UND DRAMATISCHE KUNST Dornach, 5. September 1924 Die Sprachgestaltung als Kunst",
+          "body_chars": 42128,
+          "sha256": "276933c57da0fffdf4503383e4eaf805d3d6353e772ab9ab5909633e882f8ab0",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content75.xhtml",
+          "title": "ZWEITER VORTRAG Dornach, 6. September 1924 Die sechs Offenbarungen der Sprache",
+          "body_chars": 33316,
+          "sha256": "07ae494ddebcf1f5a64bd3e116f587d90fdc1c04fbe3b11ee7a32247aba49005",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content94.xhtml",
+          "title": "DRITTER VORTRAG Dornach, 7. September 1924 Die Sprache als gestalteter Gestus",
+          "body_chars": 33050,
+          "sha256": "b649d6cc95236c762526d2b572674168298a9b7f97e827514b279937fca1c607",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content110.xhtml",
+          "title": "VIERTER VORTRAG Dornach, 8. September 1924 Wege zum Stil aus dem Sprachorganismus heraus",
+          "body_chars": 29798,
+          "sha256": "79b5199e0f3233937b949cc2727615d3a71c9c4e06493f4ad90d8f0013d6bbbb",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content127.xhtml",
+          "title": "FÜNFTER VORTRAG Dornach, 9. September 1924 Das Kunstgeheimnis des Meisters: Vertilgung des Stoffes durch die Form",
+          "body_chars": 25168,
+          "sha256": "896ffdd12d4587ddfa083b4a2f0d4c1b1c30f9359773c0a2de9e93c9eb243a2e",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content140.xhtml",
+          "title": "SECHSTER VORTRAG Dornach, 10. September 1924 Laut- und Wortempfindung im Gegensatze zu Sinn- und Ideenempfindung",
+          "body_chars": 33959,
+          "sha256": "5ccd5167186738b74268e5b8cf5ae057198eecfeb1b5cdec2af5856fb56e0245",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content157.xhtml",
+          "title": "SIEBENTER VORTRAG Dornach, II. September 1924 Einige Illustrationen zur praktischen Sprachgestaltung",
+          "body_chars": 36891,
+          "sha256": "c956e04b8776ea7ab23c5ccc2bf9091f6f46c6749bbdf6c7397606930ee0b89c",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content180.xhtml",
+          "title": "ZWEITER TEIL Regie- und Bühnenkunst ACHTER VORTRAG Dornach, 12. September 1924 Innere Anpassung an das bildhafte und plastisch gestaltete Sprachliche",
+          "body_chars": 39023,
+          "sha256": "555c4e5b3b90944a98434ad16c7725da8a731378b3ff10e7b630b67b5253a29c",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content202.xhtml",
+          "title": "NEUNTER VORTRAG Dornach, 13. September 1924 Der Stil in der Gebärde",
+          "body_chars": 43437,
+          "sha256": "168144fc47cf3d9e1372ce58356e5396c5cc945ba0d20bfba0199ce4ba0164ad",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content224.xhtml",
+          "title": "ZEHNTER VORTRAG Dornach, 14. September 1924 Der Mysteriencharakter der dramatischen Kunst",
+          "body_chars": 31546,
+          "sha256": "c81594c3460c32fe595ba87b7d55e72a6b5ad337eaf9d0139b1653bfcc0045e2",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content240.xhtml",
+          "title": "ELFTER VORTRAG Dornach, 15. September 1924 Gebörde und Mimik aus der 5prachgestaltung heraus",
+          "body_chars": 29399,
+          "sha256": "c4c1213585c51e7d964eedc6b729cd8b717e33843731c28a8570e48063fd9ad6",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content254.xhtml",
+          "title": "ZWÖLFTER VORTRAG Dornach, 16. September 1924 Künstlerische Dramatik Stilisierte Stimmungen",
+          "body_chars": 39541,
+          "sha256": "02a29a04ec9c7842d3dafda152ac73c10c66bb8e59e88bf898db81d473c4115c",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content276.xhtml",
+          "title": "DREIZEHNTER VORTRAG Dornach, 17. September 1924 Die Behandlung der Dichtung als Partitur Charakteristik und Konfiguration der Stückgestaltung",
+          "body_chars": 30057,
+          "sha256": "2a76af287aa30f378b2c0175acefd7be6eb649683ee9e347b3265cbe1ab360be",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content291.xhtml",
+          "title": "VIERZEHNTER VORTRAG Dornach, 18. September 1924 Das Dekorative auf der Bühne Stilisierung in Farbe und Licht",
+          "body_chars": 29100,
+          "sha256": "2f12ae630cfc42b0c3c418f6b6d3a1ed06f69e97bb53c18e058b6c1dccb16fee",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content308.xhtml",
+          "title": "DRITTER TEIL Die Schauspielkunst und die übrige Menschheit FÜNFZEHNTER VORTRAG Dornach, 19. September 1924 Die Esoterik des Bühnendarstellers",
+          "body_chars": 35009,
+          "sha256": "78936f55d12ca5137ed223de485ba9489d916b156f1ddfe01bea4325e180d075",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content324.xhtml",
+          "title": "SECHZEHNTER VORTRAG Dornach, 20. September 1924 Innerliche Handhabung des Dramatischen und Bühnenmäßigen Schicksal, Charakter und Handlung",
+          "body_chars": 33050,
+          "sha256": "cfc3fd34da76095f31a7041037f9481321d2ae13171619a259d9650badaf9275",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content341.xhtml",
+          "title": "SIEBZEHNTER VORTRAG Dornach, 21. September 1924 Das Durchfühlen des Lautlichen",
+          "body_chars": 26410,
+          "sha256": "fc606eb041a5cc0d02e0914df51437ca5d7bfb28a03da8e940f8b1f065bd5298",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content356.xhtml",
+          "title": "ACHTZEHNTER VORTRAG Dornach, 22. September 1924 Die Lautgestaltung als Offenbarung der menschüchen Gestalt Die Atembehandlung",
+          "body_chars": 29365,
+          "sha256": "f0fea5c5fa998d085134fa3ea183d54192ebbc939a01b6f748dde968d7ab7917",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content370.xhtml",
+          "title": "NEUNZEHNTER VORTRAG Dornach, 23. September 1924 Das Wort als Gestalter",
+          "body_chars": 36806,
+          "sha256": "103f92e2a7d17adef044ddcc8bf51fe8490930a446f2f7da17e00716e7ba6ba2",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content387.xhtml",
+          "title": "Vorwort zur ersten Auflage Schöpferische Sprache",
+          "body_chars": 21562,
+          "sha256": "e0a2e769d7ce9b2fcac1d0d7249957cd2d9be4196c32ff9a5148f16f18b1ad62",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content398.xhtml",
+          "title": "HINWEISE",
+          "body_chars": 22809,
+          "sha256": "57bd9760c34fe0415ccdd96cc39aee0a037468e7b394cd372f4c5b580183b9c4",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content407.xhtml",
+          "title": "REGIlSTER DER ÜBUNGEN UND BEISPIELE",
+          "body_chars": 8456,
+          "sha256": "21fbea4d452a7a7fb5ee4f8af51784bf034c2e20000e20512a92d38c88c87ab8",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-282/epub-full.txt",
+      "epub_text_sha256": "6b95a1aab5ecd6500d7e7e1efd1f187b76cd805dca0f401a33d849a0dbfb22a4",
+      "epub_full_chars": 748730,
+      "epub_full_words": 116840,
+      "scope": {
+        "start": 14,
+        "end": 386,
+        "exclude": [
+          36
+        ],
+        "expected_sections": 20,
+        "evidence": "10 April 1921 question session and 19 September1924 dramatic-course lectures; preparatory language course (content36) and content387 foreword both explicitly Marie Steiner, excluded."
+      },
+      "excluded_members": [
+        {
+          "member": "content36.xhtml",
+          "title": "SPRACHKURS für die Teilnehmer des Dramatischen Kurses I. Dornach, 2. September 1924, nachmittags"
+        },
+        {
+          "member": "content387.xhtml",
+          "title": "Vorwort zur ersten Auflage Schöpferische Sprache"
+        },
+        {
+          "member": "content398.xhtml",
+          "title": "HINWEISE"
+        },
+        {
+          "member": "content407.xhtml",
+          "title": "REGIlSTER DER ÜBUNGEN UND BEISPIELE"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-282/candidate-passages.json",
+      "candidate_sha256": "db8c0b728f530d4ae60a1a8d81c51fac7ee1b403f841aa4f6a63cc50221fccb5",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-282/candidate-text.txt",
+      "candidate_text_sha256": "7cd9361ffb1076a0e1a2d719aad8b5d1c6590e5e0ba0913c22e2c01e9e856ffd",
+      "candidate_chars": 675555,
+      "candidate_words": 106342,
+      "candidate_passage_count": 20,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "Der heutige Abend soll einer Auseinandersetzung über Fragen gewidmet sein, die mir aus einem Kreise von Künstlern, schauspielerischen Künstlern gestellt worden sind, und deren Beantwortung am heutigen Abend ich aus dem Grunde gebe, weil inn",
+      "body_end_evidence": "ier gemacht worden sind, so anzusehen, daß sie ein weiterer künstlerischer Gang durch das Leben sein können. Aus dieser Empfindung heraus sage ich Ihnen dafür, daß Sie an diesem Suchen haben teilnehmen wollen, auch meinen herzlichsten Dank."
+    },
+    {
+      "work_id": "ga-283",
+      "ga_number": "283",
+      "title": "Das Wesen des Musikalischen und das Tonerlebnis im Menschen.",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-283/rudolf-steiner-ga-283.doc",
+          "path": "research/unavailable-recovery/education-art/ga-283/rudolf-steiner-ga-283.doc",
+          "format": "Word Document",
+          "ia_md5": "b24aa463330a79d07a1b7a7d2a678444",
+          "expected_bytes": 1443840,
+          "sha256": "3d81229e552f2b37bd1169f07aac51764573464ce16c060d8987f77ad2403c5f",
+          "bytes": 1443840
+        },
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-283/rudolf-steiner-ga-283_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-283/rudolf-steiner-ga-283_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "b2903b5e932280f4f1063a9cb66cb1b2",
+          "expected_bytes": 3140039,
+          "sha256": "1ea59e2b0c3339629c6e33b93f97eac30412411965216e9ff88a6beafda9a7f0",
+          "bytes": 3140039
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA283.epub",
+          "path": "research/unavailable-recovery/education-art/ga-283/GA283.epub",
+          "format": "EPUB",
+          "sha256": "3f7ea517c85bc2bb3eb14705335b3b6ba01c4755f05482a511b6cd34ee9c66b0",
+          "bytes": 206462
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved.",
+        "Odyssee EPUB is a 1969 edition missing the lecture added in1975; reader candidate therefore uses full1989 original DOC. Word extraction contains line-wrap hyphenation and source spelling; not fully proofread."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-283",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-283/ia_metadata.json",
+      "scan_imagecount": 190,
+      "doc_text_path": "research/unavailable-recovery/education-art/ga-283/doc-full.txt",
+      "doc_chars": 363387,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-283/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-283/ocr-full.txt",
+      "ocr_page_count": 190,
+      "ocr_chars": 368781,
+      "scope_reference_url": "https://anthrowiki.at/GA_283",
+      "epub_members": [
+        {
+          "member": "content12.xhtml",
+          "title": "Das Wesen des Musikalischen ERSTER VORTRAG Köln, 3. Dezember 1906",
+          "body_chars": 16666,
+          "sha256": "02ea6cdbe0aeebf8e9c1ffe02231ea890590d70c7367c9802b23e70a7940e9da",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content20.xhtml",
+          "title": "ZWEITER VORTRAG Berlin, 12. November 1906",
+          "body_chars": 23699,
+          "sha256": "392caeca882c44800b9974b272978ed2f72b9504b1172c8e544337529da2cc46",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content31.xhtml",
+          "title": "DRITTER VORTRAG Berlin, 26. November 1906",
+          "body_chars": 15704,
+          "sha256": "b582e39ec289282431ad3d8e5da7ab6919e66becb1a1a0914ef66f793e9e107a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content38.xhtml",
+          "title": "VIERTER VORTRAG Leipzig, 10. November 1906",
+          "body_chars": 15432,
+          "sha256": "66366ffa9fd88bd9aa7281601bff51c5251a3413fb4f3e183f3c6be1cfa6b89d",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content48.xhtml",
+          "title": "Fragenbeantwortungen und Schlußworte FRAGENBEANTWORTUNG Dornach, 29. September 1920 Über die Erweiterung des Tonsystems",
+          "body_chars": 26813,
+          "sha256": "31cb3264a980a39838865a824fa5b9dd83e8f373968e83d5f072ebd43c660256",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content61.xhtml",
+          "title": "FRAGENBEANTWORTUNG Dornach, 30. September 1920",
+          "body_chars": 19067,
+          "sha256": "e7baf226a24146bd794df41ea2c6012acdba5984f4cea460e24fce3d5e1bdd14",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content70.xhtml",
+          "title": "FRAGENBEANTWORTUNG Dornach, 30. September 1920, abends",
+          "body_chars": 44756,
+          "sha256": "53bf069daf475d04ed863eddd4498d66d102a770b10ef8fc422b76fd5b620f35",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content91.xhtml",
+          "title": "ERSTES SCHLUSSWORT Dornach, 20. Dezember 1920 Nach einem Vortrag von Professor Franz Thomastik über akustische Probleme",
+          "body_chars": 14199,
+          "sha256": "1ea0f028534a7c73fda9475700ded64b00074b64f17aec3338ab559231c3c7c4",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content98.xhtml",
+          "title": "ZWEITES SCHLUSSWORT Dornach, 7. Februar 1921 Nach einem Vortrag von Leopold van der Pais",
+          "body_chars": 7103,
+          "sha256": "ae50d4b7eba484ae3bc16b2358edf83a6ad48f6aaf86c26c2874a083f91a39f9",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content104.xhtml",
+          "title": "ERSTER VORTRAG Stuttgart, 7. März 1923",
+          "body_chars": 32085,
+          "sha256": "7c8d9b6357aaf36bd5328ac843d11f3bae2b7fa81fbfc6188d2074d61c7ff0e8",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content118.xhtml",
+          "title": "ZWEITER VORTRAG Stuttgart, 8. März 1923",
+          "body_chars": 31862,
+          "sha256": "e2eff34f85fd83369b80affeabfa76765fa510a3b84045c630ed55e35d7c3353",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content134.xhtml",
+          "title": "DRITTER VORTRAG Dornach, 16. März 1923",
+          "body_chars": 31086,
+          "sha256": "84f68b3970ec4e4baad9484f4e6aa31d7fa87276a08edf606d0d77b42ef9f098",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content150.xhtml",
+          "title": "HINWEISE",
+          "body_chars": 43230,
+          "sha256": "e3ded4e5b7a3972693091c4c3d280eb2e002fbbd35090590365f0e2ffe6e2427",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-283/epub-full.txt",
+      "epub_text_sha256": "136c66b41d77b34b35819972b396a19afd013b7f923a0d1bbc9865923660d4f4",
+      "epub_full_chars": 315119,
+      "epub_full_words": 47685,
+      "scope": {
+        "source_format": "DOC",
+        "source_edition_year": 1989,
+        "body_start": "ERSTER VORTRAG\\nKöln, 3. Dezember 1906",
+        "body_end_before": "ANHANG\\nNotizen von Mathilde Scholl aus dem Jahr 1905 (1906?)",
+        "expected_sections": 12,
+        "evidence": "1989 source TOC: eight lectures, two question sessions, two closing remarks. Added 2 December1922 lecture present. Mathilde Scholl appendix excluded because publisher itself describes authorship/context as uncertain."
+      },
+      "excluded_members": [
+        {
+          "member": "content150.xhtml",
+          "title": "HINWEISE"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-283/candidate-passages.json",
+      "candidate_sha256": "8794af46ef0f7cf44f84a752f95370f833d915c80938d3753375849e155b8764",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-283/candidate-text.txt",
+      "candidate_text_sha256": "6e2d75922bd768164ca90bc13903cafe363176c0b5413d8d7e197784dee85f62",
+      "candidate_chars": 306323,
+      "candidate_words": 47607,
+      "candidate_passage_count": 12,
+      "import_ready": true,
+      "scope_completeness": "All eight lectures, two question sessions and two closing remarks in the 1989 GA283 edition. Ambiguous Scholl notes and publisher apparatus excluded.",
+      "body_start_evidence": "ERSTER VORTRAG\nKöln, 3. Dezember 1906\nDas Musikalische hat für die, welche darüber nachgedacht haben,\nimmer etwas Rätselvolles gehabt in bezug auf die ästhetische An-\nschauungsweise. Die Musik ist auf der einen Seite das Verständlichste\nfür",
+      "body_end_evidence": "ren -, und wenn wir dem entgegensetzen können wiederum aus er-\nschütterter, aber intensiv und innigst strebender Seele: Wir wollen den\nGeist, der im Keim in uns ist, zum Blühen und Fruchten bringen, damit\nwir die Götter wiederfinden können."
+    },
+    {
+      "work_id": "ga-284",
+      "ga_number": "284",
+      "title": "Bilder okkulter Siegel und Säulen. Der Münchner Kongress Pfingsten 1907 und seine Auswirkungen.",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-284/rudolf-steiner-ga-284_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-284/rudolf-steiner-ga-284_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "4c9f01b1ac3af12aa9b0e2f604e151cb",
+          "expected_bytes": 5609438,
+          "sha256": "53f090f400382ed85189adbb4b50739f9007fe009bd75c90c4fe3947f4a5954d",
+          "bytes": 5609438
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA284.epub",
+          "path": "research/unavailable-recovery/education-art/ga-284/GA284.epub",
+          "format": "EPUB",
+          "sha256": "b73185a738a8fc343de8493b6ca35f6d13cc6306b05ec23e5e73b5c3f539aee5",
+          "bytes": 368322
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Mixed Steiner texts, Marie correspondence, Stockmeyer contributions and editor text: individual authorship boundaries need review."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-284",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-284/ia_metadata.json",
+      "scan_imagecount": 255,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-284/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-284/ocr-full.txt",
+      "ocr_page_count": 255,
+      "ocr_chars": 665115,
+      "scope_reference_url": "https://anthrowiki.at/GA_284",
+      "epub_members": [
+        {
+          "member": "content12.xhtml",
+          "title": "EINLEITUNG ZUR AUSGABE VON 1977",
+          "body_chars": 15578,
+          "sha256": "aff56d9a8b3b5676f42195de17925571a3334a13ea66b20a439a73675eec7b80",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content16.xhtml",
+          "title": "DIE KUNST UND IHRE ZUKÜNFTIGE AUFGABE Penmaenmawr, 24. August 1923",
+          "body_chars": 13131,
+          "sha256": "a0299abeea993ad3ecb296b179ead17d81c5da866f76622a918c875e2e63e99b",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content22.xhtml",
+          "title": "I DER MÜNCHNER KONGRESS PFINGSTEN 1907 MÜNCHEN VORBEMERKUNGEN DES HERAUSGEBERS",
+          "body_chars": 30797,
+          "sha256": "98e9cc3c10bf0a8d50d2354e758eea5597a2a5f63ad46e04df0381ccd54a4644",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content30.xhtml",
+          "title": "MAI/JUNI 1907 Marie von Sivers berichtet Eduard Schuré über die Aufführung seines Mysteriums",
+          "body_chars": 14280,
+          "sha256": "983a585262e553ad728149c95805047e60c3ab55417ccc1ea944e0f988433502",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content34.xhtml",
+          "title": "DER MÜNCHNER KONGRESS PFINGSTEN 1907 Aus «Mein Lebensgang» 38. Kapitel",
+          "body_chars": 33394,
+          "sha256": "d074644a5a860af62551ef8d781ef0c569234334e7b134bc071fe8cdfaac3d8a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content44.xhtml",
+          "title": "DIE EINWEIHUNG DES ROSENKREUZERS Erster Kongreßvortrag in München am 19. Mai 1907",
+          "body_chars": 37943,
+          "sha256": "cdfaab24d6dd7faad92f85d337b4c36bc4c2ddf9b4fbd35e0587a9587483b432",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content54.xhtml",
+          "title": "PLANETENENTWICKELUNG UND MENSCHHEITSENTWJCKELUNG Zweiter Kongreßvortrag in München am 20. Mai 1907",
+          "body_chars": 39173,
+          "sha256": "d815d27125ca8e76b0820f58033876a6a853527bd934786ce967ba8d7565b58b",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content64.xhtml",
+          "title": "ERLÄUTERUNGEN ZUR EINRICHTUNG UND AUSGESTALTUNG DES KONGRESS-SAALES Vortrag am 21. Mai 1907 in München",
+          "body_chars": 30187,
+          "sha256": "1412a6b22042c2710dd540c331d8456abd920d2a666441ac80a8d82e3c0876a0",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content72.xhtml",
+          "title": "BERICHT ÜBER DEN KONGRESS IM BERLINER ZWEIG Vor dem Vortrag am 12. Juni 1907 in Berlin",
+          "body_chars": 6399,
+          "sha256": "cbf68139c5dbabb06f2e12e4c46116604e6bd214191f4aa25ff3546e9d18623b",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content74.xhtml",
+          "title": "DIE APOKALYPTISCHEN SIEGEL Vortrag am 16. September 1907 in Stuttgart",
+          "body_chars": 23169,
+          "sha256": "3ffbd25a7d86c2bd424958482c8cb4570385a5aa7e77afa4e088df56dabcae6c",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content80.xhtml",
+          "title": "SYMBOLE UND ZEICHEN ALS WIRKUNGEN DES CHAOS Vortrag am 19. Oktober 1907 in Berlin",
+          "body_chars": 36129,
+          "sha256": "7a56db841e046b28941eff0bede35dbcafb63b628b8b13e52b059acc6715c2f1",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content90.xhtml",
+          "title": "BERICHT ÜBER DEN KONGRESS BEI DER SECHSTEN GENERALVERSAMMLUNG DER DEUTSCHEN SEKTION DER THEOSOPHISCHEN GESELLSCHAFT Berlin, am 20. Oktober 1907",
+          "body_chars": 5834,
+          "sha256": "4e13499953b03e9813b4d2c54af17abfe788d668e24e7a308fbac5181f3403cf",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content92.xhtml",
+          "title": "BILDER OKKULTER SIEGEL UND SÄULEN Zur Einführung in die Mappe mit den vierzehn Bildtafeln Oktober 1907",
+          "body_chars": 23321,
+          "sha256": "c17eff551646faf250b134570a472e4e46a7bb63165acea01e613f336e6e5b06",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content98.xhtml",
+          "title": "AUS DER GESCHICHTE UNSERER GESELLSCHAFT VOR VIER MAL SIEBEN JAHREN Ein Aufsatz aus dem Jahre 1935",
+          "body_chars": 42486,
+          "sha256": "80be49783a07e8d584cb69713e76a5d9706970aa7a47f15a135094666b872c2a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content111.xhtml",
+          "title": "II DIE AUSWIRKUNGEN DES MÜNCHNER KONGRESSES VORBEMERKUNGEN DES HERAUSGEBERS",
+          "body_chars": 3778,
+          "sha256": "f373be4150dd4d1d825ca2017a1d2819e1cdba80d82e5f03f916e5672f86bf88",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content113.xhtml",
+          "title": "ANSPRACHE ZUR GRUNDSTEINLEGUNG DES MODELLBAUES IN MALSCH MaIsch, 5./6. April 1909",
+          "body_chars": 5324,
+          "sha256": "311f770fb11506de9327e4d159239b89e93dec9afce67a8b0b37b490fff173c7",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content115.xhtml",
+          "title": "E. A. KARL STOCKMEYER VON VORLÄUFERN DES GOETHEANUMS",
+          "body_chars": 20795,
+          "sha256": "995ab53d12a8d9e99b139e8d9cf171913be76cf22da48e18124b4e8d3df61c55",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content121.xhtml",
+          "title": "E. A. KARL STOCKMEYER DAS BAUKÜNSTLERJSCHE PROBLEM DES MÜNCHNER KONGRESS-SAALES VON 1907 UND DER ENTWURF DES MALSCHER MODELLBAUES VON 1908",
+          "body_chars": 60283,
+          "sha256": "ecb87cbf6056bf359fcf82803cbdc77e2a7d6f27f009cfc4b7723b22d1c223a7",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content140.xhtml",
+          "title": "STUTTGART VORBEMERKUNGEN DES HERAUSGEBERS",
+          "body_chars": 32574,
+          "sha256": "fea49b7756adf194082916a2c7a5bfa45e43eb5ff96c3c2ae865ba1096b436b5",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content149.xhtml",
+          "title": "DIE OKKULTEN GESICHTSPUNKTE DES STUTTGARTER BAUES Stuttgart, 15. Oktober 1911, abends",
+          "body_chars": 23260,
+          "sha256": "3acc6de265ac52dc6c5682506b53dbe5544c802a80037b4e88fa4a947c6a97be",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content155.xhtml",
+          "title": "IN WELCHEM SINNE SIND WIR THEOSOPHEN UND IN WELCHEM SINNE SIND WIR ROSENKREUZER? Stuttgart, am 16. Oktober 1911",
+          "body_chars": 33125,
+          "sha256": "612aeb89f30ff927bdb634735bf794c7eca8cad90dbef49b34a257080da4a0ce",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content164.xhtml",
+          "title": "ANHANG E. A. KARL STOCKMEYER ÜBER DIE EINHEIT VON TEMPEL UND KULTUS IM ZUSAMMENHANG MIT DER GOETHEANUM-BAUIDEE",
+          "body_chars": 29470,
+          "sha256": "44d429191a40c91fc7d06b2bce6a052bf937814100ce09e5d0b9948fc34ba7a9",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content172.xhtml",
+          "title": "HINWEISE DES HERAUSGEBERS",
+          "body_chars": 76881,
+          "sha256": "d8d30aaa90ec9c8687404b0b8a213bef9543cfd141ad4ed01158d150e2171b70",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-284/epub-full.txt",
+      "epub_text_sha256": "d0d13e91a6928f597084c4f3bf908fb1339e7c6f311802c3fb9e1f02b35f7f74",
+      "epub_full_chars": 630269,
+      "epub_full_words": 94642,
+      "import_ready": false
+    },
+    {
+      "work_id": "ga-286",
+      "ga_number": "286",
+      "title": "Wege zu einem neuen Baustil. 'Und der Bau wird Mensch'.",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA286.epub",
+          "path": "research/unavailable-recovery/education-art/ga-286/GA286.epub",
+          "format": "EPUB",
+          "sha256": "1cf6e4be3ac3a4a414a7187aedd40b29ed9aaf339f1e1564426d8348b5b5dcf7",
+          "bytes": 340135
+        }
+      ],
+      "concerns": [
+        "No cached Internet Archive item manifest for this work.",
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "scope_reference_url": "https://anthrowiki.at/GA_286",
+      "epub_members": [
+        {
+          "member": "content6.xhtml",
+          "title": "ZU DIESER AUSGABE",
+          "body_chars": 8366,
+          "sha256": "a5a5d926f61766e33b57b581aead69735f2cb10f572cd235a7957bc4e17999b6",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content14.xhtml",
+          "title": "VORWORT ZUR 1. AUFLAGE (1926)",
+          "body_chars": 10951,
+          "sha256": "6151d790bcc62c35788920b3e395445aab677f6421545dafea980918806589cc",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content26.xhtml",
+          "title": "I «UND DER BAU WIRD MENSCH» MARIE STEINER VORBEMERKUNG ZUR ERSTEN AUSGABE (1945)*",
+          "body_chars": 48721,
+          "sha256": "73b8cc356c3e9af269e740c5738b322f6d1b528ab53a815679abd5d793e81954",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content50.xhtml",
+          "title": "DER URSPRUNG DER ARCHITEKTUR AUS DEM SEELISCHEN DES MENSCHEN UND IHR ZUSAMMENHANG MIT DEM GANG DER MENSCHHEITSENTWICKELUNG Zweiter Vortrag, Berlin, 5. Februar 1913",
+          "body_chars": 32527,
+          "sha256": "3435ed10b21ac5d1b77e8beef33c356dc7921f10f967090e93d7a1b40c6360e5",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content65.xhtml",
+          "title": "GESICHTSPUNKTE ZUR BAULICHEN GESTALTUNG DER ANTHROPOSOPHISCHEN KOLONIE IN DORNACH Dritter Vortrag, Berlin, 23. Januar 1914",
+          "body_chars": 22738,
+          "sha256": "8ce84e560d0443fe60fbe4dfa780891814c2f02b51a6ebea822c181073006d82",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content80.xhtml",
+          "title": "II WEGE ZU EINEM NEUEN BAUSTIL DER GEMEINSAME URSPRUNG DER DORNACHER BAUFORMEN UND DES GRIECHISCHEN AKANTHUS-ORNAMENTES Erster Vortrag, Dornach, 7. Juni 1914",
+          "body_chars": 54889,
+          "sha256": "7c44ff30bab9f4cf33f71efd768967cc15225c5ffb718c2bc8b3f71d4f08d4d9",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content114.xhtml",
+          "title": "DER DORNACHER BAU - EIN HAUS DER SPRACHF Zur Einweihung des Künstlerateliers Zweiter Vortrag, Dornach, 17. Juni 1914",
+          "body_chars": 46549,
+          "sha256": "21174b3b4ca16228ebd8b1e6ef4f2e0461b7cb26aadf5dd524a97db005ef4945",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content145.xhtml",
+          "title": "DER NEUE BAUKÜNSTLERISCHE GEDANKE Dritter Vortrag, Dornach, 28. Juni 1914",
+          "body_chars": 36133,
+          "sha256": "285382a16c2a45208de6523430b14394ea495acaa7e34d52d545c61575c4b649",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content167.xhtml",
+          "title": "DIE WAHREN ÄSTHETISCHEN FORMGESETZE Vierter Vortrag, Dornach, 5. Juli 1914",
+          "body_chars": 37901,
+          "sha256": "2a0579f852172299cea0b1ab028681097c99f562ff2821b36cd8fe4badb53b1a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content187.xhtml",
+          "title": "DIE SCHÖPFERISCHE WELT DER FARBE Fünfter Vortrag, Dornach, 26. Juli 1914",
+          "body_chars": 44510,
+          "sha256": "ce7aef0a5b060940361c99cb96cc51edf92a2be79afc93f9c774e1df260ceb0d",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content208.xhtml",
+          "title": "ANHANG DIE ENTWICKELUNG DER BAUKUNST IM ZUSAMMENHANG MIT DEN JAHRTAUSENDWENDEN I Stuttgart, 7. März 1914",
+          "body_chars": 14850,
+          "sha256": "cb2e92f19a6d786ac1bec5e7e9847c130c1fc1b234e3d45e310f4cd6e440ac51",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content218.xhtml",
+          "title": "DER KÜNFTIGE BAUGEDANKE VON DORNACH Zum Wiederaufbau des Goetheanums",
+          "body_chars": 29424,
+          "sha256": "390a0de21086f606a31569fa33c8af03e82812d34bc9e117f38362751f644cc0",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content234.xhtml",
+          "title": "HINWEISE",
+          "body_chars": 44298,
+          "sha256": "67e96fa5a95d6f9ec24e1bf2972f96754a4b070515eb922d3103fd8722fd91a4",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-286/epub-full.txt",
+      "epub_text_sha256": "e69a63a79a307042027f640b95860a741419329add33bbd55be9902ed2866714",
+      "epub_full_chars": 425113,
+      "epub_full_words": 64629,
+      "scope": {
+        "start": 26,
+        "end": 233,
+        "trim_before": "DER URSPRUNG DER ARCHITEKTUR\nAUS DEM SEELISCHEN DES MENSCHEN",
+        "evidence": "Eight lectures (12 December 1911 through 26 July 1914), two 1914 appendix notes and reconstruction writings; 1945 Marie foreword trimmed inside content26; publisher Hinweise begins content234."
+      },
+      "excluded_members": [
+        {
+          "member": "content6.xhtml",
+          "title": "ZU DIESER AUSGABE"
+        },
+        {
+          "member": "content14.xhtml",
+          "title": "VORWORT ZUR 1. AUFLAGE (1926)"
+        },
+        {
+          "member": "content234.xhtml",
+          "title": "HINWEISE"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-286/candidate-passages.json",
+      "candidate_sha256": "5ac0fcebefa24063e09b4c6c5f4251e01f62bc21a3c4c7fa9f3f7c1b318d5912",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-286/candidate-text.txt",
+      "candidate_text_sha256": "a0ccd7dd94143544b0b4aeb7778dbfb82a2afce6624903552920220005729c23",
+      "candidate_chars": 360434,
+      "candidate_words": 55297,
+      "candidate_passage_count": 10,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "DER URSPRUNG DER ARCHITEKTUR\nAUS DEM SEELISCHEN DES MENSCHEN\nUND IHR ZUSAMMENHANG MIT DEM GANG\nDER MENSCHHEITSENTWICKELUNG\nErster Vortrag, Berlin, 12. Dezember 1911\n\nMeine lieben Freunde! DerJohannesbau, insofern er umschließen soll die Wir",
+      "body_end_evidence": "te heraus den Baugedanken schaffen konnte als vor elf Jahren.\n(An dem hinteren Teil des Baues werden gemäß dem Wunsch der Gemeinde Dornach und der Solothurner Regierung noch Abänderungen stattfinden; diese sind hier noch nicht inbegriffen.)"
+    },
+    {
+      "work_id": "ga-287",
+      "ga_number": "287",
+      "title": "Der Dornacher Bau als Wahrzeichen geschichtlichen Werdens u. künsterischer Umwandlungsimpulse.",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-287/rudolf-steiner-ga-287_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-287/rudolf-steiner-ga-287_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "b670271bc864eb737e321c718e36ce93",
+          "expected_bytes": 2247937,
+          "sha256": "c25dac5cfa13c12d63721056c4f3cb470b27cd974a6b52b4f7fc8116ecca6de9",
+          "bytes": 2247937
+        },
+        {
+          "url": "https://odysseetheater.org/GA/Buecher/GA_287.pdf",
+          "path": "research/unavailable-recovery/education-art/ga-287/GA_287.pdf",
+          "format": "Text PDF",
+          "sha256": "35a1db90528b22d7b29bba46d6fc349fdac2f6ee5fda35491769bde2ab6edc4c",
+          "bytes": 2170351
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "PDF extraction preserves proper umlauts and full original prose, but line-wrap hyphenation and figure glyph artifacts remain; no full facsimile proofreading. One explicitly publisher-authored appendix footnote excluded."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-287",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-287/ia_metadata.json",
+      "scan_imagecount": 91,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-287/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-287/ocr-full.txt",
+      "ocr_page_count": 91,
+      "ocr_chars": 269364,
+      "epub_error": "https://odysseetheater.org/GA/eBook/epub/GA287.epub: HTTP Error 404: Not Found",
+      "import_ready": true,
+      "candidate_path": "research/unavailable-recovery/education-art/ga-287/candidate-passages.json",
+      "candidate_sha256": "07fe9c5a9453b0ca4cf8a14d766add9486eda160c8fd4090d934a5d187fb123c",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-287/candidate-text.txt",
+      "candidate_text_sha256": "789d028e3da987b78707b47cbfbd923a2ef894033859b810170b101f20dc493c",
+      "candidate_chars": 229363,
+      "candidate_words": 35444,
+      "candidate_passage_count": 6,
+      "pdf_text_path": "research/unavailable-recovery/education-art/ga-287/pdf-full.txt",
+      "scope_reference_url": "https://anthrowiki.at/GA_287",
+      "scope": {
+        "pdf_page_ranges": [
+          [
+            13,
+            23
+          ],
+          [
+            24,
+            37
+          ],
+          [
+            38,
+            53
+          ],
+          [
+            54,
+            64
+          ],
+          [
+            65,
+            78
+          ],
+          [
+            93,
+            97
+          ]
+        ],
+        "ga_page_ranges": [
+          [
+            9,
+            19
+          ],
+          [
+            20,
+            33
+          ],
+          [
+            34,
+            49
+          ],
+          [
+            50,
+            60
+          ],
+          [
+            61,
+            74
+          ],
+          [
+            81,
+            85
+          ]
+        ],
+        "expected_sections": 6,
+        "evidence": "1985 source TOC identifies five October1914 lectures and 12 October1914 architrave workshop notes. First/last original text and appendix visually inspected; named Marie/Assja/publisher sections excluded."
+      },
+      "scope_completeness": "All five lectures and original workshop notes from the full 1985 GA287 edition. Figure images omitted from text extraction.",
+      "body_start_evidence": "ERSTER VORTRAG\n\nDornach, 10. Oktober 1914\n\nIn den Vorträgen, die ich zu halten hatte, machte ich öfter aufmerksam auf ein Beispiel, das\nsich der Beobachtung im wirklichen Leben ergeben könnte, und das so recht anschaulich ma-\nchen kann, wie",
+      "body_end_evidence": "s wenn asymmetrische\nFormen da sind. Das gehört zu den Motiven dazu. Man muß sich in das künstlerische Wollen\nhineinarbeiten bis in die Finger-, die Zehen- und die Nasenspitze; man muß das Künstlerische\nfühlen bis in die Ohrläppchen hinein."
+    },
+    {
+      "work_id": "ga-289",
+      "ga_number": "289",
+      "title": "Der Baugedanke des Goetheanum",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA289.epub",
+          "path": "research/unavailable-recovery/education-art/ga-289/GA289.epub",
+          "format": "EPUB",
+          "sha256": "85eceb0e1df1c3d74540b08e53c6bb9782d0088d78f9b78c69213992c7f9547f",
+          "bytes": 44419
+        }
+      ],
+      "concerns": [
+        "No cached Internet Archive item manifest for this work.",
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "1958 source contains one Bern lecture (29 June 1921) and Goethe essays, not the expanded 2017 GA289 with ten lectures. Partial relative to modern GA volume."
+      ],
+      "scope_reference_url": "https://anthrowiki.at/GA_289",
+      "epub_members": [
+        {
+          "member": "content8.xhtml",
+          "title": "GOETHE UND GOETHEANUM",
+          "body_chars": 35703,
+          "sha256": "b68c1049470be661f37a6bea3ae1c21063142f0a5c72c8252fc8e8c8ad797cb8",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content29.xhtml",
+          "title": "Ab Abbildung 3",
+          "body_chars": 22710,
+          "sha256": "bcd6092eae7fee8cd51a555d723dbe771f12e0365e9a4459245dd54d983b8d19",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content66.xhtml",
+          "title": "Ab Abildung 30",
+          "body_chars": 15372,
+          "sha256": "e4e68238e5ce4015d5da72da1db025c55db36e6e1d8d35df2d8eb64657ed4c53",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content101.xhtml",
+          "title": "Ab Abbildung 69",
+          "body_chars": 33719,
+          "sha256": "334174bd3fc3ee33c87e947b01a7fd56c2cdece1a5cfadaee152681f3c41ae58",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-289/epub-full.txt",
+      "epub_text_sha256": "71154a93ca617276b4dfcff8fd06837f6ec2b09ecfe04817edd257f14f404b3e",
+      "epub_full_chars": 104675,
+      "epub_full_words": 15526,
+      "import_ready": false
+    },
+    {
+      "work_id": "ga-291",
+      "ga_number": "291",
+      "title": "Das Wesen der Farben.",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-291/rudolf-steiner-ga-291.doc",
+          "path": "research/unavailable-recovery/education-art/ga-291/rudolf-steiner-ga-291.doc",
+          "format": "Word Document",
+          "ia_md5": "e2495aeef0a76227f291e5f7a767806f",
+          "expected_bytes": 1280512,
+          "sha256": "76fb5a36009841d2c48c75ef1a72be7078b2c6a6c7c5eb3c5dc4ba1a30ba3bf4",
+          "bytes": 1280512
+        },
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-291/rudolf-steiner-ga-291_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-291/rudolf-steiner-ga-291_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "8c52e48a497013b3e4eedfc85c0bc3ee",
+          "expected_bytes": 6285054,
+          "sha256": "66c78893a67f070fe64aaae2c09b902485660b30bdd6dd1fbaefcbf40ac1f514",
+          "bytes": 6285054
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA291.epub",
+          "path": "research/unavailable-recovery/education-art/ga-291/GA291.epub",
+          "format": "EPUB",
+          "sha256": "97f1675171f54c7661d6041557296e40ac29a63516ebabc9304890d337c0a9c5",
+          "bytes": 256713
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-291",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-291/ia_metadata.json",
+      "scan_imagecount": 246,
+      "doc_text_path": "research/unavailable-recovery/education-art/ga-291/doc-full.txt",
+      "doc_chars": 500585,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-291/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-291/ocr-full.txt",
+      "ocr_page_count": 246,
+      "ocr_chars": 582647,
+      "scope_reference_url": "https://anthrowiki.at/GA_291",
+      "epub_members": [
+        {
+          "member": "content1.xhtml",
+          "title": "Zu dieser Ausgabe",
+          "body_chars": 3269,
+          "sha256": "ffb0a0ed553974aa7d90d96a85646f0b4a9b2df3b90f9d68851996da2f813517",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content2.xhtml",
+          "title": "Vorbemerkungen",
+          "body_chars": 14654,
+          "sha256": "f77ada1585a6b29c035721d2e6d9cf1d1c7bdb8d7b9ccb88c8703f5175f57881",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content3.xhtml",
+          "title": "Vorwort zur ersten Ausgabe von 1929",
+          "body_chars": 3971,
+          "sha256": "01b801da278b3ddf944ff5df2f651d9b1503c6226e6160749b7846d4eb193b86",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content4.xhtml",
+          "title": "Das Farberlebnis - Die vier Bildfarben Dornach, 6. Mai 1921",
+          "body_chars": 34942,
+          "sha256": "92235f513541992538e8b21e84c3b2dbfadb659c65d6967c3099b6ebf9fe992b",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content5.xhtml",
+          "title": "Bildwesen und Glanzwesen der Farben Dornach, 7. Mai 1921",
+          "body_chars": 32719,
+          "sha256": "614ae937f2c7ea9c5ac378c5080b5734c4fdb5bd0d0fe429d19b756c8f32af2f",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content6.xhtml",
+          "title": "Farbe und Materie - Malen aus der Farbe Dornach, 8. Mai 1921",
+          "body_chars": 45098,
+          "sha256": "7a566d63552dac0170ce1530d6dd2332dfc1a7583179e17429717b4b556b09b5",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content7.xhtml",
+          "title": "DIE SCHÖPFERISCHE WELT DER FARBE Dornach, 26. Juli 1914",
+          "body_chars": 44726,
+          "sha256": "cb062461f450c15020e58d58af60f176a90b7d2e6965aca68bb260b4dbc94038",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content8.xhtml",
+          "title": "DAS MORALISCHE ERLEBEN DER FARBEN- UND TONWELT.. Dornach, 1. ]anuar 1915",
+          "body_chars": 36220,
+          "sha256": "fd3554560c65b6dc87da9a1d7e546e7a52453972d2b78dce0b2e6215be6104ba",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content9.xhtml",
+          "title": "LICHT UND FINSTERNIS ALS ZWEI WELT-ENTITÄTEN Dornach, 5. Dezember 1920",
+          "body_chars": 26862,
+          "sha256": "85503e2f4313620a3c9c902db94f3b32b417e6358d209e69b7c7d5e4ca5102aa",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content10.xhtml",
+          "title": "DAS LEBEN IM LICHT UND IN DER SCHWERE Dornach, 10. Dezember 1920",
+          "body_chars": 42422,
+          "sha256": "ecde9779b1a36bb2da55a44575b383e485bc93a158af5a8fb4cd8c4ce2732118",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content11.xhtml",
+          "title": "DIE ZWEI GRUNDGESETZE DER FARBENLEHRE IN MORGENRÖTE, ABENDRÖTE UND HIMMELSBLÄUE, Dornach, 21. Februar 1923",
+          "body_chars": 38051,
+          "sha256": "6831c76d6e00a6b12fca331c2a1b50e68b3efb7fbfcc8ffb40632004038c503e",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content12.xhtml",
+          "title": "VON DER RAUMPERSPEKTIVE ZUR FARBEN PERSPEKTIVE Dornach, 2. Juni 1923",
+          "body_chars": 35415,
+          "sha256": "aad66c375222f24e19e1acb09ccf5c9bad0c822cd85e7ce2c0518472e331a16f",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content13.xhtml",
+          "title": "GEIST UND UNGEIST IN DER MALEREI TIZIANS «HIMMELFAHRT MARIA» Dornach, 9. Juni 1923",
+          "body_chars": 38016,
+          "sha256": "dc23f8c9149641d227793342336f14537ffed77f42b0c0daeffd3365d66fc937",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content14.xhtml",
+          "title": "MASS, ZAHL UND GEWICHT..Dornach, 29. Juli 1923",
+          "body_chars": 40481,
+          "sha256": "52722e6695a161a2fdd8715308d3cb4fcb1ac05ce95c0e11056c16585a00624e",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content15.xhtml",
+          "title": "DIE HIERARCHIEN UND DAS WESEN DES REGENBOGENS Dornach, 4. Januar 1924",
+          "body_chars": 30089,
+          "sha256": "f3d70ed157fb302b8911c6e7da3e67a49013cfff6291f6f9aaa1a4eacf786c46",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content16.xhtml",
+          "title": "Hinweise",
+          "body_chars": 31494,
+          "sha256": "0719e23d595ca12c107dd03977c78e79842f2aee538e6859dc84121e67a15787",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-291/epub-full.txt",
+      "epub_text_sha256": "64fb56de109b2d49c00dd1550cf4214d0f07d6cf3855f94ead6c8e8ee796757e",
+      "epub_full_chars": 489148,
+      "epub_full_words": 75792,
+      "scope": {
+        "start": 4,
+        "end": 15,
+        "expected_sections": 12,
+        "evidence": "Three May 1921 color lectures + nine supplementary lectures; three publisher/Marie introductions removed and Hinweise begins content16."
+      },
+      "excluded_members": [
+        {
+          "member": "content1.xhtml",
+          "title": "Zu dieser Ausgabe"
+        },
+        {
+          "member": "content2.xhtml",
+          "title": "Vorbemerkungen"
+        },
+        {
+          "member": "content3.xhtml",
+          "title": "Vorwort zur ersten Ausgabe von 1929"
+        },
+        {
+          "member": "content16.xhtml",
+          "title": "Hinweise"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-291/candidate-passages.json",
+      "candidate_sha256": "d3687ae1435cce45bdd5902701fcddfae873a6b8529b08ce857e369ea5cb8dde",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-291/candidate-text.txt",
+      "candidate_text_sha256": "527791be7df308105ef9456b68323bd2c54e14f64b0bc05032110c240f5ae5cc",
+      "candidate_chars": 436646,
+      "candidate_words": 68364,
+      "candidate_passage_count": 12,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "DAS WESEN DER FARBEN\n\nErster Vortrag, Dornach, 6. Mai 1921\n\nDas Farberlebnis - Die vier Bildfarben\n\nDie Farben, von denen wir in diesen drei Tagen sprechen wollen, sie beschäftigen den Physiker - von dieser Seite der Farben wollen wir diesm",
+      "body_end_evidence": " Zusammenhange mit den großen Wahrheiten, die ich aussprechen durfte in den Tagen der Weihnachtstagung, möchte ich eben auch einiges noch sagen über die Schicksale des inneren Geisteslebens in den letzten Jahrhunderten der Weltentwickelung."
+    },
+    {
+      "work_id": "ga-291a",
+      "ga_number": "291a",
+      "title": "Farbenerkenntnis. Ergänzungen zu dem Band «Das Wesen der Farben».",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-291a/rudolf-steiner-ga-291a_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-291a/rudolf-steiner-ga-291a_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "4ad16b66fda022eea5db5fade32be969",
+          "expected_bytes": 10104776,
+          "sha256": "482c8566800862b6baa980873b11e2d81aec96d36ec99278d88ff71d4f92b1be",
+          "bytes": 10104776
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA291a.epub",
+          "path": "research/unavailable-recovery/education-art/ga-291a/GA291a.epub",
+          "format": "EPUB",
+          "sha256": "36b0d96e985b92dffd4608b25eaa6dfd561588e46846e39703422616e2565c64",
+          "bytes": 364601
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Editorial introductions and texts by other authors interleaved with original Steiner excerpts; needs individual subsection scope review."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-291a",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-291a/ia_metadata.json",
+      "scan_imagecount": 544,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-291a/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-291a/ocr-full.txt",
+      "ocr_page_count": 544,
+      "ocr_chars": 935457,
+      "scope_reference_url": "https://anthrowiki.at/GA_291a",
+      "epub_members": [
+        {
+          "member": "content12.xhtml",
+          "title": "DER EINSATZ FÜR EINE GEISTGEMÄSSE WISSENSCHAIT DER FARBEN",
+          "body_chars": 49275,
+          "sha256": "fcb24cba95a629864e8bc2a29afd9c97ac9c1f27e0f43867b7942d1fed42d414",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content34.xhtml",
+          "title": "Verteidigung von Goethes Farbenlehre",
+          "body_chars": 53886,
+          "sha256": "57d676608fa4c1eb4044b84bf4798012c434d3990af5a15b4c5043f02dfaf5e6",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content62.xhtml",
+          "title": "Weiterführungen der Goetheschen Farbenlehre",
+          "body_chars": 55863,
+          "sha256": "f84ac440b7b59939bfbd2d9f5f847ab19142c9926d28f2f0996045e6c1e13831",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content106.xhtml",
+          "title": "Über Goethes Farbenlehre - Licht und Finsternis Fragenbeantwortung Berlin, 6. November 1913",
+          "body_chars": 67165,
+          "sha256": "d61910171fb0ee2ed200ce4aa1f5e25e3bede0adb022bc0317cda0fa7907bf87",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content148.xhtml",
+          "title": "Die geschichtliche Entwicklung der Farbwahrnehmung",
+          "body_chars": 31055,
+          "sha256": "b046343e434d5033275af6af3172855b4df31f9dd25af7043362c392fb5bff51",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content166.xhtml",
+          "title": "Die Inkarnatfarbe",
+          "body_chars": 69100,
+          "sha256": "9e883cfa68d6a6cbea931c69bbb6bdeef1c982e12fad97fd283583d70d4d4cf5",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content206.xhtml",
+          "title": "Drei Meditationssprüche zum Farbenerleben Aus einem Notizbuch aus dem Jahre 1904",
+          "body_chars": 33015,
+          "sha256": "b0564eca052c030772f59fb9ae092e74b3e7ab101d2606f3b2f8aebac1fda9d2",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content236.xhtml",
+          "title": "FARBENERKENNTNIS UND KÜNSTLERISCHES SCHAFFEN",
+          "body_chars": 89587,
+          "sha256": "88e5f4d978c58c0cbad881fdbfc1f682b0a3cddc45374234bcb68e253538e766",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content276.xhtml",
+          "title": "Grundlagen zu einer Farbenlehre für künstlerisches Schaffen Malen aus der Farbe heraus",
+          "body_chars": 42660,
+          "sha256": "af6302a36d090976aa39c3cf2e3b5b019f501370f22472cdf59668db228b43e0",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content342.xhtml",
+          "title": "Handschriftliche Aufzeichnungen zu den drei Vorträgen «Das Wesen der Farben» Dornach, 6., 7., 8. Mai 1921",
+          "body_chars": 23909,
+          "sha256": "fde404737a300ab4d7a7e2d777648729b529fec90612054898962356efdd31bf",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content369.xhtml",
+          "title": "Farbe in der Eurythmie",
+          "body_chars": 47338,
+          "sha256": "be4d7933da8bb7868b2b7d26ae7b06d5ab884d1d83010526875d9de544d384bb",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content399.xhtml",
+          "title": "Zur Anordnung der Beleuchtungskörper in der kleinen Kuppel des ersten Goetheanum",
+          "body_chars": 55990,
+          "sha256": "68670d11de59f8f3e9e804ef9fbde3b31aac217119f8dfa8ccd57c976301c5d9",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content444.xhtml",
+          "title": "Wie kann man auf die Temperamente durch die Farben wirken? Fragenbeantwortung Dornach, 8. Oktober 1920",
+          "body_chars": 58305,
+          "sha256": "9744120619fab0420ed966db7b5d7bc719b5139e9deaa7654e1a3b41600330ab",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content482.xhtml",
+          "title": "ANHANG",
+          "body_chars": 21033,
+          "sha256": "6261e833df685501c665bf00f48bfdfee68bab8f66234cdefef657fa51d338f2",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content494.xhtml",
+          "title": "HINWEISE",
+          "body_chars": 46743,
+          "sha256": "bfafe7a14a7687a12fb020d7c4452aa65bd9c9f9a326181e8f12ce2a4c643a8c",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content510.xhtml",
+          "title": "NAMENREGISTER",
+          "body_chars": 5294,
+          "sha256": "251e47d0b40f8a8478b9db826be913e2c64d2d3ec7092c504a26c93c888eda38",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-291a/epub-full.txt",
+      "epub_text_sha256": "e666a29ad2d8a80612cd14be9259654a9be7204d90016ce69869c425e6745bde",
+      "epub_full_chars": 735259,
+      "epub_full_words": 108978,
+      "import_ready": false
+    },
+    {
+      "work_id": "ga-292",
+      "ga_number": "292",
+      "title": "Kunstgeschichte als Abbild innerer geistiger Impulse. Sonderausgabe mit Bildern in 3 Bänden: pdf mobi epub, pdf mobi epub, pdf mobi epub",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-292/rudolf-steiner-ga-292_1.doc",
+          "path": "research/unavailable-recovery/education-art/ga-292/rudolf-steiner-ga-292_1.doc",
+          "format": "Word Document",
+          "ia_md5": "2316d90e29e0c400a58f1f78c3057715",
+          "expected_bytes": 971776,
+          "sha256": "f4df1caf9743f2fa4f2bcc689461e0d47ad7cd15bb400711b61ec098d97a6783",
+          "bytes": 971776
+        },
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-292/rudolf-steiner-ga-292_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-292/rudolf-steiner-ga-292_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "4114f98442145269c27929c4c1c0d21f",
+          "expected_bytes": 6844952,
+          "sha256": "63ece95a6ba56c827b0e57fdf81b46655da39f83a62b9bd0851540950b98ae93",
+          "bytes": 6844952
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA292.epub",
+          "path": "research/unavailable-recovery/education-art/ga-292/GA292.epub",
+          "format": "EPUB",
+          "sha256": "fdc69832332baaeb76e91c0f8a74edc38cc587cdcc7b6d077b7c730eaca1d891",
+          "bytes": 439785
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Thirteen original lectures present, but internal image lists and editor notes interleaved; heading-only exclusion is insufficient."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-292",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-292/ia_metadata.json",
+      "scan_imagecount": 406,
+      "doc_text_path": "research/unavailable-recovery/education-art/ga-292/doc-full.txt",
+      "doc_chars": 665769,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-292/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-292/ocr-full.txt",
+      "ocr_page_count": 406,
+      "ocr_chars": 797476,
+      "scope_reference_url": "https://anthrowiki.at/GA_292",
+      "epub_members": [
+        {
+          "member": "content16.xhtml",
+          "title": "ZU VORTRAG V VORWORT DES HERAUSGEBERS",
+          "body_chars": 4886,
+          "sha256": "64258e0ef334b58f9ac365e4a0783ee34e99933dd74c44b33a86401934d071a0",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content20.xhtml",
+          "title": "I CIMABUE GIOTTO UND ANDERE ITALIENISCHE MEISTER Dornach, 8. Oktober 1916",
+          "body_chars": 67962,
+          "sha256": "1cb190f3773554c8a910aea7262b27b2e56527de55fcf901b01f9930dfe85bf6",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content54.xhtml",
+          "title": "ZU VORTRAG V II Die drei großen Renaissance-Meister: LIONARDO MICHELANGELO RAFFAFL Dornach, 1. November 1916",
+          "body_chars": 75260,
+          "sha256": "5c335e66a7b3aa75ea1368ac9c08b462c4b56aa603570a2d5f599bb3046ffb04",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content92.xhtml",
+          "title": "ZU VORTRAG V III DEUTSCHE PLASTIK UND MALEREI BIS ZU DÜRER UND HOLBEIN RAFFAEL Dornach, 8. November 1916",
+          "body_chars": 56312,
+          "sha256": "9c8b85faca6d6c5598a4df064f5f797033551111d56cc4ed8aa0e3b3bf56ea68",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content120.xhtml",
+          "title": "ZU VORTRAG V IV DEUTSCHE UND NIEDERLÄNDISCHE PLASTIK MICHELANGELO Dornach, 15. November 1916",
+          "body_chars": 40087,
+          "sha256": "99be96d040a155544f64f5e12bd7216512071cd2213d554540eb9ab78dc632bc",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content141.xhtml",
+          "title": "V Eine einzigartige Erscheinung in der künstlerischen Menschheitsentwickelung: REMBRANDT Dornach, 28. November 1916",
+          "body_chars": 41231,
+          "sha256": "2f2387a86b451a6805e13d70c369235d3167107cc9634af49e7fc9bbc6569ec6",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content162.xhtml",
+          "title": "ZU VORTRAG V VI NIEDERLÄNDISCHE MALEREI vornehmlich des 15. Jahrhunderts Dornach, 13. Dezember 1916",
+          "body_chars": 41965,
+          "sha256": "5aef2b96649e897810fb0e30de14766644b2e9a00e63d5656a93ac8e74655e20",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content184.xhtml",
+          "title": "VII MOSAIKE MINIATUREN ITALIENISCHE, NIEDERLÄNDISCHE UND DEUTSCHE MEISTER Domach, 2. Januar 1917",
+          "body_chars": 23091,
+          "sha256": "4bf9a9a50b7141b281bacaf0cf56dc42d97b37a0226887515ffa0a00473ff542",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content198.xhtml",
+          "title": "ZU VORTRAG V VIII RAFFAEL DÜRER UND ANDERE DEUTSCHE MEISTER Dornach, 17. Januar 1917",
+          "body_chars": 52556,
+          "sha256": "0ffee05f5f28d1bd9926730989043423e7ae3b0bd1b2f3ec465e97208de8ae42",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content224.xhtml",
+          "title": "ZU VORTRAG V IX GRIECHISCHE UND RÖMISCHE PLASTIK RENAISSANCE-PLASTIK Dornach, 24. Januar 1917",
+          "body_chars": 42963,
+          "sha256": "d0d0c20b6e471c263e6d2b6e0934109b7fe53e83b77d4eea995d69eedd962efa",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content248.xhtml",
+          "title": "X RAFFAEL: «DISPUTA» - «SCHULE VON ATHEN» Dornach, 5. Oktober 1917",
+          "body_chars": 57154,
+          "sha256": "ecda37e14923512c49d3c522cc431ce464940d845420b5cf63155c107e5e1fed",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content274.xhtml",
+          "title": "ZU VORTRAG V XI IKONEN MINIATUREN DEUTSCHE MEISTER Dornach, 15. Oktober 1917",
+          "body_chars": 46050,
+          "sha256": "5bc8a9a4a16d6b76047859d78e9d46d87217152b4bfdaf2d6a52a686eceaa5c8",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content295.xhtml",
+          "title": "ALTCHRISTLICHE PLASTIK, SARKOPHAGE UND RELIEFE BERNWARD VON HILDESHEIM Dornach, 22. Oktober 1917",
+          "body_chars": 47039,
+          "sha256": "616b5d4690bb33768acb02544660e8d0a2735984cf23c06e65764e985284c6c2",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content317.xhtml",
+          "title": "ZU VORTRAG V XIII Wandlungen der Christus-Auffassung in der künstlerischen Darstellung: ALTCHRISTLICHE MALEREI UND MOSATKE ITALIENISCHE MEISTER DÜRER Dornach, 29. Oktober 1917",
+          "body_chars": 44869,
+          "sha256": "13e1ee4421a18979b0a27746e0efda537bf66210179aeef78456f627eccf09e9",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content341.xhtml",
+          "title": "ZU VORTRAG V ANHANG REDAKTIONELLE BEMERKUNGEN",
+          "body_chars": 3229,
+          "sha256": "f13304d22fa2b559f0e463b86eb08575c0719f113d04db12c6607dae1a6a5678",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content343.xhtml",
+          "title": "ALPHABETISCHES KÜNSTLER- UND SACHWORTVERZEICHNIS mit den Vorträgen, in denen die Werke besprochen sind",
+          "body_chars": 3048,
+          "sha256": "bf366204dc0489accf16a368b912486e1abc52f3eb38af826b0f94bde3ce7c6b",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content345.xhtml",
+          "title": "HINWEISE ZUM VORWORT",
+          "body_chars": 58465,
+          "sha256": "8ea86093803634ea342efe60c14fcd9ffbea1a860e64915dab3b89d184a38b07",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content374.xhtml",
+          "title": "ZU VORTRAG V Eine einzigartige Erscheinung in der künstlerischen Menschheitsentwickelung: REMBRANDT Dornach, 28. November 1916",
+          "body_chars": 7473,
+          "sha256": "cc8c063671d132c3f2a02a91d877c9d93aa934652f4156325daecfa2183993a6",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content378.xhtml",
+          "title": "ZU VORTRAG VI Das auftretende Wirken der Bewußtseinsseele in der Kunst des fünften nachatlantischen Zeitraums: NIEDERLÄNDISCHE MALEREI vornehmlich des 15. Jahrhunderts Dornach, 13. Dezember 1916",
+          "body_chars": 31953,
+          "sha256": "bd3b1aaf8ef5bb2b0bc3c5008ab1197fa9ebc5b488406da7a97a7e4c8ab325ae",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content394.xhtml",
+          "title": "ZU VORTRAG IX Das Wiedererleben der Kunst des vierten nachatlantischen Zeitraumes in der Kunst des fünften: GRIECHISCHE UND RC)MISCHE PLASTIK RENAISSANCE-PLASTIK Dornach, 24. Januar 1917",
+          "body_chars": 46686,
+          "sha256": "3ebb3eee0f91f1af1e552875e8faea5844089d264dfca55afe2e6edea5023015",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-292/epub-full.txt",
+      "epub_text_sha256": "eb032c57938b7097b38f7d2535398ffdf1c673deffbb513c2830c34ac43466eb",
+      "epub_full_chars": 767589,
+      "epub_full_words": 113890,
+      "import_ready": false
+    },
+    {
+      "work_id": "ga-293",
+      "ga_number": "293",
+      "title": "Allgemeine Menschenkunde als Grundlage der Pädagogik.",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-293/rudolf-steiner-ga-293.doc",
+          "path": "research/unavailable-recovery/education-art/ga-293/rudolf-steiner-ga-293.doc",
+          "format": "Word Document",
+          "ia_md5": "5c3ada0353a929ec828d8fef20f5f50a",
+          "expected_bytes": 755712,
+          "sha256": "f695175662e4142b2b62466dfd5de6a98aecc4e1c116ec157638a55eeee0f307",
+          "bytes": 755712
+        },
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-293/rudolf-steiner-ga-293_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-293/rudolf-steiner-ga-293_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "a4edab1e0ceab4a788798a743f39a2fc",
+          "expected_bytes": 4770304,
+          "sha256": "8a5659dbd91e20a0b61d3d1e9e13c147b694eaaf3f6d246c848bf210bc4a05e3",
+          "bytes": 4770304
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA293.epub",
+          "path": "research/unavailable-recovery/education-art/ga-293/GA293.epub",
+          "format": "EPUB",
+          "sha256": "282224dd0df93aa33e618b61e038a99b535b66295ae1eca4013bc3d1a5e7706e",
+          "bytes": 259833
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-293",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-293/ia_metadata.json",
+      "scan_imagecount": 254,
+      "doc_text_path": "research/unavailable-recovery/education-art/ga-293/doc-full.txt",
+      "doc_chars": 440451,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-293/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-293/ocr-full.txt",
+      "ocr_page_count": 254,
+      "ocr_chars": 568086,
+      "scope_reference_url": "https://anthrowiki.at/GA_293",
+      "epub_members": [
+        {
+          "member": "content10.xhtml",
+          "title": "ZUR ElNFÜHRUNG Aus der Ansprache zur Eröffnungsfeier der Freien Waldorfschule mit Geleitworten von Marie Steiner",
+          "body_chars": 15556,
+          "sha256": "7e89829c4d5746cc4ec5becfe7dcaa420cc019fa750eebf245432acfc620cf2b",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content18.xhtml",
+          "title": "ERSTER VORTRAG",
+          "body_chars": 27993,
+          "sha256": "4bdf177742fca9b3c9a23d1bd1a242148b2b1a0dea72ae03575e05a163bab9ca",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content31.xhtml",
+          "title": "ZWEITER VORTRAG",
+          "body_chars": 29459,
+          "sha256": "2f578e0f26dded8a45f0a954ea8bfbc2c36a8c7a906ae740f27f8be2618c48a9",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content47.xhtml",
+          "title": "DRITTER VORTRAG",
+          "body_chars": 36489,
+          "sha256": "6424752cb4de811b07e465d4049633737733ede2bb2e9a6d8e0977f6715b9ea5",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content65.xhtml",
+          "title": "VlERTER VORTRAG",
+          "body_chars": 33874,
+          "sha256": "e1148e8b8c8f5151d2a055c509c3e5b7a26f3abab8b8cedb6b19878f2fa509bb",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content82.xhtml",
+          "title": "FÜNFTER VORTRAG",
+          "body_chars": 28162,
+          "sha256": "ac9fe4ba3e8b8e39aacf5a2fab34d264f1f421131ff01ff74df76fc064ceec07",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content96.xhtml",
+          "title": "SECHSTER VORTRAG",
+          "body_chars": 28330,
+          "sha256": "7437d6a78616a62a42411a790f7069e5629f179a461b54e5c58d87a6f6444d10",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content111.xhtml",
+          "title": "SIEBENTER VORTRAG",
+          "body_chars": 30869,
+          "sha256": "14e134b8b2e887a72e87dac75484d5c0a91a5e8054a9a6667fc1097cfbfec697",
+          "bare_body_text_nodes": 28
+        },
+        {
+          "member": "content126.xhtml",
+          "title": "ACHTER VORTRAG",
+          "body_chars": 27372,
+          "sha256": "9b0cf4112952195a21ab201f1295ec153e5ad60d953fcba5cdd47727afc4892e",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content140.xhtml",
+          "title": "NEUNTER VORTRAG",
+          "body_chars": 27206,
+          "sha256": "3475f91cc927fcb707252b13815d4f433bd929dd5451e6b5fac53dfc7b5ab31f",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content153.xhtml",
+          "title": "ZEHNTER VORTRAG",
+          "body_chars": 27684,
+          "sha256": "e0ecc70cb71abbc9041f6cfe5e440aae158bc4d4b744f55ccb80ed5f09908e0d",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content167.xhtml",
+          "title": "ELFTER VORTRAG",
+          "body_chars": 26068,
+          "sha256": "ecfdb0296ba6da39b47cc41cf79c2d737cf14c213856832800af2db775bf70f5",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content180.xhtml",
+          "title": "ZWÖLFTER VORTRAG",
+          "body_chars": 26071,
+          "sha256": "b67633acb07b4536689573ed8f94358ebfbb8bca66948a3678bb3ab90c160d2c",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content193.xhtml",
+          "title": "DREIZEHNTER VORTRAG",
+          "body_chars": 23102,
+          "sha256": "9861ef8c2754dd9426cc32141c7d4098b26353da576175cfc4d91a868a64d536",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content205.xhtml",
+          "title": "VIERZEHNTER VORTRAG",
+          "body_chars": 20342,
+          "sha256": "aa4fbf582c875c4dc9cb3cfed7a1a08e1ac06e4d2b28b2f70fbfb68e6486e022",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content215.xhtml",
+          "title": "ANHANG Ansprache am Vorabend des Kurses Stuttgart, 20. August 1919",
+          "body_chars": 6489,
+          "sha256": "c9dbf467c151d3051f4ec5dd6906376a4c8bbb89d0ff93cbaafff18be104292e",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content220.xhtml",
+          "title": "ANMERKUNGEN ZU DIESER AUSGABE",
+          "body_chars": 9360,
+          "sha256": "432f55e6420d89bde2c3dc2feb3f7a1ef22ad3deedf321d209b1c5c035cd2ba1",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content225.xhtml",
+          "title": "LITERATURHINWEIS",
+          "body_chars": 17324,
+          "sha256": "9a19f0995c5f550ffb28acee7b73b7e63c19db8e62f79f568236530d350dcf9e",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-293/epub-full.txt",
+      "epub_text_sha256": "a48d1151719c7506c66f41fb8c42f5d02536f8311e0453ba4a9119d59e744853",
+      "epub_full_chars": 437466,
+      "epub_full_words": 66043,
+      "scope": {
+        "start": 18,
+        "end": 219,
+        "expected_sections": 15,
+        "evidence": "Fourteen lectures 21 August through 5 September 1919 + 20 August 1919 address. Marie introduction content10 excluded; apparatus begins content220."
+      },
+      "excluded_members": [
+        {
+          "member": "content10.xhtml",
+          "title": "ZUR ElNFÜHRUNG Aus der Ansprache zur Eröffnungsfeier der Freien Waldorfschule mit Geleitworten von Marie Steiner"
+        },
+        {
+          "member": "content220.xhtml",
+          "title": "ANMERKUNGEN ZU DIESER AUSGABE"
+        },
+        {
+          "member": "content225.xhtml",
+          "title": "LITERATURHINWEIS"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-293/candidate-passages.json",
+      "candidate_sha256": "e3c446ff32b9b1f26150bb4881abad5a78810198247fc5caa67f2de322e6ccdd",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-293/candidate-text.txt",
+      "candidate_text_sha256": "1b2015131ec939ba407db821e07173d3f25ddf9f24f32175d4881ab229578c81",
+      "candidate_chars": 395884,
+      "candidate_words": 60502,
+      "candidate_passage_count": 15,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "Meine lieben Freunde, wir kommen mit unserer Aufgabe nur zurecht, wenn wir sie nicht bloß betrachten als eine intellektuell-gemütliche, sondern als eine im höchsten Sinne moralisch-geistige; und daher werden sie es begreiflich finden, daß w",
+      "body_end_evidence": "e an unsere Aufgabe.\nNur aus dem können wir schöpfen, was heute gewonnen werden kann, wenn Interesse zugewendet wird erstens der großen Not der zeit,zweitens den großen Aufgaben der Zeit, die man sich beide nicht groß genug vorstellen kann."
+    },
+    {
+      "work_id": "ga-294",
+      "ga_number": "294",
+      "title": "Erziehungskunst. Methodisch-Didaktisches.",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-294/rudolf-steiner-ga-294_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-294/rudolf-steiner-ga-294_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "5991409b96d08a21372f135d2dd95782",
+          "expected_bytes": 3845288,
+          "sha256": "fd4e610352963c41d61dd887061a570335f2b45a5cf331b7b0e05640a48812e4",
+          "bytes": 3845288
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA294.epub",
+          "path": "research/unavailable-recovery/education-art/ga-294/GA294.epub",
+          "format": "EPUB",
+          "sha256": "92b702ef4aa87d1471aa953a5e6962a2f09bd08d2938ed303453c8dc8accb56a",
+          "bytes": 253442
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-294",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-294/ia_metadata.json",
+      "scan_imagecount": 214,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-294/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-294/ocr-full.txt",
+      "ocr_page_count": 214,
+      "ocr_chars": 456677,
+      "scope_reference_url": "https://anthrowiki.at/GA_294",
+      "epub_members": [
+        {
+          "member": "content8.xhtml",
+          "title": "ERSTER VORTRAG Stuttgart, 21. August 1919",
+          "body_chars": 34955,
+          "sha256": "63b5cbbe80d9ac09e54e4618807ace97970b578e5f46796130c325ba2b036772",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content24.xhtml",
+          "title": "ZWEITER VORTRAG Stuttgart, 22. August 1919",
+          "body_chars": 29993,
+          "sha256": "22d3175f9b54899c29c6b09c8f619cc427b077051ec27af23b4364c424bbe5d0",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content38.xhtml",
+          "title": "DRITTER VORTRAG Stuttgart, 23. August 1919",
+          "body_chars": 32244,
+          "sha256": "ed4c6ead26f59c2d301523f77bf8f44d262ad1f67978ee9ed8702530b20943ad",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content53.xhtml",
+          "title": "VIERTER VORTRAG Stuttgart, 25. .August 1919",
+          "body_chars": 32686,
+          "sha256": "6777471e851ec56793f598ef2a01a813876cef73c85e644f8adbba3df0efaf5e",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content68.xhtml",
+          "title": "FÜNFTER VORTRAG Stuttgart, 26. August 1919",
+          "body_chars": 27164,
+          "sha256": "0be1777b45846afea2aef0e1143a4de8a7bf95f34d485d7ef2e91cc7bd3a7f26",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content81.xhtml",
+          "title": "SECHSTER VORTRAG Stuttgart, 27. August 1919",
+          "body_chars": 33200,
+          "sha256": "f414eae0477d57e86b06118031807fc1d5c0f2d6cc73e890cabb2782d005a234",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content96.xhtml",
+          "title": "SIEBENTER VORTRAG Stuttgart, 28.August 1919",
+          "body_chars": 34722,
+          "sha256": "b2511cdc66641b61501ff5cf6c201139d97791df0f60bc4c9e68210dcf714dd7",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content112.xhtml",
+          "title": "ACHTER VORTRAG Stuttgart, 29. August 1919",
+          "body_chars": 28181,
+          "sha256": "b4aeb9c65e32f5cbd312e2d28eec886c36976a30be2a86ebbd4abfba47e419d0",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content125.xhtml",
+          "title": "NEUNTER VORTRAG Stuttgart, 30. August 1919",
+          "body_chars": 25670,
+          "sha256": "17dee1ca58f01150752af98417ae7d673e9a9503a0e06c9ef433b9dc0f87bbe4",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content137.xhtml",
+          "title": "ZEHNTER VORTRAG Stuttgart, 1. September 1919",
+          "body_chars": 28757,
+          "sha256": "8a2945f102bd8cd25f255c94a7363a0ce4208cbc2d13cc3ac4671410b7653b0e",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content151.xhtml",
+          "title": "ELFTER VORTRAG Stuttgart, 2. September 1919",
+          "body_chars": 23691,
+          "sha256": "9ff82d00deebabe50e21a0afa6edc037d6b046eb59a0e1b0bc3985ed56ca9dc2",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content162.xhtml",
+          "title": "ZWÖLFTER VORTRAG Stuttgart, 3. September 1919",
+          "body_chars": 23541,
+          "sha256": "984709b6ce9507463f36f51898d8a5c30f86ba339189ac936a35f53f869bf512",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content173.xhtml",
+          "title": "DREIZEHNTER VORTRAG Stuttgart, 4. September 1919",
+          "body_chars": 24176,
+          "sha256": "2d0d41b6abf1978fbb5c0712655f868e438937c5b10df48b961f7e0cf5b94b3b",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content184.xhtml",
+          "title": "VIERZEHNTER VORTRAG Stuttgart, 5. September 1919",
+          "body_chars": 22354,
+          "sha256": "4ee49e495f0e1c3fe387746d5fed091785063fddd4d55041a976a68feeb3d7a6",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content194.xhtml",
+          "title": "SCHLUSSWORTE Stuttgart, 6. September 1919",
+          "body_chars": 5355,
+          "sha256": "34e12de691403bf6d184cfdf73b3eeb2026f6db921308f4fabbfd513f8325fb6",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content197.xhtml",
+          "title": "HINWEISE",
+          "body_chars": 10224,
+          "sha256": "dd5c6c5839c8c3d6161873413b58fa1ba7761fae61f1c473593b20cc984c4267",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-294/epub-full.txt",
+      "epub_text_sha256": "7e5204dedc4adecb0a075c47c317cc7e22f57da91f3240c0422a97475b419c5b",
+      "epub_full_chars": 412052,
+      "epub_full_words": 63002,
+      "scope": {
+        "start": 8,
+        "end": 196,
+        "expected_sections": 15,
+        "editorial_suffix": "Damit schließen die Allsführungen Rudolf Steiners am 5. September 1919.",
+        "evidence": "Fourteen lectures 21 August through 5 September 1919 + 6 September 1919 closing remarks; publisher transition after14thlecture trimmed and Hinweise begins content197."
+      },
+      "excluded_members": [
+        {
+          "member": "content197.xhtml",
+          "title": "HINWEISE"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-294/candidate-passages.json",
+      "candidate_sha256": "363137084c8a1d0913b35aa82ea2031d7ae8c8bbacc8c72591ad1a4167f8395e",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-294/candidate-text.txt",
+      "candidate_text_sha256": "4c281488b7e62c39515383cf03923a0f525c02c2367c4f13d0569e1020bfc785",
+      "candidate_chars": 401076,
+      "candidate_words": 61514,
+      "candidate_passage_count": 15,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "Meine lieben Freunde, wir werden trennen müssen die Vorträge, die wir in diesen Kurs einbeziehen wollen, in die allgemein-pädagogischen und in diese mehr speziell methodisch-didaktischen. Auch zu diesen Vorträgen möchte ich eine Art von Ein",
+      "body_end_evidence": "geistigen Bewegung der Gegenwart doch ebensogut geistige Mächte des Weltenlaufes verbunden sind. Glauben wir an diese guten geistigen Mächte, dann werden sie inspirierend in unserem Dasein sein und wir werden den Unterricht erteilen können."
+    },
+    {
+      "work_id": "ga-295",
+      "ga_number": "295",
+      "title": "Erziehungskunst. Seminarbesprechungen und Lehrplanvorträge.",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-295/rudolf-steiner-ga-295_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-295/rudolf-steiner-ga-295_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "37646c185df1135fe294b799aa4837eb",
+          "expected_bytes": 3226575,
+          "sha256": "2e9babfabc8bf765bc7f42ac04b474a76487c967306f44c56191d09b7382b54b",
+          "bytes": 3226575
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA295.epub",
+          "path": "research/unavailable-recovery/education-art/ga-295/GA295.epub",
+          "format": "EPUB",
+          "sha256": "c08515789e6dc90f2682f7c6723ef997774a24b821482619eb1e4659f67a794a",
+          "bytes": 242423
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-295",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-295/ia_metadata.json",
+      "scan_imagecount": 196,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-295/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-295/ocr-full.txt",
+      "ocr_page_count": 196,
+      "ocr_chars": 378299,
+      "scope_reference_url": "https://anthrowiki.at/GA_295",
+      "epub_members": [
+        {
+          "member": "content10.xhtml",
+          "title": "ERSTE SEMINARBESPRECHUNG Stuttgart, 21. August 1919",
+          "body_chars": 26024,
+          "sha256": "9310f8ef6d7eefa0a9a222194faf930d203a72c1480dae31c2345c22fd4024f0",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content23.xhtml",
+          "title": "ZWEITE SEMINARBESPRECHUNG Stuttgart, 22. August 1919",
+          "body_chars": 22795,
+          "sha256": "7fa42ae04730046b247faf4e43b099c09fc244692dce549f4d24346d7f47ef31",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content34.xhtml",
+          "title": "DRITTE SEMINARBESPRECHUNG Stuttgart, 23. August 1919",
+          "body_chars": 11843,
+          "sha256": "47fd6a0df7488e7ebd77585ea74d0ce61c2c9cf1fd6ef3e19a415f278ce3101e",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content41.xhtml",
+          "title": "VIERTE SEMINARBESPRECHUNG Stuttgart, 25. August 1919",
+          "body_chars": 18932,
+          "sha256": "a5a3503662af4d0e7e505709d1516bd6e3f6f258091e1b43589eb447cb66b329",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content51.xhtml",
+          "title": "FÜNFTE SEMINARBESPRECHUNG Stuttgart, 26. August 1919",
+          "body_chars": 21025,
+          "sha256": "8634f878935b94afea1bf9b164f7d4928ad22e24150b1cbcbabf423428bbcfc4",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content61.xhtml",
+          "title": "SECHSTE SEMINARBESPRECHUNG Stuttgart, 27. August 1919",
+          "body_chars": 22938,
+          "sha256": "5f11c045233b7684cc0768f61af8e24e07299ed5c638f25055dc0783263ead89",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content73.xhtml",
+          "title": "SIEBENTE SEMINARBESPRECHUNG Stuttgart, 28. August 1919",
+          "body_chars": 33448,
+          "sha256": "9514d3e44bec4e9b78edf7f059c1853c7b1d027e2b858f12836602a9831b7d4a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content89.xhtml",
+          "title": "ACHTE SEMINARBESPRECHUNG Stuttgart, 29. August 1919",
+          "body_chars": 26466,
+          "sha256": "eabcb9bf3a589ab51c46466e8ecc7951bbad5dd5bd3b6eb20e24fcaca36eb3bf",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content102.xhtml",
+          "title": "NEUNTE SEMINARBESPRECHUNG Stuttgart, 30. August 1919",
+          "body_chars": 21838,
+          "sha256": "6991ed9b220b9d4cb8636004a7fd6a1c18389795b6d999450eacfe60e3d904b5",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content113.xhtml",
+          "title": "ZEHNTE SEMINARBESPRECHUNG Stuttgart, 1. September 1919",
+          "body_chars": 15440,
+          "sha256": "da1007e427665cb6ff8f230cbd7640fd4533ca33f9340808b577b1cb84b8386b",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content121.xhtml",
+          "title": "ELFTE SEMINARBESPRECHUNG Stuttgart, 2. September 1919",
+          "body_chars": 21305,
+          "sha256": "1ec4d720373b13845b4ee8380dd2edf47272ba9ebbfc3c875f8a6e3661768800",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content132.xhtml",
+          "title": "ZWÖLFTE SEMINARBESPRECHUNG Stuttgart, 3. September 1919",
+          "body_chars": 6824,
+          "sha256": "fd6afe864df0d35ffa19b43364f47e0f9e6c2c427364072bd45ac49d11beb1a8",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content137.xhtml",
+          "title": "DREIZEHNTE SEMINARBESPRECHUNG Stuttgart, 4. September 1919",
+          "body_chars": 11349,
+          "sha256": "53ed31d64fac474327f1660f93513193d8927188c18ad2cd7474fcb94d18a137",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content144.xhtml",
+          "title": "VIERZEHNTE SEMINARBESPRECHUNG Stuttgart, 5. September 1919",
+          "body_chars": 20397,
+          "sha256": "f080d13c7455926cd2ffcff1af5ac1b3dff2d8fbb47ce7d695e89875edbce547",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content155.xhtml",
+          "title": "ERSTER LEHRPLANVORTRAG Stuttgart, 6. September 1919, vormittags",
+          "body_chars": 24009,
+          "sha256": "d188a34467ed6649283c5f690b6ec70087074b76747319ded22e92c1e7c5a27a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content166.xhtml",
+          "title": "ZWEITER LEHRPLANVORTRAG Stuttgart, 6. September 1919, vormittags",
+          "body_chars": 16217,
+          "sha256": "545e58a876a627d353f725deb2610853923852c1a1cc03ca644ea1a5e791f7be",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content175.xhtml",
+          "title": "FÜNFZEHNTE SEMINARBESPRECHUNG und DRITTER LEHRPLANVORTRAG Stuttgart, 6. September 1919, nachmittags",
+          "body_chars": 25963,
+          "sha256": "82efebe5dcdda5e242907cb09ea8b6310e1fdf5d31e07d98013243088accef6f",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content188.xhtml",
+          "title": "Bemerkungen zur ersten Buchausgabe der Seminarbesprechungen",
+          "body_chars": 5130,
+          "sha256": "2671cb3263833896d126d13d9459488d26b82828fb72144f79a6ec2aadf206fd",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content189.xhtml",
+          "title": "HINWEISE",
+          "body_chars": 14835,
+          "sha256": "8c6201b492dd93f779b44596049323c25908d7c30b7ea77e480b829bdb7cc868",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-295/epub-full.txt",
+      "epub_text_sha256": "85ca08b839056411e1b3494a78e63c897c2bbd3dd0592fd4a3fd3722507dc047",
+      "epub_full_chars": 360133,
+      "epub_full_words": 54952,
+      "scope": {
+        "start": 10,
+        "end": 187,
+        "expected_sections": 17,
+        "evidence": "Fifteen seminar sessions and three curriculum lectures (last session combined with third lecture); Bemerkungen zur ersten Buchausgabe begins content188."
+      },
+      "excluded_members": [
+        {
+          "member": "content188.xhtml",
+          "title": "Bemerkungen zur ersten Buchausgabe der Seminarbesprechungen"
+        },
+        {
+          "member": "content189.xhtml",
+          "title": "HINWEISE"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-295/candidate-passages.json",
+      "candidate_sha256": "8ed18ac45deed57f57f9f340eac30a3cf97fdf7209feba3e0a66fa72c5201203",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-295/candidate-text.txt",
+      "candidate_text_sha256": "8f816b7eb78c4d73f0482ac481064425c4b4bf1e329076f25165ca680002c41e",
+      "candidate_chars": 339759,
+      "candidate_words": 52182,
+      "candidate_passage_count": 17,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "Meine lieben Freunde, nachmittags will ich in freier Weise besprechen, was bei Ihnen Unterrichtsaufgabe werden soll, Einteilung des Schulwesens, Ordnung des Unterrichts und dergleichen. In den ersten Tagen werden wir uns wohl hauptsächlich ",
+      "body_end_evidence": " mit der geistigen Bewegung der Gegenwart doch ebensogut geistige Mächte des Weltenlaufes verbunden sind. Glauben wir an diese guten Mächte, dann werden sie inspirierend in unserem Dasein sein, und wir werden den Unterricht erteilen können."
+    },
+    {
+      "work_id": "ga-296",
+      "ga_number": "296",
+      "title": "Die Erziehungsfrage als soziale Frage.",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-296/rudolf-steiner-ga-296_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-296/rudolf-steiner-ga-296_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "82dc87139624c1c1d8020f8e12c956d6",
+          "expected_bytes": 2246636,
+          "sha256": "83bef78ef1ffc4c9dded03b19b47357e5891786c8d7e28c3baef1995ebc0f3ef",
+          "bytes": 2246636
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA296.epub",
+          "path": "research/unavailable-recovery/education-art/ga-296/GA296.epub",
+          "format": "EPUB",
+          "sha256": "e350bdc1c8011b1b1a35b31f8222ed3c73b8bc6bb702f167ec5a03ced95e4f94",
+          "bytes": 194621
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-296",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-296/ia_metadata.json",
+      "scan_imagecount": 128,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-296/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-296/ocr-full.txt",
+      "ocr_page_count": 128,
+      "ocr_chars": 270672,
+      "scope_reference_url": "https://anthrowiki.at/GA_296",
+      "epub_members": [
+        {
+          "member": "content10.xhtml",
+          "title": "ERSTER VORTRAG Dornach, 9. August 1919",
+          "body_chars": 54045,
+          "sha256": "801a7318cda282770ccbdcf58b75fcd09eba5093c1b0c0b7bac79defb7504998",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content35.xhtml",
+          "title": "ZWEITER VORTRAG Dornach, 10. August 1919",
+          "body_chars": 42629,
+          "sha256": "c57dac99cb9e815404ec762bce6a48ac3eedd20a58c692b49e8d18ca188c9994",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content55.xhtml",
+          "title": "DRITTER VORTRAG Dornach, 11. August 1919",
+          "body_chars": 26242,
+          "sha256": "dd95d77b90c783e7849c8e0eb050684515e3913cabf85b9bcd0a16e48b80f9fd",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content68.xhtml",
+          "title": "VIERTER VORTRAG Dornach, 15. August 1919",
+          "body_chars": 38399,
+          "sha256": "74869a2751178277615aa6e21bd36bb038eda6bea776607cac14f7da7ba42946",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content86.xhtml",
+          "title": "FÜNFTER VORTRAG Dornach, 16. August 1919",
+          "body_chars": 27763,
+          "sha256": "ff17aaae769e3047cf6d33fbbbab7efc978064e44646d40faec0aedab9b4ad42",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content99.xhtml",
+          "title": "SECHSTER VORTRAG Dornach, 17. August 1919",
+          "body_chars": 42557,
+          "sha256": "3307ee4819ec90f4d654600b21a154bae3817cc8e6d604930942ac8dc7277fd4",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content118.xhtml",
+          "title": "HINWEISE",
+          "body_chars": 5582,
+          "sha256": "615ecf96edb3e404114be4740d5632f3fd26ba6e8c7bd7f4418f5d2a78f962fe",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-296/epub-full.txt",
+      "epub_text_sha256": "84b373d654cefc422dbb6b6739ad58d7a6df039477f63270dd9ba565d9a74fc0",
+      "epub_full_chars": 234821,
+      "epub_full_words": 35281,
+      "scope": {
+        "start": 10,
+        "end": 117,
+        "expected_sections": 6,
+        "evidence": "All six lectures 9,10,11,15,16,17 August 1919; Hinweise begins content118."
+      },
+      "excluded_members": [
+        {
+          "member": "content118.xhtml",
+          "title": "HINWEISE"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-296/candidate-passages.json",
+      "candidate_sha256": "0459405cd848ec2ab541d3406282e76caf421ccd5e91815fb531872b988d672c",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-296/candidate-text.txt",
+      "candidate_text_sha256": "eb67dfbb0b82a013b6cf754b688c0c9f6612b8f2c4379e744e767e7f7698e37c",
+      "candidate_chars": 229163,
+      "candidate_words": 34518,
+      "candidate_passage_count": 6,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "Nach einer Arbeit, die tief hineinsehen ließ in dasjenige, was gegen-wärtig vorgeht in Menschengemütern, was gegenwärtig besteht an innerer Tragik der Menschheitsentwickelung, kann ich wiederum einige Tage hier an diesem Orte sein, der ja s",
+      "body_end_evidence": "r den Antrieb geben können der Menschheit geistig zu überwinden dasjenige, was bloß tot ist in unserer Zeit. Überlegen wir uns das, meine lieben Freunde, bis zu dem Zeitpunkte, wo wir hier wiederum zusammen sprechen werden. Auf Wiedersehen!"
+    },
+    {
+      "work_id": "ga-297",
+      "ga_number": "297",
+      "title": "Idee und Praxis der Waldorfschule.",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-297/rudolf-steiner-ga-297_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-297/rudolf-steiner-ga-297_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "bcd1291bf42afe0468a9c64e27c2beec",
+          "expected_bytes": 5579442,
+          "sha256": "95ad89abcba67fa710c3a54df78e509db814567193aa4154d225d0c8cabe141a",
+          "bytes": 5579442
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA297.epub",
+          "path": "research/unavailable-recovery/education-art/ga-297/GA297.epub",
+          "format": "EPUB",
+          "sha256": "a6ea4b59242bfaa870ca6acc98fbfae02033f743fd5bbb9016a7e0bb3eeb94a2",
+          "bytes": 323481
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-297",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-297/ia_metadata.json",
+      "scan_imagecount": 332,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-297/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-297/ocr-full.txt",
+      "ocr_page_count": 332,
+      "ocr_chars": 675765,
+      "scope_reference_url": "https://anthrowiki.at/GA_297",
+      "epub_members": [
+        {
+          "member": "content16.xhtml",
+          "title": "WELCHE GESICHTSPUNKTE LIEGEN DER ERRICHTUNG DER WALDORFSCHULE ZUGRUNDE? Stuttgart, 24. August 1919",
+          "body_chars": 58365,
+          "sha256": "027a6d1a84b39eeaf613e73c526f0c8f4bfc999f4455b65c121a739e848400d8",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content43.xhtml",
+          "title": "AUS WELCHEM GEISTE KANN SICH EINE ERZIEHUNGSKUNST DER GEGENWART ENTWICKELN? Stuttgart, 31. August 1919 (nachmittags)",
+          "body_chars": 47460,
+          "sha256": "1a1982c8d9b712addfc1e9c8780f29faf2c3c25b43bc3e5fc213b2a39a760d59",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content65.xhtml",
+          "title": "VORTRAG FÜR DIE ELTERN DER WALDORFSCHULKINDER Stuttgart, 31. August 1919 (abends)",
+          "body_chars": 54696,
+          "sha256": "b7d249d62626f48896b632217dec8af09875b19c98b032387d6fcfe1abd6ee7a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content90.xhtml",
+          "title": "ÜBERSINNLICHE ERKENNTNIS UND SOZIAL-PÄDAGOGISCHE LEBENSKRAFT Stuttgart, 24. September 1919",
+          "body_chars": 61247,
+          "sha256": "cad110d17b4313c9d370bffd44ca56f1d639862d8a6e04a174022a011d913d56",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content119.xhtml",
+          "title": "DIE SOZIAL-PÄDAGOGISCHE BEDEUTUNG DER ANTHROPOSOPHISCH ORIENTIERTEN GEISTESWISSENSCHAFT Basel, 25. November 1919",
+          "body_chars": 83495,
+          "sha256": "4ed32c9169dafe8d8ec8344bdf4b0af9bba00d5054cc811946c23ec0ed7d44e5",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content158.xhtml",
+          "title": "GEISTESWISSENSCHAFT UND PÄDAGOGIK Basel, 27. November 1919",
+          "body_chars": 54665,
+          "sha256": "d77fa0bdaaedd56aa8cc2458f8425c46bbd94d1d1eb8af26b3578d6821dae527",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content183.xhtml",
+          "title": "Fragenbeantwortung",
+          "body_chars": 19563,
+          "sha256": "39a9209c341187c00fa96aba6a2ebeca74d73a8e1cfd479b09d7405eca123ed9",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content191.xhtml",
+          "title": "ERZIEHUNG UND SOZIALE GEMEINSCHAFT VOM GESICHTSPUNKT DER GEISTESWISSENSCHAFT Aarau, 21. Mai 1920",
+          "body_chars": 13510,
+          "sha256": "ba4b239975e1b69aa86ad60d11ccedf924d41946e96481aa675c6b8f4b60a8f8",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content198.xhtml",
+          "title": "PÄDAGOGISCH-DIDAKTISCHE KUNST UND DIE WALDORFSCHULE Dornach, 8. September 1920",
+          "body_chars": 53848,
+          "sha256": "3b13b68a937a1f5d7e838aec2687def59dd988a17446627d08c7f606094e9fc5",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content223.xhtml",
+          "title": "BESPRECHUNG PÄDAGOGISCHER UND PSYCHOLOGISCHER FRAGEN Dornach, 8. Oktober 1920",
+          "body_chars": 37758,
+          "sha256": "e9da613bdba402302a6165d5dabf050a05de4036161c3b86ae1941efa666d83b",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content241.xhtml",
+          "title": "ANTHROPOSOPHIE UND PÄDAGOGISCHE KUNST Olten, 29. Dezember 1920",
+          "body_chars": 78544,
+          "sha256": "d9caf1b378ec3d4a90262f06956752963410555899c6bde284f9f3e78972fe48",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content279.xhtml",
+          "title": "ZEITUNGSBERICHTE Zum Vortrag in Stuttgart am 24. September 1919",
+          "body_chars": 20053,
+          "sha256": "ed73d79374d68beaffe8812b2f4fca8ba8d1e9eee60e3ed728bff10fcf55740b",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content287.xhtml",
+          "title": "NOTIZBUCHEINTRAGUNGEN",
+          "body_chars": 546,
+          "sha256": "33885ea70633a8467e18fdc942994628cc4b34a9e06db07003cb98d52f9e7768",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content310.xhtml",
+          "title": "HINWEISE",
+          "body_chars": 60071,
+          "sha256": "01254b409eb46873d25d6e2aee99dde3da044a53c9ea1c6865fcd35edcdba3de",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content332.xhtml",
+          "title": "NAMENREGISTER",
+          "body_chars": 2476,
+          "sha256": "ed3fc81086cbae3a23117f67209079dae836b037b47eca94d045183d779b5e83",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-297/epub-full.txt",
+      "epub_text_sha256": "0fa3a8647ec6c81d70c6f2173c4f190a5257c47a1e4019b221623fa07256f169",
+      "epub_full_chars": 638734,
+      "epub_full_words": 94018,
+      "scope": {
+        "start": 16,
+        "end": 278,
+        "expected_sections": 11,
+        "evidence": "All ten original lectures + questions, 24 August 1919 through 29 December 1920. Newspaper report begins content279; notebook facsimile placeholder content287 excluded."
+      },
+      "excluded_members": [
+        {
+          "member": "content279.xhtml",
+          "title": "ZEITUNGSBERICHTE Zum Vortrag in Stuttgart am 24. September 1919"
+        },
+        {
+          "member": "content287.xhtml",
+          "title": "NOTIZBUCHEINTRAGUNGEN"
+        },
+        {
+          "member": "content310.xhtml",
+          "title": "HINWEISE"
+        },
+        {
+          "member": "content332.xhtml",
+          "title": "NAMENREGISTER"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-297/candidate-passages.json",
+      "candidate_sha256": "47eb035ca52bc0faecf1b1b00f263e63962f2890b78c64b3e77b50cc35e9d907",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-297/candidate-text.txt",
+      "candidate_text_sha256": "c4744f8c16a9ccb64d17d8b4ef762e088fff4244f8db9f1cef8d0f16517dff40",
+      "candidate_chars": 556782,
+      "candidate_words": 82586,
+      "candidate_passage_count": 11,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "Heute möchte ich zu Ihnen sprechen in Anknüpfung an die von unserem Freunde, Herrn Molt, begründete Waldorfschule. Wie Sie wohl aus den Ankündigungen wissen, soll mit dieser Schule eine Art erster Schritt auf dem Weg zu einem freien Geistes",
+      "body_end_evidence": "enommen ja auf einen Teil der Wahrheit hinweist. Es ist eben ein Versuch mit unzulänglichen Mitteln, was begreiflich ist aus der materialistischen Zeitgesinnung heraus, wo man auch das Geistige zunächst mit materialistischen Methoden sucht."
+    },
+    {
+      "work_id": "ga-297a",
+      "ga_number": "297a",
+      "title": "Erziehung zum Leben. Selbsterziehung und pädagogische Praxis.",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-297a/rudolf-steiner-ga-297a_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-297a/rudolf-steiner-ga-297a_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "8bc630d18e562004b6ffa949b727017e",
+          "expected_bytes": 3267206,
+          "sha256": "1ab0102512777279ce91ad2a15afa6691e257882b3a6f87a2f0a9e6bf355e2cd",
+          "bytes": 3267206
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA297a.epub",
+          "path": "research/unavailable-recovery/education-art/ga-297a/GA297a.epub",
+          "format": "EPUB",
+          "sha256": "5363f4feeb0bca240cee32cff22a3e328f1327905b1d368d71516c0045955d63",
+          "bytes": 217687
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-297a",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-297a/ia_metadata.json",
+      "scan_imagecount": 212,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-297a/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-297a/ocr-full.txt",
+      "ocr_page_count": 212,
+      "ocr_chars": 392435,
+      "scope_reference_url": "https://anthrowiki.at/GA_297a",
+      "epub_members": [
+        {
+          "member": "content14.xhtml",
+          "title": "ERZIEHUNGS-, UNTERRICHTS- UND PRAKTISCHE LEBENSFRAGEN VOM GESICHTSPUNKTE ANTHROPOSOPHISCHER GEISTESWISSENSCHAFT Utrecht, 24. Februar 1921",
+          "body_chars": 57313,
+          "sha256": "e52327844df9b0a11bfaba268282785eeea6cda8543ef562ed1b7b1d14fcbc5f",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content40.xhtml",
+          "title": "Fragenbeantwortung",
+          "body_chars": 12847,
+          "sha256": "c3de6f8d1cea15e9f4c93f7a0e778a268e470260cd248d8dd6ec798300382a8a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content46.xhtml",
+          "title": "ERZIEHUNGS-, UNTERRICHTS- UND PRAKTISCHE LEBENSFRAGEN VOM GESICHTSPUNKTE ANTHROPOSOPHISCHER GEISTESWISSENSCHAFT Amsterdam, 28. Februar 1921",
+          "body_chars": 57407,
+          "sha256": "ea90022cd8477dafebedda6ce1d2bced2759fadcb61ad0c2fab57c650e23ce5f",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content73.xhtml",
+          "title": "FRAGENBEANTWORTUNG AM PÄDAGOGISCHEN ABEND Darmstadt, 28. Juli 1921",
+          "body_chars": 23115,
+          "sha256": "95ff5c1ecb5c544223f87c1392fee640751d3715e2624157f41fdb01f5b60108",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content84.xhtml",
+          "title": "ANTHROPOSOPHIE UND DIE RÄTSEL DER SEELE Stuttgart, 17. Januar 1922",
+          "body_chars": 65277,
+          "sha256": "f24590039fe24881f26a822c9ca559cab31c8eafafcfadc7dd16b321f3c98d8f",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content114.xhtml",
+          "title": "DAS ÜBERSINNLICHE IN MENSCH UND WELT Rotterdam, 1. November 1922",
+          "body_chars": 55171,
+          "sha256": "e04d723170e5554484af1ad58f001973701f0ed5a40120155039244c3292f4a6",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content140.xhtml",
+          "title": "DIE RELIGIÖSE UND SITTLICHE ERZIEHUNG IM LICHTE DER ANTHROPOSOPHIE Den Haag, 4. November 1922",
+          "body_chars": 57914,
+          "sha256": "be266b0fe3538078447c7bedabdbd05ee63f8215affeef7c8bc2b9271e48088d",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content167.xhtml",
+          "title": "ERZIEHUNG UND UNTERRICHT AUF GRUNDLAGE WIRKLICHER MENSCHENERKENNTNIS Autorreferat Prag, 4. April 1924*",
+          "body_chars": 8232,
+          "sha256": "7d3b610a913e7779db555f11b61e06817687cf19a8e519cf1a8de407fae4b647",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content173.xhtml",
+          "title": "Zum Vortrag in Hengelo am 3. März 1921: Erziehungs-, Unterrichts- und praktische Lebensfragen vom Gesichtspunkte der anthroposophischen Geisteswissenschaft",
+          "body_chars": 2850,
+          "sha256": "a45bfa4e68cc110fbdcca32a8e5c7f4b3198ec5f268ddbb223f4e2dc1b17d2e8",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content204.xhtml",
+          "title": "HINWEISE",
+          "body_chars": 26214,
+          "sha256": "d9937062782955276b7c01fbcb657b8d2e0a9f34f13dd4db10ca38c9edbb660e",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content212.xhtml",
+          "title": "PERSONENREGISTER",
+          "body_chars": 1139,
+          "sha256": "1be2d74d15ba97ff6eff656750ca18aefbae9ae5817fd822786671d35333c2c3",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-297a/epub-full.txt",
+      "epub_text_sha256": "04367d8835fa60ce9a141485b538eec9574e5bdb87da06024086bd9d76551652",
+      "epub_full_chars": 363179,
+      "epub_full_words": 53484,
+      "scope": {
+        "start": 14,
+        "end": 172,
+        "expected_sections": 8,
+        "evidence": "Six original lectures/author report + two question sessions from 24 February 1921 through 4 April 1924. Appendix newspaper report starts content173."
+      },
+      "excluded_members": [
+        {
+          "member": "content173.xhtml",
+          "title": "Zum Vortrag in Hengelo am 3. März 1921: Erziehungs-, Unterrichts- und praktische Lebensfragen vom Gesichtspunkte der anthroposophischen Geisteswissenschaft"
+        },
+        {
+          "member": "content204.xhtml",
+          "title": "HINWEISE"
+        },
+        {
+          "member": "content212.xhtml",
+          "title": "PERSONENREGISTER"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-297a/candidate-passages.json",
+      "candidate_sha256": "01b57d4bf961dd5e16006aed5d34dcbb72103e139f60bda3623c2935bedec4f1",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-297a/candidate-text.txt",
+      "candidate_text_sha256": "acb0564ecec1a29f5321b7f8ffe1be01a241b81e2391b47f892646308cc983b8",
+      "candidate_chars": 333128,
+      "candidate_words": 49281,
+      "candidate_passage_count": 8,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "Was ich mir am letzten Montag hier in Utrecht auseinanderzusetzen erlaubte, bezog sich darauf, daß durch anthroposophisch orientierte Geisteswissenschaft eine Methode, ein wissenschaftlicher Weg gefunden werden soll, um in die geistige, in ",
+      "body_end_evidence": "ch frisch und lebens-tüchtig sein kann; ein Kind, das einseitig zum Verstehen dessen gebracht wird, das man oft dem Kindesalter angemessen glaubt, wird ein Mensch, der früh altert, der anfällig für die krankmachenden Lebensverhältnisse ist."
+    },
+    {
+      "work_id": "ga-298",
+      "ga_number": "298",
+      "title": "Rudolf Steiner in der Waldorfschule.",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-298/rudolf-steiner-ga-298.doc",
+          "path": "research/unavailable-recovery/education-art/ga-298/rudolf-steiner-ga-298.doc",
+          "format": "Word Document",
+          "ia_md5": "3827d92e0201650daf854bb9f7ed238f",
+          "expected_bytes": 709632,
+          "sha256": "0a2041da36ac681a261d0e600a15b2bca78261ad59f70fea402d5f1fb4c6be98",
+          "bytes": 709632
+        },
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-298/rudolf-steiner-ga-298_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-298/rudolf-steiner-ga-298_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "dda939d10299ade38db2765cd5c6d935",
+          "expected_bytes": 4003040,
+          "sha256": "d7f2ef4bbac03719edd3957aa46076ca8ae30cea3a043f3b1844919167e3df0f",
+          "bytes": 4003040
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA298.epub",
+          "path": "research/unavailable-recovery/education-art/ga-298/GA298.epub",
+          "format": "EPUB",
+          "sha256": "bce22462cfcb81931f0023b278a59e53552b27cd3ad2b120b9edd8f7e1ef71b0",
+          "bytes": 259402
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-298",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-298/ia_metadata.json",
+      "scan_imagecount": 225,
+      "doc_text_path": "research/unavailable-recovery/education-art/ga-298/doc-full.txt",
+      "doc_chars": 471661,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-298/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-298/ocr-full.txt",
+      "ocr_page_count": 225,
+      "ocr_chars": 472015,
+      "scope_reference_url": "https://anthrowiki.at/GA_298",
+      "epub_members": [
+        {
+          "member": "content10.xhtml",
+          "title": "DIE PÄDAGOGISCHE GRUNDLAGE DER WALDORFSCHULE Aufsatz 1919",
+          "body_chars": 19762,
+          "sha256": "459f3217a6398028aad598790667ce7c4f99b91a8ed75b3cdfde0d12a4e0283a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content19.xhtml",
+          "title": "EROFFNUNG DER FREIEN WALDORFSCHULE IM STADTGARTENSAAL IN STUTTGART DURCH KOMMERZIENRAT EMIL MOLT 7. September 1919",
+          "body_chars": 6910,
+          "sha256": "ad00de91d822169864359db0b6d102a9d555335cb6c42c4b5aea169148ba3b79",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content23.xhtml",
+          "title": "ANSPRACHE RUDOLF STEINERS BEI DER ERÖFFNUNG DER FREIEN WALDORFSCHULF 7. September 1919",
+          "body_chars": 29371,
+          "sha256": "1da130c54cf58fa363a727822f2d3c95f6e589ed63cf39c41a150964e1387b32",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content36.xhtml",
+          "title": "ANSPRACHE BEI DER WEIHNACHTSFEIER 21. Dezember 1919",
+          "body_chars": 10962,
+          "sha256": "a98de639ccdca7110ff12795fdedf69047a59af2672a4a3176bf4885aa385c3f",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content41.xhtml",
+          "title": "ANSPRACHE BEI EINER MONATSFEIER 10. Juni 1920",
+          "body_chars": 7325,
+          "sha256": "2bc527e04055357181d9679c148e844d07e2105889ff0fc1b1eaa72a82330ad6",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content45.xhtml",
+          "title": "DIE SCHULGEWOHNHEITEN DER NIEDERGEHENDEN ZEIT UND DIE SCHULPRAXIS DES KOMMENDEN TAGES VORTRAG, GEHALTEN AM ELTERNABEND 11. Juni1920",
+          "body_chars": 28345,
+          "sha256": "3712b1441998a09c6b41681e367de03c3739fdecada5b5b82a668da5c940707e",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content58.xhtml",
+          "title": "ANSPRACHE BEI DER FEIER ZUM ABSCHLUSS DES ERSTEN SCHULJAHRES 24. Juli 1920",
+          "body_chars": 16950,
+          "sha256": "bd0b32fe5748e7b8bea5e0071a53cce7da8d4cb8cb39f6c9da320f067b220f94",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content66.xhtml",
+          "title": "ANSPRACHE BEI EINER MONATSFEIFR 23. November 1920",
+          "body_chars": 5283,
+          "sha256": "d75369ac3ab70bb9b93f95ca2a69418f9e81d7e0747a6742955bc2dfd9293417",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content69.xhtml",
+          "title": "ANSPRACHE AM ELTERNABEND 13. Januar 1921",
+          "body_chars": 43503,
+          "sha256": "073a01c6d8516be956503eec282dc8e245e02128aaff7010cef94abaf2185cb2",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content88.xhtml",
+          "title": "ANSPRACHE BEI DER FEIER ZUM ABSCHLÜSS DES ZWEITEN SCHULJAHRES 11.Juni 1921",
+          "body_chars": 12216,
+          "sha256": "1f5e38ce22c118c2efd9bcb693d662364bef41c0c7f1d94f0604fb8bb6889de3",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content94.xhtml",
+          "title": "ANSPRACHE AN DER ERSTEN MITGLIEDERVERSAMMLUNG DES VEREINS «FREIE WALDORFSCHULE» 17. Juni 1921",
+          "body_chars": 19236,
+          "sha256": "b4abbf999484389996c6e2cf7705608ad9f9b97d0ed1c215581038bf97431dae",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content103.xhtml",
+          "title": "ANSPRACHE BEI DER FEIER ZUM BEGINN DES DRITTEN SCHULJAHRES 18. Juni 1921",
+          "body_chars": 27980,
+          "sha256": "c8c83adf63cddb0b83b0e86fb7bd78f29795cace5ae4243d320440be9723bf88",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content116.xhtml",
+          "title": "ANSPRACHE BEI DER GRUNDSTEINLEGUNG FÜR DAS NEUE HAUS DER WALDORFSCHULE 16. Dezember 1921",
+          "body_chars": 13824,
+          "sha256": "4c5bc7ad3325f59ada5533aea7ab8f648b349aa6ee73a5cc2bee5006e7f48ff9",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content123.xhtml",
+          "title": "ANSPRACHE AM ELTERNABEND 9. Mai 1922",
+          "body_chars": 52434,
+          "sha256": "ac2e544ed112efacb92ab31efaeeecc4cc63bcbf32e441500e4511fb0ebcf6c7",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content147.xhtml",
+          "title": "ANSPRACHE BEI DER PEIER ZUM BEGINN DES VIERTEN SCHULJAHRES 20. Juni 1922",
+          "body_chars": 12704,
+          "sha256": "40e9d40be963e8ab407e707e87c054703aeef0f59466a69291d183019502974a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content153.xhtml",
+          "title": "ANSPRACHE AN DER ZWEITEN ORDENTLICHEN MITGLIEDERVERSAMMLUNG DES VEREINS «FREIE WALDORESCHULE» 20. Juni 1922",
+          "body_chars": 24906,
+          "sha256": "c68981293d17f8030c5c7e2d189b1aace977b5dd00e2735cfc8a926fdd3da3f5",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content165.xhtml",
+          "title": "ANSPRACHE BEI DER MONATSFEIER NACH DEM BRANDE DES GOETHEANUM 1. März 1923",
+          "body_chars": 8538,
+          "sha256": "fa1ebe9124504a39c5e4dc65d6038b67414f3e1be360828d74c141216bd201d4",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content169.xhtml",
+          "title": "ANSPRACHE BEI DER EEIER ZUM BEGINN DES EUNFTEN SCHULJAHRES 24. April 1923",
+          "body_chars": 6591,
+          "sha256": "a2fc9d9725968a1d73e94bbfee5bf13ec2488efd313722472db69976c6d3bc68",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content172.xhtml",
+          "title": "ANSPRACHE BEI EINER MONATSFEIER 3. Mai 1923",
+          "body_chars": 6183,
+          "sha256": "451ba8bb135576ac072abcdb7975f6f6076e3afe9b3933118d361fa24661b01e",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content175.xhtml",
+          "title": "ANSPRACHE AN DER DRITTEN ORDENTLICHEN MITGLIEDERVERSAMMLUNG DES VEREINS «FREIE WALDORFSCHULE» 25. Mai 1923",
+          "body_chars": 29374,
+          "sha256": "9b3cca3e518855b555313d4f54e1957e81c90340c986871bd56b27dfbf3840b5",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content188.xhtml",
+          "title": "FRAGEN VON SCHULE UND HAUS ANSPRACHE AM ELTERNABEND 22. Juni 1923",
+          "body_chars": 23501,
+          "sha256": "7e4ae42f0dfb812b9d71fa6656b77feeb73dedebcc21ffbb6a17de4627378b07",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content199.xhtml",
+          "title": "ANSPRACHE BEI EINER MONATSFEIER 27. März 1924",
+          "body_chars": 7980,
+          "sha256": "9768b8a9d8036c542130b6c8f820d6b3c5f8c848757c23ffc9f32e125f839690",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content203.xhtml",
+          "title": "ANSPRACHE BEI DER FEIER ZU BEGINN DES SECHSTEN SCHULJAHRES 30. April 1924",
+          "body_chars": 7722,
+          "sha256": "09c0774edf727ea5fd2eb773bb28d2364533341dcc3b2baa133eb46eb8bdd264",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content207.xhtml",
+          "title": "DER VERKEHR DES LEHRERS MIT DEM ELTERNHAUSE IM GEISTE DER WALDORFSCHUL-PÄDAGOGIK 1. JUNI 1924",
+          "body_chars": 32692,
+          "sha256": "8be56c4a97aaadc2dea9d8d3fc9367cfc50b1c623085b58f787a4c72df271f1c",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content222.xhtml",
+          "title": "HINWEISE",
+          "body_chars": 13806,
+          "sha256": "40ed3ee32efd2085bde23b680c13a45172f1632d9e62349595c83e1ace0449c1",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-298/epub-full.txt",
+      "epub_text_sha256": "701b9bf74820fb44728e5942f84e03f28e4a121628152f2f0bfa0e390b1a3a9b",
+      "epub_full_chars": 462413,
+      "epub_full_words": 71091,
+      "scope": {
+        "start": 10,
+        "end": 221,
+        "exclude": [
+          19
+        ],
+        "expected_sections": 23,
+        "evidence": "1919 essay plus Steiner school addresses September 1919 through June 1924. Emil Molt opening speech content19 removed; Hinweise starts content222."
+      },
+      "excluded_members": [
+        {
+          "member": "content19.xhtml",
+          "title": "EROFFNUNG DER FREIEN WALDORFSCHULE IM STADTGARTENSAAL IN STUTTGART DURCH KOMMERZIENRAT EMIL MOLT 7. September 1919"
+        },
+        {
+          "member": "content222.xhtml",
+          "title": "HINWEISE"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-298/candidate-passages.json",
+      "candidate_sha256": "4453e970a1e9fc9a3b529b632cb99f12790a1bd2c10a75a9124c054598fbfd21",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-298/candidate-text.txt",
+      "candidate_text_sha256": "81e01c3182c1fee811228cc852658e43c9518752011acc574106084e6a75fe97",
+      "candidate_chars": 441146,
+      "candidate_words": 68049,
+      "candidate_passage_count": 23,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "Die Absichten, die Emil Molt durch die Waldorfschule verwirklichen Will, hängen zusammen mit ganz bestimmten Anschauungen über die sozialen Aufgaben der Gegenwart und der nächsten Zukunft. Aus diesen Anschauungen heraus muß der Geist ersteh",
+      "body_end_evidence": " mit ihrem Geiste eine Schule sein will nicht der Theorie, nicht der Abstraktion, nicht, des steifen, theoretischen Prinzips, sondern des vollen Lebens, der vollen Wirklichkeit, sucht sie den Weg in die Wirklichkeit des Elternhauses hinein."
+    },
+    {
+      "work_id": "ga-299",
+      "ga_number": "299",
+      "title": "Geisteswissenschaftliche Sprachbetrachtungen",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-299/rudolf-steiner-ga-299_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-299/rudolf-steiner-ga-299_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "fd18a4f979b460cedb2eeac3f48d66f6",
+          "expected_bytes": 1515678,
+          "sha256": "3e6a6e548ecf457867a414cd57c5bce553957abb27c061ab66c1d11e283bc018",
+          "bytes": 1515678
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA299.epub",
+          "path": "research/unavailable-recovery/education-art/ga-299/GA299.epub",
+          "format": "EPUB",
+          "sha256": "20b98268447c0ba2585d6e55b6c0f3c3807075689b4dea333da5c5afc03ce8de",
+          "bytes": 157963
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-299",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-299/ia_metadata.json",
+      "scan_imagecount": 88,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-299/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-299/ocr-full.txt",
+      "ocr_page_count": 88,
+      "ocr_chars": 180013,
+      "scope_reference_url": "https://anthrowiki.at/GA_299",
+      "epub_members": [
+        {
+          "member": "content10.xhtml",
+          "title": "ERSTER VORTRAG Stuttgart, 26. Dezember 1919",
+          "body_chars": 22849,
+          "sha256": "e8f8474073e801edb66fdda6002d67fc53a721422e720b6fa19315d0aa358c06",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content20.xhtml",
+          "title": "ZWEITER VORTRAG Stuttgart, 28. Dezember 1919",
+          "body_chars": 25546,
+          "sha256": "9b338d35ba73773201db3cd2154618b29a6f637a347409301de917728d986f3b",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content31.xhtml",
+          "title": "DRITTER VORTRAG Stuttgart, 29. Dezember 1919",
+          "body_chars": 27860,
+          "sha256": "f1eb58a1c7717d67f398ef593ae35f2b1802d1f6747fad99c63e6a2e2dbbcadd",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content45.xhtml",
+          "title": "VIERTER VORTRAG Stuttgart, 31. Dezember 1919",
+          "body_chars": 29578,
+          "sha256": "ca5d0a2a12a754fefafef5e78904e2fc59a1d1254baaefc7dd4d72f5c4ca8fce",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content59.xhtml",
+          "title": "FÜNFTER VORTRAG Stuttgart, 2. Januar 1920",
+          "body_chars": 29405,
+          "sha256": "e099e3299b979ea3319f6598cf0b61e816d1783eb71f22f3f7a83932c3c8a6bb",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content72.xhtml",
+          "title": "SECHSTER VORTRAG Stuttgart, 3. Januar 1920",
+          "body_chars": 31156,
+          "sha256": "5a2e1d6a09218a40f6b356323a879424348c70d0b5f639c496b626d70814193a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content86.xhtml",
+          "title": "HINWEISE",
+          "body_chars": 5904,
+          "sha256": "a12e2f818d75b7816251a44e9fb5f421864a93c0bf55577271833ecc2922597d",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-299/epub-full.txt",
+      "epub_text_sha256": "417e5316ed51b5e6498baa14978d1fd3c48829074c90162fb551013d59b88f58",
+      "epub_full_chars": 170238,
+      "epub_full_words": 25813,
+      "scope": {
+        "start": 10,
+        "end": 85,
+        "expected_sections": 6,
+        "evidence": "All six lectures 26 December 1919 through 3 January 1920; Hinweise begins content86."
+      },
+      "excluded_members": [
+        {
+          "member": "content86.xhtml",
+          "title": "HINWEISE"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-299/candidate-passages.json",
+      "candidate_sha256": "e8faa8764c5700426a9c6078147128d5d4f6d6d89f8f18cd803b9e5c73239b3c",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-299/candidate-text.txt",
+      "candidate_text_sha256": "88231c7f4b70e77da375db297aca1007b07ccb9948e94367be9cc411376ae3f8",
+      "candidate_chars": 164305,
+      "candidate_words": 24991,
+      "candidate_passage_count": 6,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "Einige der Freunde haben mich veranlaßt, zu Ihnen während dieses Aufenthaltes auch einiges über Sprachliches zu sprechen. Noch mehr als bei den naturwissenschaftlichen Kursen muß ich sagen, kann selbst-verständlich bei einer so plötzlich au",
+      "body_end_evidence": "ius, und auf der anderen Seite, wenn die Methodik des Unterrichts in dem zuletzt angedeuteten Sinn etwas beeinflußt werden könnte.\nDann wollen wir, wenn ich wiederkomme, hoffentlich in ganz naher Zeit, solche Sprachbetrachtungen fortsetzen."
+    },
+    {
+      "work_id": "ga-300a",
+      "ga_number": "300a",
+      "title": "Konferenzen mit den Lehrern der Freien Waldorfschule in Stuttgart 1919 bis 1924, Band 1",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-300a/rudolf-steiner-ga-300a_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-300a/rudolf-steiner-ga-300a_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "b08b90776e2169a4861668675ac61dab",
+          "expected_bytes": 6021094,
+          "sha256": "950bfee8fdf13a9bf6239ad41bd5f7d315bc500c819177750d1566d09a30085a",
+          "bytes": 6021094
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA300a.epub",
+          "path": "research/unavailable-recovery/education-art/ga-300a/GA300a.epub",
+          "format": "EPUB",
+          "sha256": "ba364e352a006a4790d630bc554e1011a5ad80e7f47158c6629a1daaa9a66e07",
+          "bytes": 562205
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-300a",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-300a/ia_metadata.json",
+      "scan_imagecount": 314,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-300a/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-300a/ocr-full.txt",
+      "ocr_page_count": 314,
+      "ocr_chars": 703697,
+      "scope_reference_url": "https://anthrowiki.at/GA_300a",
+      "epub_members": [
+        {
+          "member": "content10.xhtml",
+          "title": "VORWORT",
+          "body_chars": 6069,
+          "sha256": "0352ba51421ecdedd3fcb577df4b6e25979cef9583ccce7ce1ead9cc711f8743",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content14.xhtml",
+          "title": "EINLEITUNGEN",
+          "body_chars": 70973,
+          "sha256": "133890cea225758d4438b3785c73e3af6581974a00b94c0a6bb1192d8f50cf61",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content43.xhtml",
+          "title": "Die sechs einzelnen Schuljahre",
+          "body_chars": 44795,
+          "sha256": "38a99bcf56df316707734e1141ffa843335d70cdba685961e5e591aacebcf272",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content62.xhtml",
+          "title": "ANSPRACHE VON DR. RUDOLF STEINER am 20. August 1919 in Stuttgart",
+          "body_chars": 7439,
+          "sha256": "0e3b209a15d4470509ab0c78c4623674ba60d5578e7a21bec4bc633bcd7a3d60",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content66.xhtml",
+          "title": "Dr. Steiner über den Schulanfang",
+          "body_chars": 6308,
+          "sha256": "1bcd8152892d0267c9bbad36790002022fc013f7238c98b2c4b503f545e0aba4",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content70.xhtml",
+          "title": "Konferenz vom Donnerstag 25. September 1919, 8.30 Uhr",
+          "body_chars": 63389,
+          "sha256": "20e3f26b98717e13a93fdcf1ed11f1e41437cb96a40142405b627b6aec849c62",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content97.xhtml",
+          "title": "Konferenz vom Freitag 26. September 1919, 16 Uhr",
+          "body_chars": 52113,
+          "sha256": "177e88e6b0e8a17fb1a0d07675ac9e12d818edb006bf38d12e5e66dc73a9feb3",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content113.xhtml",
+          "title": "Konferenz vom Montag 22. Dezember 1919, 9 Uhr",
+          "body_chars": 4941,
+          "sha256": "dc441438295b06abec9079dcce0b9b0ad3440d159de29639a981c66b548f2d6a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content116.xhtml",
+          "title": "Konferenz vom Dienstag 23. Dezember 1919, 16 Uhr",
+          "body_chars": 3171,
+          "sha256": "f0de4e7aa17afae6bf509b094fb91aa511aab80bd993463a1901af676b400983",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content118.xhtml",
+          "title": "Konferenz vom Donnerstag 1. Januar 1920, 14.30 Uhr",
+          "body_chars": 4849,
+          "sha256": "11a092bdb62aa74fdb70aa18016607d077408bad68fc86c4dd2dbc4d021d1577",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content121.xhtml",
+          "title": "Konferenz vom Samstag 6. März 1920, 16 Uhr",
+          "body_chars": 2747,
+          "sha256": "577cd3b3adb5f3052ce219b169534e3e2083c4129991db2c726846257db33cfe",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content123.xhtml",
+          "title": "Konferenz vorn Montag 8. März 1920, 15.30 Uhr",
+          "body_chars": 74888,
+          "sha256": "bcdbeab45a7216382f923a77ad3d7e0741b483968132d3996c2c4990ea734d36",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content156.xhtml",
+          "title": "Konferenz vom Mittwoch 23. Juni 1920, 14.45-1 7 Uhr",
+          "body_chars": 66762,
+          "sha256": "ba7aae20c29750286bd81140b8f61519b046147b67aff2bc6688bd4ab78b27fe",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content183.xhtml",
+          "title": "Konferenz vom Donnerstag 29. Juli 1920, 10.30-13.30 Uhr",
+          "body_chars": 52609,
+          "sha256": "9724df57e88c980eed65ec02410a567e2824ccd25e8cd9a429c7e88c5d1985d1",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content206.xhtml",
+          "title": "Konferenz vom Dienstag 21. September 1920, 11-12 Uhr Nach dem dritten Vortrag des Kurses über ,,Meditativ erarbeitete Menschenkunde\"",
+          "body_chars": 70855,
+          "sha256": "a4ed8f61ffa21a7514b50fb612ca35ef14c0e5820d689e2ed004225545b12a15",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content236.xhtml",
+          "title": "Konferenz vom Montag 15. November 1920, 20 Uhr",
+          "body_chars": 46533,
+          "sha256": "e5cfd701cac4822acc78acaa1914789056d02b80bc8d97c3270b29f9cb0a6eed",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content256.xhtml",
+          "title": "Konferenz vom Sonntag 16. Januar 1921, 9.45 Uhr",
+          "body_chars": 51296,
+          "sha256": "fd774972e0ffed9214b0cc6edcb322d8c3a2d84c42014a64d92c0cd76810790a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content279.xhtml",
+          "title": "Konferenz vom Donnerstag 26. Mai 1921, 20-2 Uhr",
+          "body_chars": 27433,
+          "sha256": "f547ea9c3a10afb54938b2913f8a160dc7133735c994c85393b9f55c78eed56a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content291.xhtml",
+          "title": "Zeittafel: November1918 bis April1921",
+          "body_chars": 23831,
+          "sha256": "4fcfdf85315762438c8d5ca30aae7e9caa8c68c1596d3af75efbf338f4ba0905",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content301.xhtml",
+          "title": "HINWEISE",
+          "body_chars": 33249,
+          "sha256": "e1832d14cff44ec57af3a62da7113a31c6011d49ed236f717e2b19a33eb4d82c",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-300a/epub-full.txt",
+      "epub_text_sha256": "3f7fd04dbec2499683fd94b4a1e20e611112483d8d7f761a4d3d2a7b36a46372",
+      "epub_full_chars": 702031,
+      "epub_full_words": 106105,
+      "scope": {
+        "start": 62,
+        "end": 290,
+        "expected_sections": 15,
+        "evidence": "20 August 1919 address, school-start directions, 13 conference headings through 26 May 1921. Editorial foreword/introductions before content62 and chronology/notes from content291 excluded."
+      },
+      "excluded_members": [
+        {
+          "member": "content10.xhtml",
+          "title": "VORWORT"
+        },
+        {
+          "member": "content14.xhtml",
+          "title": "EINLEITUNGEN"
+        },
+        {
+          "member": "content43.xhtml",
+          "title": "Die sechs einzelnen Schuljahre"
+        },
+        {
+          "member": "content291.xhtml",
+          "title": "Zeittafel: November1918 bis April1921"
+        },
+        {
+          "member": "content301.xhtml",
+          "title": "HINWEISE"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-300a/candidate-passages.json",
+      "candidate_sha256": "964498a2f73175bdfb68ae1923651928484becaab7ea93e25f3536d019d8042d",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-300a/candidate-text.txt",
+      "candidate_text_sha256": "b8897c94171b7d6ed87e0a3662273c60686242cfa9839279ffeaf1408188cd51",
+      "candidate_chars": 525981,
+      "candidate_words": 81660,
+      "candidate_passage_count": 15,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "bei einem Begrüßungsabend für die Teilnehmer an den pädagogischen Kursen, die vom 21. August bis zum 6. September für die künftigen Waldorflehrer abgehalten wurden.\nAnwesend Herr Molt Frau Koegel\nFrau Molt Herr Baumann\nHerr Stockmeyer Herr ",
+      "body_end_evidence": "enliegen, ist eine Ausnahme. Es ist eine neue Klasse, die jede Schülerklasse dann beginnt. Es muß nicht prosaisch werden.\nWarum sind denn die Monatsfeiern nicht mehr gewesen? Es ist sehr schade. Ich glaube schon, daß wir sie machen sollten."
+    },
+    {
+      "work_id": "ga-300b",
+      "ga_number": "300b",
+      "title": "Konferenzen mit den Lehrern der Freien Waldorfschule in Stuttgart 1919 bis 1924, Band 2",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-300b/rudolf-steiner-ga-300b_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-300b/rudolf-steiner-ga-300b_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "358d0cb1fd5bdef41923c29cbc6ac49a",
+          "expected_bytes": 6486309,
+          "sha256": "b0fc14e88d4a3266f3f566d9a2f54d772ac39a14a9dc6dc4a3bda67c0c68406e",
+          "bytes": 6486309
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA300b.epub",
+          "path": "research/unavailable-recovery/education-art/ga-300b/GA300b.epub",
+          "format": "EPUB",
+          "sha256": "f8790163454cb4fbe9b32a24950373c68e3daa3f815b441bd2b1f6e1963d783c",
+          "bytes": 648709
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-300b",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-300b/ia_metadata.json",
+      "scan_imagecount": 326,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-300b/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-300b/ocr-full.txt",
+      "ocr_page_count": 326,
+      "ocr_chars": 752598,
+      "scope_reference_url": "https://anthrowiki.at/GA_300b",
+      "epub_members": [
+        {
+          "member": "content10.xhtml",
+          "title": "DIE PÄDAGOGISCHE GRUNDLAGE DER WALDORFSCHULE",
+          "body_chars": 114554,
+          "sha256": "4184e727ee12002d299cf42e71a96dcfe116b19a0335b77eaddc989077327091",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content60.xhtml",
+          "title": "Konferenz vom Samstag 14. Januar 1922, 19 Uhr",
+          "body_chars": 120394,
+          "sha256": "893b3c7c910eb1eb8257ac8ae81b2469867773f45d016a455e3e69316c110412",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content112.xhtml",
+          "title": "Konferenz vom Donnerstag 22. Juni1922, 20.30-22.30 Uhr",
+          "body_chars": 110661,
+          "sha256": "bd46cb0d8e15b2e9971112bc38d6ea73131793d8032664d44ed3fb49d8fcf1bf",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content159.xhtml",
+          "title": "Konferenz vom Samstag 28. Oktober 1922, 20-1.30 Uhr",
+          "body_chars": 103997,
+          "sha256": "6d5f33402d3d8dd07f8fcf43d892c36b2f409187e2e8b6dded0bd41a981a5b43",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content204.xhtml",
+          "title": "Konferenz vom Samstag 9. Dezember 1922, 16 Uhr",
+          "body_chars": 88321,
+          "sha256": "8e0519e3c3e91aefb3d28e849896f7b9c14dbc7091d724f7ff0b7a90189427df",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content241.xhtml",
+          "title": "Konferenz vom Mittwoch 31. Januar 1923, 16-19 Uhr",
+          "body_chars": 161195,
+          "sha256": "1dbaac4a61227f76946b769004405d56bb3306ab07b09e31fd22664a27550e0a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content308.xhtml",
+          "title": "Zeittafel: Juni 1921 bis März 1923",
+          "body_chars": 11205,
+          "sha256": "6d4cee7d98d983f4b803ee63939b75e65343e09cde49892b38bbecbdcb7b0003",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content313.xhtml",
+          "title": "HINWEISE",
+          "body_chars": 37483,
+          "sha256": "c4656ed4986233cf9d461b7f5231d8608baba23bcf939a9564b30d20e34674e6",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-300b/epub-full.txt",
+      "epub_text_sha256": "a2cb987bf4d3dde2f59fd3b3d71a70ae9d04d4cb12f1d0d41a3f55ae58254797",
+      "epub_full_chars": 735478,
+      "epub_full_words": 112739,
+      "scope": {
+        "start": 10,
+        "end": 307,
+        "expected_sections": 6,
+        "evidence": "Original Waldorf essay followed by conferences June 1921 through March 1923, including bare-body inline conference headings. Editorial chronology/notes starts content308."
+      },
+      "excluded_members": [
+        {
+          "member": "content308.xhtml",
+          "title": "Zeittafel: Juni 1921 bis März 1923"
+        },
+        {
+          "member": "content313.xhtml",
+          "title": "HINWEISE"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-300b/candidate-passages.json",
+      "candidate_sha256": "6287c6fbca01c992d4db1cd8dffe3f1f63212a0a9e82136e189c78b78316bd72",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-300b/candidate-text.txt",
+      "candidate_text_sha256": "b5b34a219e3552425c6776d7f9f51c69ceebe267aa3f41c304144525b15396db",
+      "candidate_chars": 689997,
+      "candidate_words": 106403,
+      "candidate_passage_count": 6,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "Die Absichten, die Emil Molt durch die Waldorfschule verwirklichen will, hängen zusammen mit ganz bestimmten Anschauungen über die sozialen Aufgaben der Gegenwart und der nächsten Zukunft. Aus diesen Anschauungen heraus muß der Geist ersteh",
+      "body_end_evidence": "nd ängstlich. Dr. Steiner: Sie geduldig behandeln.\nX.: Ein Mädchen aus Schlesien in meiner 8. Klasse hat nur die Dorfschule besucht.\nDr. Steiner: Wir müssen sie mitschleppen. Die soll in der Klasse bleiben. Sie wird sich schon hineinfinden."
+    },
+    {
+      "work_id": "ga-300c",
+      "ga_number": "300c",
+      "title": "Konferenzen mit den Lehrern der Freien Waldorfschule in Stuttgart 1919 bis 1924, Band 3",
+      "status": "source_recovered",
+      "source_files": [
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-300c/rudolf-steiner-ga-300c.doc",
+          "path": "research/unavailable-recovery/education-art/ga-300c/rudolf-steiner-ga-300c.doc",
+          "format": "Word Document",
+          "ia_md5": "3404c0b8c76b9450ae135f74c23bc171",
+          "expected_bytes": 1405440,
+          "sha256": "ce25f0015b8ba1917402b9d7e3c9dabf48bbcaa7b86dda6d948b522c7837a405",
+          "bytes": 1405440
+        },
+        {
+          "url": "https://archive.org/download/rudolf-steiner-ga-300c/rudolf-steiner-ga-300c_djvu.xml",
+          "path": "research/unavailable-recovery/education-art/ga-300c/rudolf-steiner-ga-300c_djvu.xml",
+          "format": "Djvu XML",
+          "ia_md5": "fc7b3b15136a1aece471d6991467b587",
+          "expected_bytes": 5607270,
+          "sha256": "f56082e6d1775d97a77bdeee74bfd0574a28d0bab05ba6698ff3d3640a87a163",
+          "bytes": 5607270
+        },
+        {
+          "url": "https://odysseetheater.org/GA/eBook/epub/GA300c.epub",
+          "path": "research/unavailable-recovery/education-art/ga-300c/GA300c.epub",
+          "format": "EPUB",
+          "sha256": "1cab6369510bdd9fe5a617fee7286a315b8843ea96f419bf903fdadcc50571ea",
+          "bytes": 738038
+        }
+      ],
+      "concerns": [
+        "Automatic extraction; not a facsimile-proofread edition. Full scan includes publisher apparatus until reviewed scope is applied.",
+        "Working text contains source spelling/OCR errors and inline source references; no word-level facsimile proofread. Bare text/tail nodes preserved."
+      ],
+      "item_url": "https://archive.org/details/rudolf-steiner-ga-300c",
+      "metadata_path": "research/unavailable-recovery/education-art/ga-300c/ia_metadata.json",
+      "scan_imagecount": 268,
+      "doc_text_path": "research/unavailable-recovery/education-art/ga-300c/doc-full.txt",
+      "doc_chars": 631126,
+      "ocr_pages_path": "research/unavailable-recovery/education-art/ga-300c/ocr-pages.json",
+      "ocr_text_path": "research/unavailable-recovery/education-art/ga-300c/ocr-full.txt",
+      "ocr_page_count": 268,
+      "ocr_chars": 634435,
+      "scope_reference_url": "https://anthrowiki.at/GA_300c",
+      "epub_members": [
+        {
+          "member": "content10.xhtml",
+          "title": "DIE PÄDAGOGISCHE ZIELSETZUNG DER WALDORFSCHULE IN STUTTGART",
+          "body_chars": 61517,
+          "sha256": "b3bc5a8eedd6ed820dbb10824e0f392a22064622db39779c408bb543a159b70b",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content35.xhtml",
+          "title": "Konferenz vom Mittwoch 25. April 1923, 16.30-19 Uhr",
+          "body_chars": 110658,
+          "sha256": "10e95d697b2752c6441584830744036fa1c2bc26c875c71155e0a09daede0af0",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content83.xhtml",
+          "title": "Konferenz vom Dienstag 31. Juli 1923",
+          "body_chars": 65843,
+          "sha256": "9d9a8eb5110e0f9ba184b57362b825348b869d2e4d848c3eefd5bbea702f7fda",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content112.xhtml",
+          "title": "Konferenz vom Dienstag 5. Februar 1924, 20 Uhr",
+          "body_chars": 123465,
+          "sha256": "9f798b318f0459512b6d76761a8312233bca8eac444e254aa193096c618c55bd",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content162.xhtml",
+          "title": "Konferenz vom Montag 2. Juni 1924, 22-1 Uhr",
+          "body_chars": 81283,
+          "sha256": "3c6377d070aedea4f3f950d26fa14463cca277d293fe38eedb2ce147ddbfda8c",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content196.xhtml",
+          "title": "Zeittafel: März 1923 bis September 1924",
+          "body_chars": 9986,
+          "sha256": "c97344730e35bd068d8085a746b61b8f855011e926daa5d8949f84840bd45063",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content202.xhtml",
+          "title": "HINWEISE",
+          "body_chars": 28058,
+          "sha256": "ab5f78f0f32f4d32f8f05b8a4bad0f832534dd59297afe33a641189df921926b",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content214.xhtml",
+          "title": "Kurse und Vorträge über Pädagogik, über die Waldoffschule und ftir deren Lehrer",
+          "body_chars": 31879,
+          "sha256": "c89a77105ae9760ca69c2c5c5abb6c41894bd7e28554ee373e68ba52dae4991c",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content229.xhtml",
+          "title": "Aarau  Alte Sprachen",
+          "body_chars": 117661,
+          "sha256": "55b5259244e82177d674e686dbaf489869d52765d84958f157f4b101138b9e9a",
+          "bare_body_text_nodes": 0
+        },
+        {
+          "member": "content267.xhtml",
+          "title": "PERSONENVERZEICHNIS",
+          "body_chars": 4032,
+          "sha256": "b0fb8dc7e3e17363b7b4b06f96f23d62422eadc2551e7286c5ea91ef8c6de9c2",
+          "bare_body_text_nodes": 0
+        }
+      ],
+      "epub_text_path": "research/unavailable-recovery/education-art/ga-300c/epub-full.txt",
+      "epub_text_sha256": "b745fb0337a2ac15515190c6e805f6ebf70de26b0c1390f4f89f45fc7fe281a7",
+      "epub_full_chars": 621851,
+      "epub_full_words": 95169,
+      "scope": {
+        "start": 10,
+        "end": 195,
+        "expected_sections": 5,
+        "evidence": "Original pedagogical essay followed by conferences March 1923 through September 1924, including inline conference headings. Editorial chronology/notes/index starts content196."
+      },
+      "excluded_members": [
+        {
+          "member": "content196.xhtml",
+          "title": "Zeittafel: März 1923 bis September 1924"
+        },
+        {
+          "member": "content202.xhtml",
+          "title": "HINWEISE"
+        },
+        {
+          "member": "content214.xhtml",
+          "title": "Kurse und Vorträge über Pädagogik, über die Waldoffschule und ftir deren Lehrer"
+        },
+        {
+          "member": "content229.xhtml",
+          "title": "Aarau  Alte Sprachen"
+        },
+        {
+          "member": "content267.xhtml",
+          "title": "PERSONENVERZEICHNIS"
+        }
+      ],
+      "candidate_path": "research/unavailable-recovery/education-art/ga-300c/candidate-passages.json",
+      "candidate_sha256": "7f734c4029f07f1d6da3d8f22be267c3e212c05b39990213b293b4863b2f97db",
+      "candidate_text_path": "research/unavailable-recovery/education-art/ga-300c/candidate-text.txt",
+      "candidate_text_sha256": "52955a8a5c068e0df6991d0cdc5e396a7766a78bf3448de72796670698b142b0",
+      "candidate_chars": 437656,
+      "candidate_words": 67206,
+      "candidate_passage_count": 5,
+      "import_ready": true,
+      "scope_completeness": "All original typed Steiner text in the recovered source edition; publisher and named other-author sections excluded. Supporting visual facsimiles not reproduced.",
+      "body_start_evidence": "Wer sich auf den heutigen Bildungsanstalten für den Beruf des Pädagogen vorbereitet, nimmt viele gute Grundsätze über Erziehungswesen und Unterrichtskunst ins Leben mit. Und der gute Wille, diese Grundsätze auch anzuwenden, ist zweifellos b",
+      "body_end_evidence": "und zur Schule. Wir heißen sie dann nicht 13. Klasse. sondern ,, Vorbereitungsklasse für das Abiturjum ,, .\nIch will Vorträge halten im September oder in der ersten Oktober-woche, über die moralische Seite der Erziehung und des Unterrichts."
+    }
+  ]
+}

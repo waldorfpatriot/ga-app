@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GAAuthorName</key>
+	<string>$(GA_AUTHOR_NAME)</string>
+	<key>GAAuthorShortName</key>
+	<string>$(GA_AUTHOR_SHORT_NAME)</string>
+	<key>GAAuthorSlug</key>
+	<string>$(GA_AUTHOR_SLUG)</string>
+	<key>GAEditionTitle</key>
+	<string>$(GA_EDITION_TITLE)</string>
+	<key>GAWorkPrefix</key>
+	<string>$(GA_WORK_PREFIX)</string>
+	<key>GADefaultLanguage</key>
+	<string>$(GA_DEFAULT_LANGUAGE)</string>
+	<key>GAProductIDPrefix</key>
+	<string>$(GA_PRODUCT_ID_PREFIX)</string>
+	<key>GAEntitlementIdentifier</key>
+	<string>$(GA_ENTITLEMENT_IDENTIFIER)</string>
+	<key>GACloudKitContainerIdentifier</key>
+	<string>$(GA_CLOUDKIT_CONTAINER_IDENTIFIER)</string>
+	<key>GARevenueCatPublicSDKKey</key>
+	<string>$(GA_REVENUECAT_PUBLIC_SDK_KEY)</string>
+	<key>GAAccessBaseURL</key>
+	<string>$(GA_ACCESS_BASE_URL)</string>
+	<key>GA_SERVER_BASE_URL</key>
+	<string>$(GA_SERVER_BASE_URL)</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>GAPrivacyURL</key>
+	<string>$(GA_PRIVACY_URL)</string>
+	<key>GASupportURL</key>
+	<string>$(GA_SUPPORT_URL)</string>
+</dict>
+</plist>

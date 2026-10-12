@@ -1,0 +1,10 @@
+// Production defaults already live in Purchases.xcconfig. Copy this file only
+// for workstation overrides, then uncomment and fill the values you need.
+// The same public Apple SDK key serves iOS and macOS universal purchase.
+// Never use a secret key or Test Store key.
+// GA_REVENUECAT_IOS_SDK_KEY = appl_REPLACE_WITH_IOS_PUBLIC_SDK_KEY
+
+// xcconfig treats // as a comment. $() preserves the second slash in a URL.
+// GA_ACCESS_BASE_URL = https:/$()/your-access-service.example
+// Optional independent catalog override:
+// GA_SERVER_BASE_URL = https:/$()/your-catalog.example/ga-reader

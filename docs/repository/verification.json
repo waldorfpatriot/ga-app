@@ -1,0 +1,66 @@
+{
+  "snapshot_date": "2026-10-12",
+  "source_files_copied": 1425,
+  "copied_files_preserved_byte_for_byte": 1423,
+  "documentation_supplemented": [
+    "README.md",
+    ".gitignore"
+  ],
+  "catalog": {
+    "entries": 463,
+    "available_works": 324,
+    "unavailable_entries": 139,
+    "passages": 4988
+  },
+  "checks": [
+    {
+      "command": "python3 tools/check_apple_build_content.py",
+      "result": "passed",
+      "details": "Current corpus hashes, proofreading ledger, Apple catalog and five offline books (77 sections) agree."
+    },
+    {
+      "command": "python3 tools/check_download_library.py",
+      "result": "passed",
+      "details": "All 324 complete downloads validated with the actual Swift models; defaults, Unicode, content identity and corrupt/partial payload rejection passed."
+    },
+    {
+      "command": "GA_SKIP_REPO=1 MIX_ENV=test mix run --no-start -e \"Mix.Tasks.Test.run([])\"",
+      "result": "passed",
+      "passed_tests": 37,
+      "skipped_tests": 33,
+      "details": "Used existing dependency/build caches. Direct task invocation avoids the Ecto test alias. Database-dependent checks skipped in catalog-only mode."
+    },
+    {
+      "tool": "Gitleaks v8.30.1",
+      "result": "reviewed",
+      "scanned_bytes": 416256422,
+      "archive_depth": 2,
+      "decode_depth": 2,
+      "findings": [
+        {
+          "file": "server/config/dev.exs",
+          "line": 26,
+          "rule": "generic-api-key",
+          "resolution": "Fixed local development signing default; production reads SECRET_KEY_BASE from its environment."
+        },
+        {
+          "file": "server/config/test.exs",
+          "line": 20,
+          "rule": "generic-api-key",
+          "resolution": "Fixed test signing default; production reads SECRET_KEY_BASE from its environment."
+        }
+      ],
+      "details": "No additional findings; official scanner archive verified against release checksums."
+    },
+    {
+      "check": "Staged-file coverage and corpus hashes",
+      "result": "passed",
+      "details": "Every selected file is staged, with no missing payload; all 324 staged corpus SHA-256 values match corpus-manifest.json."
+    }
+  ],
+  "limitations": [
+    "No full Xcode app build performed for this unchanged source snapshot.",
+    "Database integration tests require a separate configured PostgreSQL test database.",
+    "Original scans, source EPUBs and historical research baseline caches are separate inputs and not part of this edited-corpus snapshot."
+  ]
+}

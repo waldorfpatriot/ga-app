@@ -1,0 +1,33 @@
+Rudolf / Steiner / GA — gold-textured lettering at 200% size
+
+Use rudolf-steiner-ga-gold-200pct.png for all three lines as a single layer.
+The gold texture is already applied, and the background is transparent.
+
+The visible lettering and line spacing are exactly twice the previous
+size (+100%), on the SAME 1024 × 1024 canvas. The complete enlarged text
+block is centered so its letters are not cropped.
+
+For independent editing, use these three files together instead:
+  02-rudolf-gold-200pct.png
+  03-steiner-gold-200pct.png
+  04-ga-gold-200pct.png
+
+All layers share the same canvas and aligned positions. Import either the
+combined PNG OR the three separate PNGs, above your linen background.
+No additional gold material or mask needs to be applied.
+
+Keep the transparent canvas margins intact when importing. The visible
+lettering already has the requested scale; no further 200% scaling is needed.
+
+vectors/ contains the enlarged lettering as native outlines. Those SVGs
+have a flat gold fill rather than the photographic texture; use the PNGs
+for the textured appearance.
+masks/ contains the corresponding white transparent letter masks.
+sources/ contains the existing gold material, source outlines and the
+reproducible export. The existing pale gold material is reused unchanged.
+
+preview-on-linen.png is a flattened comparison preview, not a foreground
+layer to import. The background is included in the preview only.
+
+sources/export-metadata.json records the exact transformation and geometry bounds.
+asset-manifest.json records file sizes, dimensions and checksums.

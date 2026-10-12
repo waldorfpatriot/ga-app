@@ -1,0 +1,2365 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 60,
+    "params": {
+      "query": "identifier:rudolf-steiner-ga-* AND creator:&quot;Rudolf Steiner&quot;",
+      "qin": "identifier:rudolf-steiner-ga-* AND creator:&quot;Rudolf Steiner&quot;",
+      "fields": "identifier,title,date,publicdate,downloads,item_size",
+      "wt": "json",
+      "rows": 500,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 335,
+    "start": 0,
+    "docs": [
+      {
+        "downloads": 524,
+        "identifier": "rudolf-steiner-ga-333",
+        "item_size": 60087204,
+        "publicdate": "2014-01-14T00:23:03Z",
+        "title": "Gedankenfreiheit und soziale Kräfte"
+      },
+      {
+        "downloads": 717,
+        "identifier": "rudolf-steiner-ga-142",
+        "item_size": 41513768,
+        "publicdate": "2014-01-14T01:32:42Z",
+        "title": "Die Bhagavad Gita und die Paulusbriefe"
+      },
+      {
+        "downloads": 1335,
+        "identifier": "rudolf-steiner-ga-148",
+        "item_size": 111693187,
+        "publicdate": "2014-01-13T22:29:09Z",
+        "title": "Aus der Akasha-Forschung. Das Fünfte Evangelium"
+      },
+      {
+        "downloads": 952,
+        "identifier": "rudolf-steiner-ga-156",
+        "item_size": 67070101,
+        "publicdate": "2014-01-13T22:33:49Z",
+        "title": "Okkultes Lesen und okkultes Hören"
+      },
+      {
+        "downloads": 945,
+        "identifier": "rudolf-steiner-ga-224",
+        "item_size": 74781027,
+        "publicdate": "2014-01-13T22:32:09Z",
+        "title": "Die menschliche Seele in ihrem Zusammenhang mit göttlich-geistigen Individualitäten. Die Verinnerlichung der Jahresfeste"
+      },
+      {
+        "downloads": 2771,
+        "identifier": "rudolf-steiner-ga-255b",
+        "item_size": 245940744,
+        "publicdate": "2014-01-13T23:40:56Z",
+        "title": "Die Anthroposophie und ihre Gegner 1919 – 1921"
+      },
+      {
+        "downloads": 573,
+        "identifier": "rudolf-steiner-ga-334",
+        "item_size": 99138279,
+        "publicdate": "2014-01-13T23:29:10Z",
+        "title": "Vom Einheitsstaat zum dreigliedrigen sozialen Organismus"
+      },
+      {
+        "downloads": 595,
+        "identifier": "rudolf-steiner-ga-078",
+        "item_size": 60900615,
+        "publicdate": "2014-01-13T22:45:37Z",
+        "title": "Anthroposophie, ihre Erkenntniswurzeln und Lebensfrüchte"
+      },
+      {
+        "downloads": 1057,
+        "identifier": "rudolf-steiner-ga-056",
+        "item_size": 103797561,
+        "publicdate": "2014-01-13T23:05:39Z",
+        "title": "Die Erkenntnis der Seele und des Geistes"
+      },
+      {
+        "downloads": 924,
+        "identifier": "rudolf-steiner-ga-065",
+        "item_size": 247297719,
+        "publicdate": "2014-01-14T01:02:16Z",
+        "title": "Aus dem mitteleuropäischen Geistesleben"
+      },
+      {
+        "downloads": 568,
+        "identifier": "rudolf-steiner-ga-076",
+        "item_size": 73378468,
+        "publicdate": "2014-01-13T23:09:28Z",
+        "title": "Die befruchtende Wirkung der Anthroposophie auf die Fachwissenschaften"
+      },
+      {
+        "downloads": 615,
+        "identifier": "rudolf-steiner-ga-077a",
+        "item_size": 68950867,
+        "publicdate": "2014-01-14T10:25:07Z",
+        "title": "Die Aufgabe der Anthroposophie gegenüber Wissenschaft und Leben"
+      },
+      {
+        "downloads": 769,
+        "identifier": "rudolf-steiner-ga-083",
+        "item_size": 104585486,
+        "publicdate": "2014-01-13T22:30:46Z",
+        "title": "Westliche und östliche Weltgegensätzlichkeit"
+      },
+      {
+        "downloads": 990,
+        "identifier": "rudolf-steiner-ga-202",
+        "item_size": 92431177,
+        "publicdate": "2014-01-14T00:22:34Z",
+        "title": "Die Brücke zwischen der Weltgeistigkeit und dem Physischen des Menschen"
+      },
+      {
+        "downloads": 903,
+        "identifier": "rudolf-steiner-ga-211",
+        "item_size": 84796699,
+        "publicdate": "2014-01-13T23:00:20Z",
+        "title": "Das Sonnenmysterium und das Mysterium von Tod und Auferstehung"
+      },
+      {
+        "downloads": 1996,
+        "identifier": "rudolf-steiner-ga-324a",
+        "item_size": 82143176,
+        "publicdate": "2014-01-13T23:49:45Z",
+        "title": "Die vierte Dimension"
+      },
+      {
+        "downloads": 901,
+        "identifier": "rudolf-steiner-ga-204",
+        "item_size": 101794629,
+        "publicdate": "2014-01-13T23:02:14Z",
+        "title": "Perspektiven der Menschheitsentwickelung"
+      },
+      {
+        "downloads": 602,
+        "identifier": "rudolf-steiner-ga-225",
+        "item_size": 68284859,
+        "publicdate": "2014-01-13T23:30:17Z",
+        "title": "Drei Perspektiven der Anthroposophie"
+      },
+      {
+        "downloads": 786,
+        "identifier": "rudolf-steiner-ga-305",
+        "item_size": 81691705,
+        "publicdate": "2014-01-14T00:05:56Z",
+        "title": "Die geistig-seelischen Grundkräfte der Erziehungskunst"
+      },
+      {
+        "downloads": 660,
+        "identifier": "rudolf-steiner-ga-016",
+        "item_size": 22604516,
+        "publicdate": "2014-01-14T01:22:58Z",
+        "title": "Ein Weg zur Selbsterkenntnis des Menschen"
+      },
+      {
+        "downloads": 730,
+        "identifier": "rudolf-steiner-ga-020",
+        "item_size": 53391295,
+        "publicdate": "2014-01-14T01:22:37Z",
+        "title": "Vom Menschenrätsel"
+      },
+      {
+        "downloads": 1046,
+        "identifier": "rudolf-steiner-ga-128",
+        "item_size": 66419441,
+        "publicdate": "2014-01-13T23:13:18Z",
+        "title": "Eine okkulte Physiologie"
+      },
+      {
+        "downloads": 654,
+        "identifier": "rudolf-steiner-ga-141",
+        "item_size": 65405803,
+        "publicdate": "2014-01-14T00:13:15Z",
+        "title": "Das Leben zwischen dem Tode und der neuen Geburt im Verhältnis zu den kosmischen Tatsachen"
+      },
+      {
+        "downloads": 552,
+        "identifier": "rudolf-steiner-ga-185a",
+        "item_size": 75762058,
+        "publicdate": "2014-01-13T22:54:44Z",
+        "title": "Entwicklungsgeschichtliche Unterlagen zur Bildung eines sozialen Urteils"
+      },
+      {
+        "downloads": 373,
+        "identifier": "rudolf-steiner-ga-189",
+        "item_size": 56735164,
+        "publicdate": "2014-01-13T23:51:46Z",
+        "title": "Die soziale Frage als Bewusstseinsfrage"
+      },
+      {
+        "downloads": 1115,
+        "identifier": "rudolf-steiner-ga-342",
+        "item_size": 82261757,
+        "publicdate": "2014-01-13T23:07:59Z",
+        "title": "Anthroposophische Grundlagen für ein erneuertes christlich-religiöses Wirken"
+      },
+      {
+        "downloads": 602,
+        "identifier": "rudolf-steiner-ga-063",
+        "item_size": 127489538,
+        "publicdate": "2014-01-14T00:24:15Z",
+        "title": "Geisteswissenschaft als Lebensgut"
+      },
+      {
+        "downloads": 539,
+        "identifier": "rudolf-steiner-ga-226",
+        "item_size": 43304511,
+        "publicdate": "2014-01-14T00:04:54Z",
+        "title": "Menschenwesen, Menschenschicksal und Welt-Entwickelung"
+      },
+      {
+        "downloads": 687,
+        "identifier": "rudolf-steiner-ga-347",
+        "item_size": 55831150,
+        "publicdate": "2014-01-14T00:51:38Z",
+        "title": "Die Erkenntnis des Menschenwesens nach Leib, Seele und Geist. Über frühe Erdzustände"
+      },
+      {
+        "downloads": 597,
+        "identifier": "rudolf-steiner-ga-157a",
+        "item_size": 51893161,
+        "publicdate": "2014-01-14T00:46:59Z",
+        "title": "Schicksalsbildung und Leben nach dem Tode"
+      },
+      {
+        "downloads": 627,
+        "identifier": "rudolf-steiner-ga-081",
+        "item_size": 60409752,
+        "publicdate": "2014-01-14T00:15:52Z",
+        "title": "Erneuerungs-Impulse für Kultur und Wissenschaft"
+      },
+      {
+        "downloads": 801,
+        "identifier": "rudolf-steiner-ga-012",
+        "item_size": 57781858,
+        "publicdate": "2014-01-13T23:06:53Z",
+        "title": "Die Stufen der höheren Erkenntnis"
+      },
+      {
+        "downloads": 669,
+        "identifier": "rudolf-steiner-ga-033",
+        "item_size": 112191529,
+        "publicdate": "2014-01-13T22:43:36Z",
+        "title": "Biographien und biographische Skizzen"
+      },
+      {
+        "downloads": 750,
+        "identifier": "rudolf-steiner-ga-135",
+        "item_size": 34593685,
+        "publicdate": "2014-01-13T23:55:09Z",
+        "title": "Wiederverkörperung und Karma und ihre Bedeutung für die Kultur der Gegenwart"
+      },
+      {
+        "downloads": 971,
+        "identifier": "rudolf-steiner-ga-054",
+        "item_size": 178851703,
+        "publicdate": "2014-01-14T00:08:17Z",
+        "title": "Die Welträtsel und die Anthroposophie"
+      },
+      {
+        "downloads": 1318,
+        "identifier": "rudolf-steiner-ga-060",
+        "item_size": 140019221,
+        "publicdate": "2014-01-14T00:17:19Z",
+        "title": "Antworten der Geisteswissenschaft auf die grossen Fragen des Daseins"
+      },
+      {
+        "downloads": 994,
+        "identifier": "rudolf-steiner-ga-089",
+        "item_size": 115912929,
+        "publicdate": "2014-01-13T23:11:41Z",
+        "title": "Bewusstsein – Leben – Form"
+      },
+      {
+        "downloads": 1165,
+        "identifier": "rudolf-steiner-ga-107",
+        "item_size": 107853812,
+        "publicdate": "2014-01-13T23:46:33Z",
+        "title": "Geisteswissenschaftliche Menschenkunde"
+      },
+      {
+        "downloads": 807,
+        "identifier": "rudolf-steiner-ga-114",
+        "item_size": 67803053,
+        "publicdate": "2014-01-14T01:28:00Z",
+        "title": "Das Lukas-Evangelium"
+      },
+      {
+        "downloads": 804,
+        "identifier": "rudolf-steiner-ga-236",
+        "item_size": 92984890,
+        "publicdate": "2014-01-14T01:19:01Z",
+        "title": "Esoterische Betrachtung karmischer Zusammenhänge. Zweiter Band"
+      },
+      {
+        "downloads": 754,
+        "identifier": "rudolf-steiner-ga-270_3",
+        "item_size": 124804098,
+        "publicdate": "2014-01-13T23:33:22Z",
+        "title": "Esoterische Unterweisungen für die erste Klasse der Freien Hochschule für Geisteswissenschaft am Goetheanum 1924. Band III"
+      },
+      {
+        "downloads": 789,
+        "identifier": "rudolf-steiner-ga-271",
+        "item_size": 73968566,
+        "publicdate": "2014-01-14T00:18:21Z",
+        "title": "Kunst und Kunsterkenntnis. Grundlagen einer neuen Ästhetik"
+      },
+      {
+        "downloads": 815,
+        "identifier": "rudolf-steiner-ga-340",
+        "item_size": 86983524,
+        "publicdate": "2014-01-14T00:40:56Z",
+        "title": "Nationalökonomischer Kurs"
+      },
+      {
+        "downloads": 1951,
+        "identifier": "rudolf-steiner-ga-284",
+        "item_size": 179437247,
+        "publicdate": "2014-01-14T00:55:32Z",
+        "title": "Bilder okkulter Siegel und Säulen"
+      },
+      {
+        "downloads": 1010,
+        "identifier": "rudolf-steiner-ga-302",
+        "item_size": 52312530,
+        "publicdate": "2014-01-13T23:23:33Z",
+        "title": "Menschenerkenntnis und Unterrichtsgestaltung"
+      },
+      {
+        "downloads": 916,
+        "identifier": "rudolf-steiner-ga-116",
+        "item_size": 54354700,
+        "publicdate": "2014-01-13T22:34:53Z",
+        "title": "Der Christus-Impuls und die Entwickelung des Ich-Bewusstseins"
+      },
+      {
+        "downloads": 926,
+        "identifier": "rudolf-steiner-ga-123",
+        "item_size": 89052354,
+        "publicdate": "2014-01-14T00:57:18Z",
+        "title": "Das Matthäus-Evangelium"
+      },
+      {
+        "downloads": 1122,
+        "identifier": "rudolf-steiner-ga-131",
+        "item_size": 76489876,
+        "publicdate": "2014-01-14T00:44:43Z",
+        "title": "Von Jesus zu Christus"
+      },
+      {
+        "downloads": 565,
+        "identifier": "rudolf-steiner-ga-166",
+        "item_size": 43300448,
+        "publicdate": "2014-01-14T00:40:26Z",
+        "title": "Notwendigkeit und Freiheit im Weltengeschehen und im menschlichen Handeln"
+      },
+      {
+        "downloads": 672,
+        "identifier": "rudolf-steiner-ga-222",
+        "item_size": 39514120,
+        "publicdate": "2014-01-13T23:22:15Z",
+        "title": "Die Impulsierung des weltgeschichtlichen Geschehens durch geistige Mächte"
+      },
+      {
+        "downloads": 951,
+        "identifier": "rudolf-steiner-ga-233a",
+        "item_size": 61421908,
+        "publicdate": "2014-01-13T23:58:03Z",
+        "title": "Mysterienstätten des Mittelalters"
+      },
+      {
+        "downloads": 569,
+        "identifier": "rudolf-steiner-ga-239",
+        "item_size": 88315755,
+        "publicdate": "2014-01-13T22:50:45Z",
+        "title": "Esoterische Betrachtung karmischer Zusammenhänge. Fünfter Band"
+      },
+      {
+        "downloads": 2239,
+        "identifier": "rudolf-steiner-ga-259",
+        "item_size": 384006543,
+        "publicdate": "2014-01-14T01:36:08Z",
+        "title": "Das Schicksalsjahr 1923 in der Geschichte der Anthroposophischen Gesellschaft"
+      },
+      {
+        "downloads": 1544,
+        "identifier": "rudolf-steiner-ga-270_1",
+        "item_size": 132760142,
+        "publicdate": "2014-01-14T00:45:32Z",
+        "title": "Esoterische Unterweisungen für die erste Klasse der Freien Hochschule für Geisteswissenschaft am Goetheanum 1924. Band I"
+      },
+      {
+        "downloads": 746,
+        "identifier": "rudolf-steiner-ga-272",
+        "item_size": 97485220,
+        "publicdate": "2014-01-14T00:20:59Z",
+        "title": "Geisteswissenschaftliche Erläuterungen zu Goethes \"Faust\". Band I: Faust, der strebende Mensch"
+      },
+      {
+        "downloads": 273,
+        "identifier": "rudolf-steiner-ga-077b",
+        "item_size": 885868,
+        "publicdate": "2014-01-14T00:12:15Z",
+        "title": "Kunst und Anthroposophie"
+      },
+      {
+        "downloads": 940,
+        "identifier": "rudolf-steiner-ga-095",
+        "item_size": 59857584,
+        "publicdate": "2014-01-14T00:39:16Z",
+        "title": "Vor dem Tore der Theosophie"
+      },
+      {
+        "downloads": 1562,
+        "identifier": "rudolf-steiner-ga-194",
+        "item_size": 81662759,
+        "publicdate": "2014-01-13T23:12:19Z",
+        "title": "Die Sendung Michaels"
+      },
+      {
+        "downloads": 894,
+        "identifier": "rudolf-steiner-ga-217a",
+        "item_size": 72234846,
+        "publicdate": "2014-01-14T01:15:21Z",
+        "title": "Die Erkenntnis-Aufgabe der Jugend"
+      },
+      {
+        "downloads": 2507,
+        "identifier": "rudolf-steiner-ga-093",
+        "item_size": 284445544,
+        "publicdate": "2014-01-14T01:19:32Z",
+        "title": "Die Tempellegende und die Goldene Legende"
+      },
+      {
+        "downloads": 1127,
+        "identifier": "rudolf-steiner-ga-093a",
+        "item_size": 212989192,
+        "publicdate": "2014-01-14T01:03:09Z",
+        "title": "Grundelemente der Esoterik"
+      },
+      {
+        "downloads": 972,
+        "identifier": "rudolf-steiner-ga-098",
+        "item_size": 79646369,
+        "publicdate": "2014-01-14T00:43:30Z",
+        "title": "Natur- und Geisteswesen - ihr Wirken in unserer sichtbaren Welt"
+      },
+      {
+        "downloads": 5366,
+        "identifier": "rudolf-steiner-ga-262",
+        "item_size": 179924053,
+        "publicdate": "2014-01-14T01:25:50Z",
+        "title": "Rudolf Steiner / Marie Steiner-von Sivers: Briefwechsel und Dokumente 1901 – 1925"
+      },
+      {
+        "downloads": 1080,
+        "identifier": "rudolf-steiner-ga-266_1",
+        "item_size": 438637369,
+        "publicdate": "2014-01-14T00:55:49Z",
+        "title": "Aus den Inhalten der esoterischen Stunden. Band I"
+      },
+      {
+        "downloads": 1250,
+        "identifier": "rudolf-steiner-ga-282",
+        "item_size": 112734630,
+        "publicdate": "2014-01-13T23:19:38Z",
+        "title": "Rudolf Steiner / Marie Steiner-von Sivers: Sprachgestaltung und Dramatische Kunst. Dramatischer Kurs"
+      },
+      {
+        "downloads": 395,
+        "identifier": "rudolf-steiner-ga-287",
+        "item_size": 37289436,
+        "publicdate": "2014-01-13T22:36:23Z",
+        "title": "Der Dornacher Bau als Wahrzeichen geschichtlichen Werdens und künstlerischer Umwandlungsimpulse"
+      },
+      {
+        "downloads": 1109,
+        "identifier": "rudolf-steiner-ga-292",
+        "item_size": 112401715,
+        "publicdate": "2014-01-14T01:04:00Z",
+        "title": "Kunstgeschichte als Abbild innerer geistiger Impulse"
+      },
+      {
+        "downloads": 827,
+        "identifier": "rudolf-steiner-ga-306",
+        "item_size": 65268718,
+        "publicdate": "2014-01-13T23:25:27Z",
+        "title": "Die pädagogische Praxis vom Gesichtspunkte geisteswissenschaftlicher Menschenerkenntnis"
+      },
+      {
+        "downloads": 557,
+        "identifier": "rudolf-steiner-ga-310",
+        "item_size": 58915621,
+        "publicdate": "2014-01-14T01:12:34Z",
+        "title": "Der pädagogische Wert der Menschenerkenntnis und der Kulturwert der Pädagogik"
+      },
+      {
+        "downloads": 936,
+        "identifier": "rudolf-steiner-ga-001",
+        "item_size": 238471535,
+        "publicdate": "2014-01-14T01:04:19Z",
+        "title": "Einleitungen zu Goethes Naturwissenschaftlichen Schriften"
+      },
+      {
+        "downloads": 6150,
+        "identifier": "rudolf-steiner-ga-040a",
+        "item_size": 37852983,
+        "publicdate": "2014-01-13T23:29:39Z",
+        "title": "Sprüche, Dichtungen, Mantren. Ergänzungsband"
+      },
+      {
+        "downloads": 795,
+        "identifier": "rudolf-steiner-ga-133",
+        "item_size": 58393170,
+        "publicdate": "2014-01-13T23:28:21Z",
+        "title": "Der irdische und der kosmische Mensch"
+      },
+      {
+        "downloads": 688,
+        "identifier": "rudolf-steiner-ga-145",
+        "item_size": 69205189,
+        "publicdate": "2014-01-14T01:32:15Z",
+        "title": "Welche Bedeutung hat die okkulte Entwickelung des Menschen für seine Hüllen (physischen Leib, Ätherleib, Astralleib) und sein Selbst?"
+      },
+      {
+        "downloads": 724,
+        "identifier": "rudolf-steiner-ga-174a",
+        "item_size": 97474292,
+        "publicdate": "2014-01-14T01:30:19Z",
+        "title": "Mitteleuropa zwischen Ost und West"
+      },
+      {
+        "downloads": 781,
+        "identifier": "rudolf-steiner-ga-184",
+        "item_size": 108747754,
+        "publicdate": "2014-01-14T00:38:52Z",
+        "title": "Die Polarität von Dauer und Entwickelung im Menschenleben"
+      },
+      {
+        "downloads": 1352,
+        "identifier": "rudolf-steiner-ga-174b",
+        "item_size": 131760578,
+        "publicdate": "2014-01-13T22:20:40Z",
+        "title": "Die geistigen Hintergründe des Ersten Weltkrieges"
+      },
+      {
+        "downloads": 549,
+        "identifier": "rudolf-steiner-ga-179",
+        "item_size": 50743358,
+        "publicdate": "2014-01-14T00:32:59Z",
+        "title": "Geschichtliche Notwendigkeit und Freiheit. Schicksalseinwirkungen aus der Welt der Toten"
+      },
+      {
+        "downloads": 1255,
+        "identifier": "rudolf-steiner-ga-181",
+        "item_size": 146927646,
+        "publicdate": "2014-01-13T22:44:56Z",
+        "title": "Erdensterben und Weltenleben. Anthroposophische Lebensgaben. Bewusstseins-Notwendigkeiten für Gegenwart und Zukunft"
+      },
+      {
+        "downloads": 519,
+        "identifier": "rudolf-steiner-ga-185",
+        "item_size": 80598026,
+        "publicdate": "2014-01-13T23:45:56Z",
+        "title": "Geschichtliche Symptomatologie"
+      },
+      {
+        "downloads": 1024,
+        "identifier": "rudolf-steiner-ga-136",
+        "item_size": 79034814,
+        "publicdate": "2014-01-13T22:54:03Z",
+        "title": "Die geistigen Wesenheiten in den Himmelskörpern und Naturreichen"
+      },
+      {
+        "downloads": 960,
+        "identifier": "rudolf-steiner-ga-137",
+        "item_size": 71824244,
+        "publicdate": "2014-01-13T22:36:56Z",
+        "title": "Der Mensch im Lichte von Okkultismus, Theosophie und Philosophie"
+      },
+      {
+        "downloads": 659,
+        "identifier": "rudolf-steiner-ga-144",
+        "item_size": 30750380,
+        "publicdate": "2014-01-13T23:20:01Z",
+        "title": "Die Mysterien des Morgenlandes und des Christentums"
+      },
+      {
+        "downloads": 991,
+        "identifier": "rudolf-steiner-ga-155",
+        "item_size": 92243791,
+        "publicdate": "2014-01-14T00:25:22Z",
+        "title": "Christus und die menschliche Seele"
+      },
+      {
+        "downloads": 837,
+        "identifier": "rudolf-steiner-ga-100",
+        "item_size": 82771998,
+        "publicdate": "2014-01-14T00:22:00Z",
+        "title": "Menschheitsentwickelung und Christus-Erkenntnis"
+      },
+      {
+        "downloads": 791,
+        "identifier": "rudolf-steiner-ga-102",
+        "item_size": 122821857,
+        "publicdate": "2014-01-13T23:30:41Z",
+        "title": "Das Hereinwirken geistiger Wesenheiten in den Menschen"
+      },
+      {
+        "downloads": 678,
+        "identifier": "rudolf-steiner-ga-301",
+        "item_size": 91648827,
+        "publicdate": "2014-01-13T22:52:59Z",
+        "title": "Die Erneuerung der pädagogisch-didaktischen Kunst durch Geisteswissenschaft"
+      },
+      {
+        "downloads": 899,
+        "identifier": "rudolf-steiner-ga-303",
+        "item_size": 113452957,
+        "publicdate": "2014-01-13T23:10:08Z",
+        "title": "Die gesunde Entwickelung des Menschenwesens"
+      },
+      {
+        "downloads": 593,
+        "identifier": "rudolf-steiner-ga-320",
+        "item_size": 71893007,
+        "publicdate": "2014-01-14T01:05:38Z",
+        "title": "Geisteswissenschaftliche Impulse zur Entwickelung der Physik, I"
+      },
+      {
+        "downloads": 4806,
+        "identifier": "rudolf-steiner-ga-040",
+        "item_size": 59115834,
+        "publicdate": "2014-01-13T23:15:58Z",
+        "title": "Wahrspruchworte"
+      },
+      {
+        "downloads": 2039,
+        "identifier": "rudolf-steiner-ga-245",
+        "item_size": 59427642,
+        "publicdate": "2014-01-13T23:49:12Z",
+        "title": "Anweisungen für eine esoterische Schulung"
+      },
+      {
+        "downloads": 623,
+        "identifier": "rudolf-steiner-ga-339",
+        "item_size": 39937928,
+        "publicdate": "2014-01-14T00:01:12Z",
+        "title": "Anthroposophie, soziale Dreigliederung und Redekunst"
+      },
+      {
+        "downloads": 1255,
+        "identifier": "rudolf-steiner-ga-351",
+        "item_size": 137136649,
+        "publicdate": "2014-01-14T01:05:07Z",
+        "title": "Mensch und Welt. Das Wirken des Geistes in der Natur. Über das Wesen der Bienen"
+      },
+      {
+        "downloads": 729,
+        "identifier": "rudolf-steiner-ga-015",
+        "item_size": 24195432,
+        "publicdate": "2014-01-13T23:08:20Z",
+        "title": "Die geistige Führung des Menschen und der Menschheit"
+      },
+      {
+        "downloads": 1699,
+        "identifier": "rudolf-steiner-ga-018",
+        "item_size": 216211022,
+        "publicdate": "2014-01-13T23:50:36Z",
+        "title": "Die Rätsel der Philosophie"
+      },
+      {
+        "downloads": 981,
+        "identifier": "rudolf-steiner-ga-024",
+        "item_size": 135413815,
+        "publicdate": "2014-01-14T00:34:04Z",
+        "title": "Aufsätze über die Dreigliederung des sozialen Organismus und zur Zeitlage 1915 – 1921"
+      },
+      {
+        "downloads": 1485,
+        "identifier": "rudolf-steiner-ga-031",
+        "item_size": 225163200,
+        "publicdate": "2014-01-14T01:31:46Z",
+        "title": "Gesammelte Aufsätze zur Kultur- und Zeitgeschichte"
+      },
+      {
+        "downloads": 1125,
+        "identifier": "rudolf-steiner-ga-121",
+        "item_size": 168180428,
+        "publicdate": "2014-01-14T00:02:47Z",
+        "title": "Die Mission einzelner Volksseelen im Zusammenhang mit der germanisch-nordischen Mythologie"
+      },
+      {
+        "downloads": 2402,
+        "identifier": "rudolf-steiner-ga-134",
+        "item_size": 39083476,
+        "publicdate": "2014-01-14T00:17:46Z",
+        "title": "Die Welt der Sinne und die Welt des Geistes"
+      },
+      {
+        "downloads": 685,
+        "identifier": "rudolf-steiner-ga-138",
+        "item_size": 51319864,
+        "publicdate": "2014-01-13T22:47:31Z",
+        "title": "Von der Initiation. Von Ewigkeit und Augenblick. Von Geisteslicht und Lebensdunkel"
+      },
+      {
+        "downloads": 877,
+        "identifier": "rudolf-steiner-ga-158",
+        "item_size": 75081631,
+        "publicdate": "2014-01-14T00:07:27Z",
+        "title": "Der Zusammenhang des Menschen mit der elementarischen Welt"
+      },
+      {
+        "downloads": 999,
+        "identifier": "rudolf-steiner-ga-159",
+        "item_size": 122689249,
+        "publicdate": "2014-01-13T22:37:54Z",
+        "title": "Das Geheimnis des Todes"
+      },
+      {
+        "downloads": 693,
+        "identifier": "rudolf-steiner-ga-209",
+        "item_size": 63053524,
+        "publicdate": "2014-01-13T23:42:47Z",
+        "title": "Nordische und mitteleuropäische Geistimpulse"
+      },
+      {
+        "downloads": 620,
+        "identifier": "rudolf-steiner-ga-221",
+        "item_size": 63572955,
+        "publicdate": "2014-01-14T00:18:52Z",
+        "title": "Erdenwissen und Himmelserkenntnis"
+      },
+      {
+        "downloads": 614,
+        "identifier": "rudolf-steiner-ga-231",
+        "item_size": 49841251,
+        "publicdate": "2014-01-14T01:04:48Z",
+        "title": "Der übersinnliche Mensch, anthroposophisch erfasst"
+      },
+      {
+        "downloads": 1669,
+        "identifier": "rudolf-steiner-ga-283",
+        "item_size": 52635050,
+        "publicdate": "2014-01-13T22:46:54Z",
+        "title": "Das Wesen des musikalischen und das Tonerlebnis im Menschen"
+      },
+      {
+        "downloads": 548,
+        "identifier": "rudolf-steiner-ga-324",
+        "item_size": 47216778,
+        "publicdate": "2014-01-14T01:08:51Z",
+        "title": "Naturbeobachtung, Experiment, Mathematik und die Erkenntnisstufen der Geistesforschung"
+      },
+      {
+        "downloads": 2114,
+        "identifier": "rudolf-steiner-ga-010",
+        "item_size": 160451247,
+        "publicdate": "2014-01-14T00:50:42Z",
+        "title": "Wie erlangt man Erkenntnisse der höheren Welten?"
+      },
+      {
+        "downloads": 906,
+        "identifier": "rudolf-steiner-ga-035",
+        "item_size": 128421653,
+        "publicdate": "2014-01-14T00:42:00Z",
+        "title": "Philosophie und Anthroposophie"
+      },
+      {
+        "downloads": 919,
+        "identifier": "rudolf-steiner-ga-055",
+        "item_size": 77496478,
+        "publicdate": "2014-01-13T23:39:21Z",
+        "title": "Die Erkenntnis des Übersinnlichen in unserer Zeit und deren Bedeutung für das heutige Leben"
+      },
+      {
+        "downloads": 928,
+        "identifier": "rudolf-steiner-ga-058",
+        "item_size": 95105661,
+        "publicdate": "2014-01-14T01:21:07Z",
+        "title": "Metamorphosen des Seelenlebens - Pfade der Seelenerlebnisse. Erster Teil"
+      },
+      {
+        "downloads": 750,
+        "identifier": "rudolf-steiner-ga-064",
+        "item_size": 143884213,
+        "publicdate": "2014-01-13T23:56:05Z",
+        "title": "Aus schicksaltragender Zeit"
+      },
+      {
+        "downloads": 818,
+        "identifier": "rudolf-steiner-ga-067",
+        "item_size": 116443600,
+        "publicdate": "2014-01-13T23:26:13Z",
+        "title": "Das Ewige in der Menschenseele. Unsterblichkeit und Freiheit"
+      },
+      {
+        "downloads": 694,
+        "identifier": "rudolf-steiner-ga-084",
+        "item_size": 85957405,
+        "publicdate": "2014-01-14T00:53:44Z",
+        "title": "Was wollte das Goetheanum und was soll die Anthroposophie?"
+      },
+      {
+        "downloads": 1195,
+        "identifier": "rudolf-steiner-ga-104",
+        "item_size": 101730119,
+        "publicdate": "2014-01-13T23:07:26Z",
+        "title": "Die Apokalypse des Johannes"
+      },
+      {
+        "downloads": 953,
+        "identifier": "rudolf-steiner-ga-108",
+        "item_size": 102067842,
+        "publicdate": "2014-01-14T01:06:59Z",
+        "title": "Die Beantwortung von Welt- und Lebensfragen durch Anthroposophie"
+      },
+      {
+        "downloads": 994,
+        "identifier": "rudolf-steiner-ga-112",
+        "item_size": 97303000,
+        "publicdate": "2014-01-13T23:54:03Z",
+        "title": "Das Johannes-Evangelium im Verhältnis zu den drei anderen Evangelien, besonders zu dem Lukas-Evangelium"
+      },
+      {
+        "downloads": 1217,
+        "identifier": "rudolf-steiner-ga-186",
+        "item_size": 110297611,
+        "publicdate": "2014-01-13T22:51:57Z",
+        "title": "Die soziale Grundforderung unserer Zeit - In geänderter Zeitlage"
+      },
+      {
+        "downloads": 612,
+        "identifier": "rudolf-steiner-ga-200",
+        "item_size": 45397307,
+        "publicdate": "2014-01-14T01:28:28Z",
+        "title": "Die neue Geistigkeit und das Christus-Erlebnis des zwanzigsten Jahrhunderts"
+      },
+      {
+        "downloads": 741,
+        "identifier": "rudolf-steiner-ga-210",
+        "item_size": 78874202,
+        "publicdate": "2014-01-13T23:56:38Z",
+        "title": "Alte und neue Einweihungsmethoden"
+      },
+      {
+        "downloads": 1180,
+        "identifier": "rudolf-steiner-ga-214",
+        "item_size": 65436332,
+        "publicdate": "2014-01-13T23:51:13Z",
+        "title": "Das Geheimnis der Trinität"
+      },
+      {
+        "downloads": 416,
+        "identifier": "rudolf-steiner-ga-308",
+        "item_size": 29243402,
+        "publicdate": "2014-01-14T01:07:26Z",
+        "title": "Die Methodik des Lehrens und die Lebensbedingungen des Erziehens"
+      },
+      {
+        "downloads": 991,
+        "identifier": "rudolf-steiner-ga-314",
+        "item_size": 103134402,
+        "publicdate": "2014-01-14T01:09:33Z",
+        "title": "Physiologisch-Therapeutisches auf Grundlage der Geisteswissenschaft. Zur Therapie und Hygiene"
+      },
+      {
+        "downloads": 591,
+        "identifier": "rudolf-steiner-ga-322",
+        "item_size": 49898071,
+        "publicdate": "2014-01-14T00:13:39Z",
+        "title": "Grenzen der Naturerkenntnis"
+      },
+      {
+        "downloads": 667,
+        "identifier": "rudolf-steiner-ga-082",
+        "item_size": 83343814,
+        "publicdate": "2014-01-14T01:14:30Z",
+        "title": "Damit der Mensch ganz Mensch werde"
+      },
+      {
+        "downloads": 928,
+        "identifier": "rudolf-steiner-ga-118",
+        "item_size": 73342762,
+        "publicdate": "2014-01-14T00:28:53Z",
+        "title": "Das Ereignis der Christus-Erscheinung in der ätherischen Welt"
+      },
+      {
+        "downloads": 607,
+        "identifier": "rudolf-steiner-ga-119",
+        "item_size": 92745914,
+        "publicdate": "2014-01-14T00:06:55Z",
+        "title": "Makrokosmos und Mikrokosmos. Die grosse und die kleine Welt. Seelenfragen, Lebensfragen, Geistesfragen"
+      },
+      {
+        "downloads": 635,
+        "identifier": "rudolf-steiner-ga-198",
+        "item_size": 101068218,
+        "publicdate": "2014-01-13T23:53:27Z",
+        "title": "Heilfaktoren für den sozialen Organismus"
+      },
+      {
+        "downloads": 464,
+        "identifier": "rudolf-steiner-ga-330",
+        "item_size": 156042614,
+        "publicdate": "2014-01-13T23:17:24Z",
+        "title": "Neugestaltung des sozialen Organismus"
+      },
+      {
+        "downloads": 683,
+        "identifier": "rudolf-steiner-ga-005",
+        "item_size": 77949838,
+        "publicdate": "2014-01-14T00:56:42Z",
+        "title": "Friedrich Nietzsche, ein Kämpfer gegen seine Zeit"
+      },
+      {
+        "downloads": 2192,
+        "identifier": "rudolf-steiner-ga-032",
+        "item_size": 163111196,
+        "publicdate": "2014-01-13T23:20:57Z",
+        "title": "Gesammelte Aufsätze zur Literatur"
+      },
+      {
+        "downloads": 757,
+        "identifier": "rudolf-steiner-ga-044",
+        "item_size": 74065995,
+        "publicdate": "2014-01-13T23:36:06Z",
+        "title": "Entwürfe, Fragmente und Paralipomena zu den vier Mysteriendramen"
+      },
+      {
+        "downloads": 696,
+        "identifier": "rudolf-steiner-ga-079",
+        "item_size": 77732776,
+        "publicdate": "2014-01-14T00:50:25Z",
+        "title": "Die Wirklichkeit der höheren Welten"
+      },
+      {
+        "downloads": 706,
+        "identifier": "rudolf-steiner-ga-243",
+        "item_size": 70943162,
+        "publicdate": "2014-01-13T22:42:05Z",
+        "title": "Das Initiaten-Bewusstsein"
+      },
+      {
+        "downloads": 2177,
+        "identifier": "rudolf-steiner-ga-265",
+        "item_size": 366625024,
+        "publicdate": "2014-01-13T23:00:43Z",
+        "title": "Zur Geschichte und aus den Inhalten der erkenntniskultischen Abteilung der Esoterischen Schule von 1904 bis 1914"
+      },
+      {
+        "downloads": 7571,
+        "identifier": "rudolf-steiner-ga-268",
+        "item_size": 121293016,
+        "publicdate": "2014-01-14T00:23:34Z",
+        "title": "Seelenübungen - Band II. Mantrische Sprüche"
+      },
+      {
+        "downloads": 522,
+        "identifier": "rudolf-steiner-ga-299",
+        "item_size": 25265208,
+        "publicdate": "2014-01-14T00:21:24Z",
+        "title": "Geisteswissenschaftliche Sprachbetrachtungen"
+      },
+      {
+        "downloads": 547,
+        "identifier": "rudolf-steiner-ga-304a",
+        "item_size": 55959463,
+        "publicdate": "2014-01-13T23:48:14Z",
+        "title": "Anthroposophische Menschenkunde und Pädagogik"
+      },
+      {
+        "downloads": 1553,
+        "identifier": "rudolf-steiner-ga-013",
+        "item_size": 337710865,
+        "publicdate": "2014-01-14T00:33:18Z",
+        "title": "Die Geheimwissenschaft im Umriss"
+      },
+      {
+        "downloads": 1421,
+        "identifier": "rudolf-steiner-ga-027",
+        "item_size": 34977079,
+        "publicdate": "2014-01-14T00:02:31Z",
+        "title": "Rudolf Steiner / Ita Wegman: Grundlegendes für eine Erweiterung der Heilkunst nach geisteswissenschaftlichen Erkenntnissen"
+      },
+      {
+        "downloads": 997,
+        "identifier": "rudolf-steiner-ga-038",
+        "item_size": 99787707,
+        "publicdate": "2014-01-13T23:03:48Z",
+        "title": "Briefe Band I"
+      },
+      {
+        "downloads": 899,
+        "identifier": "rudolf-steiner-ga-122",
+        "item_size": 74789669,
+        "publicdate": "2014-01-13T23:13:49Z",
+        "title": "Die Geheimnisse der biblischen Schöpfungsgeschichte"
+      },
+      {
+        "downloads": 622,
+        "identifier": "rudolf-steiner-ga-073",
+        "item_size": 114019586,
+        "publicdate": "2014-01-13T22:22:18Z",
+        "title": "Die Ergänzung heutiger Wissenschaften durch Anthroposophie"
+      },
+      {
+        "downloads": 606,
+        "identifier": "rudolf-steiner-ga-105",
+        "item_size": 63861753,
+        "publicdate": "2014-01-14T01:16:27Z",
+        "title": "Welt, Erde und Mensch, deren Wesen und Entwickelung sowie ihre Spiegelung in dem Zusammenhang zwischen ägyptischem Mythos und gegenwärtiger Kultur"
+      },
+      {
+        "downloads": 1005,
+        "identifier": "rudolf-steiner-ga-110",
+        "item_size": 73871795,
+        "publicdate": "2014-01-13T23:34:34Z",
+        "title": "Geistige Hierarchien und ihre Widerspiegelung in der physischen Welt. Tierkreis, Planeten, Kosmos"
+      },
+      {
+        "downloads": 635,
+        "identifier": "rudolf-steiner-ga-213",
+        "item_size": 83312828,
+        "publicdate": "2014-01-14T01:26:57Z",
+        "title": "Menschenfragen und Weltenantworten"
+      },
+      {
+        "downloads": 542,
+        "identifier": "rudolf-steiner-ga-216",
+        "item_size": 48937983,
+        "publicdate": "2014-01-14T01:13:30Z",
+        "title": "Die Grundimpulse des weltgeschichtlichen Werdens der Menschheit"
+      },
+      {
+        "downloads": 916,
+        "identifier": "rudolf-steiner-ga-232",
+        "item_size": 74619842,
+        "publicdate": "2014-01-13T23:24:12Z",
+        "title": "Mysteriengestaltungen"
+      },
+      {
+        "downloads": 2174,
+        "identifier": "rudolf-steiner-ga-267",
+        "item_size": 233652857,
+        "publicdate": "2014-01-14T00:34:23Z",
+        "title": "Seelenübungen - Band I. Übungen mit Wort- und Sinnbild-Meditationen zur methodischen Entwicklung höherer Erkenntniskräfte"
+      },
+      {
+        "downloads": 611,
+        "identifier": "rudolf-steiner-ga-332a",
+        "item_size": 79416887,
+        "publicdate": "2014-01-14T00:15:24Z",
+        "title": "Soziale Zukunft"
+      },
+      {
+        "downloads": 1293,
+        "identifier": "rudolf-steiner-ga-291",
+        "item_size": 92634164,
+        "publicdate": "2014-01-13T22:42:42Z",
+        "title": "Das Wesen der Farben"
+      },
+      {
+        "downloads": 566,
+        "identifier": "rudolf-steiner-ga-304",
+        "item_size": 68867416,
+        "publicdate": "2014-01-14T00:52:10Z",
+        "title": "Erziehungs- und Unterrichtsmethoden auf anthroposophischer Grundlage"
+      },
+      {
+        "downloads": 595,
+        "identifier": "rudolf-steiner-ga-307",
+        "item_size": 83179701,
+        "publicdate": "2014-01-13T22:18:25Z",
+        "title": "Gegenwärtiges Geistesleben und Erziehung"
+      },
+      {
+        "downloads": 1917,
+        "identifier": "rudolf-steiner-ga-004",
+        "item_size": 136775174,
+        "publicdate": "2014-01-13T23:47:45Z",
+        "title": "Die Philosophie der Freiheit"
+      },
+      {
+        "downloads": 667,
+        "identifier": "rudolf-steiner-ga-006",
+        "item_size": 94077573,
+        "publicdate": "2014-01-14T01:19:17Z",
+        "title": "Goethes Weltanschauung"
+      },
+      {
+        "downloads": 5018,
+        "identifier": "rudolf-steiner-ga-030",
+        "item_size": 242838200,
+        "publicdate": "2014-01-13T22:59:04Z",
+        "title": "Methodische Grundlagen der Anthroposophie"
+      },
+      {
+        "downloads": 744,
+        "identifier": "rudolf-steiner-ga-061",
+        "item_size": 179359303,
+        "publicdate": "2014-01-13T22:55:44Z",
+        "title": "Menschengeschichte im Lichte der Geistesforschung"
+      },
+      {
+        "downloads": 2072,
+        "identifier": "rudolf-steiner-ga-101",
+        "item_size": 87978612,
+        "publicdate": "2014-01-14T00:24:51Z",
+        "title": "Mythen und Sagen. Okkulte Zeichen und Symbole"
+      },
+      {
+        "downloads": 2030,
+        "identifier": "rudolf-steiner-ga-173",
+        "item_size": 117254020,
+        "publicdate": "2014-01-13T23:42:19Z",
+        "title": "Zeitgeschichtliche Betrachtungen. Das Karma der Unwahrhaftigkeit - Erster Teil"
+      },
+      {
+        "downloads": 910,
+        "identifier": "rudolf-steiner-ga-201",
+        "item_size": 88516631,
+        "publicdate": "2014-01-14T00:26:40Z",
+        "title": "Entsprechungen zwischen Mikrokosmos und Makrokosmos"
+      },
+      {
+        "downloads": 586,
+        "identifier": "rudolf-steiner-ga-238",
+        "item_size": 54650604,
+        "publicdate": "2014-01-13T23:47:29Z",
+        "title": "Esoterische Betrachtung karmischer Zusammenhänge. Vierter Band: Das geistige Leben der Gegenwart im Zusammenhang mit der anthroposophischen Bewegung"
+      },
+      {
+        "downloads": 2695,
+        "identifier": "rudolf-steiner-ga-269",
+        "item_size": 104530542,
+        "publicdate": "2014-01-13T22:49:27Z",
+        "title": "Ritualtexte für die Feiern des freien christlichen Religionsunterrichtes"
+      },
+      {
+        "downloads": 739,
+        "identifier": "rudolf-steiner-ga-313",
+        "item_size": 62717303,
+        "publicdate": "2014-01-13T22:46:15Z",
+        "title": "Geisteswissenschaftliche Gesichtspunkte zur Therapie"
+      },
+      {
+        "downloads": 699,
+        "identifier": "rudolf-steiner-ga-066",
+        "item_size": 80505467,
+        "publicdate": "2014-01-13T23:06:14Z",
+        "title": "Geist und Stoff, Leben und Tod"
+      },
+      {
+        "downloads": 1397,
+        "identifier": "rudolf-steiner-ga-094",
+        "item_size": 92299908,
+        "publicdate": "2014-01-13T23:41:34Z",
+        "title": "Kosmogonie. Populärer Okkultismus. Das Johannes-Evangelium. Die Theosophie an Hand des Johannes-Evangeliums"
+      },
+      {
+        "downloads": 800,
+        "identifier": "rudolf-steiner-ga-257",
+        "item_size": 69732949,
+        "publicdate": "2014-01-13T23:08:53Z",
+        "title": "Anthroposophische Gemeinschaftsbildung"
+      },
+      {
+        "downloads": 357,
+        "identifier": "rudolf-steiner-ga-258",
+        "item_size": 61803003,
+        "publicdate": "2014-01-13T23:39:52Z",
+        "title": "Die Geschichte und die Bedingungen der anthroposophischen Bewegung im Verhältnis zur Anthroposophischen Gesellschaft"
+      },
+      {
+        "downloads": 1497,
+        "identifier": "rudolf-steiner-ga-261",
+        "item_size": 98300391,
+        "publicdate": "2014-01-13T22:24:57Z",
+        "title": "Unsere Toten"
+      },
+      {
+        "downloads": 2848,
+        "identifier": "rudolf-steiner-ga-277",
+        "item_size": 301330698,
+        "publicdate": "2014-01-14T00:11:58Z",
+        "title": "Eurythmie. Die Offenbarung der sprechenden Seele"
+      },
+      {
+        "downloads": 1164,
+        "identifier": "rudolf-steiner-ga-279",
+        "item_size": 158512571,
+        "publicdate": "2014-01-13T22:44:00Z",
+        "title": "Eurythmie als sichtbare Sprache. Laut-Eurythmie-Kurs"
+      },
+      {
+        "downloads": 2145,
+        "identifier": "rudolf-steiner-ga-291a",
+        "item_size": 170559049,
+        "publicdate": "2014-01-13T22:27:15Z",
+        "title": "Farbenerkenntnis"
+      },
+      {
+        "downloads": 765,
+        "identifier": "rudolf-steiner-ga-300b",
+        "item_size": 99712902,
+        "publicdate": "2014-01-13T23:44:43Z",
+        "title": "Konferenzen mit den Lehrern der Freien Waldorfschule 1919 bis 1924. Band II"
+      },
+      {
+        "downloads": 876,
+        "identifier": "rudolf-steiner-ga-193",
+        "item_size": 67572472,
+        "publicdate": "2014-01-14T00:08:54Z",
+        "title": "Der innere Aspekt des sozialen Rätsels"
+      },
+      {
+        "downloads": 942,
+        "identifier": "rudolf-steiner-ga-278",
+        "item_size": 81949108,
+        "publicdate": "2014-01-14T01:11:33Z",
+        "title": "Eurythmie als sichtbarer Gesang. Ton-Eurythmie-Kurs"
+      },
+      {
+        "downloads": 563,
+        "identifier": "rudolf-steiner-ga-325",
+        "item_size": 51203773,
+        "publicdate": "2014-01-14T00:09:52Z",
+        "title": "Die Naturwissenschaft und die weltgeschichtliche Entwickelung der Menschheit seit dem Altertum"
+      },
+      {
+        "downloads": 617,
+        "identifier": "rudolf-steiner-ga-192",
+        "item_size": 144828226,
+        "publicdate": "2014-01-14T00:40:01Z",
+        "title": "Geisteswissenschaftliche Behandlung sozialer und pädagogischer Fragen"
+      },
+      {
+        "downloads": 1044,
+        "identifier": "rudolf-steiner-ga-062",
+        "item_size": 173344122,
+        "publicdate": "2014-01-13T23:43:35Z",
+        "title": "Ergebnisse der Geistesforschung"
+      },
+      {
+        "downloads": 894,
+        "identifier": "rudolf-steiner-ga-113",
+        "item_size": 75869137,
+        "publicdate": "2014-01-13T22:59:39Z",
+        "title": "Der Orient im Lichte des Okzidents (Die Kinder des Luzifer und die Brüder Christi)"
+      },
+      {
+        "downloads": 828,
+        "identifier": "rudolf-steiner-ga-223",
+        "item_size": 54523006,
+        "publicdate": "2014-01-14T01:11:04Z",
+        "title": "Der Jahreskreislauf als Atmungsvorgang der Erde und die vier grossen Festeszeiten. Die Anthroposophie und das menschliche Gemüt"
+      },
+      {
+        "downloads": 1310,
+        "identifier": "rudolf-steiner-ga-280",
+        "item_size": 75142801,
+        "publicdate": "2014-01-14T00:30:49Z",
+        "title": "Rudolf Steiner / Marie Steiner-von Sivers: Methodik und Wesen der Sprachgestaltung"
+      },
+      {
+        "downloads": 2017,
+        "identifier": "rudolf-steiner-ga-293",
+        "item_size": 77346942,
+        "publicdate": "2014-01-13T22:29:54Z",
+        "title": "Allgemeine Menschenkunde als Grundlage der Pädagogik"
+      },
+      {
+        "downloads": 759,
+        "identifier": "rudolf-steiner-ga-296",
+        "item_size": 38957511,
+        "publicdate": "2014-01-13T23:04:15Z",
+        "title": "Die Erziehungsfrage als soziale Frage"
+      },
+      {
+        "downloads": 772,
+        "identifier": "rudolf-steiner-ga-302a",
+        "item_size": 51154927,
+        "publicdate": "2014-01-14T01:13:59Z",
+        "title": "Erziehung und Unterricht aus Menschenerkenntnis"
+      },
+      {
+        "downloads": 1076,
+        "identifier": "rudolf-steiner-ga-316",
+        "item_size": 76292271,
+        "publicdate": "2014-01-13T23:16:32Z",
+        "title": "Meditative Betrachtungen und Anleitungen zur Vertiefung der Heilkunst"
+      },
+      {
+        "downloads": 1170,
+        "identifier": "rudolf-steiner-ga-021",
+        "item_size": 49505362,
+        "publicdate": "2014-01-13T23:31:51Z",
+        "title": "Von Seelenrätseln"
+      },
+      {
+        "downloads": 606,
+        "identifier": "rudolf-steiner-ga-023",
+        "item_size": 43247851,
+        "publicdate": "2014-01-14T00:51:06Z",
+        "title": "Die Kernpunkte der sozialen Frage in den Lebensnotwendigkeiten der Gegenwart und Zukunft"
+      },
+      {
+        "downloads": 1625,
+        "identifier": "rudolf-steiner-ga-028",
+        "item_size": 198991886,
+        "publicdate": "2014-01-13T22:24:16Z",
+        "title": "Mein Lebensgang"
+      },
+      {
+        "downloads": 1107,
+        "identifier": "rudolf-steiner-ga-140",
+        "item_size": 142594608,
+        "publicdate": "2014-01-13T23:48:56Z",
+        "title": "Okkulte Untersuchungen über das Leben zwischen Tod und neuer Geburt"
+      },
+      {
+        "downloads": 747,
+        "identifier": "rudolf-steiner-ga-165",
+        "item_size": 76141067,
+        "publicdate": "2014-01-14T00:53:08Z",
+        "title": "Die geistige Vereinigung der Menschheit durch den Christus-Impuls"
+      },
+      {
+        "downloads": 785,
+        "identifier": "rudolf-steiner-ga-171",
+        "item_size": 140648888,
+        "publicdate": "2014-01-13T22:33:20Z",
+        "title": "Innere Entwicklungsimpulse der Menschheit Goethe und die Krisis des neunzehnten Jahrhunderts"
+      },
+      {
+        "downloads": 767,
+        "identifier": "rudolf-steiner-ga-176",
+        "item_size": 121971704,
+        "publicdate": "2014-01-14T00:35:10Z",
+        "title": "Menschliche und menschheitliche Entwicklungswahrheiten. Das Karma des Materialismus"
+      },
+      {
+        "downloads": 898,
+        "identifier": "rudolf-steiner-ga-203",
+        "item_size": 115972390,
+        "publicdate": "2014-01-14T01:01:02Z",
+        "title": "Die Verantwortung des Menschen für die Weltenwickelung durch seinen geistigen Zusammenhang mit dem Erdplaneten und der Sternenwelt"
+      },
+      {
+        "downloads": 636,
+        "identifier": "rudolf-steiner-ga-215",
+        "item_size": 58101971,
+        "publicdate": "2014-01-14T00:42:32Z",
+        "title": "Die Philosophie, Kosmologie und Religion in der Anthroposophie"
+      },
+      {
+        "downloads": 647,
+        "identifier": "rudolf-steiner-ga-217",
+        "item_size": 64782273,
+        "publicdate": "2014-01-14T00:19:23Z",
+        "title": "Geistige Wirkenskräfte im Zusammenleben von alter und junger Generation"
+      },
+      {
+        "downloads": 609,
+        "identifier": "rudolf-steiner-ga-297",
+        "item_size": 96027805,
+        "publicdate": "2014-01-13T23:58:39Z",
+        "title": "Idee und Praxis der Waldorfschule"
+      },
+      {
+        "downloads": 866,
+        "identifier": "rudolf-steiner-ga-315",
+        "item_size": 58979520,
+        "publicdate": "2014-01-14T01:24:59Z",
+        "title": "Heileurythmie"
+      },
+      {
+        "downloads": 845,
+        "identifier": "rudolf-steiner-ga-008",
+        "item_size": 80244186,
+        "publicdate": "2014-01-14T00:57:34Z",
+        "title": "Das Christentum als mystische Tatsache und die Mysterien des Altertums"
+      },
+      {
+        "downloads": 1087,
+        "identifier": "rudolf-steiner-ga-029",
+        "item_size": 147376124,
+        "publicdate": "2014-01-13T23:21:48Z",
+        "title": "Gesammelte Aufsätze zur Dramaturgie"
+      },
+      {
+        "downloads": 1011,
+        "identifier": "rudolf-steiner-ga-097",
+        "item_size": 97871075,
+        "publicdate": "2014-01-13T22:25:49Z",
+        "title": "Das christliche Mysterium"
+      },
+      {
+        "downloads": 1409,
+        "identifier": "rudolf-steiner-ga-115",
+        "item_size": 127601998,
+        "publicdate": "2014-01-14T00:27:24Z",
+        "title": "Anthroposophie - Psychosophie - Pneumatosophie"
+      },
+      {
+        "downloads": 3684,
+        "identifier": "rudolf-steiner-ga-260a",
+        "item_size": 305518284,
+        "publicdate": "2014-01-14T00:03:55Z",
+        "title": "Die Konstitution der Allgemeinen Anthroposophischen Gesellschaft und Freien Hochschule für Geisteswissenschaft. Der Wiederaufbau des Goetheanum"
+      },
+      {
+        "downloads": 894,
+        "identifier": "rudolf-steiner-ga-270_2",
+        "item_size": 116402129,
+        "publicdate": "2014-01-13T22:21:39Z",
+        "title": "Esoterische Unterweisungen für die erste Klasse der Freien Hochschule für Geisteswissenschaft am Goetheanum 1924. Band II"
+      },
+      {
+        "downloads": 388,
+        "identifier": "rudolf-steiner-ga-328",
+        "item_size": 58970332,
+        "publicdate": "2014-01-14T00:49:54Z",
+        "title": "Die soziale Frage"
+      },
+      {
+        "downloads": 925,
+        "identifier": "rudolf-steiner-ga-338",
+        "item_size": 137776705,
+        "publicdate": "2014-01-13T23:11:02Z",
+        "title": "Wie wirkt man für den Impuls der Dreigliederung des sozialen Organismus?"
+      },
+      {
+        "downloads": 434,
+        "identifier": "rudolf-steiner-ga-341",
+        "item_size": 29797128,
+        "publicdate": "2014-01-14T01:14:52Z",
+        "title": "Nationalökonomisches Seminar"
+      },
+      {
+        "downloads": 1256,
+        "identifier": "rudolf-steiner-ga-348",
+        "item_size": 177644650,
+        "publicdate": "2014-01-14T00:29:12Z",
+        "title": "Über Gesundheit und Krankheit. Grundlagen einer geisteswissenschaftlichen Sinneslehre"
+      },
+      {
+        "downloads": 877,
+        "identifier": "rudolf-steiner-ga-117",
+        "item_size": 76033806,
+        "publicdate": "2014-01-13T22:57:50Z",
+        "title": "Die tieferen Geheimnisse des Menschheitswerdens im Lichte der Evangelien"
+      },
+      {
+        "downloads": 922,
+        "identifier": "rudolf-steiner-ga-146",
+        "item_size": 51409674,
+        "publicdate": "2014-01-14T00:37:31Z",
+        "title": "Die okkulten Grundlagen der Bhagavad Gita"
+      },
+      {
+        "downloads": 767,
+        "identifier": "rudolf-steiner-ga-161",
+        "item_size": 91526259,
+        "publicdate": "2014-01-13T22:57:18Z",
+        "title": "Wege der geistigen Erkenntnis und der Erneuerung künstlerischer Weltanschauung"
+      },
+      {
+        "downloads": 795,
+        "identifier": "rudolf-steiner-ga-240",
+        "item_size": 101078805,
+        "publicdate": "2014-01-13T23:03:06Z",
+        "title": "Esoterische Betrachtung karmischer Zusammenhänge. Sechster Band"
+      },
+      {
+        "downloads": 946,
+        "identifier": "rudolf-steiner-ga-266_2",
+        "item_size": 391528308,
+        "publicdate": "2014-01-14T00:10:08Z",
+        "title": "Aus den Inhalten der esoterischen Stunden. Band II"
+      },
+      {
+        "downloads": 1186,
+        "identifier": "rudolf-steiner-ga-300a",
+        "item_size": 94006475,
+        "publicdate": "2014-01-14T00:45:17Z",
+        "title": "Konferenzen mit den Lehrern der Freien Waldorfschule 1919 bis 1924. Band I"
+      },
+      {
+        "downloads": 744,
+        "identifier": "rudolf-steiner-ga-309",
+        "item_size": 32519053,
+        "publicdate": "2014-01-14T00:45:53Z",
+        "title": "Anthroposophische Pädagogik und ihre Voraussetzungen"
+      },
+      {
+        "downloads": 651,
+        "identifier": "rudolf-steiner-ga-311",
+        "item_size": 41951648,
+        "publicdate": "2014-01-14T01:20:30Z",
+        "title": "Die Kunst des Erziehens aus dem Erfassen der Menschenwesenheit"
+      },
+      {
+        "downloads": 1307,
+        "identifier": "rudolf-steiner-ga-009",
+        "item_size": 102662766,
+        "publicdate": "2014-01-14T01:23:13Z",
+        "title": "Theosophie. Einführung in übersinnliche Welterkenntnis und Menschenbestimmung"
+      },
+      {
+        "downloads": 621,
+        "identifier": "rudolf-steiner-ga-036",
+        "item_size": 110732270,
+        "publicdate": "2014-01-14T00:30:20Z",
+        "title": "Der Goetheanumgedanke inmitten der Kulturkrisis der Gegenwart"
+      },
+      {
+        "downloads": 849,
+        "identifier": "rudolf-steiner-ga-052",
+        "item_size": 128755131,
+        "publicdate": "2014-01-13T22:28:14Z",
+        "title": "Spirituelle Seelenlehre und Weltbetrachtung"
+      },
+      {
+        "downloads": 971,
+        "identifier": "rudolf-steiner-ga-096",
+        "item_size": 110623924,
+        "publicdate": "2014-01-14T00:38:12Z",
+        "title": "Ursprungsimpulse der Geisteswissenschaft"
+      },
+      {
+        "downloads": 1060,
+        "identifier": "rudolf-steiner-ga-106",
+        "item_size": 57940653,
+        "publicdate": "2014-01-13T22:53:29Z",
+        "title": "Ägyptische Mythen und Mysterien"
+      },
+      {
+        "downloads": 780,
+        "identifier": "rudolf-steiner-ga-172",
+        "item_size": 74455055,
+        "publicdate": "2014-01-14T01:12:07Z",
+        "title": "Das Karma des Berufes des Menschen in Anknüpfung an Goethes Leben"
+      },
+      {
+        "downloads": 1186,
+        "identifier": "rudolf-steiner-ga-178",
+        "item_size": 86864386,
+        "publicdate": "2014-01-13T23:33:56Z",
+        "title": "Individuelle Geistwesen und ihr Wirken in der Seele des Menschen"
+      },
+      {
+        "downloads": 705,
+        "identifier": "rudolf-steiner-ga-199",
+        "item_size": 122935368,
+        "publicdate": "2014-01-14T00:10:48Z",
+        "title": "Geisteswissenschaft als Erkenntnis der Grundimpulse sozialer Gestaltung"
+      },
+      {
+        "downloads": 715,
+        "identifier": "rudolf-steiner-ga-218",
+        "item_size": 109793736,
+        "publicdate": "2014-01-13T23:45:19Z",
+        "title": "Geistige Zusammenhänge in der Gestaltung des menschlichen Organismus"
+      },
+      {
+        "downloads": 949,
+        "identifier": "rudolf-steiner-ga-026",
+        "item_size": 65191169,
+        "publicdate": "2014-01-14T00:32:06Z",
+        "title": "Anthroposophische Leitsätze"
+      },
+      {
+        "downloads": 826,
+        "identifier": "rudolf-steiner-ga-228",
+        "item_size": 56970633,
+        "publicdate": "2014-01-14T00:09:24Z",
+        "title": "Initiationswissenschaft und Sternenerkenntnis"
+      },
+      {
+        "downloads": 717,
+        "identifier": "rudolf-steiner-ga-275",
+        "item_size": 54384088,
+        "publicdate": "2014-01-13T23:44:04Z",
+        "title": "Kunst im Lichte der Mysterienweisheit"
+      },
+      {
+        "downloads": 724,
+        "identifier": "rudolf-steiner-ga-124",
+        "item_size": 80244250,
+        "publicdate": "2014-01-14T00:14:12Z",
+        "title": "Exkurse in das Gebiet des Markus-Evangeliums"
+      },
+      {
+        "downloads": 774,
+        "identifier": "rudolf-steiner-ga-125",
+        "item_size": 85588275,
+        "publicdate": "2014-01-14T00:00:08Z",
+        "title": "Wege und Ziele des geistigen Menschen"
+      },
+      {
+        "downloads": 574,
+        "identifier": "rudolf-steiner-ga-164",
+        "item_size": 81385056,
+        "publicdate": "2014-01-13T23:04:52Z",
+        "title": "Der Wert des Denkens für eine den Menschen befriedigende Erkenntnis"
+      },
+      {
+        "downloads": 1108,
+        "identifier": "rudolf-steiner-ga-053",
+        "item_size": 159599991,
+        "publicdate": "2014-01-14T00:58:21Z",
+        "title": "Ursprung und Ziel des Menschen. Grundbegriffe der Geisteswissenschaft"
+      },
+      {
+        "downloads": 1207,
+        "identifier": "rudolf-steiner-ga-103",
+        "item_size": 83913838,
+        "publicdate": "2014-01-13T22:38:27Z",
+        "title": "Das Johannes-Evangelium"
+      },
+      {
+        "downloads": 1245,
+        "identifier": "rudolf-steiner-ga-104a",
+        "item_size": 37967019,
+        "publicdate": "2014-01-13T22:32:40Z",
+        "title": "Aus der Bilderschrift der Apokalypse des Johannes"
+      },
+      {
+        "downloads": 978,
+        "identifier": "rudolf-steiner-ga-174",
+        "item_size": 97874569,
+        "publicdate": "2014-01-13T23:27:46Z",
+        "title": "Zeitgeschichtliche Betrachtungen. Das Karma der Unwahrhaftigkeit - Zweiter Teil"
+      },
+      {
+        "downloads": 787,
+        "identifier": "rudolf-steiner-ga-191",
+        "item_size": 94589586,
+        "publicdate": "2014-01-14T01:06:18Z",
+        "title": "Soziales Verständnis aus geisteswissenschaftlicher Erkenntnis"
+      },
+      {
+        "downloads": 730,
+        "identifier": "rudolf-steiner-ga-205",
+        "item_size": 84577636,
+        "publicdate": "2014-01-13T23:54:37Z",
+        "title": "Menschenwerden, Weltenseele und Weltengeist - Erster Teil"
+      },
+      {
+        "downloads": 619,
+        "identifier": "rudolf-steiner-ga-212",
+        "item_size": 57507324,
+        "publicdate": "2014-01-13T23:15:26Z",
+        "title": "Menschliches Seelenleben und Geistesstreben im Zusammenhange mit Welt- und Erdentwickelung"
+      },
+      {
+        "downloads": 971,
+        "identifier": "rudolf-steiner-ga-349",
+        "item_size": 83870179,
+        "publicdate": "2014-01-14T00:16:28Z",
+        "title": "Vom Leben des Menschen und der Erde. Über das Wesen des Christentums"
+      },
+      {
+        "downloads": 828,
+        "identifier": "rudolf-steiner-ga-353",
+        "item_size": 102593782,
+        "publicdate": "2014-01-14T00:44:11Z",
+        "title": "Die Geschichte der Menschheit und die Weltanschauungen der Kulturvölker"
+      },
+      {
+        "downloads": 2901,
+        "identifier": "rudolf-steiner-ga-277a",
+        "item_size": 101994407,
+        "publicdate": "2014-01-14T00:20:21Z",
+        "title": "Die Entstehung und Entwickelung der Eurythmie"
+      },
+      {
+        "downloads": 577,
+        "identifier": "rudolf-steiner-ga-321",
+        "item_size": 90301930,
+        "publicdate": "2014-01-13T23:18:49Z",
+        "title": "Geisteswissenschaftliche Impulse zur Entwickelung der Physik, II"
+      },
+      {
+        "downloads": 1111,
+        "identifier": "rudolf-steiner-ga-002",
+        "item_size": 110848347,
+        "publicdate": "2014-01-14T00:23:18Z",
+        "title": "Grundlinien einer Erkenntnistheorie der Goetheschen Weltanschauung, mit besonderer Rücksicht auf Schiller"
+      },
+      {
+        "downloads": 925,
+        "identifier": "rudolf-steiner-ga-003",
+        "item_size": 36078306,
+        "publicdate": "2014-01-13T22:56:01Z",
+        "title": "Wahrheit und Wissenschaft"
+      },
+      {
+        "downloads": 700,
+        "identifier": "rudolf-steiner-ga-017",
+        "item_size": 28961144,
+        "publicdate": "2014-01-13T22:52:17Z",
+        "title": "Die Schwelle der geistigen Welt"
+      },
+      {
+        "downloads": 6625,
+        "identifier": "rudolf-steiner-ga-034",
+        "item_size": 242747593,
+        "publicdate": "2014-01-14T00:02:08Z",
+        "title": "Lucifer – Gnosis"
+      },
+      {
+        "downloads": 848,
+        "identifier": "rudolf-steiner-ga-051",
+        "item_size": 96993582,
+        "publicdate": "2014-01-13T22:41:29Z",
+        "title": "Über Philosophie, Geschichte und Literatur"
+      },
+      {
+        "downloads": 1352,
+        "identifier": "rudolf-steiner-ga-143",
+        "item_size": 103635586,
+        "publicdate": "2014-01-13T22:39:18Z",
+        "title": "Erfahrungen des Übersinnlichen. Die drei Wege der Seele zu Christus"
+      },
+      {
+        "downloads": 1098,
+        "identifier": "rudolf-steiner-ga-157",
+        "item_size": 90446992,
+        "publicdate": "2014-01-14T00:56:25Z",
+        "title": "Menschenschicksale und Völkerschicksale"
+      },
+      {
+        "downloads": 991,
+        "identifier": "rudolf-steiner-ga-167",
+        "item_size": 98307198,
+        "publicdate": "2014-01-13T23:59:12Z",
+        "title": "Gegenwärtiges und Vergangenes im Menschengeiste"
+      },
+      {
+        "downloads": 791,
+        "identifier": "rudolf-steiner-ga-168",
+        "item_size": 77606312,
+        "publicdate": "2014-01-13T23:14:57Z",
+        "title": "Die Verbindung zwischen Lebenden und Toten"
+      },
+      {
+        "downloads": 705,
+        "identifier": "rudolf-steiner-ga-219",
+        "item_size": 69320792,
+        "publicdate": "2014-01-13T22:48:04Z",
+        "title": "Das Verhältnis der Sternenwelt zum Menschen und des Menschen zur Sternenwelt"
+      },
+      {
+        "downloads": 677,
+        "identifier": "rudolf-steiner-ga-220",
+        "item_size": 67062567,
+        "publicdate": "2014-01-13T23:31:18Z",
+        "title": "Lebendiges Naturerkennen. Intellektueller Sündenfall und spirituelle Sündenerhebung"
+      },
+      {
+        "downloads": 655,
+        "identifier": "rudolf-steiner-ga-230",
+        "item_size": 37972305,
+        "publicdate": "2014-01-14T00:42:52Z",
+        "title": "Der Mensch als Zusammenklang des schaffenden, bildenden und gestaltenden Weltenwortes"
+      },
+      {
+        "downloads": 772,
+        "identifier": "rudolf-steiner-ga-234",
+        "item_size": 49978017,
+        "publicdate": "2014-01-14T01:30:47Z",
+        "title": "Anthroposophie - Eine Zusammenfassung nach einundzwanzig Jahren"
+      },
+      {
+        "downloads": 1747,
+        "identifier": "rudolf-steiner-ga-266_3",
+        "item_size": 403620352,
+        "publicdate": "2014-01-13T23:50:11Z",
+        "title": "Aus den Inhalten der esoterischen Stunden. Band III"
+      },
+      {
+        "downloads": 479,
+        "identifier": "rudolf-steiner-ga-274",
+        "item_size": 34133934,
+        "publicdate": "2014-01-13T22:39:45Z",
+        "title": "Ansprachen zu den Weihnachtspielen aus altem Volkstum"
+      },
+      {
+        "downloads": 840,
+        "identifier": "rudolf-steiner-ga-294",
+        "item_size": 62681403,
+        "publicdate": "2014-01-14T00:29:41Z",
+        "title": "Erziehungskunst. Methodisch-Didaktisches"
+      },
+      {
+        "downloads": 1029,
+        "identifier": "rudolf-steiner-ga-298",
+        "item_size": 65668268,
+        "publicdate": "2014-01-13T23:33:05Z",
+        "title": "Rudolf Steiner in der Waldorfschule"
+      },
+      {
+        "downloads": 1249,
+        "identifier": "rudolf-steiner-ga-088",
+        "item_size": 77131807,
+        "publicdate": "2014-01-14T01:20:02Z",
+        "title": "Über die Astrale Welt und das Devachan"
+      },
+      {
+        "downloads": 537,
+        "identifier": "rudolf-steiner-ga-195",
+        "item_size": 28112317,
+        "publicdate": "2014-01-14T01:47:02Z",
+        "title": "Weltsilvester und Neujahrsgedanken"
+      },
+      {
+        "downloads": 465,
+        "identifier": "rudolf-steiner-ga-326",
+        "item_size": 52307611,
+        "publicdate": "2014-01-14T00:54:12Z",
+        "title": "Der Entstehungsmoment der Naturwissenschaft in der Weltgeschichte und ihre seitherige Entwickelung"
+      },
+      {
+        "downloads": 1304,
+        "identifier": "rudolf-steiner-ga-344",
+        "item_size": 102008954,
+        "publicdate": "2014-01-14T00:25:58Z",
+        "title": "Vorträge bei der Begründung der Christengemeinschaft"
+      },
+      {
+        "downloads": 1111,
+        "identifier": "rudolf-steiner-ga-354",
+        "item_size": 77699218,
+        "publicdate": "2014-01-14T01:26:21Z",
+        "title": "Die Schöpfung der Welt und des Menschen. Erdenleben und Sternenwirken"
+      },
+      {
+        "downloads": 2048,
+        "identifier": "rudolf-steiner-ga-039",
+        "item_size": 197479838,
+        "publicdate": "2014-01-14T01:10:30Z",
+        "title": "Briefe Band II"
+      },
+      {
+        "downloads": 1063,
+        "identifier": "rudolf-steiner-ga-045",
+        "item_size": 54770962,
+        "publicdate": "2014-01-13T22:34:25Z",
+        "title": "Anthroposophie. Ein Fragment aus dem Jahre 1910"
+      },
+      {
+        "downloads": 2362,
+        "identifier": "rudolf-steiner-ga-177",
+        "item_size": 93136977,
+        "publicdate": "2014-01-14T00:04:29Z",
+        "title": "Die spirituellen Hintergründe der äusseren Welt. Der Sturz der Geister der Finsternis"
+      },
+      {
+        "downloads": 1467,
+        "identifier": "rudolf-steiner-ga-182",
+        "item_size": 73844820,
+        "publicdate": "2014-01-14T01:13:01Z",
+        "title": "Der Tod als Lebenswandlung"
+      },
+      {
+        "downloads": 741,
+        "identifier": "rudolf-steiner-ga-206",
+        "item_size": 66989921,
+        "publicdate": "2014-01-13T23:57:08Z",
+        "title": "Menschenwerden, Weltenseele und Weltengeist - Zweiter Teil"
+      },
+      {
+        "downloads": 682,
+        "identifier": "rudolf-steiner-ga-331",
+        "item_size": 98631513,
+        "publicdate": "2014-01-14T00:47:38Z",
+        "title": "Betriebsräte und Sozialisierung"
+      },
+      {
+        "downloads": 790,
+        "identifier": "rudolf-steiner-ga-132",
+        "item_size": 29902863,
+        "publicdate": "2014-01-13T22:18:48Z",
+        "title": "Die Evolution vom Gesichtspunkte des Wahrhaftigen"
+      },
+      {
+        "downloads": 730,
+        "identifier": "rudolf-steiner-ga-151",
+        "item_size": 26198600,
+        "publicdate": "2014-01-14T01:00:10Z",
+        "title": "Der menschliche und der kosmische Gedanke"
+      },
+      {
+        "downloads": 806,
+        "identifier": "rudolf-steiner-ga-072",
+        "item_size": 121033168,
+        "publicdate": "2014-01-14T00:36:30Z",
+        "title": "Freiheit – Unsterblichkeit – Soziales Leben"
+      },
+      {
+        "downloads": 1670,
+        "identifier": "rudolf-steiner-ga-092",
+        "item_size": 54114491,
+        "publicdate": "2014-01-14T00:48:04Z",
+        "title": "Die okkulten Wahrheiten alter Mythen und Sagen"
+      },
+      {
+        "downloads": 707,
+        "identifier": "rudolf-steiner-ga-109",
+        "item_size": 94332932,
+        "publicdate": "2014-01-14T01:23:47Z",
+        "title": "Das Prinzip der spirituellen Ökonomie im Zusammenhang mit Wiederverkörperungsfragen"
+      },
+      {
+        "downloads": 776,
+        "identifier": "rudolf-steiner-ga-227",
+        "item_size": 120156281,
+        "publicdate": "2014-01-14T00:59:48Z",
+        "title": "Initiations-Erkenntnis"
+      },
+      {
+        "downloads": 1256,
+        "identifier": "rudolf-steiner-ga-229",
+        "item_size": 55454213,
+        "publicdate": "2014-01-13T23:12:47Z",
+        "title": "Das Miterleben des Jahreslaufes in vier kosmischen Imaginationen"
+      },
+      {
+        "downloads": 1229,
+        "identifier": "rudolf-steiner-ga-281",
+        "item_size": 65869633,
+        "publicdate": "2014-01-13T23:26:51Z",
+        "title": "Rudolf Steiner / Marie Steiner-von Sivers: Die Kunst der Rezitation und Deklamation"
+      },
+      {
+        "downloads": 698,
+        "identifier": "rudolf-steiner-ga-074",
+        "item_size": 49385884,
+        "publicdate": "2014-01-14T00:52:34Z",
+        "title": "Die Philosophie des Thomas von Aquino"
+      },
+      {
+        "downloads": 882,
+        "identifier": "rudolf-steiner-ga-337a",
+        "item_size": 150908183,
+        "publicdate": "2014-01-14T00:11:41Z",
+        "title": "Soziale Ideen – Soziale Wirklichkeit – Soziale Praxis. Band I"
+      },
+      {
+        "downloads": 1188,
+        "identifier": "rudolf-steiner-ga-343",
+        "item_size": 285805315,
+        "publicdate": "2014-01-13T23:52:09Z",
+        "title": "Spirituelles Erkennen - Religiöses Empfinden - Kultisches Handeln"
+      },
+      {
+        "downloads": 2087,
+        "identifier": "rudolf-steiner-ga-011",
+        "item_size": 75408652,
+        "publicdate": "2014-01-14T01:29:01Z",
+        "title": "Aus der Akasha-Chronik"
+      },
+      {
+        "downloads": 798,
+        "identifier": "rudolf-steiner-ga-127",
+        "item_size": 78424062,
+        "publicdate": "2014-01-14T01:24:17Z",
+        "title": "Die Mission der neuen Geistesoffenbarung"
+      },
+      {
+        "downloads": 591,
+        "identifier": "rudolf-steiner-ga-188",
+        "item_size": 86238414,
+        "publicdate": "2014-01-14T00:14:46Z",
+        "title": "Der Goetheanismus, ein Umwandlungsimpuls und Auferstehungsgedanke"
+      },
+      {
+        "downloads": 951,
+        "identifier": "rudolf-steiner-ga-273",
+        "item_size": 85684280,
+        "publicdate": "2014-01-14T01:02:51Z",
+        "title": "Geisteswissenschaftliche Erläuterungen zu Goethes \"Faust\". Band II: Das Faust-Problem. Die romantische und die klassische Walpurgisnacht"
+      },
+      {
+        "downloads": 897,
+        "identifier": "rudolf-steiner-ga-300c",
+        "item_size": 84130139,
+        "publicdate": "2014-01-13T22:50:06Z",
+        "title": "Konferenzen mit den Lehrern der Freien Waldorfschule 1919 bis 1924. Band III"
+      },
+      {
+        "downloads": 1151,
+        "identifier": "rudolf-steiner-ga-317",
+        "item_size": 78274577,
+        "publicdate": "2014-01-13T23:55:47Z",
+        "title": "Heilpädagogischer Kurs"
+      },
+      {
+        "downloads": 716,
+        "identifier": "rudolf-steiner-ga-319",
+        "item_size": 78139610,
+        "publicdate": "2014-01-14T00:12:44Z",
+        "title": "Anthroposophische Menschenerkenntnis und Medizin"
+      },
+      {
+        "downloads": 981,
+        "identifier": "rudolf-steiner-ga-120",
+        "item_size": 75561561,
+        "publicdate": "2014-01-13T22:21:22Z",
+        "title": "Die Offenbarungen des Karma"
+      },
+      {
+        "downloads": 705,
+        "identifier": "rudolf-steiner-ga-059",
+        "item_size": 86592687,
+        "publicdate": "2014-01-13T23:32:31Z",
+        "title": "Metamorphosen des Seelenlebens - Pfade der Seelenerlebnisse. Zweiter Teil"
+      },
+      {
+        "downloads": 1073,
+        "identifier": "rudolf-steiner-ga-099",
+        "item_size": 132120301,
+        "publicdate": "2014-01-14T00:05:16Z",
+        "title": "Die Theosophie des Rosenkreuzers"
+      },
+      {
+        "downloads": 742,
+        "identifier": "rudolf-steiner-ga-187",
+        "item_size": 64721809,
+        "publicdate": "2014-01-14T00:58:55Z",
+        "title": "Wie kann die Menschheit den Christus wiederfinden? Das dreifache Schattendasein unserer Zeit und das neue Christus-Licht"
+      },
+      {
+        "downloads": 722,
+        "identifier": "rudolf-steiner-ga-190",
+        "item_size": 73377949,
+        "publicdate": "2014-01-13T23:24:50Z",
+        "title": "Vergangenheits- und Zukunftsimpulse im sozialen Geschehen"
+      },
+      {
+        "downloads": 858,
+        "identifier": "rudolf-steiner-ga-207",
+        "item_size": 59538989,
+        "publicdate": "2014-01-14T00:37:03Z",
+        "title": "Anthroposophie als Kosmosophie - Erster Teil"
+      },
+      {
+        "downloads": 2474,
+        "identifier": "rudolf-steiner-ga-335",
+        "item_size": 170902877,
+        "publicdate": "2014-01-13T22:19:50Z",
+        "title": "Die Krisis der Gegenwart und der Weg zu gesundem Denken"
+      },
+      {
+        "downloads": 1798,
+        "identifier": "rudolf-steiner-ga-346",
+        "item_size": 237485845,
+        "publicdate": "2014-01-13T22:49:04Z",
+        "title": "Apokalypse und Priesterwirken"
+      },
+      {
+        "downloads": 551,
+        "identifier": "rudolf-steiner-ga-352",
+        "item_size": 96637522,
+        "publicdate": "2014-01-13T23:59:31Z",
+        "title": "Natur und Mensch in geisteswissenschaftlicher Betrachtung"
+      },
+      {
+        "downloads": 673,
+        "identifier": "rudolf-steiner-ga-022",
+        "item_size": 20207612,
+        "publicdate": "2014-01-13T22:22:41Z",
+        "title": "Goethes Geistesart in ihrer Offenbarung durch seinen \"Faust\" und durch das Märchen von der Schlange und der Lilie"
+      },
+      {
+        "downloads": 700,
+        "identifier": "rudolf-steiner-ga-233",
+        "item_size": 49539661,
+        "publicdate": "2014-01-14T00:06:23Z",
+        "title": "Die Weltgeschichte in anthroposophischer Beleuchtung und als Grundlage der Erkenntnis des Menschengeistes"
+      },
+      {
+        "downloads": 842,
+        "identifier": "rudolf-steiner-ga-235",
+        "item_size": 68780663,
+        "publicdate": "2014-01-13T22:31:34Z",
+        "title": "Esoterische Betrachtung karmischer Zusammenhänge. Erster Band"
+      },
+      {
+        "downloads": 646,
+        "identifier": "rudolf-steiner-ga-237",
+        "item_size": 55982279,
+        "publicdate": "2014-01-14T00:35:45Z",
+        "title": "Esoterische Betrachtung karmischer Zusammenhänge. Dritter Band: Die karmischen Zusammenhänge der anthroposophischen Bewegung"
+      },
+      {
+        "downloads": 985,
+        "identifier": "rudolf-steiner-ga-260",
+        "item_size": 95768198,
+        "publicdate": "2014-01-13T23:38:44Z",
+        "title": "Die Weihnachtstagung zur Begründung der Allgemeinen Anthroposophischen Gesellschaft 1923/1924"
+      },
+      {
+        "downloads": 607,
+        "identifier": "rudolf-steiner-ga-295",
+        "item_size": 53896784,
+        "publicdate": "2014-01-14T01:08:22Z",
+        "title": "Erziehungskunst. Seminarbesprechungen und Lehrplanvorträge"
+      },
+      {
+        "downloads": 740,
+        "identifier": "rudolf-steiner-ga-297a",
+        "item_size": 72107920,
+        "publicdate": "2014-01-14T00:48:44Z",
+        "title": "Erziehung zum Leben"
+      },
+      {
+        "downloads": 721,
+        "identifier": "rudolf-steiner-ga-323",
+        "item_size": 106808015,
+        "publicdate": "2014-01-14T00:49:23Z",
+        "title": "Das Verhältnis der verschiedenen naturwissenschaftlichen Gebiete zur Astronomie"
+      },
+      {
+        "downloads": 702,
+        "identifier": "rudolf-steiner-ga-007",
+        "item_size": 66864146,
+        "publicdate": "2014-01-13T22:22:58Z",
+        "title": "Die Mystik im Aufgange des neuzeitlichen Geisteslebens und ihr Verhältnis zur modernen Weltanschauung"
+      },
+      {
+        "downloads": 625,
+        "identifier": "rudolf-steiner-ga-025",
+        "item_size": 20740148,
+        "publicdate": "2014-01-14T00:28:22Z",
+        "title": "Drei Schritte der Anthroposophie (Kosmologie, Religion, Philosophie)"
+      },
+      {
+        "downloads": 2740,
+        "identifier": "rudolf-steiner-ga-263a",
+        "item_size": 87446987,
+        "publicdate": "2014-01-14T00:46:33Z",
+        "title": "Rudolf Steiner / Edith Maryon: Briefwechsel"
+      },
+      {
+        "downloads": 1077,
+        "identifier": "rudolf-steiner-ga-312",
+        "item_size": 119756894,
+        "publicdate": "2014-01-13T23:37:00Z",
+        "title": "Geisteswissenschaft und Medizin"
+      },
+      {
+        "downloads": 696,
+        "identifier": "rudolf-steiner-ga-318",
+        "item_size": 53271471,
+        "publicdate": "2014-01-14T00:41:21Z",
+        "title": "Das Zusammenwirken von Ärzten und Seelsorgern"
+      },
+      {
+        "downloads": 830,
+        "identifier": "rudolf-steiner-ga-147",
+        "item_size": 62079150,
+        "publicdate": "2014-01-13T23:57:37Z",
+        "title": "Die Geheimnisse der Schwelle"
+      },
+      {
+        "downloads": 934,
+        "identifier": "rudolf-steiner-ga-149",
+        "item_size": 43937830,
+        "publicdate": "2014-01-14T01:24:39Z",
+        "title": "Christus und die geistige Welt"
+      },
+      {
+        "downloads": 645,
+        "identifier": "rudolf-steiner-ga-154",
+        "item_size": 45609327,
+        "publicdate": "2014-01-13T23:14:22Z",
+        "title": "Wie erwirbt man sich Verständnis für die geistige Welt?"
+      },
+      {
+        "downloads": 1100,
+        "identifier": "rudolf-steiner-ga-057",
+        "item_size": 130998149,
+        "publicdate": "2014-01-14T01:17:08Z",
+        "title": "Wo und wie findet man den Geist?"
+      },
+      {
+        "downloads": 1265,
+        "identifier": "rudolf-steiner-ga-170",
+        "item_size": 92019807,
+        "publicdate": "2014-01-14T00:00:50Z",
+        "title": "Das Rätsel des Menschen. Die geistigen Hintergründe der menschlichen Geschichte"
+      },
+      {
+        "downloads": 1558,
+        "identifier": "rudolf-steiner-ga-175",
+        "item_size": 130687899,
+        "publicdate": "2014-01-13T22:40:43Z",
+        "title": "Bausteine zu einer Erkenntnis des Mysteriums von Golgatha"
+      },
+      {
+        "downloads": 1024,
+        "identifier": "rudolf-steiner-ga-180",
+        "item_size": 111759996,
+        "publicdate": "2014-01-14T00:28:02Z",
+        "title": "Mysterienwahrheiten und Weihnachtsimpulse. Alte Mythen und ihre Bedeutung"
+      },
+      {
+        "downloads": 637,
+        "identifier": "rudolf-steiner-ga-183",
+        "item_size": 82829926,
+        "publicdate": "2014-01-14T01:27:28Z",
+        "title": "Die Wissenschaft vom Werden des Menschen"
+      },
+      {
+        "downloads": 591,
+        "identifier": "rudolf-steiner-ga-196",
+        "item_size": 112194814,
+        "publicdate": "2014-01-14T01:16:00Z",
+        "title": "Geistige und soziale Wandlungen in der Menschheitsentwickelung"
+      },
+      {
+        "downloads": 576,
+        "identifier": "rudolf-steiner-ga-197",
+        "item_size": 71051970,
+        "publicdate": "2014-01-13T23:01:22Z",
+        "title": "Gegensätze in der Menschheitsentwickelung. West und Ost - Materialismus und Mystik - Wissen und Glauben"
+      },
+      {
+        "downloads": 755,
+        "identifier": "rudolf-steiner-ga-208",
+        "item_size": 68312902,
+        "publicdate": "2014-01-14T01:21:37Z",
+        "title": "Anthroposophie als Kosmosophie - Zweiter Teil"
+      },
+      {
+        "downloads": 691,
+        "identifier": "rudolf-steiner-ga-337b",
+        "item_size": 122307208,
+        "publicdate": "2014-01-13T23:38:01Z",
+        "title": "Soziale Ideen – Soziale Wirklichkeit – Soziale Praxis. Band II"
+      },
+      {
+        "downloads": 703,
+        "identifier": "rudolf-steiner-ga-345",
+        "item_size": 28947818,
+        "publicdate": "2014-01-14T01:07:49Z",
+        "title": "Vom Wesen des wirkenden Wortes"
+      },
+      {
+        "downloads": 1075,
+        "identifier": "rudolf-steiner-ga-350",
+        "item_size": 96908296,
+        "publicdate": "2014-01-14T01:18:27Z",
+        "title": "Rhythmen im Kosmos und im Menschenwesen. Wie kommt man zum Schauen der geistigen Welt?"
+      },
+      {
+        "downloads": 1488,
+        "identifier": "rudolf-steiner-ga-014",
+        "item_size": 113765275,
+        "publicdate": "2014-01-14T01:29:39Z",
+        "title": "Vier Mysteriendramen"
+      },
+      {
+        "downloads": 1056,
+        "identifier": "rudolf-steiner-ga-126",
+        "item_size": 38374991,
+        "publicdate": "2014-01-13T23:06:39Z",
+        "title": "Okkulte Geschichte"
+      },
+      {
+        "downloads": 725,
+        "identifier": "rudolf-steiner-ga-129",
+        "item_size": 82919049,
+        "publicdate": "2014-01-13T22:56:44Z",
+        "title": "Weltenwunder. Seelenprüfungen und Geistesoffenbarungen"
+      },
+      {
+        "downloads": 1242,
+        "identifier": "rudolf-steiner-ga-130",
+        "item_size": 115299393,
+        "publicdate": "2014-01-13T23:35:20Z",
+        "title": "Das esoterische Christentum und die geistige Führung der Menschheit"
+      },
+      {
+        "downloads": 609,
+        "identifier": "rudolf-steiner-ga-150",
+        "item_size": 44493786,
+        "publicdate": "2014-01-13T22:51:13Z",
+        "title": "Die Welt des Geistes und ihr Hereinragen in das physische Dasein"
+      },
+      {
+        "downloads": 953,
+        "identifier": "rudolf-steiner-ga-152",
+        "item_size": 54180673,
+        "publicdate": "2014-01-14T00:32:32Z",
+        "title": "Vorstufen zum Mysterium von Golgatha"
+      },
+      {
+        "downloads": 745,
+        "identifier": "rudolf-steiner-ga-153",
+        "item_size": 73377632,
+        "publicdate": "2014-01-13T23:18:01Z",
+        "title": "Inneres Wesen des Menschen und Leben zwischen Tod und neuer Geburt"
+      },
+      {
+        "downloads": 787,
+        "identifier": "rudolf-steiner-ga-169",
+        "item_size": 60211121,
+        "publicdate": "2014-01-13T23:23:05Z",
+        "title": "Weltwesen und Ichheit"
+      },
+      {
+        "downloads": 545,
+        "identifier": "rudolf-steiner-ga-253",
+        "item_size": 59529447,
+        "publicdate": "2014-01-13T23:47:02Z",
+        "title": "Probleme des Zusammenlebens in der Anthroposophischen Gesellschaft. Zur Dornacher Krise vom Jahre 1915"
+      },
+      {
+        "downloads": 880,
+        "identifier": "rudolf-steiner-ga-254",
+        "item_size": 86384668,
+        "publicdate": "2014-01-13T22:48:43Z",
+        "title": "Die okkulte Bewegung im neunzehnten Jahrhundert und ihre Beziehung zur Weltkultur"
+      },
+      {
+        "downloads": 1313,
+        "identifier": "rudolf-steiner-ga-264",
+        "item_size": 164510471,
+        "publicdate": "2014-01-13T22:35:52Z",
+        "title": "Zur Geschichte und aus den Inhalten der ersten Abteilung der Esoterischen Schule 1904 bis 1914"
+      },
+      {
+        "downloads": 1547,
+        "identifier": "rudolf-steiner-ga-327",
+        "item_size": 106012858,
+        "publicdate": "2014-01-14T01:17:53Z",
+        "title": "Geisteswissenschaftliche Grundlagen zum Gedeihen der Landwirtschaft (Landwirtschaftlicher Kursus)"
+      },
+      {
+        "downloads": 865,
+        "identifier": "rudolf-steiner-ga-329",
+        "item_size": 107130083,
+        "publicdate": "2014-01-14T00:31:43Z",
+        "title": "Die Befreiung des Menschenwesens als Grundlage für eine soziale Neugestaltung"
+      },
+      {
+        "downloads": 575,
+        "identifier": "rudolf-steiner-ga-276",
+        "item_size": 48568362,
+        "publicdate": "2014-01-13T23:22:48Z",
+        "title": "Das Künstlerische in seiner Weltmission"
+      }
+    ]
+  }
+}

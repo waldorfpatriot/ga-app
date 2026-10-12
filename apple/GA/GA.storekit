@@ -1,0 +1,85 @@
+{
+  "identifier": "GA_ACCESS_QA",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false,
+    "_billingGracePeriodEnabled": false,
+    "_billingIssuesEnabled": false,
+    "_failTransactionsEnabled": false,
+    "_locale": "de_DE",
+    "_storefront": "DEU",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [
+    {
+      "id": "GA_ACCESS_IOS",
+      "localizations": [
+        {
+          "description": "Zugang zur GA-App",
+          "displayName": "GA-App-Zugang",
+          "locale": "de_DE"
+        }
+      ],
+      "name": "GA-App-Zugang",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "30",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "GAannual",
+          "introductoryOffer": {
+            "internalID": "trialannual",
+            "numberOfPeriods": 1,
+            "paymentMode": "free",
+            "subscriptionPeriod": "P3M"
+          },
+          "localizations": [
+            {
+              "description": "Gleicher App-Zugang. Drei Monate kostenlos testen; danach jährliche Verlängerung.",
+              "displayName": "Jahresabo",
+              "locale": "de_DE"
+            }
+          ],
+          "productID": "com.jonathankutscher.ga.annual",
+          "recurringSubscriptionPeriod": "P1Y",
+          "referenceName": "Jahresabo",
+          "subscriptionGroupID": "GA_ACCESS_IOS",
+          "type": "RecurringSubscription"
+        },
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "90",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "GAsupporter",
+          "introductoryOffer": {
+            "internalID": "trialsupporter",
+            "numberOfPeriods": 1,
+            "paymentMode": "free",
+            "subscriptionPeriod": "P3M"
+          },
+          "localizations": [
+            {
+              "description": "Gleicher App-Zugang. Drei Monate kostenlos testen; danach jährliche Verlängerung.",
+              "displayName": "Förderabo",
+              "locale": "de_DE"
+            }
+          ],
+          "productID": "com.jonathankutscher.ga.supporter",
+          "recurringSubscriptionPeriod": "P1Y",
+          "referenceName": "Förderabo",
+          "subscriptionGroupID": "GA_ACCESS_IOS",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}

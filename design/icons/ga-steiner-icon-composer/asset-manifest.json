@@ -1,0 +1,197 @@
+{
+  "name": "GA / Steiner — sage linen",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "layerOrder": [
+    "01-linen-background.png",
+    "02-ga.svg",
+    "03-steiner.svg"
+  ],
+  "pngAlternatives": [
+    "png/02-ga.png",
+    "png/03-steiner.png"
+  ],
+  "embossedAlternative": [
+    "01-linen-background.png",
+    "alternatives/02-lettering-embossed.png"
+  ],
+  "colors": {
+    "GA": "#37482A",
+    "Steiner": "#334426"
+  },
+  "fontsRequired": false,
+  "rasterMethod": "Built-in ImageGen background removal and foreground extraction; native1024px exports",
+  "vectorMethod": "Smooth outlines traced from approved raster lettering; no substitute font",
+  "reference": "reference/ga-steiner-reference.png",
+  "appleExportGuide": "https://developer.apple.com/videos/play/wwdc2025/361/",
+  "files": [
+    {
+      "file": "01-linen-background.png",
+      "bytes": 1937924,
+      "sha256": "c6b067eddfb1508e64da7d862afbf3691af729d5680c117a06b9d16e6409744d",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "fullCanvas": true
+    },
+    {
+      "file": "02-ga.svg",
+      "bytes": 9001,
+      "sha256": "bfadb6494691f708df2977a07070105d86705ba30ebfa03524fcef4737422c1c",
+      "viewBox": "0 0 1024 1024",
+      "outlinedText": true
+    },
+    {
+      "file": "03-steiner.svg",
+      "bytes": 15556,
+      "sha256": "1e058e4e00e947b6683aa94c3a642dfe41343e2dc1960f303c36485ca9c4d588",
+      "viewBox": "0 0 1024 1024",
+      "outlinedText": true
+    },
+    {
+      "file": "IMPORT.txt",
+      "bytes": 2448,
+      "sha256": "b0df65404d44bc8eea6b3f84e5ed4d91b052f13f7a3cc8afbfb20cff5f9e0c16"
+    },
+    {
+      "file": "alternatives/02-lettering-combined.png",
+      "bytes": 48289,
+      "sha256": "4e003b8bd79e65201f44bed6c58434def1be4c4e432affbc492281a728ec5839",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "fullCanvas": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        221,
+        294,
+        792,
+        789
+      ]
+    },
+    {
+      "file": "alternatives/02-lettering-combined.svg",
+      "bytes": 23941,
+      "sha256": "89c14d85e9b091d2aea55b39501ab1442978cb892389d6077282990e4fb55930",
+      "viewBox": "0 0 1024 1024",
+      "outlinedText": true
+    },
+    {
+      "file": "alternatives/02-lettering-embossed.png",
+      "bytes": 362884,
+      "sha256": "2adc7e4d630a0c6ad59ef6108c4813b2ba04c53a1cce9de23577e0fc5aae3fec",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "fullCanvas": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        53,
+        24,
+        1001,
+        1024
+      ]
+    },
+    {
+      "file": "png/02-ga.png",
+      "bytes": 29110,
+      "sha256": "1f99ccd43ac7d97b7dc166fda7666e1df609e6c720d48a97a37b5d65e785ca40",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "fullCanvas": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        221,
+        294,
+        792,
+        625
+      ]
+    },
+    {
+      "file": "png/03-steiner.png",
+      "bytes": 24869,
+      "sha256": "79ae4ce4e5733929854a7aa7d2d73727f738338cd57e8e99b55b8308f458ca2f",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "fullCanvas": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        250,
+        648,
+        787,
+        789
+      ]
+    },
+    {
+      "file": "reference/ga-steiner-reference.png",
+      "bytes": 3570937,
+      "sha256": "1cfac001166952397d258740a703625a3efbb5a0f8a0cad3c32f3bd0c3002f7b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "sources/embossed-lettering-imagegen.png",
+      "bytes": 491131,
+      "sha256": "88d7efeb5e822bb94b7a2181fee0825f70e0fe3d162c3787eb089c1fdb7974d8",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        65,
+        29,
+        1226,
+        1254
+      ]
+    },
+    {
+      "file": "sources/imagegen-prompts.txt",
+      "bytes": 2098,
+      "sha256": "0293560656e5dfbfca22957c04bd7bd5628119e1460e6bcc5c5546c66f7fa752"
+    },
+    {
+      "file": "sources/linen-background-imagegen.png",
+      "bytes": 3475030,
+      "sha256": "c5ae370968642d9584535f34e44e581fa7db343c44e7fc14c3e132a3eadb3c8c",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB"
+    }
+  ]
+}

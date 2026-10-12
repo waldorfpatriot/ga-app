@@ -1,0 +1,272 @@
+{
+  "sourceHost": "kutscherei.local",
+  "sourceRoot": "/Volumes/iMac/programmier-projekte/ga",
+  "retrievedAtUtc": "2026-10-08T11:39:14.719139+00:00",
+  "verification": "Every copied file matches its SHA-256 checksum read from Kutscherei over SSH. The source app directory has no Git metadata.",
+  "files": [
+    {
+      "path": "app/Sources/FalzApp/AppModel.swift",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/app/Sources/FalzApp/AppModel.swift",
+      "sha256": "078d2683f4a0dab1a9eaec08ae45fb11768bdfe0953d447acf983647cd41f262",
+      "bytes": 13657
+    },
+    {
+      "path": "app/Sources/FalzApp/LibraryView.swift",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/app/Sources/FalzApp/LibraryView.swift",
+      "sha256": "1e20f49af6f796a92a6b87a30832e1e254f81e25d277f04287f1b6fa5697c546",
+      "bytes": 25016
+    },
+    {
+      "path": "app/Sources/FalzApp/Theme.swift",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/app/Sources/FalzApp/Theme.swift",
+      "sha256": "fa37d5cdf01dfa0a6c67dfbe3dc26cd5fdc25efe48d1c2e358e15957b307f84a",
+      "bytes": 3811
+    },
+    {
+      "path": "app/Sources/FalzCore/Library.swift",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/app/Sources/FalzCore/Library.swift",
+      "sha256": "6ac1c13790882658dbd39b6af68e7f9a592f822aef60fd752c8aa27276070bb5",
+      "bytes": 9587
+    },
+    {
+      "path": "assets/fonts/crimson-pro-regular.ttf",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/output/falz-icons/fonts/crimson-pro-regular.ttf",
+      "sha256": "d43dfaf98f1cb4ef4052e266538317af16ebe6ea8eed50c03c086f2752682e47",
+      "bytes": 97164
+    },
+    {
+      "path": "assets/fonts/crimson-pro-semibold.ttf",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/output/falz-icons/fonts/crimson-pro-semibold.ttf",
+      "sha256": "9875f841c142b0e80712c7d721f099f15c084ab966e8e572d7a0505eda1d8c34",
+      "bytes": 97888
+    },
+    {
+      "path": "assets/fonts/crimsonpro-OFL.txt",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/output/falz-icons/fonts/crimsonpro-OFL.txt",
+      "sha256": "1820869bd5baa1c2d88fa87c89eea532cf9442d841008acab720654b7f82823d",
+      "bytes": 4393
+    },
+    {
+      "path": "assets/fonts/dm-sans-regular.ttf",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/output/falz-icons/fonts/dm-sans-regular.ttf",
+      "sha256": "b0ae3e89a7d3ef2b1838bb4b1ceb0b17cc3435af061eee809d76aa623ff116e9",
+      "bytes": 48280
+    },
+    {
+      "path": "assets/fonts/dm-sans-semibold.ttf",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/output/falz-icons/fonts/dm-sans-semibold.ttf",
+      "sha256": "b79a2ea7a38f33fd96a282fadb9ce97626bb0724a44d21075859f0e50239993a",
+      "bytes": 48280
+    },
+    {
+      "path": "assets/fonts/dmsans-OFL.txt",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/output/falz-icons/fonts/dmsans-OFL.txt",
+      "sha256": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+      "bytes": 4482
+    },
+    {
+      "path": "assets/textures/README.md",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/README.md",
+      "sha256": "5121d6940c3d84cb6fa22e3a89bf0a5250c3b83a5633b312823685343599117a",
+      "bytes": 1090
+    },
+    {
+      "path": "assets/textures/categories.json",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/categories.json",
+      "sha256": "36b3b7c03a49150b4f249b347076ee5114debab93323510f23f01c60b0d84416",
+      "bytes": 8803
+    },
+    {
+      "path": "assets/textures/generate.swift",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/generate.swift",
+      "sha256": "f4e07087a52ecd5c520ea06ed67a9f7485d30a4eed1923704a0c0c8be7181168",
+      "bytes": 7765
+    },
+    {
+      "path": "assets/textures/gold/art.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/art.png",
+      "sha256": "5130d46e06867baeeac538f8ec45900c75331e37d6282169df54a78f535464e2",
+      "bytes": 398184
+    },
+    {
+      "path": "assets/textures/gold/artistic-work.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/artistic-work.png",
+      "sha256": "fa41e4c5e61518048a9a6c914fa55f887be02da9c9e884ed21bc478b9daf59de",
+      "bytes": 397551
+    },
+    {
+      "path": "assets/textures/gold/catalogue-status.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/catalogue-status.png",
+      "sha256": "474a9bb2e9ed3401615fd73a9e6a3d20aaf0c7377e37dde421b599c5e801dc46",
+      "bytes": 398108
+    },
+    {
+      "path": "assets/textures/gold/christian-religious.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/christian-religious.png",
+      "sha256": "4e4b05d10ae474bf089d6b6347ac9ab662f27bcdfd27681e922bd075249cda7f",
+      "bytes": 397901
+    },
+    {
+      "path": "assets/textures/gold/collected-essays.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/collected-essays.png",
+      "sha256": "ec033936e1583feb01bc1bf64702fdc0294fa6889868a313fb09cc06906f59cf",
+      "bytes": 397696
+    },
+    {
+      "path": "assets/textures/gold/education.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/education.png",
+      "sha256": "94fa1f1c939662401dcde0f5d8739b646da9f2ef95b6699cb6133d3fe59ed902",
+      "bytes": 397796
+    },
+    {
+      "path": "assets/textures/gold/estate-publications.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/estate-publications.png",
+      "sha256": "f47471eb7b28ec43123413b472fd0d0b02152a1cb94116f1c028592a89947c87",
+      "bytes": 397448
+    },
+    {
+      "path": "assets/textures/gold/gold-foil.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/gold-foil.png",
+      "sha256": "fbea30a03821701083b167d9fe5226b1487cc38c6181a849402a356e84e6fd1d",
+      "bytes": 397582
+    },
+    {
+      "path": "assets/textures/gold/medicine.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/medicine.png",
+      "sha256": "3b428009c470521837ace8aa874002161fe4a0420a90cab7b76bd421d58fde74",
+      "bytes": 397438
+    },
+    {
+      "path": "assets/textures/gold/member-lectures.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/member-lectures.png",
+      "sha256": "54f4804b5c4d57bce611df9b02c7cbfdd3cd2a824a45a96bb128b351a63059f5",
+      "bytes": 397967
+    },
+    {
+      "path": "assets/textures/gold/natural-science.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/natural-science.png",
+      "sha256": "1d706903340869bf0c897943d2a43e0d12970767cd7b9a8254979c1377c3247b",
+      "bytes": 397960
+    },
+    {
+      "path": "assets/textures/gold/public-lectures.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/public-lectures.png",
+      "sha256": "de48b9a1d7e623c48afbddafb1c795a4d3b3bf3555e71d5618eb255dfe78df3d",
+      "bytes": 397971
+    },
+    {
+      "path": "assets/textures/gold/social-life.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/social-life.png",
+      "sha256": "c0b8e2f409b4c352164c798214a5def928ec150d04d6db9dc330982bb6ab9fa9",
+      "bytes": 397751
+    },
+    {
+      "path": "assets/textures/gold/workers.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/workers.png",
+      "sha256": "335511c4f8dd4368f2dfb16ab083aede564bb953104a948583f8feb235194b18",
+      "bytes": 398116
+    },
+    {
+      "path": "assets/textures/gold/works.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/gold/works.png",
+      "sha256": "f81ade5005b2778d285bf83150ed2b2cd7a6789f26f346abf287e13071342886",
+      "bytes": 397655
+    },
+    {
+      "path": "assets/textures/linen/art.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/linen/art.png",
+      "sha256": "2f71f0f6f7746cb8dab1d78e006a78a281c83fbf8484b5241a75e83feed9783a",
+      "bytes": 415479
+    },
+    {
+      "path": "assets/textures/linen/artistic-work.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/linen/artistic-work.png",
+      "sha256": "8b5b456f2bfd27a0b8d79a1c922421c8a28f08c2e12b3d07a302be3fb2f7aa74",
+      "bytes": 414288
+    },
+    {
+      "path": "assets/textures/linen/catalogue-status.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/linen/catalogue-status.png",
+      "sha256": "9022c93dadefaea2a84207f435ac82c5a0ca03683901c043333b3cd2fea737bd",
+      "bytes": 405054
+    },
+    {
+      "path": "assets/textures/linen/christian-religious.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/linen/christian-religious.png",
+      "sha256": "63de4f74eb9ab4e22f76ee91edaad5d363e96362751d3437c9e369a750899f6c",
+      "bytes": 405064
+    },
+    {
+      "path": "assets/textures/linen/collected-essays.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/linen/collected-essays.png",
+      "sha256": "7ecc6bc554a99c11f108d61649dc03e7fbcb0a9751d9e331905517324d7b704d",
+      "bytes": 404961
+    },
+    {
+      "path": "assets/textures/linen/education.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/linen/education.png",
+      "sha256": "dedea7f19788b099be4fc7ac5e2f7e795b07f5cd5f7a24903650e7953c30b0ba",
+      "bytes": 414912
+    },
+    {
+      "path": "assets/textures/linen/estate-publications.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/linen/estate-publications.png",
+      "sha256": "2aea9d334d84df0dac14b490836bb9a24fedff07df3fb48865283ebbb33b85ac",
+      "bytes": 413836
+    },
+    {
+      "path": "assets/textures/linen/medicine.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/linen/medicine.png",
+      "sha256": "8e321d533953bd96ae16e155d1a9f000dd3f4ac352eccef8b823650d818cc911",
+      "bytes": 415396
+    },
+    {
+      "path": "assets/textures/linen/member-lectures.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/linen/member-lectures.png",
+      "sha256": "89439e6c76057e8be6ef7ce3ebf2be9d9fe8f6545577a5ac7354d2c835240d00",
+      "bytes": 413354
+    },
+    {
+      "path": "assets/textures/linen/natural-science.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/linen/natural-science.png",
+      "sha256": "d332c21a9a973374918196e51173626d61bbb258abc090facc8b2c808f456dbe",
+      "bytes": 410853
+    },
+    {
+      "path": "assets/textures/linen/public-lectures.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/linen/public-lectures.png",
+      "sha256": "30bfd54c8374e559f37db4963d880cd20afcd1b2bbeb864e1ebf1a166acc3f60",
+      "bytes": 406257
+    },
+    {
+      "path": "assets/textures/linen/social-life.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/linen/social-life.png",
+      "sha256": "0a63de33939b168389330386d15bfbb3af963c76f365e05757c25a9f0c246101",
+      "bytes": 413232
+    },
+    {
+      "path": "assets/textures/linen/workers.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/linen/workers.png",
+      "sha256": "2233dfaad3f00c25919dc76d16d94409b9da6b7a27d0852a361d7804c77926db",
+      "bytes": 405087
+    },
+    {
+      "path": "assets/textures/linen/works.png",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/linen/works.png",
+      "sha256": "f5f512fe2aaedbdb92f70cab9afbe206fb5e7779586dda67d5f5307133b6fe1d",
+      "bytes": 413968
+    },
+    {
+      "path": "assets/textures/verify.swift",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/assets/textures/verify.swift",
+      "sha256": "6eafde13269d298f5e220a1e000fa251be96327905dd31b63eae77fcd8dc094d",
+      "bytes": 2735
+    },
+    {
+      "path": "docs/research/book-design.md",
+      "sourcePath": "/Volumes/iMac/programmier-projekte/ga/docs/research/book-design.md",
+      "sha256": "da4b834c0498576e8833fd075b37d8d2359982a7ff4294c591936a524c3469bc",
+      "bytes": 8447
+    }
+  ]
+}

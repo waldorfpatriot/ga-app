@@ -1,0 +1,221 @@
+{
+  "offset_unit": "codepoints_in_frozen_passage",
+  "continuations": [
+    {
+      "work_id": "ga-227",
+      "left_id": "ga-227-doc-heading-13",
+      "right_id": "ga-227-doc-heading-14",
+      "left_text_sha256": "425c65c994a947400130615d7fda2de743b956d8cd3427f23ae22d0a6ad765a5",
+      "right_text_sha256": "236fdcdf4e421b23646899480cc77b6667d22755a39aa28a13430fc0bfb55221",
+      "right_original_title": "Teil des astralischen Leibes immer mehr ab beim Menschen. Darin besteht seine Entwickelung.",
+      "end_codepoint": 0,
+      "restore_right_title": true,
+      "evidence": "h3 wurde aus normalem Prosasatz erzeugt; Titel vervollständigt unmittelbar «Und seither nimmt der obere».",
+      "right_title": "DREIZEHNTER VORTRAG Penmaenmawr, 3I. August 1923 (Fortsetzung)"
+    },
+    {
+      "work_id": "ga-255b",
+      "left_id": "ga-255b-pdf-outline-15-7",
+      "right_id": "ga-255b-pdf-outline-17-8",
+      "left_text_sha256": "016e72a61a21eae3b73ac19db09305f3b60282bf186040ada08adda2a114b44d",
+      "right_text_sha256": "2850b55eee6b6828159a301b9c72f71a8bc0b12f2380715d69df920a600375d5",
+      "right_original_title": "Unterschiedliche Motive",
+      "end_codepoint": 2475,
+      "restore_right_title": false,
+      "evidence": "Grammatische Fortsetzung über Quellseitenwechsel; echte Überschrift/Redebeginn steht erst nach dem führenden Text. Quell-EPUB h2 sitzt vor einem source-lines-Seitenblock."
+    },
+    {
+      "work_id": "ga-255b",
+      "left_id": "ga-255b-pdf-outline-21-9",
+      "right_id": "ga-255b-pdf-outline-22-10",
+      "left_text_sha256": "19fcfc069de1651c81b9913035e8904a848707aab5eb31db6c4db29b65637740",
+      "right_text_sha256": "5d8f4488101a7564f50ebfa68dbfdb34113335a13cf691f71eaca411f3ec67ed",
+      "right_original_title": "Gnadenloser Kampf",
+      "end_codepoint": 913,
+      "restore_right_title": false,
+      "evidence": "Grammatische Fortsetzung über Quellseitenwechsel; echte Überschrift/Redebeginn steht erst nach dem führenden Text. Quell-EPUB h2 sitzt vor einem source-lines-Seitenblock."
+    },
+    {
+      "work_id": "ga-255b",
+      "left_id": "ga-255b-pdf-outline-22-10",
+      "right_id": "ga-255b-pdf-outline-24-11",
+      "left_text_sha256": "5d8f4488101a7564f50ebfa68dbfdb34113335a13cf691f71eaca411f3ec67ed",
+      "right_text_sha256": "e819cabfdcc0042145f63e27ce791d13ec32bd140ea33b046cc02e469e4501aa",
+      "right_original_title": "Notwendigkeit einer Abwehr",
+      "end_codepoint": 1113,
+      "restore_right_title": false,
+      "evidence": "Grammatische Fortsetzung über Quellseitenwechsel; echte Überschrift/Redebeginn steht erst nach dem führenden Text. Quell-EPUB h2 sitzt vor einem source-lines-Seitenblock."
+    },
+    {
+      "work_id": "ga-255b",
+      "left_id": "ga-255b-pdf-outline-24-11",
+      "right_id": "ga-255b-pdf-outline-26-12",
+      "left_text_sha256": "e819cabfdcc0042145f63e27ce791d13ec32bd140ea33b046cc02e469e4501aa",
+      "right_text_sha256": "6fef1cba7e74fe8727cd60f19920a7ac7a0b6580c4aba34aa985b1706b67e714",
+      "right_original_title": "Instrumente der Verteidigung",
+      "end_codepoint": 2088,
+      "restore_right_title": false,
+      "evidence": "Grammatische Fortsetzung über Quellseitenwechsel; echte Überschrift/Redebeginn steht erst nach dem führenden Text. Quell-EPUB h2 sitzt vor einem source-lines-Seitenblock."
+    },
+    {
+      "work_id": "ga-255b",
+      "left_id": "ga-255b-pdf-outline-582-100",
+      "right_id": "ga-255b-pdf-outline-591-101",
+      "left_text_sha256": "f6c596ca3298007d2f4672f5afd9e5493449ad8a8c6b17ec3aa361b404ad74a7",
+      "right_text_sha256": "ba72bac6fd7f1c9826303b1b4495b109ad1837e4a9da658c153feb9f720904a5",
+      "right_original_title": "Kurzbiographien von Verteidigern",
+      "end_codepoint": 1011,
+      "restore_right_title": false,
+      "evidence": "Grammatische Fortsetzung über Quellseitenwechsel; echte Überschrift/Redebeginn steht erst nach dem führenden Text. Quell-EPUB h2 sitzt vor einem source-lines-Seitenblock."
+    },
+    {
+      "work_id": "ga-261",
+      "left_id": "ga-261-source-heading-7",
+      "right_id": "ga-261-source-heading-8",
+      "left_text_sha256": "3de0f1b14b13dd5c5f64d9a8ab476656cbaa505400625125c2678f4a54262f19",
+      "right_text_sha256": "0086d08a2718d283f9907af0f2504e3a8d151c67c781c5ddf5fed2404f3c29cc",
+      "right_original_title": "Berlin, 30. Oktober 1910",
+      "end_codepoint": 297,
+      "restore_right_title": false,
+      "evidence": "Grammatische Fortsetzung über Quellseitenwechsel; echte Überschrift/Redebeginn steht erst nach dem führenden Text. Quell-EPUB h2 sitzt vor einem source-lines-Seitenblock."
+    },
+    {
+      "work_id": "ga-261",
+      "left_id": "ga-261-source-heading-8",
+      "right_id": "ga-261-source-heading-9",
+      "left_text_sha256": "0086d08a2718d283f9907af0f2504e3a8d151c67c781c5ddf5fed2404f3c29cc",
+      "right_text_sha256": "20ddbb7dcfaa328339965c13da6adea90f6794b907fd68fecb5b8de8e67f5fb3",
+      "right_original_title": "Berlin, 10. Dezember 1911",
+      "end_codepoint": 323,
+      "restore_right_title": false,
+      "evidence": "Grammatische Fortsetzung über Quellseitenwechsel; echte Überschrift/Redebeginn steht erst nach dem führenden Text. Quell-EPUB h2 sitzt vor einem source-lines-Seitenblock."
+    },
+    {
+      "work_id": "ga-261",
+      "left_id": "ga-261-source-heading-35",
+      "right_id": "ga-261-source-heading-36",
+      "left_text_sha256": "6da38dfa1f3750153d2a8c912ba36eff727a5e1949b20b3cc447cbfa6b41f285",
+      "right_text_sha256": "60058a5a5857df48e47b63e762fa7dbe942c5171f25b33d59153c14327e4b8ee",
+      "right_original_title": "Reinach, 22. September 1918",
+      "end_codepoint": 474,
+      "restore_right_title": false,
+      "evidence": "Grammatische Fortsetzung über Quellseitenwechsel; echte Überschrift/Redebeginn steht erst nach dem führenden Text. Quell-EPUB h2 sitzt vor einem source-lines-Seitenblock."
+    },
+    {
+      "work_id": "ga-261",
+      "left_id": "ga-261-source-heading-39",
+      "right_id": "ga-261-source-heading-40",
+      "left_text_sha256": "e610722049ae5c2b6c1f60a4572ae1c752484bb030dbf215cd76bcbcb83e4de9",
+      "right_text_sha256": "10e661c7aab426f0d9f12a095f761a2599532d0658f8900aa89984fe318bd487",
+      "right_original_title": "Basel, 25. Oktober 1920",
+      "end_codepoint": 652,
+      "restore_right_title": false,
+      "evidence": "Grammatische Fortsetzung über Quellseitenwechsel; echte Überschrift/Redebeginn steht erst nach dem führenden Text. Quell-EPUB h2 sitzt vor einem source-lines-Seitenblock."
+    },
+    {
+      "work_id": "ga-261",
+      "left_id": "ga-261-source-heading-47",
+      "right_id": "ga-261-source-heading-48",
+      "left_text_sha256": "75ab439d27985c5140d2b3d7ae9047af1bde3eeed5e0f462733cdf0aa9157d81",
+      "right_text_sha256": "ea8f69be720219027ec7bf5314a2b9a8d20cc59db2f7293778ee55014e3d7046",
+      "right_original_title": "Basel, 11. Januar 1924, 11 Uhr vormittags",
+      "end_codepoint": 562,
+      "restore_right_title": false,
+      "evidence": "Grammatische Fortsetzung über Quellseitenwechsel; echte Überschrift/Redebeginn steht erst nach dem führenden Text. Quell-EPUB h2 sitzt vor einem source-lines-Seitenblock."
+    },
+    {
+      "work_id": "ga-261",
+      "left_id": "ga-261-source-heading-49",
+      "right_id": "ga-261-source-heading-50",
+      "left_text_sha256": "e1ebcc024a8afe73636c8577f1033f6b554bca1a5d10ea3476e6c12750d8a6ba",
+      "right_text_sha256": "8ef259db636fede103931f1d3f53341a953e66c7eafd18a49e32be8f5f3e5152",
+      "right_original_title": "Basel, 6. Mai 1924",
+      "end_codepoint": 318,
+      "restore_right_title": false,
+      "evidence": "Grammatische Fortsetzung über Quellseitenwechsel; echte Überschrift/Redebeginn steht erst nach dem führenden Text. Quell-EPUB h2 sitzt vor einem source-lines-Seitenblock."
+    },
+    {
+      "work_id": "ga-267",
+      "left_id": "ga-267-doc-heading-15",
+      "right_id": "ga-267-doc-heading-16",
+      "left_text_sha256": "d4708ba6f74e38e193cef29451b782b7f277a5c1594a00775adab64ea98e523d",
+      "right_text_sha256": "76787f1d09a1ea93335140618f9fc53c82050980b5db5b2c3af52835a3312bb8",
+      "right_original_title": "ES - SIE - ER",
+      "end_codepoint": 52,
+      "restore_right_title": true,
+      "evidence": "EPUB macht aus der mitten im Satz abgesetzten Formel ES - SIE - ER irrtümlich h2. Originalgrammatik: «... daß in obigen Kraftworten die drei Formen ES - SIE - ER in der Natur der höheren Welten wohl begründet sind.»",
+      "right_title": "DRITTER TEIL (Fortsetzung)"
+    },
+    {
+      "work_id": "ga-331a",
+      "left_id": "ga-331a-recovered-ga331a-68",
+      "right_id": "ga-331a-recovered-ga331a-80",
+      "left_text_sha256": "93340beafcd2ee2021b0d113a9a29b95829b1b98b2881d60ab6f111b88472f86",
+      "right_text_sha256": "ffdec8950321fb8469f48087a2816b8701f3df93cc10744b18e0bcb36ce4119a",
+      "right_original_title": "Die Verbindung Rudolf Steiners zu den Arbeiterräten Württembergs",
+      "end_codepoint": 2296,
+      "restore_right_title": false,
+      "evidence": "Grammatische Fortsetzung über Quellseitenwechsel; echte Überschrift/Redebeginn steht erst nach dem führenden Text. Quell-EPUB h2 sitzt vor einem source-lines-Seitenblock."
+    },
+    {
+      "work_id": "ga-061",
+      "left_id": "ga-061-doc-heading-6",
+      "right_id": "ga-061-doc-heading-7",
+      "left_text_sha256": "8721f03f7126c33530f60c7999e6c49c0aff55c6370a62f8df8add90bfec6aed",
+      "right_text_sha256": "247fa9cfa51e7e929aa17bee12cdcf339ac35d287ca91cda41fe228b8c5a5ffe",
+      "right_original_title": "T^/T",
+      "end_codepoint": 193,
+      "restore_right_title": false,
+      "right_title": "DIE VERBORGENEN TIEFEN DES SEELENLEBENS — Berlin, 23. November 1911 (Fortsetzung)",
+      "evidence": "Falsche EPUB-Überschrift aus OCR einer Druckseitenzahl; folgende Prosawörter setzen den vorigen Satz fort. Originale OCR-Lesarten und Worttrennungszeichen bleiben erhalten."
+    },
+    {
+      "work_id": "ga-061",
+      "left_id": "ga-061-doc-heading-8",
+      "right_id": "ga-061-doc-heading-9",
+      "left_text_sha256": "6cdf104dfc06f6528e633857fd4b74160e58d582e0f2db9b279cf5519f65b04e",
+      "right_text_sha256": "7069ea5a40426834a2a478ffd372856cb5bc0716096fc594cbb070252dc099bd",
+      "right_original_title": "T £ A",
+      "end_codepoint": 328,
+      "restore_right_title": false,
+      "right_title": "DAS GLÜCK, SEIN WESEN UND SEIN SCHEIN — Berlin, 7. Dezember 1911 (Fortsetzung)",
+      "evidence": "Falsche EPUB-Überschrift aus OCR einer Druckseitenzahl; folgende Prosawörter setzen den vorigen Satz fort. Originale OCR-Lesarten und Worttrennungszeichen bleiben erhalten."
+    },
+    {
+      "work_id": "ga-061",
+      "left_id": "ga-061-doc-heading-19",
+      "right_id": "ga-061-doc-heading-20",
+      "left_text_sha256": "5e60374045b4acee3e2845f9d4d483e557173f0ff46f35f797cb4a65b944e5a4",
+      "right_text_sha256": "8930149f9f039d99812ed69f028ff0dd8c14adf92f0feab4628a7755c683eb25",
+      "right_original_title": "M ,Ö",
+      "end_codepoint": 73,
+      "restore_right_title": false,
+      "right_title": "DAS WESEN DER EWIGKEIT UND DIE NATUR DER MENSCHENSEELE IM LICHTE DER GEISTESWISSENSCHAFT — Berlin, 21. März 1912 (Fortsetzung)",
+      "evidence": "Falsche EPUB-Überschrift aus OCR einer Druckseitenzahl; folgende Prosawörter setzen den vorigen Satz fort. Originale OCR-Lesarten und Worttrennungszeichen bleiben erhalten."
+    },
+    {
+      "work_id": "ga-079",
+      "left_id": "ga-079-doc-heading-6",
+      "right_id": "ga-079-doc-heading-7",
+      "left_text_sha256": "ef1044cb30a1976d1abf202f100009ae86e0b604b204845a05501cb88e6c1faa",
+      "right_text_sha256": "1594f8482bf175663e643271424982dcea69453b2814bf16473ff25bb5afacbc",
+      "right_original_title": "1 ' *~* \\, , \\ 1 . * • . • 1 • . 1 - TOT .1.1,\" J 1",
+      "end_codepoint": 73,
+      "restore_right_title": false,
+      "right_title": "DER MENSCH IM LICHTE DER ANTHROPOSOPHIE — Kristiania (Oslo), 29. November 1921 (Fortsetzung)",
+      "evidence": "Falsche EPUB-Überschrift aus OCR einer Druckseitenzahl; folgende Prosawörter setzen den vorigen Satz fort. Originale OCR-Lesarten und Worttrennungszeichen bleiben erhalten."
+    },
+    {
+      "work_id": "ga-084",
+      "left_id": "ga-084-doc-heading-11",
+      "right_id": "ga-084-doc-heading-12",
+      "left_text_sha256": "0587bd9efc3dd9bc30cfaada3475e382e6bb369262f8eea38d93b2e2b1d99ae7",
+      "right_text_sha256": "8a022bc131fadd9285bc412174c075d2ce230b931933c701c6c09a028f2dfdaa",
+      "right_original_title": "I2O",
+      "end_codepoint": 100,
+      "restore_right_title": false,
+      "right_title": "DIE PHYSISCHE WELT (Fortsetzung)",
+      "evidence": "Falsche EPUB-Überschrift aus OCR einer Druckseitenzahl; folgende Prosawörter setzen den vorigen Satz fort. Originale OCR-Lesarten und Worttrennungszeichen bleiben erhalten."
+    }
+  ]
+}

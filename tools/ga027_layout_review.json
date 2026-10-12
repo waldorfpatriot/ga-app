@@ -1,0 +1,4117 @@
+{
+  "work_id": "ga-027",
+  "source_epub_sha256": "fa7122ad236473714f2d44739b0cabfcd354a4b64c49d3faacae7d21c60f3528",
+  "source_sha256": "2a35a9a61743bdef3179d739e7dbe6bee98f35834f42b304faa067dbffc00ca2",
+  "method": "All retained body facsimile pages7–141 visually reviewed. True prose paragraph starts are printed indentation or first text after standalone heading; page seams and sentence ends never imply paragraph starts. Source spelling and existing OCR words retained. Exact six physical word divisions and correction-table column order are separately evidenced.",
+  "passages": {
+    "ga-027-source-heading-1": {
+      "input_sha256": "84cec21b697a86ef56b64a6483ebb0511804d63e52beab8403fb1a125b018c99",
+      "source_text_sha256": "559e974520362236b2ffad7a9617499559f1adbaf4c5515917f8927e97a23e40",
+      "title": "WAHRE MENSCHENWESEN-ERKENNTNIS ALS GRUNDLAGE MEDIZINISCHER KUNST",
+      "source_pages": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "starts": [
+        {
+          "page": 7,
+          "source_line": 0,
+          "anchor": "In dieser Schrift wird auf neue Möglichkeiten für das",
+          "source_line_text": "In dieser Schrift wird auf neue Möglichkeiten für das",
+          "start_codepoint": 0,
+          "kind": "prose"
+        },
+        {
+          "page": 7,
+          "source_line": 4,
+          "anchor": "Nicht um eine Opposition gegen die mit den anerkannten wissenschaftlichen",
+          "source_line_text": "Nicht um eine Opposition gegen die mit den anerkannten wissenschaftlichen Methoden der Gegenwart arbeitende",
+          "start_codepoint": 300,
+          "kind": "prose"
+        },
+        {
+          "page": 7,
+          "source_line": 9,
+          "anchor": "Allein wir fügen zu dem, was man mit den heute anerkannten",
+          "source_line_text": "Allein wir fügen zu dem, was man mit den heute anerkannten wissenschaftlichen Methoden über den Menschen",
+          "start_codepoint": 652,
+          "kind": "prose"
+        },
+        {
+          "page": 7,
+          "source_line": 14,
+          "anchor": "Eine Einwendung der anerkannten Medizin kann im",
+          "source_line_text": "Eine Einwendung der anerkannten Medizin kann im",
+          "start_codepoint": 989,
+          "kind": "prose"
+        },
+        {
+          "page": 8,
+          "source_line": 0,
+          "anchor": "Die Erweiterung der Welt- und Menschenerkenntnis sehen wir in der von",
+          "source_line_text": "Die Erweiterung der Welt- und Menschenerkenntnis sehen wir in der von Rudolf Steiner begründeten Anthroposophie. Sie fügt zu der Erkenntnis des physischen Menschen,",
+          "start_codepoint": 1360,
+          "kind": "prose"
+        },
+        {
+          "page": 8,
+          "source_line": 8,
+          "anchor": "Die Anthroposophie bildet, bevor sie über das Geistige",
+          "source_line_text": "Die Anthroposophie bildet, bevor sie über das Geistige",
+          "start_codepoint": 1933,
+          "kind": "prose"
+        },
+        {
+          "page": 8,
+          "source_line": 19,
+          "anchor": "Aber auch durch das Denken, insofern dieses bei der",
+          "source_line_text": "Aber auch durch das Denken, insofern dieses bei der",
+          "start_codepoint": 2523,
+          "kind": "prose"
+        },
+        {
+          "page": 8,
+          "source_line": 26,
+          "anchor": "Das aber wird sogleich anders, wenn man nicht bei dem",
+          "source_line_text": "Das aber wird sogleich anders, wenn man nicht bei dem",
+          "start_codepoint": 2944,
+          "kind": "prose"
+        },
+        {
+          "page": 9,
+          "source_line": 18,
+          "anchor": "Es liegt nahe, den Einwand zu erheben, daß jemand, der",
+          "source_line_text": "Es liegt nahe, den Einwand zu erheben, daß jemand, der",
+          "start_codepoint": 4107,
+          "kind": "prose"
+        },
+        {
+          "page": 10,
+          "source_line": 3,
+          "anchor": "Im Verfolge dieses Übens kommt man zu einer Verstärkung der Denkkraft, von",
+          "source_line_text": "Im Verfolge dieses Übens kommt man zu einer Verstärkung der Denkkraft, von der man vorher keine Ahnung",
+          "start_codepoint": 4838,
+          "kind": "prose"
+        },
+        {
+          "page": 10,
+          "source_line": 12,
+          "anchor": "Was man jetzt in der verstärkten Denkkraft wahrnimmt,",
+          "source_line_text": "Was man jetzt in der verstärkten Denkkraft wahrnimmt,",
+          "start_codepoint": 5378,
+          "kind": "prose"
+        },
+        {
+          "page": 10,
+          "source_line": 16,
+          "anchor": "Indem der Mensch in dieser Welt wahrnehmen lernt, wie",
+          "source_line_text": "Indem der Mensch in dieser Welt wahrnehmen lernt, wie",
+          "start_codepoint": 5726,
+          "kind": "prose"
+        },
+        {
+          "page": 11,
+          "source_line": 2,
+          "anchor": "In der Anthroposophie wird die durch Übung erlangte",
+          "source_line_text": "In der Anthroposophie wird die durch Übung erlangte",
+          "start_codepoint": 6459,
+          "kind": "prose"
+        },
+        {
+          "page": 11,
+          "source_line": 12,
+          "anchor": "Innerhalb dieser Ätherwelt ist eine neben der physischen",
+          "source_line_text": "Innerhalb dieser Ätherwelt ist eine neben der physischen",
+          "start_codepoint": 7402,
+          "kind": "prose"
+        },
+        {
+          "page": 11,
+          "source_line": 14,
+          "anchor": "Diese ätherische Leiblichkeit ist etwas, das sich ihrem",
+          "source_line_text": "Diese ätherische Leiblichkeit ist etwas, das sich ihrem",
+          "start_codepoint": 7533,
+          "kind": "prose"
+        },
+        {
+          "page": 11,
+          "source_line": 17,
+          "anchor": "Die Pflanzenwelt ist auf der Erde dadurch möglich, daß",
+          "source_line_text": "Die Pflanzenwelt ist auf der Erde dadurch möglich, daß",
+          "start_codepoint": 7756,
+          "kind": "prose"
+        },
+        {
+          "page": 12,
+          "source_line": 3,
+          "anchor": "Und so ist es mit Bezug auf den Ätherleib des Menschen.",
+          "source_line_text": "Und so ist es mit Bezug auf den Ätherleib des Menschen.",
+          "start_codepoint": 8311,
+          "kind": "prose"
+        },
+        {
+          "page": 12,
+          "source_line": 8,
+          "anchor": "Diese im Ätherleibe wirksamen Kräfte betätigen sich im",
+          "source_line_text": "Diese im Ätherleibe wirksamen Kräfte betätigen sich im",
+          "start_codepoint": 8647,
+          "kind": "prose"
+        },
+        {
+          "page": 12,
+          "source_line": 14,
+          "anchor": "Es ist von der allergrößten Bedeutung zu wissen, daß",
+          "source_line_text": "Es ist von der allergrößten Bedeutung zu wissen, daß",
+          "start_codepoint": 9057,
+          "kind": "prose"
+        },
+        {
+          "page": 12,
+          "source_line": 18,
+          "anchor": "Und diese Denkkraft ist nur ein Teil der im Ätherischen",
+          "source_line_text": "Und diese Denkkraft ist nur ein Teil der im Ätherischen",
+          "start_codepoint": 9372,
+          "kind": "prose"
+        },
+        {
+          "page": 13,
+          "source_line": 2,
+          "anchor": "So offenbart sich der imaginativen geistigen Anschauung",
+          "source_line_text": "So offenbart sich der imaginativen geistigen Anschauung",
+          "start_codepoint": 9837,
+          "kind": "prose"
+        },
+        {
+          "page": 13,
+          "source_line": 5,
+          "anchor": "Verfolgt man nun das Substantielle der Erdenstoffe in",
+          "source_line_text": "Verfolgt man nun das Substantielle der Erdenstoffe in",
+          "start_codepoint": 10042,
+          "kind": "prose"
+        },
+        {
+          "page": 13,
+          "source_line": 11,
+          "anchor": "So aufsteigen zu der ätherisch-lebendigen Wesenheit des",
+          "source_line_text": "So aufsteigen zu der ätherisch-lebendigen Wesenheit des",
+          "start_codepoint": 10405,
+          "kind": "prose"
+        },
+        {
+          "page": 13,
+          "source_line": 21,
+          "anchor": "Die Übungen, die ein höheres Wahrnehmen herbeiführen, können fortgesetzt",
+          "source_line_text": "Die Übungen, die ein höheres Wahrnehmen herbeiführen, können fortgesetzt werden. Man kann, wie man eine",
+          "start_codepoint": 11211,
+          "kind": "prose"
+        },
+        {
+          "page": 14,
+          "source_line": 9,
+          "anchor": "Man hat durch die imaginative Erkenntnis ein zweites",
+          "source_line_text": "Man hat durch die imaginative Erkenntnis ein zweites",
+          "start_codepoint": 12058,
+          "kind": "prose"
+        },
+        {
+          "page": 15,
+          "source_line": 7,
+          "anchor": "Auch in diesen astralischen Leib muß die Erdenstofflichkeit einströmen.",
+          "source_line_text": "Auch in diesen astralischen Leib muß die Erdenstofflichkeit einströmen. Sie entfremdet sich damit weiter ihrer physischen Wesenheit. - Wie der Mensch seinen ätherischen",
+          "start_codepoint": 13457,
+          "kind": "prose"
+        },
+        {
+          "page": 15,
+          "source_line": 10,
+          "anchor": "Die den Menschen über die Tierwelt hinaushebende,",
+          "source_line_text": "Die den Menschen über die Tierwelt hinaushebende,",
+          "start_codepoint": 13716,
+          "kind": "prose"
+        },
+        {
+          "page": 15,
+          "source_line": 19,
+          "anchor": "Man gelangt dadurch zur Anerkennung des vierten Gliedes der menschlichen",
+          "source_line_text": "Man gelangt dadurch zur Anerkennung des vierten Gliedes der menschlichen Wesenheit, zum eigentlichen «Ich».",
+          "start_codepoint": 14494,
+          "kind": "prose"
+        },
+        {
+          "page": 16,
+          "source_line": 4,
+          "anchor": "Was man in dieser Art als «astralischen Leib» und «Ich»",
+          "source_line_text": "Was man in dieser Art als «astralischen Leib» und «Ich»",
+          "start_codepoint": 14947,
+          "kind": "prose"
+        },
+        {
+          "page": 16,
+          "source_line": 11,
+          "anchor": "Im Schlafe sind in der physischen und ätherischen Welt",
+          "source_line_text": "Im Schlafe sind in der physischen und ätherischen Welt",
+          "start_codepoint": 15396,
+          "kind": "prose"
+        },
+        {
+          "page": 16,
+          "source_line": 18,
+          "anchor": "Nun zeigen aber Inspiration und Intuition noch etwas",
+          "source_line_text": "Nun zeigen aber Inspiration und Intuition noch etwas",
+          "start_codepoint": 15969,
+          "kind": "prose"
+        },
+        {
+          "page": 17,
+          "source_line": 9,
+          "anchor": "Der Geist entfaltet sich innerhalb der Menschenwesenheit nicht auf der",
+          "source_line_text": "Der Geist entfaltet sich innerhalb der Menschenwesenheit nicht auf der Grundlage aufbauender Stofftätigkeit,",
+          "start_codepoint": 16995,
+          "kind": "prose"
+        },
+        {
+          "page": 17,
+          "source_line": 12,
+          "anchor": "Schon die Entstehung des Denkens innerhalb des ätherischen Leibes beruht",
+          "source_line_text": "Schon die Entstehung des Denkens innerhalb des ätherischen Leibes beruht nicht auf einer Fortsetzung des ätherischen Wesens, sondern auf einem Abbau desselben. Das",
+          "start_codepoint": 17230,
+          "kind": "prose"
+        },
+        {
+          "page": 17,
+          "source_line": 15,
+          "anchor": "In dem bewußten Denken lösen sich aus der leiblichen",
+          "source_line_text": "In dem bewußten Denken lösen sich aus der leiblichen",
+          "start_codepoint": 17596,
+          "kind": "prose"
+        },
+        {
+          "page": 17,
+          "source_line": 18,
+          "anchor": "Sieht man nun auf der Grundlage einer solchen Menschenerkenntnis auf das",
+          "source_line_text": "Sieht man nun auf der Grundlage einer solchen Menschenerkenntnis auf das Menschenwesen hin, so wird man",
+          "start_codepoint": 17742,
+          "kind": "prose"
+        },
+        {
+          "page": 18,
+          "source_line": 4,
+          "anchor": "Wie man den gesunden Menschen nur durchschauen",
+          "source_line_text": "Wie man den gesunden Menschen nur durchschauen",
+          "start_codepoint": 18191,
+          "kind": "prose"
+        },
+        {
+          "page": 18,
+          "source_line": 19,
+          "anchor": "Der Mensch ist, was er ist, durch Leib, Ätherleib, Seele",
+          "source_line_text": "Der Mensch ist, was er ist, durch Leib, Ätherleib, Seele",
+          "start_codepoint": 19342,
+          "kind": "prose"
+        },
+        {
+          "page": 19,
+          "source_line": 2,
+          "anchor": "Auf eine medizinische Anschauung, die auf solche",
+          "source_line_text": "Auf eine medizinische Anschauung, die auf solche",
+          "start_codepoint": 19683,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-2": {
+      "input_sha256": "4aa0c7c3d3b62326826ae74212664d7c35726384722a6d4fedfd9956d95b7d9a",
+      "source_text_sha256": "e65459562d5075d4b1db694141761bfd5bdab6f2d86e9948429a0df54e4918fd",
+      "title": "WARUM ERKRANKT DER MENSCH?",
+      "source_pages": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "starts": [
+        {
+          "page": 20,
+          "source_line": 0,
+          "anchor": "II",
+          "source_line_text": "II",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 20,
+          "source_line": 1,
+          "anchor": "Wer über die Tatsache nachdenkt, daß der Mensch krank",
+          "source_line_text": "Wer über die Tatsache nachdenkt, daß der Mensch krank",
+          "start_codepoint": 3,
+          "kind": "prose"
+        },
+        {
+          "page": 20,
+          "source_line": 8,
+          "anchor": "Naturprozesse kennt man zunächst nur durch die Beobachtung der",
+          "source_line_text": "Naturprozesse kennt man zunächst nur durch die Beobachtung der außermenschlichen Welt und durch die Beobachtung des Menschen nur insofern, als man diese genau",
+          "start_codepoint": 395,
+          "kind": "prose"
+        },
+        {
+          "page": 20,
+          "source_line": 12,
+          "anchor": "Es entsteht da aber die von diesem Gesichtspunkte aus",
+          "source_line_text": "Es entsteht da aber die von diesem Gesichtspunkte aus",
+          "start_codepoint": 812,
+          "kind": "prose"
+        },
+        {
+          "page": 20,
+          "source_line": 14,
+          "anchor": "Der gesunde menschliche Organismus scheint als ein",
+          "source_line_text": "Der gesunde menschliche Organismus scheint als ein",
+          "start_codepoint": 1027,
+          "kind": "prose"
+        },
+        {
+          "page": 20,
+          "source_line": 18,
+          "anchor": "Man stellt sich wohl vor, daß das Geistige im Menschen",
+          "source_line_text": "Man stellt sich wohl vor, daß das Geistige im Menschen",
+          "start_codepoint": 1224,
+          "kind": "prose"
+        },
+        {
+          "page": 21,
+          "source_line": 5,
+          "anchor": "Man sehe dagegen, wie das bewußte Geistesleben verschärft wird, wenn ein",
+          "source_line_text": "Man sehe dagegen, wie das bewußte Geistesleben verschärft wird, wenn ein Organ erkrankt. Schmerz stellt sich",
+          "start_codepoint": 1755,
+          "kind": "prose"
+        },
+        {
+          "page": 21,
+          "source_line": 11,
+          "anchor": "Man beachte den Übergang von der schmerzbegleiteten",
+          "source_line_text": "Man beachte den Übergang von der schmerzbegleiteten",
+          "start_codepoint": 2183,
+          "kind": "prose"
+        },
+        {
+          "page": 21,
+          "source_line": 22,
+          "anchor": "Die Vorgänge des gesunden Fühlens und des kranken",
+          "source_line_text": "Die Vorgänge des gesunden Fühlens und des kranken Er-",
+          "start_codepoint": 3053,
+          "kind": "prose"
+        },
+        {
+          "page": 22,
+          "source_line": 11,
+          "anchor": "Aber auch das Denken hat seine physische Grundlage",
+          "source_line_text": "Aber auch das Denken hat seine physische Grundlage",
+          "start_codepoint": 3873,
+          "kind": "prose"
+        },
+        {
+          "page": 23,
+          "source_line": 2,
+          "anchor": "Wieder stellen sich die Vorgänge des gesunden Bewegens",
+          "source_line_text": "Wieder stellen sich die Vorgänge des gesunden Bewegens",
+          "start_codepoint": 4925,
+          "kind": "prose"
+        },
+        {
+          "page": 23,
+          "source_line": 5,
+          "anchor": "Man muß in dem Wesen des Krankseins eine intensive",
+          "source_line_text": "Man muß in dem Wesen des Krankseins eine intensive",
+          "start_codepoint": 5181,
+          "kind": "prose"
+        },
+        {
+          "page": 23,
+          "source_line": 14,
+          "anchor": "Eine gewisse Form des Krankseins tritt dann ein, wenn",
+          "source_line_text": "Eine gewisse Form des Krankseins tritt dann ein, wenn",
+          "start_codepoint": 5944,
+          "kind": "prose"
+        },
+        {
+          "page": 23,
+          "source_line": 18,
+          "anchor": "In der Geist- und Seelenfähigkeit hat man also die Ursachen des Krankseins",
+          "source_line_text": "In der Geist- und Seelenfähigkeit hat man also die Ursachen des Krankseins zu suchen. Und das Heilen muß in",
+          "start_codepoint": 6142,
+          "kind": "prose"
+        },
+        {
+          "page": 23,
+          "source_line": 20,
+          "anchor": "Das ist die eine Art des Krankseins, Es gibt noch eine",
+          "source_line_text": "Das ist die eine Art des Krankseins, Es gibt noch eine",
+          "start_codepoint": 6337,
+          "kind": "prose"
+        },
+        {
+          "page": 24,
+          "source_line": 15,
+          "anchor": "* Durch ein Vergleichen dessen, was im ersten Kapitel gesagt ist, mit",
+          "source_line_text": "* Durch ein Vergleichen dessen, was im ersten Kapitel gesagt ist, mit",
+          "start_codepoint": 7364,
+          "kind": "note"
+        }
+      ]
+    },
+    "ga-027-source-heading-3": {
+      "input_sha256": "4208b7c1dba29ff4dc477e55bf25cffd2af39b3c1ec875bdfb10b46a8957cb10",
+      "source_text_sha256": "c35e474ef6a7693bc10f552b95285a015dab87a7e91ba799cbdf654a5b318583",
+      "title": "DIE ERSCHEINUNGEN DES LEBENS",
+      "source_pages": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "starts": [
+        {
+          "page": 25,
+          "source_line": 0,
+          "anchor": "III",
+          "source_line_text": "III",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 25,
+          "source_line": 1,
+          "anchor": "Man kommt nicht zum Verständnis des gesunden und kranken menschlichen",
+          "source_line_text": "Man kommt nicht zum Verständnis des gesunden und kranken menschlichen Organismus, wenn man sich vorstellt,",
+          "start_codepoint": 4,
+          "kind": "prose"
+        },
+        {
+          "page": 25,
+          "source_line": 7,
+          "anchor": "Die Täuschung, als ob im Organismus die Stoffe der",
+          "source_line_text": "Die Täuschung, als ob im Organismus die Stoffe der",
+          "start_codepoint": 421,
+          "kind": "prose"
+        },
+        {
+          "page": 25,
+          "source_line": 17,
+          "anchor": "Man empfindet heute keine Notwendigkeit zu fragen,",
+          "source_line_text": "Man empfindet heute keine Notwendigkeit zu fragen,",
+          "start_codepoint": 933,
+          "kind": "prose"
+        },
+        {
+          "page": 25,
+          "source_line": 19,
+          "anchor": "Man fragt nicht: was macht das als Wasserstoff Erscheinende im Organismus",
+          "source_line_text": "Man fragt nicht: was macht das als Wasserstoff Erscheinende im Organismus durch?",
+          "start_codepoint": 1115,
+          "kind": "prose"
+        },
+        {
+          "page": 25,
+          "source_line": 20,
+          "anchor": "Man wird sogleich gedrängt, wenn man diese Frage aufwirft, die",
+          "source_line_text": "Man wird sogleich gedrängt, wenn man diese Frage aufwirft, die Aufmerksamkeit auf den Unterschied zwischen",
+          "start_codepoint": 1196,
+          "kind": "prose"
+        },
+        {
+          "page": 26,
+          "source_line": 7,
+          "anchor": "Es hat vor fast einem halben Jahrhundert der bedeutende",
+          "source_line_text": "Es hat vor fast einem halben Jahrhundert der bedeutende",
+          "start_codepoint": 1888,
+          "kind": "prose"
+        },
+        {
+          "page": 26,
+          "source_line": 18,
+          "anchor": "Er gab sich mit dieser Ansicht einer Illusion hin. Er",
+          "source_line_text": "Er gab sich mit dieser Ansicht einer Illusion hin. Er",
+          "start_codepoint": 2591,
+          "kind": "prose"
+        },
+        {
+          "page": 27,
+          "source_line": 0,
+          "anchor": "Die Beobachtung zeigt doch, daß die Lebenserscheinungen eine ganz andere",
+          "source_line_text": "Die Beobachtung zeigt doch, daß die Lebenserscheinungen eine ganz andere Orientierung haben als die im Leblosen verlaufenden. Für die letzteren wird man sagen können: sie zeigen sich von Kräften beherrscht, die vom Wesen",
+          "start_codepoint": 3100,
+          "kind": "prose"
+        },
+        {
+          "page": 27,
+          "source_line": 6,
+          "anchor": "Nun hat ein jeglicher Erdenstoff und auch Erdenvorgang seine",
+          "source_line_text": "Nun hat ein jeglicher Erdenstoff und auch Erdenvorgang seine ausstrahlenden Kräfte von der Erde und in Gemeinschaft mit ihr. Er ist ein solcher Stoff, wie ihn die Chemie betrachtet, nur als ein Bestandteil des Erdenkörpers.",
+          "start_codepoint": 3655,
+          "kind": "prose"
+        },
+        {
+          "page": 27,
+          "source_line": 14,
+          "anchor": "Von allen Seiten wirken sie heran, diese Kräfte, wie nach",
+          "source_line_text": "Von allen Seiten wirken sie heran, diese Kräfte, wie nach",
+          "start_codepoint": 4364,
+          "kind": "prose"
+        },
+        {
+          "page": 28,
+          "source_line": 14,
+          "anchor": "Insofern der Mensch ein lebendes Wesen ist, waltet dieses Ätherische auch",
+          "source_line_text": "Insofern der Mensch ein lebendes Wesen ist, waltet dieses Ätherische auch in ihm. Aber es tritt doch auch in Bezug",
+          "start_codepoint": 5989,
+          "kind": "prose"
+        },
+        {
+          "page": 29,
+          "source_line": 12,
+          "anchor": "Man wird deshalb sagen müssen, der Mensch trägt das",
+          "source_line_text": "Man wird deshalb sagen müssen, der Mensch trägt das",
+          "start_codepoint": 7204,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-4": {
+      "input_sha256": "5b894ff00c44903c0b782cef8494f5832f106ff96cf60c7e4ccdf6c36d359955",
+      "source_text_sha256": "bcaf2e4a335913cf8195b8209f210192e4ed99dadadd3c89c67f582f8ba4b505",
+      "title": "VON DEM WESEN DES EMPFINDENDEN ORGANISMUS",
+      "source_pages": [
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "starts": [
+        {
+          "page": 30,
+          "source_line": 0,
+          "anchor": "IV",
+          "source_line_text": "IV",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 30,
+          "source_line": 1,
+          "anchor": "Die Pflanzengestalt und Pflanzenorganisation ist ein ausschließliches",
+          "source_line_text": "Die Pflanzengestalt und Pflanzenorganisation ist ein ausschließliches Ergebnis der beiden Kräftebereiche: des aus",
+          "start_codepoint": 3,
+          "kind": "prose"
+        },
+        {
+          "page": 30,
+          "source_line": 11,
+          "anchor": "Man kann sagen, den Stoffen, welche die Pflanze aufnimmt, bleibt es",
+          "source_line_text": "Man kann sagen, den Stoffen, welche die Pflanze aufnimmt, bleibt es dadurch, daß sie in den Bereich der auf die",
+          "start_codepoint": 734,
+          "kind": "prose"
+        },
+        {
+          "page": 30,
+          "source_line": 17,
+          "anchor": "Aber es ist der Pflanzensubstanz auch als lebende gleichgültig, wie ihre",
+          "source_line_text": "Aber es ist der Pflanzensubstanz auch als lebende gleichgültig, wie ihre Glieder lagen, liegen und liegen werden in",
+          "start_codepoint": 1100,
+          "kind": "prose"
+        },
+        {
+          "page": 31,
+          "source_line": 3,
+          "anchor": "Bei der Pflanze ergibt sich durch das gekennzeichnete",
+          "source_line_text": "Bei der Pflanze ergibt sich durch das gekennzeichnete",
+          "start_codepoint": 1711,
+          "kind": "prose"
+        },
+        {
+          "page": 31,
+          "source_line": 14,
+          "anchor": "Beim Tiere wird etwas von dem Substantiellen ganz aus",
+          "source_line_text": "Beim Tiere wird etwas von dem Substantiellen ganz aus",
+          "start_codepoint": 2450,
+          "kind": "prose"
+        },
+        {
+          "page": 31,
+          "source_line": 22,
+          "anchor": "Man hat im tierischen Organismus einen Kräftebereich,",
+          "source_line_text": "Man hat im tierischen Organismus einen Kräftebereich,",
+          "start_codepoint": 3056,
+          "kind": "prose"
+        },
+        {
+          "page": 32,
+          "source_line": 11,
+          "anchor": "Das «Astralische» ist im tierischen Organismus eine selbständige, in sich",
+          "source_line_text": "Das «Astralische» ist im tierischen Organismus eine selbständige, in sich abgeschlossene Gliederung wie der ätherische und der physische Organismus. Man kann deshalb",
+          "start_codepoint": 3884,
+          "kind": "prose"
+        },
+        {
+          "page": 32,
+          "source_line": 13,
+          "anchor": "Man kann die tierische Organisation nur verstehen, wenn",
+          "source_line_text": "Man kann die tierische Organisation nur verstehen, wenn",
+          "start_codepoint": 4114,
+          "kind": "prose"
+        },
+        {
+          "page": 32,
+          "source_line": 19,
+          "anchor": "Der tierische physische Organismus kann zwar als leblos",
+          "source_line_text": "Der tierische physische Organismus kann zwar als leblos",
+          "start_codepoint": 4512,
+          "kind": "prose"
+        },
+        {
+          "page": 33,
+          "source_line": 5,
+          "anchor": "Der tierische ätherische Organismus lebt wie der pflanzliche, aber nicht",
+          "source_line_text": "Der tierische ätherische Organismus lebt wie der pflanzliche, aber nicht in der gleichen Art. Das Leben ist durch die",
+          "start_codepoint": 5153,
+          "kind": "prose"
+        },
+        {
+          "page": 33,
+          "source_line": 15,
+          "anchor": "Beides, Schlafen und Wachen, darf nicht über eine gewisse Grenze der",
+          "source_line_text": "Beides, Schlafen und Wachen, darf nicht über eine gewisse Grenze der Wirksamkeit hinausgehen. Geschähe das",
+          "start_codepoint": 5850,
+          "kind": "prose"
+        },
+        {
+          "page": 34,
+          "source_line": 0,
+          "anchor": "In alle drei Organismen, den physischen, ätherischen,",
+          "source_line_text": "In alle drei Organismen, den physischen, ätherischen,",
+          "start_codepoint": 6420,
+          "kind": "prose"
+        },
+        {
+          "page": 34,
+          "source_line": 7,
+          "anchor": "Der ätherische Organismus bildet Organe, die durch die",
+          "source_line_text": "Der ätherische Organismus bildet Organe, die durch die",
+          "start_codepoint": 6938,
+          "kind": "prose"
+        },
+        {
+          "page": 34,
+          "source_line": 12,
+          "anchor": "Der astralische Organismus bildet Organe, die das vegetative Leben sich",
+          "source_line_text": "Der astralische Organismus bildet Organe, die das vegetative Leben sich entfremden. Sie können nur bestehen,",
+          "start_codepoint": 7210,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-5": {
+      "input_sha256": "ea730d02805b40d972ac4126b17b3b4ad994f12baa0ffe6d806fbe4c384363ed",
+      "source_text_sha256": "87f9f5b61359aa71e0e79696be49b42c67f056fb5c5f691dde5aa20069477121",
+      "title": "PFLANZE, TIER, MENSCH",
+      "source_pages": [
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "starts": [
+        {
+          "page": 35,
+          "source_line": 0,
+          "anchor": "V",
+          "source_line_text": "V",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 35,
+          "source_line": 1,
+          "anchor": "In dem astralischen Leibe ersteht die tierische Gestaltung",
+          "source_line_text": "In dem astralischen Leibe ersteht die tierische Gestaltung",
+          "start_codepoint": 2,
+          "kind": "prose"
+        },
+        {
+          "page": 35,
+          "source_line": 6,
+          "anchor": "Beim Menschen wird sie nicht zu Ende geführt. Sie wird",
+          "source_line_text": "Beim Menschen wird sie nicht zu Ende geführt. Sie wird",
+          "start_codepoint": 308,
+          "kind": "prose"
+        },
+        {
+          "page": 35,
+          "source_line": 8,
+          "anchor": "In der Pflanze ist die Substanz vorhanden, die durch die",
+          "source_line_text": "In der Pflanze ist die Substanz vorhanden, die durch die",
+          "start_codepoint": 422,
+          "kind": "prose"
+        },
+        {
+          "page": 35,
+          "source_line": 17,
+          "anchor": "Beim Tiere entsteht die empfindende Substanz aus der",
+          "source_line_text": "Beim Tiere entsteht die empfindende Substanz aus der",
+          "start_codepoint": 987,
+          "kind": "prose"
+        },
+        {
+          "page": 35,
+          "source_line": 22,
+          "anchor": "Beim Menschen wird auch dieser Vorgang im Flusse",
+          "source_line_text": "Beim Menschen wird auch dieser Vorgang im Flusse",
+          "start_codepoint": 1360,
+          "kind": "prose"
+        },
+        {
+          "page": 36,
+          "source_line": 6,
+          "anchor": "Man kann nun diese Gestaltung nach ihrer Substanzseite",
+          "source_line_text": "Man kann nun diese Gestaltung nach ihrer Substanzseite",
+          "start_codepoint": 1892,
+          "kind": "prose"
+        },
+        {
+          "page": 37,
+          "source_line": 1,
+          "anchor": "Beim Tier ist eine zweifache Absonderung und auch eine",
+          "source_line_text": "Beim Tier ist eine zweifache Absonderung und auch eine",
+          "start_codepoint": 3291,
+          "kind": "prose"
+        },
+        {
+          "page": 37,
+          "source_line": 8,
+          "anchor": "Aber es kommt im Organismus zu einer Wechselwirkung",
+          "source_line_text": "Aber es kommt im Organismus zu einer Wechselwirkung",
+          "start_codepoint": 3718,
+          "kind": "prose"
+        },
+        {
+          "page": 37,
+          "source_line": 15,
+          "anchor": "Beim Menschen wird aus der empfindenden Substanz",
+          "source_line_text": "Beim Menschen wird aus der empfindenden Substanz",
+          "start_codepoint": 4284,
+          "kind": "prose"
+        },
+        {
+          "page": 37,
+          "source_line": 20,
+          "anchor": "Im wachenden Zustande des tierischen Organismus steht",
+          "source_line_text": "Im wachenden Zustande des tierischen Organismus steht",
+          "start_codepoint": 4645,
+          "kind": "prose"
+        },
+        {
+          "page": 38,
+          "source_line": 7,
+          "anchor": "Man kann also beim schlafenden Menschen nicht von",
+          "source_line_text": "Man kann also beim schlafenden Menschen nicht von",
+          "start_codepoint": 5353,
+          "kind": "prose"
+        },
+        {
+          "page": 39,
+          "source_line": 1,
+          "anchor": "Wenn man die empfindende Substanz den Rest des astralischen Leibes und die",
+          "source_line_text": "Wenn man die empfindende Substanz den Rest des astralischen Leibes und die unter dem Einfluß der Ich-Organisation entstandene deren Rest nennt, so kann man sagen:",
+          "start_codepoint": 6660,
+          "kind": "prose"
+        },
+        {
+          "page": 39,
+          "source_line": 3,
+          "anchor": "Wachend lebt der Mensch in einer Betätigung, welche",
+          "source_line_text": "Wachend lebt der Mensch in einer Betätigung, welche",
+          "start_codepoint": 6972,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-6": {
+      "input_sha256": "3629db98f4bbe652daa1c615df70e3136d9be4e6f3ee6cda2d71663499682837",
+      "source_text_sha256": "11589077e6eb80dec22ed3fd24897728e2b08b7fa7987798eace53c38bd7a81d",
+      "title": "BLUT UND NERV",
+      "source_pages": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "starts": [
+        {
+          "page": 40,
+          "source_line": 0,
+          "anchor": "VI",
+          "source_line_text": "VI",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 40,
+          "source_line": 1,
+          "anchor": "In besonders eindrucksvoller Art finden sich die Tätigkeiten der einzelnen",
+          "source_line_text": "In besonders eindrucksvoller Art finden sich die Tätigkeiten der einzelnen menschlichen Organismen in bezug auf",
+          "start_codepoint": 3,
+          "kind": "prose"
+        },
+        {
+          "page": 40,
+          "source_line": 21,
+          "anchor": "Im Nervensystem liegt das Entgegengesetzte vor. Im",
+          "source_line_text": "Im Nervensystem liegt das Entgegengesetzte vor. Im",
+          "start_codepoint": 1459,
+          "kind": "prose"
+        },
+        {
+          "page": 41,
+          "source_line": 8,
+          "anchor": "Das Rückenmarks-Nervensystem mit allen seinen Verzweigungen ist dasjenige,",
+          "source_line_text": "Das Rückenmarks-Nervensystem mit allen seinen Verzweigungen ist dasjenige, in welches die astralische Organisation vorzüglich eingreift. Es ist daher der Träger dessen,",
+          "start_codepoint": 2076,
+          "kind": "prose"
+        },
+        {
+          "page": 41,
+          "source_line": 12,
+          "anchor": "Die eigentlichen Gehirnnerven sind diejenigen, die der",
+          "source_line_text": "Die eigentlichen Gehirnnerven sind diejenigen, die der",
+          "start_codepoint": 2364,
+          "kind": "prose"
+        },
+        {
+          "page": 41,
+          "source_line": 14,
+          "anchor": "Man sieht, im Bereiche des Gesamtorganismus entstehen",
+          "source_line_text": "Man sieht, im Bereiche des Gesamtorganismus entstehen",
+          "start_codepoint": 2536,
+          "kind": "prose"
+        },
+        {
+          "page": 42,
+          "source_line": 13,
+          "anchor": "Man wird das Gehirn des Menschen nur begreifen, wenn",
+          "source_line_text": "Man wird das Gehirn des Menschen nur begreifen, wenn",
+          "start_codepoint": 4103,
+          "kind": "prose"
+        },
+        {
+          "page": 43,
+          "source_line": 2,
+          "anchor": "Das Skelett ist das physische Bild der Ich-Organisation.",
+          "source_line_text": "Das Skelett ist das physische Bild der Ich-Organisation.",
+          "start_codepoint": 4913,
+          "kind": "prose"
+        },
+        {
+          "page": 43,
+          "source_line": 17,
+          "anchor": "Die Kohlensäure, die mit dem Atmungsprozeß nach außen gestoßen wird, ist",
+          "source_line_text": "Die Kohlensäure, die mit dem Atmungsprozeß nach außen gestoßen wird, ist innerhalb des Organismus noch lebende Substanz; sie wird von der in dem mittleren Nervensystem verankerten astralischen Tätigkeit ergriffen und",
+          "start_codepoint": 5973,
+          "kind": "prose"
+        },
+        {
+          "page": 44,
+          "source_line": 2,
+          "anchor": "Die aus den Nahrungssubstanzen entstehenden Stoffe:",
+          "source_line_text": "Die aus den Nahrungssubstanzen entstehenden Stoffe:",
+          "start_codepoint": 6562,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-7": {
+      "input_sha256": "aa77ce2de667eddd6b3575c44437871f04a021e19b1decbf7be055804f7ce106",
+      "source_text_sha256": "77f89a891bec9e99e139d4b3768dfd1080bee64128242d6e98a4fe06a7a23be4",
+      "title": "DAS WESEN DER HEILWIRKUNGEN",
+      "source_pages": [
+        45,
+        46,
+        47,
+        48
+      ],
+      "starts": [
+        {
+          "page": 45,
+          "source_line": 0,
+          "anchor": "VII",
+          "source_line_text": "VII",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 45,
+          "source_line": 1,
+          "anchor": "Die menschliche Gesamtorganisation ist nicht ein in sich abgeschlossenes",
+          "source_line_text": "Die menschliche Gesamtorganisation ist nicht ein in sich abgeschlossenes System von ineinandergreifenden Vorgängen.",
+          "start_codepoint": 4,
+          "kind": "prose"
+        },
+        {
+          "page": 45,
+          "source_line": 5,
+          "anchor": "In dem Nervengewebe zerfällt die Eiweißsubstanz. Aber",
+          "source_line_text": "In dem Nervengewebe zerfällt die Eiweißsubstanz. Aber",
+          "start_codepoint": 465,
+          "kind": "prose"
+        },
+        {
+          "page": 45,
+          "source_line": 13,
+          "anchor": "Es gibt in den Nerven zweierlei Vorgänge: das Zerfallen",
+          "source_line_text": "Es gibt in den Nerven zweierlei Vorgänge: das Zerfallen",
+          "start_codepoint": 1007,
+          "kind": "prose"
+        },
+        {
+          "page": 45,
+          "source_line": 16,
+          "anchor": "Dem Wesen nach angesehen sind diese Vorgänge fortdauernd den Organismus",
+          "source_line_text": "Dem Wesen nach angesehen sind diese Vorgänge fortdauernd den Organismus durchsetzende Krankheitsprozesse. Sie müssen durch ebenso fortwirkende Heilungsprozesse ausgeglichen werden.",
+          "start_codepoint": 1325,
+          "kind": "prose"
+        },
+        {
+          "page": 46,
+          "source_line": 0,
+          "anchor": "Dieser Ausgleich wird dadurch bewirkt, daß das Blut",
+          "source_line_text": "Dieser Ausgleich wird dadurch bewirkt, daß das Blut",
+          "start_codepoint": 1507,
+          "kind": "prose"
+        },
+        {
+          "page": 46,
+          "source_line": 4,
+          "anchor": "Das Blut hat in seiner Plasma-Substanz und in dem Faserstoff diejenigen",
+          "source_line_text": "Das Blut hat in seiner Plasma-Substanz und in dem Faserstoff diejenigen Kräfte, die dem Wachstum und dem",
+          "start_codepoint": 1772,
+          "kind": "prose"
+        },
+        {
+          "page": 46,
+          "source_line": 9,
+          "anchor": "Das Eisen erscheint bei der Untersuchung des Blutes so,",
+          "source_line_text": "Das Eisen erscheint bei der Untersuchung des Blutes so,",
+          "start_codepoint": 2229,
+          "kind": "prose"
+        },
+        {
+          "page": 46,
+          "source_line": 14,
+          "anchor": "Man hat es zu tun mit zwei Kräftesystemen. Das eine hat",
+          "source_line_text": "Man hat es zu tun mit zwei Kräftesystemen. Das eine hat",
+          "start_codepoint": 2696,
+          "kind": "prose"
+        },
+        {
+          "page": 47,
+          "source_line": 2,
+          "anchor": "Man kann in diesem Wechsel Verhältnis die Vorgänge des",
+          "source_line_text": "Man kann in diesem Wechsel Verhältnis die Vorgänge des",
+          "start_codepoint": 3360,
+          "kind": "prose"
+        },
+        {
+          "page": 47,
+          "source_line": 11,
+          "anchor": "Die Milch hat nur geringe Eisenmengen. Sie ist die Substanz, die als",
+          "source_line_text": "Die Milch hat nur geringe Eisenmengen. Sie ist die Substanz, die als solche in ihren \"Wirkungen am wenigsten",
+          "start_codepoint": 3946,
+          "kind": "prose"
+        },
+        {
+          "page": 47,
+          "source_line": 15,
+          "anchor": "Beim Heilmittel, das auf einen in der inneren Organisation auftretenden",
+          "source_line_text": "Beim Heilmittel, das auf einen in der inneren Organisation auftretenden kranken Zustand wirken soll, auch auf",
+          "start_codepoint": 4294,
+          "kind": "prose"
+        },
+        {
+          "page": 48,
+          "source_line": 3,
+          "anchor": "Weiter ist nun wichtig die Frage: wie ist die verstärkte",
+          "source_line_text": "Weiter ist nun wichtig die Frage: wie ist die verstärkte",
+          "start_codepoint": 5016,
+          "kind": "prose"
+        },
+        {
+          "page": 48,
+          "source_line": 13,
+          "anchor": "Verwendet man die mineralische Substanz, so wird man",
+          "source_line_text": "Verwendet man die mineralische Substanz, so wird man",
+          "start_codepoint": 5675,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-8": {
+      "input_sha256": "2de2ab95390c04e30262570acac5947b263c772e3ecd8e0aa9e2285d4060f16b",
+      "source_text_sha256": "b64498e9ff0bb04d21f7c1f44229a1be04d9191803a75c04f706e122af2e73b0",
+      "title": "VIII TäTIGKEITE N IM MENSCHLICHE N ORGANISMUS . DIABETES MELLITUS",
+      "source_pages": [
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "starts": [
+        {
+          "page": 49,
+          "source_line": 0,
+          "anchor": "Der menschliche Organismus entfaltet durch alle seine",
+          "source_line_text": "Der menschliche Organismus entfaltet durch alle seine",
+          "start_codepoint": 0,
+          "kind": "prose"
+        },
+        {
+          "page": 49,
+          "source_line": 7,
+          "anchor": "Die notwendige Nahrung des Menschen enthält z. B.",
+          "source_line_text": "Die notwendige Nahrung des Menschen enthält z. B.",
+          "start_codepoint": 416,
+          "kind": "prose"
+        },
+        {
+          "page": 49,
+          "source_line": 20,
+          "anchor": "Eiweiß und Fett werden vom Ptyalin nicht verändert.",
+          "source_line_text": "Eiweiß und Fett werden vom Ptyalin nicht verändert.",
+          "start_codepoint": 1438,
+          "kind": "prose"
+        },
+        {
+          "page": 50,
+          "source_line": 6,
+          "anchor": "Nun aber geht die Verwandlung der Stärke in Zucker",
+          "source_line_text": "Nun aber geht die Verwandlung der Stärke in Zucker",
+          "start_codepoint": 1997,
+          "kind": "prose"
+        },
+        {
+          "page": 50,
+          "source_line": 10,
+          "anchor": "Wenn die Umwandlung der Stärke durch das Ptyalin",
+          "source_line_text": "Wenn die Umwandlung der Stärke durch das Ptyalin",
+          "start_codepoint": 2233,
+          "kind": "prose"
+        },
+        {
+          "page": 50,
+          "source_line": 16,
+          "anchor": "Entsteht aus dem Stärkemehl durch den Magensaft",
+          "source_line_text": "Entsteht aus dem Stärkemehl durch den Magensaft",
+          "start_codepoint": 2703,
+          "kind": "prose"
+        },
+        {
+          "page": 51,
+          "source_line": 0,
+          "anchor": "In den uns unbewußten Regionen hat man es nun im",
+          "source_line_text": "In den uns unbewußten Regionen hat man es nun im",
+          "start_codepoint": 3118,
+          "kind": "prose"
+        },
+        {
+          "page": 51,
+          "source_line": 4,
+          "anchor": "Bewußt kann der Mensch nur sein durch dasjenige, was",
+          "source_line_text": "Bewußt kann der Mensch nur sein durch dasjenige, was",
+          "start_codepoint": 3328,
+          "kind": "prose"
+        },
+        {
+          "page": 51,
+          "source_line": 12,
+          "anchor": "Nun tritt der Zucker als Ausscheidungsprodukt auf bei",
+          "source_line_text": "Nun tritt der Zucker als Ausscheidungsprodukt auf bei",
+          "start_codepoint": 4013,
+          "kind": "prose"
+        },
+        {
+          "page": 51,
+          "source_line": 21,
+          "anchor": "Zucker ist aber auch im Blute vorhanden. Indem das",
+          "source_line_text": "Zucker ist aber auch im Blute vorhanden. Indem das",
+          "start_codepoint": 4704,
+          "kind": "prose"
+        },
+        {
+          "page": 52,
+          "source_line": 11,
+          "anchor": "Beim Gesunden kann der Zucker im Harn nur auftreten, wenn er zu reichlich,",
+          "source_line_text": "Beim Gesunden kann der Zucker im Harn nur auftreten, wenn er zu reichlich, als Zucker, genossen wird, oder",
+          "start_codepoint": 5423,
+          "kind": "prose"
+        },
+        {
+          "page": 52,
+          "source_line": 15,
+          "anchor": "Bei Diabetes mellitus liegt die Tatsache vor, daß die IchOrganisation beim",
+          "source_line_text": "Bei Diabetes mellitus liegt die Tatsache vor, daß die IchOrganisation beim Untertauchen in den astralischen und",
+          "start_codepoint": 5778,
+          "kind": "prose"
+        },
+        {
+          "page": 52,
+          "source_line": 20,
+          "anchor": "Es befördert alles die Zuckerkrankheit, was die Ich-Organisation aus der",
+          "source_line_text": "Es befördert alles die Zuckerkrankheit, was die Ich-Organisation aus der in die Körpertätigkeit eingreifenden",
+          "start_codepoint": 6160,
+          "kind": "prose"
+        },
+        {
+          "page": 53,
+          "source_line": 10,
+          "anchor": "Eine andere Begleiterscheinung sind die Furunkelbildungen bei Diabetikern.",
+          "source_line_text": "Eine andere Begleiterscheinung sind die Furunkelbildungen bei Diabetikern. Furunkelbildungen entstehen durch",
+          "start_codepoint": 7212,
+          "kind": "prose"
+        },
+        {
+          "page": 53,
+          "source_line": 14,
+          "anchor": "In alle diesem sieht man, wie ein Heilungsvorgang für",
+          "source_line_text": "In alle diesem sieht man, wie ein Heilungsvorgang für",
+          "start_codepoint": 7667,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-9": {
+      "input_sha256": "b1327a23b3c3a55897a1380884bce0c37b93889d0ebb7130aa33dcc7ca6881eb",
+      "source_text_sha256": "af7bb5c2214a3c012877782cd885a6e511783d156cd7db0f6e0f5b459ee3ea03",
+      "title": "DIE ROLLE DES EIWEISSES IM MENSCHENKÖRPER UND DIE ALBUMINURIE",
+      "source_pages": [
+        54,
+        55,
+        56,
+        57
+      ],
+      "starts": [
+        {
+          "page": 54,
+          "source_line": 0,
+          "anchor": "IX",
+          "source_line_text": "IX",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 54,
+          "source_line": 1,
+          "anchor": "Das Eiweiß ist diejenige Substanz des lebenden Körpers,",
+          "source_line_text": "Das Eiweiß ist diejenige Substanz des lebenden Körpers,",
+          "start_codepoint": 3,
+          "kind": "prose"
+        },
+        {
+          "page": 54,
+          "source_line": 6,
+          "anchor": "Man erkennt daraus, daß im Eiweiß die Kräfte, die aus",
+          "source_line_text": "Man erkennt daraus, daß im Eiweiß die Kräfte, die aus",
+          "start_codepoint": 527,
+          "kind": "prose"
+        },
+        {
+          "page": 54,
+          "source_line": 11,
+          "anchor": "Diese Bildekräfte sind an den ätherischen Leib gebunden.",
+          "source_line_text": "Diese Bildekräfte sind an den ätherischen Leib gebunden.",
+          "start_codepoint": 831,
+          "kind": "prose"
+        },
+        {
+          "page": 55,
+          "source_line": 0,
+          "anchor": "Mit den Nahrungsmitteln nimmt der Mensch das Eiweiß",
+          "source_line_text": "Mit den Nahrungsmitteln nimmt der Mensch das Eiweiß",
+          "start_codepoint": 1433,
+          "kind": "prose"
+        },
+        {
+          "page": 55,
+          "source_line": 2,
+          "anchor": "Das aufgenommene Eiweiß ist zunächst, wenn es als",
+          "source_line_text": "Das aufgenommene Eiweiß ist zunächst, wenn es als",
+          "start_codepoint": 1692,
+          "kind": "prose"
+        },
+        {
+          "page": 55,
+          "source_line": 7,
+          "anchor": "Man hat es daher im Verlaufe des menschlichen Verdauungsvorganges mit",
+          "source_line_text": "Man hat es daher im Verlaufe des menschlichen Verdauungsvorganges mit zweierlei Eiweißsubstanzen zu tun.",
+          "start_codepoint": 2037,
+          "kind": "prose"
+        },
+        {
+          "page": 56,
+          "source_line": 2,
+          "anchor": "Daß in der Wirkungsart des Trypsins Unorganisches im",
+          "source_line_text": "Daß in der Wirkungsart des Trypsins Unorganisches im",
+          "start_codepoint": 3182,
+          "kind": "prose"
+        },
+        {
+          "page": 56,
+          "source_line": 5,
+          "anchor": "Bis zur Begegnung mit dem Trypsin des Bauchspeichels",
+          "source_line_text": "Bis zur Begegnung mit dem Trypsin des Bauchspeichels",
+          "start_codepoint": 3358,
+          "kind": "prose"
+        },
+        {
+          "page": 56,
+          "source_line": 13,
+          "anchor": "Es ist nun notwendig, daß der Mensch, um das Nahrungs-Eiweiß gesund zu",
+          "source_line_text": "Es ist nun notwendig, daß der Mensch, um das Nahrungs-Eiweiß gesund zu verdauen, eine so starke Ich-Organisation habe, daß alles für den menschlichen Organismus",
+          "start_codepoint": 4021,
+          "kind": "prose"
+        },
+        {
+          "page": 57,
+          "source_line": 1,
+          "anchor": "Diese krankhafte Ausscheidung tritt in der Albuminurie",
+          "source_line_text": "Diese krankhafte Ausscheidung tritt in der Albuminurie",
+          "start_codepoint": 4830,
+          "kind": "prose"
+        },
+        {
+          "page": 57,
+          "source_line": 5,
+          "anchor": "Nun sind die Kräfte, die im Menschen die Ausscheidung",
+          "source_line_text": "Nun sind die Kräfte, die im Menschen die Ausscheidung",
+          "start_codepoint": 5123,
+          "kind": "prose"
+        },
+        {
+          "page": 57,
+          "source_line": 10,
+          "anchor": "Man sieht aus diesem Zusammenhange, wo die Heilung",
+          "source_line_text": "Man sieht aus diesem Zusammenhange, wo die Heilung",
+          "start_codepoint": 5638,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-10": {
+      "input_sha256": "b952e3bf9e44eebd785133d29f016fa96d8fcd136b86fc5e8343bac0fc8a61c9",
+      "source_text_sha256": "7cc613058db9d3c96ffdd3938fe6adb41df468eee2ae45ab9fab784c17271a96",
+      "title": "DIE ROLLE DES FETTES IM MENSCHLICHEN ORGANISMUS UND DIE TRÜGERISCHEN LOKALEN SYMPTOMENKOMPLEXE",
+      "source_pages": [
+        58,
+        59,
+        60,
+        61
+      ],
+      "starts": [
+        {
+          "page": 58,
+          "source_line": 0,
+          "anchor": "X",
+          "source_line_text": "X",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 58,
+          "source_line": 1,
+          "anchor": "Das Fett ist diejenige Substanz des Organismus, die sich,",
+          "source_line_text": "Das Fett ist diejenige Substanz des Organismus, die sich,",
+          "start_codepoint": 2,
+          "kind": "prose"
+        },
+        {
+          "page": 58,
+          "source_line": 10,
+          "anchor": "Dieses Verhalten des Fettes ist nur dadurch möglich, daß",
+          "source_line_text": "Dieses Verhalten des Fettes ist nur dadurch möglich, daß",
+          "start_codepoint": 478,
+          "kind": "prose"
+        },
+        {
+          "page": 58,
+          "source_line": 14,
+          "anchor": "Das rührt davon her, daß das Fett bei der Erzeugung der",
+          "source_line_text": "Das rührt davon her, daß das Fett bei der Erzeugung der",
+          "start_codepoint": 728,
+          "kind": "prose"
+        },
+        {
+          "page": 59,
+          "source_line": 2,
+          "anchor": "Diese Wärme-Entwicklung geschieht aber als eine der",
+          "source_line_text": "Diese Wärme-Entwicklung geschieht aber als eine der",
+          "start_codepoint": 1530,
+          "kind": "prose"
+        },
+        {
+          "page": 59,
+          "source_line": 7,
+          "anchor": "Wenn das Fett in der menschlichen Milch erscheint, so",
+          "source_line_text": "Wenn das Fett in der menschlichen Milch erscheint, so",
+          "start_codepoint": 1841,
+          "kind": "prose"
+        },
+        {
+          "page": 59,
+          "source_line": 14,
+          "anchor": "Der gesunde Weg ist dann vorhanden, wenn die menschlich bildsamen Kräfte",
+          "source_line_text": "Der gesunde Weg ist dann vorhanden, wenn die menschlich bildsamen Kräfte die im Körper vorhandenen Fettvorräte in der Wärmeentwicklung aufzehren. Ein ungesunder",
+          "start_codepoint": 2380,
+          "kind": "prose"
+        },
+        {
+          "page": 60,
+          "source_line": 3,
+          "anchor": "Im gesunden Organismus werden die animalischen",
+          "source_line_text": "Im gesunden Organismus werden die animalischen",
+          "start_codepoint": 3247,
+          "kind": "prose"
+        },
+        {
+          "page": 60,
+          "source_line": 16,
+          "anchor": "Tritt der schon erwähnte andere Fall ein, das Zuviel an",
+          "source_line_text": "Tritt der schon erwähnte andere Fall ein, das Zuviel an",
+          "start_codepoint": 4084,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-11": {
+      "input_sha256": "f5f68db269131854fd307a85b3b9b5a3ed429a0987072e6c93a6a9d05d207b1c",
+      "source_text_sha256": "7ce7484936ff3ec201ce42c359725021acb26a1133bfa04f063604d160a9911f",
+      "title": "DIE GESTALTUNG DES MENSCHLICHEN KÖRPERS UND DIE GICHT",
+      "source_pages": [
+        62,
+        63,
+        64,
+        65
+      ],
+      "starts": [
+        {
+          "page": 62,
+          "source_line": 0,
+          "anchor": "XI",
+          "source_line_text": "XI",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 62,
+          "source_line": 1,
+          "anchor": "Die Aufnahme des Eiweißes ist ein Vorgang, der mit der",
+          "source_line_text": "Die Aufnahme des Eiweißes ist ein Vorgang, der mit der",
+          "start_codepoint": 3,
+          "kind": "prose"
+        },
+        {
+          "page": 62,
+          "source_line": 5,
+          "anchor": "Diesen Vorgängen stehen diejenigen gegenüber, die in",
+          "source_line_text": "Diesen Vorgängen stehen diejenigen gegenüber, die in",
+          "start_codepoint": 408,
+          "kind": "prose"
+        },
+        {
+          "page": 62,
+          "source_line": 13,
+          "anchor": "Ein besonders bemerkenswerter Ausscheidungsvorgang",
+          "source_line_text": "Ein besonders bemerkenswerter Ausscheidungsvorgang",
+          "start_codepoint": 951,
+          "kind": "prose"
+        },
+        {
+          "page": 63,
+          "source_line": 1,
+          "anchor": "Nun ist im Organismus der astralische Leib der Vermittler der Tätigkeit",
+          "source_line_text": "Nun ist im Organismus der astralische Leib der Vermittler der Tätigkeit der Ich-Organisation für ätherischen",
+          "start_codepoint": 1541,
+          "kind": "prose"
+        },
+        {
+          "page": 63,
+          "source_line": 7,
+          "anchor": "Der astralische Leib macht durch seine Tätigkeit die",
+          "source_line_text": "Der astralische Leib macht durch seine Tätigkeit die",
+          "start_codepoint": 1952,
+          "kind": "prose"
+        },
+        {
+          "page": 63,
+          "source_line": 10,
+          "anchor": "Man sieht: in den unteren Teilen des menschlichen Organismus hat die",
+          "source_line_text": "Man sieht: in den unteren Teilen des menschlichen Organismus hat die Tätigkeit des astralischen Leibes die Oberhand. Es dürfen da die Harnsäuresubstanzen von dem Organismus nicht aufgenommen werden. Sie müssen reichlich",
+          "start_codepoint": 2130,
+          "kind": "prose"
+        },
+        {
+          "page": 63,
+          "source_line": 15,
+          "anchor": "Im Gehirn ist die Tätigkeit des astralischen Leibes gering. Es wird wenig",
+          "source_line_text": "Im Gehirn ist die Tätigkeit des astralischen Leibes gering. Es wird wenig Harnsäure ausgeschieden, dafür um so",
+          "start_codepoint": 2652,
+          "kind": "prose"
+        },
+        {
+          "page": 63,
+          "source_line": 17,
+          "anchor": "Große Harnsäuremengen bewältigt die Ich-Organisation nicht; sie müssen der",
+          "source_line_text": "Große Harnsäuremengen bewältigt die Ich-Organisation nicht; sie müssen der Tätigkeit des astralischen Leibes",
+          "start_codepoint": 2825,
+          "kind": "prose"
+        },
+        {
+          "page": 64,
+          "source_line": 2,
+          "anchor": "Es muß im gesunden Organismus die rechte Ökonomie",
+          "source_line_text": "Es muß im gesunden Organismus die rechte Ökonomie",
+          "start_codepoint": 3097,
+          "kind": "prose"
+        },
+        {
+          "page": 64,
+          "source_line": 9,
+          "anchor": "Da nun der astralische Leib der Wegmacher für die IchTätigkeit in den",
+          "source_line_text": "Da nun der astralische Leib der Wegmacher für die IchTätigkeit in den Organen ist, so muß man die richtig verteilte Harnsäureablagerung als ein ganz wesentliches Glied",
+          "start_codepoint": 3540,
+          "kind": "prose"
+        },
+        {
+          "page": 64,
+          "source_line": 14,
+          "anchor": "Man nehme nun an, in irgendeinem Organe, in dem die",
+          "source_line_text": "Man nehme nun an, in irgendeinem Organe, in dem die",
+          "start_codepoint": 3907,
+          "kind": "prose"
+        },
+        {
+          "page": 65,
+          "source_line": 2,
+          "anchor": "Man hat es mit der Gicht zu tun. Wenn gesagt wird,",
+          "source_line_text": "Man hat es mit der Gicht zu tun. Wenn gesagt wird,",
+          "start_codepoint": 4899,
+          "kind": "prose"
+        },
+        {
+          "page": 65,
+          "source_line": 7,
+          "anchor": "Man wird aber die Sache besser durchschauen, wenn",
+          "source_line_text": "Man wird aber die Sache besser durchschauen, wenn",
+          "start_codepoint": 5187,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-12": {
+      "input_sha256": "97a9695d9b800ba9fc5f384f3a32fa8828a5007d9c3a4f1cee6f5a951fd9939a",
+      "source_text_sha256": "948897f9c852e4db34cc9d74c47b2987260b87f28771483fa1fea51cacd3d2be",
+      "title": "AUFBAU UND ABSONDERUNG DES MENSCHLICHEN ORGANISMUS",
+      "source_pages": [
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "starts": [
+        {
+          "page": 66,
+          "source_line": 0,
+          "anchor": "XII",
+          "source_line_text": "XII",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 66,
+          "source_line": 1,
+          "anchor": "Der menschliche Körper bildet sich wie andere Organismen aus dem",
+          "source_line_text": "Der menschliche Körper bildet sich wie andere Organismen aus dem halbflüssigen Zustand heraus. Doch ist zu",
+          "start_codepoint": 4,
+          "kind": "prose"
+        },
+        {
+          "page": 66,
+          "source_line": 5,
+          "anchor": "Man betrachte zunächst einen festen Bestandteil, z, B.",
+          "source_line_text": "Man betrachte zunächst einen festen Bestandteil, z, B.",
+          "start_codepoint": 239,
+          "kind": "prose"
+        },
+        {
+          "page": 66,
+          "source_line": 18,
+          "anchor": "Es ist nach seiner Verwandlung in Menschen-Eiweiß",
+          "source_line_text": "Es ist nach seiner Verwandlung in Menschen-Eiweiß",
+          "start_codepoint": 1122,
+          "kind": "prose"
+        },
+        {
+          "page": 67,
+          "source_line": 12,
+          "anchor": "Diese Ich-Organisation lebt ganz in Wärmezuständen.",
+          "source_line_text": "Diese Ich-Organisation lebt ganz in Wärmezuständen.",
+          "start_codepoint": 2361,
+          "kind": "prose"
+        },
+        {
+          "page": 67,
+          "source_line": 17,
+          "anchor": "Vermindert sie ihn, so treten unorganische Substanzen in",
+          "source_line_text": "Vermindert sie ihn, so treten unorganische Substanzen in",
+          "start_codepoint": 2673,
+          "kind": "prose"
+        },
+        {
+          "page": 67,
+          "source_line": 20,
+          "anchor": "Erhöht sie ihn, so werden Organe gebildet, deren Tätigkeit in einer",
+          "source_line_text": "Erhöht sie ihn, so werden Organe gebildet, deren Tätigkeit in einer Auflösung des Organischen besteht, in einer",
+          "start_codepoint": 2874,
+          "kind": "prose"
+        },
+        {
+          "page": 67,
+          "source_line": 22,
+          "anchor": "Man nehme nun an, die Ich-Organisation finde im",
+          "source_line_text": "Man nehme nun an, die Ich-Organisation finde im Or-",
+          "start_codepoint": 3030,
+          "kind": "prose"
+        },
+        {
+          "page": 68,
+          "source_line": 5,
+          "anchor": "Nun ist der Knochen, wenn er von der Ich-Organisation",
+          "source_line_text": "Nun ist der Knochen, wenn er von der Ich-Organisation",
+          "start_codepoint": 3434,
+          "kind": "prose"
+        },
+        {
+          "page": 68,
+          "source_line": 12,
+          "anchor": "Die Organe, die aus dem angegebenen Grunde in eine",
+          "source_line_text": "Die Organe, die aus dem angegebenen Grunde in eine",
+          "start_codepoint": 4058,
+          "kind": "prose"
+        },
+        {
+          "page": 68,
+          "source_line": 16,
+          "anchor": "Der entgegengesetzte Fall tritt ein, wenn die Ich-Organisation nicht auf",
+          "source_line_text": "Der entgegengesetzte Fall tritt ein, wenn die Ich-Organisation nicht auf die notwendige Verminderung des Wärmezustandes für das Knochengebiet trifft. Dann werden",
+          "start_codepoint": 4322,
+          "kind": "prose"
+        },
+        {
+          "page": 69,
+          "source_line": 3,
+          "anchor": "Man hat es mit den rachitischen Erkrankungen zu tun.",
+          "source_line_text": "Man hat es mit den rachitischen Erkrankungen zu tun.",
+          "start_codepoint": 5005,
+          "kind": "prose"
+        },
+        {
+          "page": 69,
+          "source_line": 14,
+          "anchor": "Diese Tätigkeit lebt sich aus in Absonderungen, die in",
+          "source_line_text": "Diese Tätigkeit lebt sich aus in Absonderungen, die in",
+          "start_codepoint": 5808,
+          "kind": "prose"
+        },
+        {
+          "page": 70,
+          "source_line": 5,
+          "anchor": "So erscheint in den Ausscheidungen nach außen das Ergebnis der astral",
+          "source_line_text": "So erscheint in den Ausscheidungen nach außen das Ergebnis der astral orientierten Tätigkeit. Und sind Stoffe in",
+          "start_codepoint": 6877,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-13": {
+      "input_sha256": "de426f5be36cf75d976bd157e78ab18b779d1cc3b95ca740c15181ff11346184",
+      "source_text_sha256": "040e22c296ca91cb1a29f30304aa68d619d3e43772eb995cb34ad5bb85896c9c",
+      "title": "XIII VOM WESEN DES KRANKSEINS UND DER HEILUNG",
+      "source_pages": [
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "starts": [
+        {
+          "page": 71,
+          "source_line": 0,
+          "anchor": "Schmerz, der irgendwo im Organismus auftritt, ist Erlebnis im astralischen",
+          "source_line_text": "Schmerz, der irgendwo im Organismus auftritt, ist Erlebnis im astralischen Leib und im Ich. Beide, sowohl der astralische Leib wie das Ich sind in den physischen Leib und",
+          "start_codepoint": 0,
+          "kind": "prose"
+        },
+        {
+          "page": 71,
+          "source_line": 4,
+          "anchor": "Im Schlafen kehrt der Organismus zu den Betätigungen",
+          "source_line_text": "Im Schlafen kehrt der Organismus zu den Betätigungen",
+          "start_codepoint": 449,
+          "kind": "prose"
+        },
+        {
+          "page": 71,
+          "source_line": 9,
+          "anchor": "Im Anfange der Menschenentwicklung liegt das Vorherrschen der Tätigkeit",
+          "source_line_text": "Im Anfange der Menschenentwicklung liegt das Vorherrschen der Tätigkeit des ätherischen Leibes über diejenige des astralischen; allmählich wird die Tätigkeit des",
+          "start_codepoint": 710,
+          "kind": "prose"
+        },
+        {
+          "page": 71,
+          "source_line": 15,
+          "anchor": "Für jedes Organ des menschlichen Körpers entspricht in",
+          "source_line_text": "Für jedes Organ des menschlichen Körpers entspricht in",
+          "start_codepoint": 1143,
+          "kind": "prose"
+        },
+        {
+          "page": 72,
+          "source_line": 6,
+          "anchor": "Ein Organ erkrankt, wenn sich die ihm zukommende",
+          "source_line_text": "Ein Organ erkrankt, wenn sich die ihm zukommende",
+          "start_codepoint": 2012,
+          "kind": "prose"
+        },
+        {
+          "page": 72,
+          "source_line": 15,
+          "anchor": "Es handelt sich nun darum, die Harmonie zwischen der",
+          "source_line_text": "Es handelt sich nun darum, die Harmonie zwischen der",
+          "start_codepoint": 3027,
+          "kind": "prose"
+        },
+        {
+          "page": 73,
+          "source_line": 8,
+          "anchor": "Der Weg, diese Dinge erkennend zu durchschauen, wird",
+          "source_line_text": "Der Weg, diese Dinge erkennend zu durchschauen, wird",
+          "start_codepoint": 3685,
+          "kind": "prose"
+        },
+        {
+          "page": 73,
+          "source_line": 17,
+          "anchor": "Es entsteht nun die Frage, ob denn der Schwefel auch",
+          "source_line_text": "Es entsteht nun die Frage, ob denn der Schwefel auch",
+          "start_codepoint": 4428,
+          "kind": "prose"
+        },
+        {
+          "page": 74,
+          "source_line": 6,
+          "anchor": "Man kann daraus ersehen, daß der Schwefel, als Heilmittel zugeführt, die",
+          "source_line_text": "Man kann daraus ersehen, daß der Schwefel, als Heilmittel zugeführt, die physischen Tätigkeiten des Organismus dem Eingreifen der ätherischen geneigter macht, als sie",
+          "start_codepoint": 5326,
+          "kind": "prose"
+        },
+        {
+          "page": 74,
+          "source_line": 8,
+          "anchor": "Anders liegt die Sache beim Phosphor. Er findet sich im",
+          "source_line_text": "Anders liegt die Sache beim Phosphor. Er findet sich im",
+          "start_codepoint": 5519,
+          "kind": "prose"
+        },
+        {
+          "page": 74,
+          "source_line": 15,
+          "anchor": "Als Heilmittel wird daher der Phosphor wirken, wenn",
+          "source_line_text": "Als Heilmittel wird daher der Phosphor wirken, wenn",
+          "start_codepoint": 6332,
+          "kind": "prose"
+        },
+        {
+          "page": 75,
+          "source_line": 1,
+          "anchor": "Man betrachte die Rachitis. Es wurde im früheren ausgeführt, wie sie in",
+          "source_line_text": "Man betrachte die Rachitis. Es wurde im früheren ausgeführt, wie sie in einem Überwuchern der ätherisch-astralischen Tätigkeit beruht und wie sie zu einer mangelhaften",
+          "start_codepoint": 6568,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-14": {
+      "input_sha256": "3a65f04463051ce0252c96c650a65e36917ecf2f5f8e97078376629c146e160c",
+      "source_text_sha256": "efa7786894bd15619fd224e3e79b944fabde89692e610e666ac8e687d3de2066",
+      "title": "VON DER THERAPEUTISCHEN DENKWEISE",
+      "source_pages": [
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "starts": [
+        {
+          "page": 76,
+          "source_line": 0,
+          "anchor": "XIV",
+          "source_line_text": "XIV",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 76,
+          "source_line": 1,
+          "anchor": "Die Kieselsäure trägt ihre Wirkungen durch die Stof f wechselwege bis in",
+          "source_line_text": "Die Kieselsäure trägt ihre Wirkungen durch die Stof f wechselwege bis in diejenigen Partien des menschlichen Organismus, in denen das Lebendige zum Leblosen wird. Sie findet",
+          "start_codepoint": 4,
+          "kind": "prose"
+        },
+        {
+          "page": 76,
+          "source_line": 6,
+          "anchor": "Sie bildet die physische Grundlage der Ich-Organisation. Denn diese wirkt",
+          "source_line_text": "Sie bildet die physische Grundlage der Ich-Organisation. Denn diese wirkt gestaltend. Diese Ich-Organisation",
+          "start_codepoint": 479,
+          "kind": "prose"
+        },
+        {
+          "page": 76,
+          "source_line": 11,
+          "anchor": "Zwischen den beiden Wirkungsfeldern der Kieselsäure",
+          "source_line_text": "Zwischen den beiden Wirkungsfeldern der Kieselsäure",
+          "start_codepoint": 1004,
+          "kind": "prose"
+        },
+        {
+          "page": 77,
+          "source_line": 0,
+          "anchor": "Der menschliche Organismus ist in seiner Jugend an den",
+          "source_line_text": "Der menschliche Organismus ist in seiner Jugend an den",
+          "start_codepoint": 1502,
+          "kind": "prose"
+        },
+        {
+          "page": 77,
+          "source_line": 13,
+          "anchor": "Aber es ist doch der ganze menschliche Organismus von",
+          "source_line_text": "Aber es ist doch der ganze menschliche Organismus von",
+          "start_codepoint": 2440,
+          "kind": "prose"
+        },
+        {
+          "page": 77,
+          "source_line": 15,
+          "anchor": "Alles das aber beruht auf der richtigen Verteilung der",
+          "source_line_text": "Alles das aber beruht auf der richtigen Verteilung der",
+          "start_codepoint": 2610,
+          "kind": "prose"
+        },
+        {
+          "page": 77,
+          "source_line": 21,
+          "anchor": "Dieser Spezial-Organismus wird nur richtig wirken,",
+          "source_line_text": "Dieser Spezial-Organismus wird nur richtig wirken,",
+          "start_codepoint": 3042,
+          "kind": "prose"
+        },
+        {
+          "page": 78,
+          "source_line": 5,
+          "anchor": "Die nicht ausgeschiedenen überschüssigen, von der IchOrganisation nicht",
+          "source_line_text": "Die nicht ausgeschiedenen überschüssigen, von der IchOrganisation nicht erfaßten Kieselsäuremengen müssen im",
+          "start_codepoint": 3399,
+          "kind": "prose"
+        },
+        {
+          "page": 79,
+          "source_line": 2,
+          "anchor": "Man wird dadurch auf das verwiesen, was die Kieselsäure im menschlichen",
+          "source_line_text": "Man wird dadurch auf das verwiesen, was die Kieselsäure im menschlichen Organismus an Heilkraft entwickeln",
+          "start_codepoint": 4905,
+          "kind": "prose"
+        },
+        {
+          "page": 79,
+          "source_line": 8,
+          "anchor": "Durch die Kombination der Kieselsäure mit anderen",
+          "source_line_text": "Durch die Kombination der Kieselsäure mit anderen",
+          "start_codepoint": 5684,
+          "kind": "prose"
+        },
+        {
+          "page": 79,
+          "source_line": 13,
+          "anchor": "Ein anderer Fall ist derjenige, in dem ein Organ für die",
+          "source_line_text": "Ein anderer Fall ist derjenige, in dem ein Organ für die",
+          "start_codepoint": 6006,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-15": {
+      "input_sha256": "2bf54d20f2d325ba8af82ac50660c1c122077ac45d2bdc7bdd9f14b0c1d3bf78",
+      "source_text_sha256": "dbceebd4961cfb97e4f0432db421e45c0511c0d2c584c8dda3672144a15f90fd",
+      "title": "DAS HEILVERFAHREN",
+      "source_pages": [
+        81,
+        82,
+        83,
+        84
+      ],
+      "starts": [
+        {
+          "page": 81,
+          "source_line": 0,
+          "anchor": "XV",
+          "source_line_text": "XV",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 81,
+          "source_line": 1,
+          "anchor": "Die Erkenntnis der Heilmittelwirkungen beruht auf dem",
+          "source_line_text": "Die Erkenntnis der Heilmittelwirkungen beruht auf dem",
+          "start_codepoint": 3,
+          "kind": "prose"
+        },
+        {
+          "page": 81,
+          "source_line": 9,
+          "anchor": "Man kann sagen: entsteht im Innern des Organismus",
+          "source_line_text": "Man kann sagen: entsteht im Innern des Organismus",
+          "start_codepoint": 571,
+          "kind": "prose"
+        },
+        {
+          "page": 82,
+          "source_line": 5,
+          "anchor": "Man nehme an, es treten Unterleibsstockungen auf. Die",
+          "source_line_text": "Man nehme an, es treten Unterleibsstockungen auf. Die",
+          "start_codepoint": 1991,
+          "kind": "prose"
+        },
+        {
+          "page": 82,
+          "source_line": 13,
+          "anchor": "Es handelt sich darum, solche Substanzen in den menschlichen Organismus",
+          "source_line_text": "Es handelt sich darum, solche Substanzen in den menschlichen Organismus einzuführen, welche der astralischen und",
+          "start_codepoint": 2510,
+          "kind": "prose"
+        },
+        {
+          "page": 82,
+          "source_line": 21,
+          "anchor": "Hat man es zu tun mit Entzündungserscheinungen der",
+          "source_line_text": "Hat man es zu tun mit Entzündungserscheinungen der",
+          "start_codepoint": 3130,
+          "kind": "prose"
+        },
+        {
+          "page": 83,
+          "source_line": 7,
+          "anchor": "Steht man vor krankhaften Zuständen, die sich in abnormem Herzklopfen",
+          "source_line_text": "Steht man vor krankhaften Zuständen, die sich in abnormem Herzklopfen offenbaren, so wirkt eine nicht regelmäßige Tätigkeit des astralischen Organismus auf den",
+          "start_codepoint": 3944,
+          "kind": "prose"
+        },
+        {
+          "page": 83,
+          "source_line": 14,
+          "anchor": "Man muß in allen diesen Fällen durch eine entsprechende",
+          "source_line_text": "Man muß in allen diesen Fällen durch eine entsprechende",
+          "start_codepoint": 4690,
+          "kind": "prose"
+        },
+        {
+          "page": 84,
+          "source_line": 2,
+          "anchor": "Die Sache kann aber auch umgekehrt liegen. Die Unregelmäßigkeit kann",
+          "source_line_text": "Die Sache kann aber auch umgekehrt liegen. Die Unregelmäßigkeit kann ursächlich zwischen der astralischen und",
+          "start_codepoint": 5098,
+          "kind": "prose"
+        },
+        {
+          "page": 84,
+          "source_line": 11,
+          "anchor": "Man wird bemerken, daß der Gesamt-Organismus in",
+          "source_line_text": "Man wird bemerken, daß der Gesamt-Organismus in",
+          "start_codepoint": 5887,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-16": {
+      "input_sha256": "8bf392566732dfe259d067634b9a85ac3dc74657d9d25b6b065898ab29c74c69",
+      "source_text_sha256": "64ee64444873fa7e6e0b7d7aafd9f602cb9fa9049d1de2009db4968426bbbeb2",
+      "title": "HEILMITTEL-ERKENNTNIS",
+      "source_pages": [
+        85,
+        86,
+        87,
+        88,
+        89
+      ],
+      "starts": [
+        {
+          "page": 85,
+          "source_line": 0,
+          "anchor": "XVI",
+          "source_line_text": "XVI",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 85,
+          "source_line": 1,
+          "anchor": "Man muß die Substanzen, deren Verwendung als Heilmittel in Betracht kommen",
+          "source_line_text": "Man muß die Substanzen, deren Verwendung als Heilmittel in Betracht kommen soll, zunächst in der Art kennen, daß man die in ihnen enthaltenen möglichen Kräftewirkungen außerhalb und innerhalb des menschlichen Organismus beurteilen kann. Dabei kann es sich nur in einem",
+          "start_codepoint": 4,
+          "kind": "prose"
+        },
+        {
+          "page": 85,
+          "source_line": 6,
+          "anchor": "Man betrachte von diesem Gesichtspunkte aus z. B. den",
+          "source_line_text": "Man betrachte von diesem Gesichtspunkte aus z. B. den",
+          "start_codepoint": 625,
+          "kind": "prose"
+        },
+        {
+          "page": 86,
+          "source_line": 1,
+          "anchor": "Aber das Antimon zeigt noch andere Eigentümlichkeiten. Wo es nur kann,",
+          "source_line_text": "Aber das Antimon zeigt noch andere Eigentümlichkeiten. Wo es nur kann, strebt es die büschelförmige Gestaltung an. Es gliedert sich damit in Linien, die von der Erde",
+          "start_codepoint": 1609,
+          "kind": "prose"
+        },
+        {
+          "page": 86,
+          "source_line": 10,
+          "anchor": "Des weiteren zeigt das Antimon, das beim Glühen oxydiert, beim Verbrennen",
+          "source_line_text": "Des weiteren zeigt das Antimon, das beim Glühen oxydiert, beim Verbrennen einen aus ihm entstehenden weißen",
+          "start_codepoint": 2300,
+          "kind": "prose"
+        },
+        {
+          "page": 86,
+          "source_line": 12,
+          "anchor": "Ferner hat das Antimon eine gewisse Abwehrkraft gegen die elektrischen",
+          "source_line_text": "Ferner hat das Antimon eine gewisse Abwehrkraft gegen die elektrischen Wirkungen. Wird es elektrolytisch in",
+          "start_codepoint": 2480,
+          "kind": "prose"
+        },
+        {
+          "page": 86,
+          "source_line": 15,
+          "anchor": "Alles dieses zeigt, daß im Antimon die Tendenz enthalten ist, in das",
+          "source_line_text": "Alles dieses zeigt, daß im Antimon die Tendenz enthalten ist, in das Ätherelement in dem Augenblick leicht überzugehen, in dem dazu die Bedingungen auch nur in geringem Grade vorhanden sind. Dem geistigen Schauen gelten",
+          "start_codepoint": 2722,
+          "kind": "prose"
+        },
+        {
+          "page": 87,
+          "source_line": 1,
+          "anchor": "Im menschlichen Organismus zeigt das Blut in seiner",
+          "source_line_text": "Im menschlichen Organismus zeigt das Blut in seiner",
+          "start_codepoint": 3192,
+          "kind": "prose"
+        },
+        {
+          "page": 87,
+          "source_line": 17,
+          "anchor": "Hat man es daher im Organismus mit einem krankhaften Zustande zu tun, der",
+          "source_line_text": "Hat man es daher im Organismus mit einem krankhaften Zustande zu tun, der in einem Mangel dieser nach der",
+          "start_codepoint": 4204,
+          "kind": "prose"
+        },
+        {
+          "page": 87,
+          "source_line": 20,
+          "anchor": "Die Gestaltung des Organismus ist im wesentlichen eine",
+          "source_line_text": "Die Gestaltung des Organismus ist im wesentlichen eine",
+          "start_codepoint": 4416,
+          "kind": "prose"
+        },
+        {
+          "page": 88,
+          "source_line": 2,
+          "anchor": "Bei der Auster wird das Kalkartige abgesondert, um es",
+          "source_line_text": "Bei der Auster wird das Kalkartige abgesondert, um es",
+          "start_codepoint": 4896,
+          "kind": "prose"
+        },
+        {
+          "page": 88,
+          "source_line": 12,
+          "anchor": "Beim Typhus ist es klar, daß der krankhafte Zustand in",
+          "source_line_text": "Beim Typhus ist es klar, daß der krankhafte Zustand in",
+          "start_codepoint": 5538,
+          "kind": "prose"
+        },
+        {
+          "page": 88,
+          "source_line": 22,
+          "anchor": "Wendet man bei typhösen Erscheinungen Antimonpräparate in entsprechender",
+          "source_line_text": "Wendet man bei typhösen Erscheinungen Antimonpräparate in entsprechender Zusammensetzung an, so erweisen",
+          "start_codepoint": 6286,
+          "kind": "prose"
+        },
+        {
+          "page": 89,
+          "source_line": 1,
+          "anchor": "Man wird von Gesichtspunkten aus, die in der Gegenwart vielfach üblich",
+          "source_line_text": "Man wird von Gesichtspunkten aus, die in der Gegenwart vielfach üblich sind, sagen: solche Ansichten wie die",
+          "start_codepoint": 6556,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-17": {
+      "input_sha256": "f7cfac80f373edf3b0ca2c7e784674b7eb846a394e016696794d31f07a3a0cf7",
+      "source_text_sha256": "761523d077cc7de3f4827cbae9f7ed6c8cfcfdc2838d40c89279fe4dbf2073cd",
+      "title": "XVII SUBSTANZ-ERKENNTNIS ALS GRUNDLAGE DER HEILMITTEL-ERKENNTNIS",
+      "source_pages": [
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "starts": [
+        {
+          "page": 90,
+          "source_line": 0,
+          "anchor": "Wer die Wirkung von Heilmitteln beurteilen will, muß",
+          "source_line_text": "Wer die Wirkung von Heilmitteln beurteilen will, muß",
+          "start_codepoint": 0,
+          "kind": "prose"
+        },
+        {
+          "page": 90,
+          "source_line": 5,
+          "anchor": "Ein klassisches Beispiel kann man in der Ameisensäure",
+          "source_line_text": "Ein klassisches Beispiel kann man in der Ameisensäure",
+          "start_codepoint": 247,
+          "kind": "prose"
+        },
+        {
+          "page": 90,
+          "source_line": 14,
+          "anchor": "Im menschlichen Organismus entsteht auch die Ameisensäure. Da aber hat sie",
+          "source_line_text": "Im menschlichen Organismus entsteht auch die Ameisensäure. Da aber hat sie ihre Bedeutung. Sie dient der IchOrganisation. Durch den astralischen Leib werden aus der",
+          "start_codepoint": 1004,
+          "kind": "prose"
+        },
+        {
+          "page": 91,
+          "source_line": 3,
+          "anchor": "Geschieht nun für etwas, das aufgelöst werden sollte,",
+          "source_line_text": "Geschieht nun für etwas, das aufgelöst werden sollte,",
+          "start_codepoint": 1638,
+          "kind": "prose"
+        },
+        {
+          "page": 91,
+          "source_line": 11,
+          "anchor": "Man kann solche Wirkungsarten kennen lernen, wenn",
+          "source_line_text": "Man kann solche Wirkungsarten kennen lernen, wenn",
+          "start_codepoint": 2247,
+          "kind": "prose"
+        },
+        {
+          "page": 92,
+          "source_line": 13,
+          "anchor": "Von solchen Beobachtungen ausgehend, kann man die",
+          "source_line_text": "Von solchen Beobachtungen ausgehend, kann man die",
+          "start_codepoint": 4003,
+          "kind": "prose"
+        },
+        {
+          "page": 93,
+          "source_line": 0,
+          "anchor": "Man wird mit Heilmitteln aus dem Pflanzenreiche das",
+          "source_line_text": "Man wird mit Heilmitteln aus dem Pflanzenreiche das",
+          "start_codepoint": 4760,
+          "kind": "prose"
+        },
+        {
+          "page": 93,
+          "source_line": 5,
+          "anchor": "Deshalb ist bei den entsprechenden krankhaften Zuständen auch nur",
+          "source_line_text": "Deshalb ist bei den entsprechenden krankhaften Zuständen auch nur Mineralisches als Heilmittel brauchbar. Um",
+          "start_codepoint": 5231,
+          "kind": "prose"
+        },
+        {
+          "page": 93,
+          "source_line": 13,
+          "anchor": "Man nehme das Beispiel einer übermäßigen Periode. Bei",
+          "source_line_text": "Man nehme das Beispiel einer übermäßigen Periode. Bei",
+          "start_codepoint": 5857,
+          "kind": "prose"
+        },
+        {
+          "page": 93,
+          "source_line": 21,
+          "anchor": "Man kommt ihnen zu Hilfe, wenn man dem Organismus",
+          "source_line_text": "Man kommt ihnen zu Hilfe, wenn man dem Organismus",
+          "start_codepoint": 6272,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-18": {
+      "input_sha256": "c7c0ec712f19c06a2d7476bc78837ca73f1465bc8082398657dc334035c452d2",
+      "source_text_sha256": "117e39735c15d7ff6cf41907b3ddd6c99ce51d2daf8e248145d62fed58736bd8",
+      "title": "XVIII HEIL-EURYTHMIE",
+      "source_pages": [
+        95,
+        96,
+        97
+      ],
+      "starts": [
+        {
+          "page": 95,
+          "source_line": 0,
+          "anchor": "Innerhalb des Gebietes unserer Therapie spielt noch eine",
+          "source_line_text": "Innerhalb des Gebietes unserer Therapie spielt noch eine",
+          "start_codepoint": 0,
+          "kind": "prose"
+        },
+        {
+          "page": 95,
+          "source_line": 4,
+          "anchor": "Sie ist in ihrer Wesenheit als eurythmische Kunst von",
+          "source_line_text": "Sie ist in ihrer Wesenheit als eurythmische Kunst von",
+          "start_codepoint": 208,
+          "kind": "prose"
+        },
+        {
+          "page": 95,
+          "source_line": 7,
+          "anchor": "Sie stellt sich auf die Bühne hin in dem bewegten Menschen; ist aber keine",
+          "source_line_text": "Sie stellt sich auf die Bühne hin in dem bewegten Menschen; ist aber keine Tanzkunst. Das zeigt sich schon darinnen, daß am Menschen vorzüglich die Arme und Hände",
+          "start_codepoint": 359,
+          "kind": "prose"
+        },
+        {
+          "page": 95,
+          "source_line": 10,
+          "anchor": "Alle Bewegungen beruhen auf der inneren Wesenheit der",
+          "source_line_text": "Alle Bewegungen beruhen auf der inneren Wesenheit der",
+          "start_codepoint": 640,
+          "kind": "prose"
+        },
+        {
+          "page": 96,
+          "source_line": 1,
+          "anchor": "Bei der Darstellung hat man auf der Bühne den bewegten Menschen oder",
+          "source_line_text": "Bei der Darstellung hat man auf der Bühne den bewegten Menschen oder Menschengruppen. Die Dichtung, die",
+          "start_codepoint": 1570,
+          "kind": "prose"
+        },
+        {
+          "page": 96,
+          "source_line": 5,
+          "anchor": "Es ist in der Eurythmie eine bewegte Plastik gegeben,",
+          "source_line_text": "Es ist in der Eurythmie eine bewegte Plastik gegeben,",
+          "start_codepoint": 1931,
+          "kind": "prose"
+        },
+        {
+          "page": 96,
+          "source_line": 7,
+          "anchor": "Es kann nun, was da in künstlerischer Art gefunden worden ist, nach zwei",
+          "source_line_text": "Es kann nun, was da in künstlerischer Art gefunden worden ist, nach zwei anderen Seiten hin ausgebildet werden.",
+          "start_codepoint": 2041,
+          "kind": "prose"
+        },
+        {
+          "page": 96,
+          "source_line": 15,
+          "anchor": "Die andere Seite ist die therapeutische. Werden die Bewegungs-Gebärden der",
+          "source_line_text": "Die andere Seite ist die therapeutische. Werden die Bewegungs-Gebärden der Kunst- und pädagogischen Eurythmie modifiziert, so daß sie aus der kranken Wesenheit des",
+          "start_codepoint": 2839,
+          "kind": "prose"
+        },
+        {
+          "page": 97,
+          "source_line": 0,
+          "anchor": "Bewegungen, die so ausgeführt werden, wirken auf die",
+          "source_line_text": "Bewegungen, die so ausgeführt werden, wirken auf die",
+          "start_codepoint": 3091,
+          "kind": "prose"
+        },
+        {
+          "page": 97,
+          "source_line": 6,
+          "anchor": "Dafür kann Heil-Eurythmie aber auch nie eine Laiensache werden, und darf",
+          "source_line_text": "Dafür kann Heil-Eurythmie aber auch nie eine Laiensache werden, und darf nicht als eine solche betrachtet oder",
+          "start_codepoint": 3528,
+          "kind": "prose"
+        },
+        {
+          "page": 97,
+          "source_line": 8,
+          "anchor": "Der Heil-Eurythmist, der gut geschult in der Erkenntnis der menschlichen",
+          "source_line_text": "Der Heil-Eurythmist, der gut geschult in der Erkenntnis der menschlichen Organisation sein muß, kann nur im",
+          "start_codepoint": 3657,
+          "kind": "prose"
+        },
+        {
+          "page": 97,
+          "source_line": 10,
+          "anchor": "Nur auf Grundlage einer sachgemäßen Diagnose kann",
+          "source_line_text": "Nur auf Grundlage einer sachgemäßen Diagnose kann",
+          "start_codepoint": 3851,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-19": {
+      "input_sha256": "dd33be8702251ba88271ad2ee42ce23e77f0b262d8b8aae1144f7c55084dd68f",
+      "source_text_sha256": "1bc437b75c65fa7fc576c88f737b244de99f1b4a7d9d9fcd808941d52169cd75",
+      "title": "CHARAKTERISTISCHE KRANKHEITSFÄLLE",
+      "source_pages": [
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125
+      ],
+      "starts": [
+        {
+          "page": 98,
+          "source_line": 0,
+          "anchor": "XIX",
+          "source_line_text": "XIX",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 98,
+          "source_line": 1,
+          "anchor": "In diesem Kapitel möchten wir aus der Praxis des klinischtherapeutischen",
+          "source_line_text": "In diesem Kapitel möchten wir aus der Praxis des klinischtherapeutischen Institutes in Ariesheim eine Reihe von",
+          "start_codepoint": 4,
+          "kind": "prose"
+        },
+        {
+          "page": 99,
+          "source_line": 10,
+          "anchor": "Erster Fall",
+          "source_line_text": "Erster Fall",
+          "start_codepoint": 2482,
+          "kind": "heading"
+        },
+        {
+          "page": 99,
+          "source_line": 11,
+          "anchor": "Man hat es mit einer 26-jährigen Patientin zu tun. Der",
+          "source_line_text": "Man hat es mit einer 26-jährigen Patientin zu tun. Der",
+          "start_codepoint": 2494,
+          "kind": "prose"
+        },
+        {
+          "page": 101,
+          "source_line": 15,
+          "anchor": "Zweiter Fall",
+          "source_line_text": "Zweiter Fall",
+          "start_codepoint": 6189,
+          "kind": "heading"
+        },
+        {
+          "page": 101,
+          "source_line": 16,
+          "anchor": "48-jähriger männlicher Patient; war ein kräftiges Kind von",
+          "source_line_text": "48-jähriger männlicher Patient; war ein kräftiges Kind von",
+          "start_codepoint": 6202,
+          "kind": "prose"
+        },
+        {
+          "page": 103,
+          "source_line": 11,
+          "anchor": "Dritter Fall",
+          "source_line_text": "Dritter Fall",
+          "start_codepoint": 9043,
+          "kind": "heading"
+        },
+        {
+          "page": 103,
+          "source_line": 12,
+          "anchor": "31-jähriger Patient, Künstler, suchte wahrend einer Konzertreise unsere",
+          "source_line_text": "31-jähriger Patient, Künstler, suchte wahrend einer Konzertreise unsere Klinik auf, ist in einem Zustande starker",
+          "start_codepoint": 9056,
+          "kind": "prose"
+        },
+        {
+          "page": 103,
+          "source_line": 14,
+          "anchor": "Die Anamnese ergibt, daß der gleiche Zustand wiederholentlich bei dem",
+          "source_line_text": "Die Anamnese ergibt, daß der gleiche Zustand wiederholentlich bei dem Patienten vorhanden war. Die Untersuchung der geistigen Beschaffenheit des Patienten ergibt",
+          "start_codepoint": 9316,
+          "kind": "prose"
+        },
+        {
+          "page": 107,
+          "source_line": 13,
+          "anchor": "Vierter Fall",
+          "source_line_text": "Vierter Fall",
+          "start_codepoint": 15788,
+          "kind": "heading"
+        },
+        {
+          "page": 107,
+          "source_line": 14,
+          "anchor": "Ein Kind, das uns zweimal in die Klinik gebracht wurde,",
+          "source_line_text": "Ein Kind, das uns zweimal in die Klinik gebracht wurde,",
+          "start_codepoint": 15801,
+          "kind": "prose"
+        },
+        {
+          "page": 112,
+          "source_line": 12,
+          "anchor": "Wen diese Wahrheit irritiert, dem möchten wir sagen,",
+          "source_line_text": "Wen diese Wahrheit irritiert, dem möchten wir sagen,",
+          "start_codepoint": 24282,
+          "kind": "prose"
+        },
+        {
+          "page": 112,
+          "source_line": 17,
+          "anchor": "Therapeutisch kann eine solche Einsicht ja nur dazu führen, eine Ansicht",
+          "source_line_text": "Therapeutisch kann eine solche Einsicht ja nur dazu führen, eine Ansicht zu bekommen, an welchem Punkte man",
+          "start_codepoint": 24700,
+          "kind": "prose"
+        },
+        {
+          "page": 114,
+          "source_line": 4,
+          "anchor": "Bei der Mutter wurde mehr die letzte Therapie angewendet, weil, als in",
+          "source_line_text": "Bei der Mutter wurde mehr die letzte Therapie angewendet, weil, als in einer Generation höherstehend, die Vererbungskräfte ja weniger gewirkt haben. Das Gleiche gilt",
+          "start_codepoint": 27153,
+          "kind": "prose"
+        },
+        {
+          "page": 114,
+          "source_line": 15,
+          "anchor": "Fünfter Fall",
+          "source_line_text": "Fünfter Fall",
+          "start_codepoint": 27924,
+          "kind": "heading"
+        },
+        {
+          "page": 114,
+          "source_line": 16,
+          "anchor": "Eine 26-jährige Patientin kam in unsere Klinik mit den",
+          "source_line_text": "Eine 26-jährige Patientin kam in unsere Klinik mit den",
+          "start_codepoint": 27937,
+          "kind": "prose"
+        },
+        {
+          "page": 116,
+          "source_line": 5,
+          "anchor": "Der Senkungsabszeß wurde einigemale punktiert. Es",
+          "source_line_text": "Der Senkungsabszeß wurde einigemale punktiert. Es",
+          "start_codepoint": 30643,
+          "kind": "prose"
+        },
+        {
+          "page": 117,
+          "source_line": 0,
+          "anchor": "Zwischenbemerkung",
+          "source_line_text": "Zwischenbemerkung",
+          "start_codepoint": 31830,
+          "kind": "heading"
+        },
+        {
+          "page": 117,
+          "source_line": 1,
+          "anchor": "Durch die bisher behandelten Fälle wollten wir die Prinzipien",
+          "source_line_text": "Durch die bisher behandelten Fälle wollten wir die Prinzipien charakterisieren, nach denen wir aus der Diagnose",
+          "start_codepoint": 31848,
+          "kind": "prose"
+        },
+        {
+          "page": 117,
+          "source_line": 5,
+          "anchor": "Sechster Fall. Heufieberbehandlung",
+          "source_line_text": "Sechster Fall. Heufieberbehandlung",
+          "start_codepoint": 32295,
+          "kind": "heading"
+        },
+        {
+          "page": 117,
+          "source_line": 6,
+          "anchor": "Wir hatten einen Patienten mit schweren Heufiebererscheinungen. Derselbe",
+          "source_line_text": "Wir hatten einen Patienten mit schweren Heufiebererscheinungen. Derselbe litt schon seit Kindheit darunter.",
+          "start_codepoint": 32330,
+          "kind": "prose"
+        },
+        {
+          "page": 118,
+          "source_line": 13,
+          "anchor": "Siebenter Fall. Sklerosebehandlung",
+          "source_line_text": "Siebenter Fall. Sklerosebehandlung",
+          "start_codepoint": 34263,
+          "kind": "heading"
+        },
+        {
+          "page": 118,
+          "source_line": 14,
+          "anchor": "Eine 61-jährige Patientin erscheint in unserer Klinik mit",
+          "source_line_text": "Eine 61-jährige Patientin erscheint in unserer Klinik mit",
+          "start_codepoint": 34298,
+          "kind": "prose"
+        },
+        {
+          "page": 120,
+          "source_line": 8,
+          "anchor": "Achter Fall, Eine Struma-Behandlung",
+          "source_line_text": "Achter Fall, Eine Struma-Behandlung",
+          "start_codepoint": 37125,
+          "kind": "heading"
+        },
+        {
+          "page": 120,
+          "source_line": 9,
+          "anchor": "Die Patientin kam im 34. Lebensjahre zu uns. Sie stellt",
+          "source_line_text": "Die Patientin kam im 34. Lebensjahre zu uns. Sie stellt",
+          "start_codepoint": 37161,
+          "kind": "prose"
+        },
+        {
+          "page": 120,
+          "source_line": 20,
+          "anchor": "Wir wollen nun nach diesem Teil der Anamnese den",
+          "source_line_text": "Wir wollen nun nach diesem Teil der Anamnese den",
+          "start_codepoint": 38092,
+          "kind": "prose"
+        },
+        {
+          "page": 121,
+          "source_line": 2,
+          "anchor": "Bei der Patientin zeigt sich eine hochgradige Atonie des",
+          "source_line_text": "Bei der Patientin zeigt sich eine hochgradige Atonie des",
+          "start_codepoint": 38234,
+          "kind": "prose"
+        },
+        {
+          "page": 123,
+          "source_line": 13,
+          "anchor": "Neunter Fall",
+          "source_line_text": "Neunter Fall",
+          "start_codepoint": 42564,
+          "kind": "heading"
+        },
+        {
+          "page": 123,
+          "source_line": 15,
+          "anchor": "Die Patientin kam mit 55 Jahren zu uns. Sie gibt an, ein",
+          "source_line_text": "Die Patientin kam mit 55 Jahren zu uns. Sie gibt an, ein",
+          "start_codepoint": 42617,
+          "kind": "prose"
+        },
+        {
+          "page": 124,
+          "source_line": 13,
+          "anchor": "Diese Erkenntnisse führen uns zur folgenden Therapie:",
+          "source_line_text": "Diese Erkenntnisse führen uns zur folgenden Therapie:",
+          "start_codepoint": 44424,
+          "kind": "prose"
+        }
+      ]
+    },
+    "ga-027-source-heading-20": {
+      "input_sha256": "f2214833a8060362794c727f7fcaada5e0cbe9298b5ee4952fbd61d3317da3c4",
+      "source_text_sha256": "371436f3d6801a9ea2873507586cc86588811762e9c8df235745fcf45d2b012a",
+      "title": "TYPISCHE HEILMITTEL",
+      "source_pages": [
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        139,
+        140,
+        141
+      ],
+      "starts": [
+        {
+          "page": 126,
+          "source_line": 0,
+          "anchor": "XX",
+          "source_line_text": "XX",
+          "start_codepoint": 0,
+          "kind": "heading"
+        },
+        {
+          "page": 126,
+          "source_line": 1,
+          "anchor": "Vorbemerkung",
+          "source_line_text": "Vorbemerkung",
+          "start_codepoint": 3,
+          "kind": "heading"
+        },
+        {
+          "page": 126,
+          "source_line": 2,
+          "anchor": "Es sollen jetzt einige der von uns zum Teil in den Handel",
+          "source_line_text": "Es sollen jetzt einige der von uns zum Teil in den Handel",
+          "start_codepoint": 16,
+          "kind": "prose"
+        },
+        {
+          "page": 126,
+          "source_line": 8,
+          "anchor": "1. Das Mittel «Scleron»",
+          "source_line_text": "1. Das Mittel «Scleron»",
+          "start_codepoint": 459,
+          "kind": "heading"
+        },
+        {
+          "page": 126,
+          "source_line": 9,
+          "anchor": "Dasselbe besteht aus metallischem Blei, Honig und Zucker.",
+          "source_line_text": "Dasselbe besteht aus metallischem Blei, Honig und Zucker.",
+          "start_codepoint": 483,
+          "kind": "prose"
+        },
+        {
+          "page": 128,
+          "source_line": 0,
+          "anchor": "2. Das Migräne-Mittel",
+          "source_line_text": "2. Das Migräne-Mittel",
+          "start_codepoint": 2765,
+          "kind": "heading"
+        },
+        {
+          "page": 128,
+          "source_line": 2,
+          "anchor": "Die Kopf Organisation ist so beschaffen, daß der nach innen",
+          "source_line_text": "Die Kopf Organisation ist so beschaffen, daß der nach innen",
+          "start_codepoint": 2798,
+          "kind": "prose"
+        },
+        {
+          "page": 129,
+          "source_line": 8,
+          "anchor": "3. Ein Mittel gegen Tracheitis und",
+          "source_line_text": "3. Ein Mittel gegen Tracheitis und",
+          "start_codepoint": 4983,
+          "kind": "heading"
+        },
+        {
+          "page": 129,
+          "source_line": 10,
+          "anchor": "Wir wollen nunmehr ein Mittel besprechen, das sein Dasein der Erkenntnis",
+          "source_line_text": "Wir wollen nunmehr ein Mittel besprechen, das sein Dasein der Erkenntnis verdankt, die die Prozesse der Stoffe in",
+          "start_codepoint": 5036,
+          "kind": "prose"
+        },
+        {
+          "page": 130,
+          "source_line": 7,
+          "anchor": "4. Wirkungen",
+          "source_line_text": "4. Wirkungen",
+          "start_codepoint": 6738,
+          "kind": "heading"
+        },
+        {
+          "page": 130,
+          "source_line": 9,
+          "anchor": "Das Antimon hat eine außerordentlich starke Verwandtschaft zu andern",
+          "source_line_text": "Das Antimon hat eine außerordentlich starke Verwandtschaft zu andern Körpern, z. B. zum Schwefel. Dadurch",
+          "start_codepoint": 6776,
+          "kind": "prose"
+        },
+        {
+          "page": 132,
+          "source_line": 4,
+          "anchor": "Ein wichtiges Heilmittel ist Antimon in allen Erkrankungen, in denen eine",
+          "source_line_text": "Ein wichtiges Heilmittel ist Antimon in allen Erkrankungen, in denen eine gefährliche Herabdämpfung des Bewußtseins (Somnolenz) eintritt. In diesem Falle sind die",
+          "start_codepoint": 9424,
+          "kind": "prose"
+        },
+        {
+          "page": 132,
+          "source_line": 15,
+          "anchor": "5. Zinnober",
+          "source_line_text": "5. Zinnober",
+          "start_codepoint": 10281,
+          "kind": "heading"
+        },
+        {
+          "page": 132,
+          "source_line": 16,
+          "anchor": "Wir konnten in dem Zinnober ein wichtiges Heilmittel",
+          "source_line_text": "Wir konnten in dem Zinnober ein wichtiges Heilmittel",
+          "start_codepoint": 10293,
+          "kind": "prose"
+        },
+        {
+          "page": 133,
+          "source_line": 14,
+          "anchor": "6. Das Heuschnupfen-Mittel",
+          "source_line_text": "6. Das Heuschnupfen-Mittel",
+          "start_codepoint": 11819,
+          "kind": "heading"
+        },
+        {
+          "page": 133,
+          "source_line": 16,
+          "anchor": "Beim Heuschnupfen haben wir als Krankheits-Symptome",
+          "source_line_text": "Beim Heuschnupfen haben wir als Krankheits-Symptome",
+          "start_codepoint": 11856,
+          "kind": "prose"
+        },
+        {
+          "page": 135,
+          "source_line": 0,
+          "anchor": "[Die früheren Ausgaben waren von einem Vor- und einem Nachwort aus der",
+          "source_line_text": "[Die früheren Ausgaben waren von einem Vor- und einem Nachwort aus der Hand von Frau Dr. Wegman begleitet. Sie sind hier",
+          "start_codepoint": 13685,
+          "kind": "note"
+        },
+        {
+          "page": 135,
+          "source_line": 2,
+          "anchor": "VORWORT ZUR ERSTEN AUFLAGE",
+          "source_line_text": "VORWORT ZUR ERSTEN AUFLAGE",
+          "start_codepoint": 13822,
+          "kind": "heading"
+        },
+        {
+          "page": 135,
+          "source_line": 3,
+          "anchor": "Der Lehrer, Führer und Freund, Rudolf Steiner, ist nicht",
+          "source_line_text": "Der Lehrer, Führer und Freund, Rudolf Steiner, ist nicht",
+          "start_codepoint": 13849,
+          "kind": "prose"
+        },
+        {
+          "page": 135,
+          "source_line": 14,
+          "anchor": "Die Frucht geeinter Arbeit wurde in diesem kleinen",
+          "source_line_text": "Die Frucht geeinter Arbeit wurde in diesem kleinen",
+          "start_codepoint": 14553,
+          "kind": "prose"
+        },
+        {
+          "page": 135,
+          "source_line": 16,
+          "anchor": "Die Lehre der Anthroposophie, die gerade für die medizinische",
+          "source_line_text": "Die Lehre der Anthroposophie, die gerade für die medizinische \"Wissenschaft eine Goldgrube der Anregungen",
+          "start_codepoint": 14624,
+          "kind": "prose"
+        },
+        {
+          "page": 136,
+          "source_line": 0,
+          "anchor": "Es war stets das Bestreben Rudolf Steiners - und ich brachte",
+          "source_line_text": "Es war stets das Bestreben Rudolf Steiners - und ich brachte",
+          "start_codepoint": 15193,
+          "kind": "prose"
+        },
+        {
+          "page": 136,
+          "source_line": 13,
+          "anchor": "So wurden die ersten Anfänge gemacht, und hat das von",
+          "source_line_text": "So wurden die ersten Anfänge gemacht, und hat das von",
+          "start_codepoint": 16064,
+          "kind": "prose"
+        },
+        {
+          "page": 136,
+          "source_line": 18,
+          "anchor": "Wir hatten vor, diesem kleinen Buch noch manches aus",
+          "source_line_text": "Wir hatten vor, diesem kleinen Buch noch manches aus",
+          "start_codepoint": 16426,
+          "kind": "prose"
+        },
+        {
+          "page": 137,
+          "source_line": 1,
+          "anchor": "Arlesheim-Dornach, September 1925",
+          "source_line_text": "Arlesheim-Dornach, September 1925",
+          "start_codepoint": 17001,
+          "kind": "attribution"
+        },
+        {
+          "page": 137,
+          "source_line": 2,
+          "anchor": "ha Wegman, Dr. med.",
+          "source_line_text": "ha Wegman, Dr. med.",
+          "start_codepoint": 17035,
+          "kind": "attribution"
+        },
+        {
+          "page": 137,
+          "source_line": 3,
+          "anchor": "NACHWORT",
+          "source_line_text": "NACHWORT",
+          "start_codepoint": 17055,
+          "kind": "heading"
+        },
+        {
+          "page": 137,
+          "source_line": 4,
+          "anchor": "Soweit liegt heute die Frucht gemeinsamer Arbeit vor und",
+          "source_line_text": "Soweit liegt heute die Frucht gemeinsamer Arbeit vor und",
+          "start_codepoint": 17064,
+          "kind": "prose"
+        },
+        {
+          "page": 139,
+          "source_line": 0,
+          "anchor": "HINWEISE DES HERAUSGEBERS",
+          "source_line_text": "HINWEISE DES HERAUSGEBERS",
+          "start_codepoint": 17951,
+          "kind": "heading"
+        },
+        {
+          "page": 139,
+          "source_line": 1,
+          "anchor": "2» dieser Ausgabe",
+          "source_line_text": "2» dieser Ausgabe",
+          "start_codepoint": 17977,
+          "kind": "heading"
+        },
+        {
+          "page": 139,
+          "source_line": 2,
+          "anchor": "Textgrundlage: 1. Auflage 1925.",
+          "source_line_text": "Textgrundlage: 1. Auflage 1925.",
+          "start_codepoint": 17995,
+          "kind": "heading"
+        },
+        {
+          "page": 139,
+          "source_line": 3,
+          "anchor": "Für die 7. Auflage (1991) wurde der Text mit der Erstausgabe",
+          "source_line_text": "Für die 7. Auflage (1991) wurde der Text mit der Erstausgabe",
+          "start_codepoint": 18027,
+          "kind": "note"
+        },
+        {
+          "page": 139,
+          "source_line": 6,
+          "anchor": "Das vorliegende Buch wurde gemeinsam von Rudolf Steiner und",
+          "source_line_text": "Das vorliegende Buch wurde gemeinsam von Rudolf Steiner und",
+          "start_codepoint": 18229,
+          "kind": "note"
+        },
+        {
+          "page": 139,
+          "source_line": 27,
+          "anchor": "Teile von Rudolf Steiners Manuskript sind faksimiliert wiedergegeben in",
+          "source_line_text": "Teile von Rudolf Steiners Manuskript sind faksimiliert wiedergegeben in «Beiträge zur Rudolf Steiner Gesamtausgabe», Nr. 58/59",
+          "start_codepoint": 19628,
+          "kind": "note"
+        },
+        {
+          "page": 140,
+          "source_line": 0,
+          "anchor": "Textkorrekturen des Herausgebers gegenüber der Ausgabe 1925",
+          "source_line_text": "Textkorrekturen des Herausgebers gegenüber der Ausgabe 1925",
+          "start_codepoint": 19786,
+          "kind": "heading"
+        },
+        {
+          "page": 140,
+          "source_line": 1,
+          "anchor": "Seite Zeile",
+          "source_line_text": "Seite Zeile",
+          "start_codepoint": 19846,
+          "kind": "heading"
+        },
+        {
+          "page": 141,
+          "source_line": 0,
+          "anchor": "Hinweise zum Text",
+          "source_line_text": "Hinweise zum Text",
+          "start_codepoint": 20663,
+          "kind": "heading"
+        },
+        {
+          "page": 141,
+          "source_line": 1,
+          "anchor": "Werke Rudolf Steiners innerhalb der Gesamtausgabe (GA) werden in den",
+          "source_line_text": "Werke Rudolf Steiners innerhalb der Gesamtausgabe (GA) werden in den",
+          "start_codepoint": 20681,
+          "kind": "note"
+        },
+        {
+          "page": 141,
+          "source_line": 3,
+          "anchor": "Zu Seite",
+          "source_line_text": "Zu Seite",
+          "start_codepoint": 20847,
+          "kind": "heading"
+        },
+        {
+          "page": 141,
+          "source_line": 4,
+          "anchor": "7 noch weitere Erkenntnisse, die durch andere Methoden gefunden",
+          "source_line_text": "7 noch weitere Erkenntnisse, die durch andere Methoden gefunden",
+          "start_codepoint": 20856,
+          "kind": "note"
+        },
+        {
+          "page": 141,
+          "source_line": 6,
+          "anchor": "9 « Wie erlangt man Erkenntnisse der höheren Welten f» (1904/05), GA",
+          "source_line_text": "9 « Wie erlangt man Erkenntnisse der höheren Welten f» (1904/05), GA",
+          "start_codepoint": 21015,
+          "kind": "note"
+        },
+        {
+          "page": 141,
+          "source_line": 8,
+          "anchor": "«Die Geheimwissenschaft im Umriß» (1910), GA 13.",
+          "source_line_text": "«Die Geheimwissenschaft im Umriß» (1910), GA 13.",
+          "start_codepoint": 21088,
+          "kind": "note"
+        },
+        {
+          "page": 141,
+          "source_line": 9,
+          "anchor": "14 in den oben erwähnten Büchern: Siehe Hinweise zu S. 9.",
+          "source_line_text": "14 in den oben erwähnten Büchern: Siehe Hinweise zu S. 9.",
+          "start_codepoint": 21137,
+          "kind": "note"
+        },
+        {
+          "page": 141,
+          "source_line": 10,
+          "anchor": "26 Emil Du Bois-Reymond, 1818-1896, Berliner Physiologe. Die angeführte",
+          "source_line_text": "26 Emil Du Bois-Reymond, 1818-1896, Berliner Physiologe. Die angeführte Stelle findet sich in dessen «Über die Grenzen des Naturerkennens. Ein Vortrag in der zweiten öffentlichen Sitzung der 45.",
+          "start_codepoint": 21195,
+          "kind": "note"
+        },
+        {
+          "page": 141,
+          "source_line": 13,
+          "anchor": "95 «Heil-Eurythmie»: Die Grundlagen zur Heileurythmie hat Rudolf",
+          "source_line_text": "95 «Heil-Eurythmie»: Die Grundlagen zur Heileurythmie hat Rudolf",
+          "start_codepoint": 21492,
+          "kind": "note"
+        },
+        {
+          "page": 141,
+          "source_line": 16,
+          "anchor": "98 Klinisch-Therapeutisches Institut in Ariesheim, Ita Wegman-Künik.",
+          "source_line_text": "98 Klinisch-Therapeutisches Institut in Ariesheim, Ita Wegman-Künik.",
+          "start_codepoint": 21683,
+          "kind": "note"
+        },
+        {
+          "page": 141,
+          "source_line": 17,
+          "anchor": "128 Das Migräne-Mittel «Biodoron»: In Deutschland vertrieben unter",
+          "source_line_text": "128 Das Migräne-Mittel «Biodoron»: In Deutschland vertrieben unter",
+          "start_codepoint": 21752,
+          "kind": "note"
+        },
+        {
+          "page": 141,
+          "source_line": 19,
+          "anchor": "NAMENREGISTE R",
+          "source_line_text": "NAMENREGISTE R",
+          "start_codepoint": 21845,
+          "kind": "heading"
+        },
+        {
+          "page": 141,
+          "source_line": 20,
+          "anchor": "Du Bois-Reymond, Emil 26",
+          "source_line_text": "Du Bois-Reymond, Emil 26",
+          "start_codepoint": 21860,
+          "kind": "note"
+        },
+        {
+          "page": 141,
+          "source_line": 21,
+          "anchor": "Molt, Emil 96",
+          "source_line_text": "Molt, Emil 96",
+          "start_codepoint": 21885,
+          "kind": "note"
+        },
+        {
+          "page": 141,
+          "source_line": 22,
+          "anchor": "Steiner, Rudolf 8, 9, 95, 96, 135-137",
+          "source_line_text": "Steiner, Rudolf 8, 9, 95, 96, 135-137",
+          "start_codepoint": 21899,
+          "kind": "note"
+        },
+        {
+          "page": 141,
+          "source_line": 23,
+          "anchor": "Werke:",
+          "source_line_text": "Werke:",
+          "start_codepoint": 21937,
+          "kind": "heading"
+        },
+        {
+          "page": 141,
+          "source_line": 24,
+          "anchor": "Wie erlangt man Erkenntnisse der höheren Welten? (GA 10) 9, 14",
+          "source_line_text": "Wie erlangt man Erkenntnisse der höheren Welten? (GA 10) 9, 14",
+          "start_codepoint": 21944,
+          "kind": "note"
+        },
+        {
+          "page": 141,
+          "source_line": 25,
+          "anchor": "Die Geheimwissenschaft im Umriß (GA 13) 9, 14",
+          "source_line_text": "Die Geheimwissenschaft im Umriß (GA 13) 9, 14",
+          "start_codepoint": 22007,
+          "kind": "note"
+        },
+        {
+          "page": 141,
+          "source_line": 26,
+          "anchor": "Wegman, Ita 137",
+          "source_line_text": "Wegman, Ita 137",
+          "start_codepoint": 22053,
+          "kind": "note"
+        }
+      ]
+    }
+  },
+  "pages": {
+    "7": {
+      "source_page_id": "source-page-7",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "94a9106bb3c340956c62d0b014cfa3f7cc13bb3995d227d6f6228ccbd02fa4a3",
+      "image_member": "EPUB/images/02c1c417bc6a48233008.png",
+      "image_sha256": "02c1c417bc6a48233008ede80e39b2093a767548629380975975a641f0d01f79"
+    },
+    "8": {
+      "source_page_id": "source-page-8",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "a1dae6e9392d8f10b29590e416237b4cc285edd740a2b82ac5469b95adb331ee",
+      "image_member": "EPUB/images/f8d220b319acabfa9140.png",
+      "image_sha256": "f8d220b319acabfa91402e5f072a505207281fea64c396d4bb8a9d961761c7fe"
+    },
+    "9": {
+      "source_page_id": "source-page-9",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "8881d3c60c65d5d75dc5677cca2401b20f34970ac51d321930ed290a1499bdcc",
+      "image_member": "EPUB/images/df427facf4996fea020e.png",
+      "image_sha256": "df427facf4996fea020ee44444e2e131452e3e4ed42e7a652f93f9069e270cda"
+    },
+    "10": {
+      "source_page_id": "source-page-10",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "8c87a188b95f3becd5f0e2e7e79fd0b7ab7c241f6065bb9fc37edf7dcac05d82",
+      "image_member": "EPUB/images/aa43c8f1cf4f54297160.png",
+      "image_sha256": "aa43c8f1cf4f54297160692117d7ea6ff4233c1b31f87dff6093379913fe0222"
+    },
+    "11": {
+      "source_page_id": "source-page-11",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "d50d361192c2fe0b2bb931c61189abefebaf16c9cc80ea89c698a55dd05bc7f2",
+      "image_member": "EPUB/images/3de4c33525b3f3cc8692.png",
+      "image_sha256": "3de4c33525b3f3cc8692910a4b0c970bbc1371bb290b53c6d8997fd3a618af6d"
+    },
+    "12": {
+      "source_page_id": "source-page-12",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "e1756bccef086264b5cd318f440327ff9c709017cdedaadc2e638c41335f65c9",
+      "image_member": "EPUB/images/6545d435f88c3dc41ce8.png",
+      "image_sha256": "6545d435f88c3dc41ce8e05df5588e3f81743b4e92ac55cb7dfee9aca4b89d30"
+    },
+    "13": {
+      "source_page_id": "source-page-13",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "3ae29664cc923392cff9846204751ba2d43939eb5716620b11ab7f00bc36711c",
+      "image_member": "EPUB/images/3ba41297ff1aaa2ffaf0.png",
+      "image_sha256": "3ba41297ff1aaa2ffaf030f947935b0aaf83eb429c3d83b413f3760138d747df"
+    },
+    "14": {
+      "source_page_id": "source-page-14",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "85ef2bbbf7e957e6b51d3e5b94b18914a8f0861d8e0ddcc1ffe7abf66c450e38",
+      "image_member": "EPUB/images/7c1117e09f9cb51052da.png",
+      "image_sha256": "7c1117e09f9cb51052da36351de7fc18b668a1f7671b293a813ae8e31516d79e"
+    },
+    "15": {
+      "source_page_id": "source-page-15",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "6c5cbffd4e238350b469cb035a18b080c2b05e208cce8494e2d9669114eac92d",
+      "image_member": "EPUB/images/c4bd16928db02a4949ae.png",
+      "image_sha256": "c4bd16928db02a4949ae0096d60b3e99f873bcd3619b556234dcb0d535542810"
+    },
+    "16": {
+      "source_page_id": "source-page-16",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "4442c7afd3bf943268af7fa5f9c1baa41c042417540974dcfae8bdee819d35e7",
+      "image_member": "EPUB/images/598e17df17454d44798c.png",
+      "image_sha256": "598e17df17454d44798ca13b61a9566a6d4fe0babbc5d15a6b93228a62d6b57a"
+    },
+    "17": {
+      "source_page_id": "source-page-17",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "39e6659d3fb29fcbf372f15654e6120a4ce68d03844d0bbd2d87a46eca5cfa24",
+      "image_member": "EPUB/images/ce2b0075920509c68a1d.png",
+      "image_sha256": "ce2b0075920509c68a1dbc0773ab662af3560eb46cce65235bd1cef5bc3a08c2"
+    },
+    "18": {
+      "source_page_id": "source-page-18",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "1ce55b2cbec8abea4926aedafab5b5fd1c2e0bdbf02460119ab965caaa038efa",
+      "image_member": "EPUB/images/d8e62081831572f549a0.png",
+      "image_sha256": "d8e62081831572f549a0a84a529b711ebcb4a1454dcf2cad4d141256c1ab3a9b"
+    },
+    "19": {
+      "source_page_id": "source-page-19",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "433e31803f2448f56a7a6a55d865c238d7a0ea9bae52ddb34e942615438be205",
+      "image_member": "EPUB/images/a1233a347400711ec605.png",
+      "image_sha256": "a1233a347400711ec605ca70305e7cd311e8eb27a8b7a76912804476d2e4be95"
+    },
+    "20": {
+      "source_page_id": "source-page-20",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "42f43d2b78a6290238930f963b303800e42e666db536a6b0b50fd6a66c440330",
+      "image_member": "EPUB/images/43375a522e2ce0a755de.png",
+      "image_sha256": "43375a522e2ce0a755de513f8a03403a7e6f622994021ca453eda0e841044ceb"
+    },
+    "21": {
+      "source_page_id": "source-page-21",
+      "member": "EPUB/chapter-0001.xhtml",
+      "text_sha256": "a6b72738fe3cc20cfa4a11ee4c9b82bd15d67bdb147a9df6df5f87c891e4601b",
+      "image_member": "EPUB/images/e15c8118c8b420218e49.png",
+      "image_sha256": "e15c8118c8b420218e496eff45325947cdcefe89183819f32ceeb6338a28cfad"
+    },
+    "22": {
+      "source_page_id": "source-page-22",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "7a6c198c053ff5e2f42242486a23d390a4ae71f72ad52a3a4912dbc398ee760e",
+      "image_member": "EPUB/images/c37d4ba2d8b5111b0c79.png",
+      "image_sha256": "c37d4ba2d8b5111b0c793d1053c65e5259c2a812f1cc84a9d1f8c54211c67e32"
+    },
+    "23": {
+      "source_page_id": "source-page-23",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "2efc268765b3ed1301460802908e29d0bf2810dc45ca5dc343e109d9b110e626",
+      "image_member": "EPUB/images/c0a62db6051898211d9b.png",
+      "image_sha256": "c0a62db6051898211d9b9ab8788a7d3521238baae527b3da5615a8c3837b3c8e"
+    },
+    "24": {
+      "source_page_id": "source-page-24",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "57f5f966b29c9778ba95477523a05cb6a5fcb9a82071a3a61827bd4bbc38d2b7",
+      "image_member": "EPUB/images/07bda68dc14aeb41236f.png",
+      "image_sha256": "07bda68dc14aeb41236f79b01dc5d0d775c3a465373d1e90253666576dbec576"
+    },
+    "25": {
+      "source_page_id": "source-page-25",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "46c764f7a9d57a97695236a64ab1ece30a14c17e00e9b43b58e6585d1fec3189",
+      "image_member": "EPUB/images/07844f1afa696dd011ae.png",
+      "image_sha256": "07844f1afa696dd011ae397fd8a6853f23c04a48799a4e03d7cf30907da38257"
+    },
+    "26": {
+      "source_page_id": "source-page-26",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "1ba8c766e3ffe222d1d4d9b87948224f9ce79836b561d3cf1239983a0fff6cfb",
+      "image_member": "EPUB/images/149270ee376fad367d10.png",
+      "image_sha256": "149270ee376fad367d10b303e6059dc0cf1b5ef2d7323be23350e523c1d84d53"
+    },
+    "27": {
+      "source_page_id": "source-page-27",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "14b54a1305c13c5175c05459ab884ae3c74cc80d6799565651372ab3b5a531ec",
+      "image_member": "EPUB/images/a191149d61851222da2b.png",
+      "image_sha256": "a191149d61851222da2b7296de2905eb787ce67c52316acbe7ddfcd54e4db20f"
+    },
+    "28": {
+      "source_page_id": "source-page-28",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "56ea1f1ac68cb3ef4fb91c075015e52cfb67946ffd6c54abde6a482bb0e5ff11",
+      "image_member": "EPUB/images/9bd8785d191955f1a4fd.png",
+      "image_sha256": "9bd8785d191955f1a4fd328113d10fb7244477e912f32c45e43057a23ed7c472"
+    },
+    "29": {
+      "source_page_id": "source-page-29",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "ebbd98c539bcd9bc54d3967f1b11a0002bab76f0299117b6b838ae3925e5b9b4",
+      "image_member": "EPUB/images/2eaf2b85f913005247b0.png",
+      "image_sha256": "2eaf2b85f913005247b078fa0da5e8413450d363825464395d3815bf5751b901"
+    },
+    "30": {
+      "source_page_id": "source-page-30",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "915c98c3e8edb8e8dc99ca021eefa2a1fa4687e8570044677c7ba63af89cdc47",
+      "image_member": "EPUB/images/8f599c2de3b8572adfc3.png",
+      "image_sha256": "8f599c2de3b8572adfc39fac37add4e6d52e98cc03d63b443cd6c217e3b53239"
+    },
+    "31": {
+      "source_page_id": "source-page-31",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "fe72c4ceca5b7729556ed8aa41445258cd5da978d474ae65204e9533f225fa47",
+      "image_member": "EPUB/images/8936fbbb22cd2f153fda.png",
+      "image_sha256": "8936fbbb22cd2f153fda4719146a7394eea67408f33f5260840640325ff5a6a1"
+    },
+    "32": {
+      "source_page_id": "source-page-32",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "b812800d907e94ddd911e99f3ed2f71bddb1dd3572bb2c9d679717e074e48da5",
+      "image_member": "EPUB/images/02e30225e63e4da2c495.png",
+      "image_sha256": "02e30225e63e4da2c495238434422a1e39fcdac0cfe1e3d0722570ef4998f0a5"
+    },
+    "33": {
+      "source_page_id": "source-page-33",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "4e33c04462db6d90aa2fe27e223efd7a8da7f985c6c65d5902e299ca9624a355",
+      "image_member": "EPUB/images/589b15631ee6aa975728.png",
+      "image_sha256": "589b15631ee6aa975728f6911613634d2b1b22829def84837980c1f3f42a7564"
+    },
+    "34": {
+      "source_page_id": "source-page-34",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "7f5b04007b7a454e812a77abace006b8aad9eadf04462dbb159d0fb8fe59466a",
+      "image_member": "EPUB/images/52f94fd12edfccd2924d.png",
+      "image_sha256": "52f94fd12edfccd2924d6259016c7dd069f1a2ffad0b0099aa70b8d26a169c7d"
+    },
+    "35": {
+      "source_page_id": "source-page-35",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "22ac16141fb2cc7ffb1ca18a0007d949588af9fbcf400992d723dc4fd900bd2d",
+      "image_member": "EPUB/images/63b0bcd3fe670793f556.png",
+      "image_sha256": "63b0bcd3fe670793f55658cbcff8be1f09c51228e94cdb7e31c813313d2e3f38"
+    },
+    "36": {
+      "source_page_id": "source-page-36",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "fae032008909dcbd3a78d3f541bd7e40f7c4fa58eab244709177e841a3ba2052",
+      "image_member": "EPUB/images/b4c2089212ab784de025.png",
+      "image_sha256": "b4c2089212ab784de025818488be86378e0c711f5c8a033819472036bb3738a8"
+    },
+    "37": {
+      "source_page_id": "source-page-37",
+      "member": "EPUB/chapter-0002.xhtml",
+      "text_sha256": "2e5e79823297bf9dafb07baf77a4d191bb7c284f5147a3a5bca87a1b3a36a6a5",
+      "image_member": "EPUB/images/3d693eeacf0279bab157.png",
+      "image_sha256": "3d693eeacf0279bab1573fc68f5f172fab009d37a86061b47a613c316067afd2"
+    },
+    "38": {
+      "source_page_id": "source-page-38",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "b22026ae469a613aadbb627f2de7919752704e8896b8c1394a9ddde7ff920c9b",
+      "image_member": "EPUB/images/42d07818e69281eac604.png",
+      "image_sha256": "42d07818e69281eac604e6c248cd33a450171a1c9c096a9a5f930a1a271aadf5"
+    },
+    "39": {
+      "source_page_id": "source-page-39",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "63e1b2b46cb4fa61b719efc0b73ca6023ba67fb41d1e1f80ffa4434a02036308",
+      "image_member": "EPUB/images/73ca039c5f6d43f74540.png",
+      "image_sha256": "73ca039c5f6d43f74540b15cd2001bb50cf81554e08f02eefd545b8d75df32fe"
+    },
+    "40": {
+      "source_page_id": "source-page-40",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "2b6147319b3e890a3bce4a2e426e24aab419674cfa953d9b85e8f64563d70727",
+      "image_member": "EPUB/images/a8e6eae8d173e0906d68.png",
+      "image_sha256": "a8e6eae8d173e0906d68372ebd8eee5376593ee88745d3d2bc3e6c7ce442bcfd"
+    },
+    "41": {
+      "source_page_id": "source-page-41",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "3b536b56364edb9b105e02211e006a4152d4bfc28a508284aa1de22f38bf134f",
+      "image_member": "EPUB/images/9363e9ac92791792c524.png",
+      "image_sha256": "9363e9ac92791792c5242667ff3f655931e9a2e13c0ab0f2d777bb0c81e155b3"
+    },
+    "42": {
+      "source_page_id": "source-page-42",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "a993bce7d5256ac6ebf62b070a2825ec0c2727aa5f580db08df4fd3ff4dae5bf",
+      "image_member": "EPUB/images/55d3af33e6c3bae5d189.png",
+      "image_sha256": "55d3af33e6c3bae5d1898d8949e7f3b79134eb0d3f10eb2703af99f5f6394101"
+    },
+    "43": {
+      "source_page_id": "source-page-43",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "dc9dde9805b3ba4ab66d83a7c283e362d4af45e0c338dccf44fbc49aebb89f68",
+      "image_member": "EPUB/images/8efa48ca713408e981a7.png",
+      "image_sha256": "8efa48ca713408e981a7072661b2a2678194cbb3fc6719dc1797e5b4d01996c8"
+    },
+    "44": {
+      "source_page_id": "source-page-44",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "d36a61a960dab036f152cd3a502970092992df87abadb7efd0a5fe8e1995e393",
+      "image_member": "EPUB/images/eabb6e64055efa0d699d.png",
+      "image_sha256": "eabb6e64055efa0d699dbc9b3d7b7792c35e990455c2c04d5ce2fb33e1b79889"
+    },
+    "45": {
+      "source_page_id": "source-page-45",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "c2bbd0a428aa17083012b92dc488ee6e8da4a669ede69b592b41fc260446013b",
+      "image_member": "EPUB/images/3e2b3b6e269b20fca071.png",
+      "image_sha256": "3e2b3b6e269b20fca071a897fe54540197f8f48c2951ee6f9f3c4a67849ca7b0"
+    },
+    "46": {
+      "source_page_id": "source-page-46",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "f4bd7ccccc1f22937ace4c61d90a3ee913e43df266265e9d3704b5e876698b43",
+      "image_member": "EPUB/images/e2a84a70db813eced15e.png",
+      "image_sha256": "e2a84a70db813eced15edcb23006520daf0495335b69464e8fd0dfa0d2c28871"
+    },
+    "47": {
+      "source_page_id": "source-page-47",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "c634780ea79526fb6bc6f04b82e23cbeebbbe695f9e20a316c3654dce900fcde",
+      "image_member": "EPUB/images/2bfa84a5588ed595df06.png",
+      "image_sha256": "2bfa84a5588ed595df063b77b00bbc4e9a4f89f4e18b8dfb36f3cb983f30e130"
+    },
+    "48": {
+      "source_page_id": "source-page-48",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "1a0c7584655a4194daaaef214e649247a94cdeb5133dc644b1d9636018a6823e",
+      "image_member": "EPUB/images/3950506a9134ce5673b0.png",
+      "image_sha256": "3950506a9134ce5673b078b0229a136796c7347009115a28867ff83578136a0d"
+    },
+    "49": {
+      "source_page_id": "source-page-49",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "0464874e7251b1399b9ebad9189bf20e6999c36920087d1e313c9f575b660e5a",
+      "image_member": "EPUB/images/9ba523865d27608516db.png",
+      "image_sha256": "9ba523865d27608516db25f9c606a6d453fa5a92097fd88fe39c8e9991446d8d"
+    },
+    "50": {
+      "source_page_id": "source-page-50",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "139be9816fd147b3303294df172610b6c024c5bb335ad9c634c03b6d3ba91993",
+      "image_member": "EPUB/images/f4917110574f93757d06.png",
+      "image_sha256": "f4917110574f93757d064a7f1a6fbc32d3b1bfa89dad71a573c95e5278c7a836"
+    },
+    "51": {
+      "source_page_id": "source-page-51",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "2639970edbabb72f4620560ed9af00a3c569e9a4a4a7711b19935c6c152ad08c",
+      "image_member": "EPUB/images/0194bc94d80da12500f3.png",
+      "image_sha256": "0194bc94d80da12500f315f215932e0ef15b89f86a0ab8b13f31b780c22bf368"
+    },
+    "52": {
+      "source_page_id": "source-page-52",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "d58c4265c20b39294ab6950b951857dcdefa0fe1944300c0a2e648abcddda65e",
+      "image_member": "EPUB/images/4bad6f3180c1338b21af.png",
+      "image_sha256": "4bad6f3180c1338b21af4841013619f7475baf2f2fc78cdfc486faabe61cb68b"
+    },
+    "53": {
+      "source_page_id": "source-page-53",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "b842cf2591f6223eb83e9f4f2269b91bd8bea2925f5f3f6917e4469ee2722dd3",
+      "image_member": "EPUB/images/589f3a83e369b2d94984.png",
+      "image_sha256": "589f3a83e369b2d94984d45c430648ab3b2e06cf8b00466e71be9aed3457efb1"
+    },
+    "54": {
+      "source_page_id": "source-page-54",
+      "member": "EPUB/chapter-0003.xhtml",
+      "text_sha256": "f5bed1b81fa9ea66cc2014c401672bf0e557b7967607ebd7241fd32951ce77b1",
+      "image_member": "EPUB/images/d2a60a3cb917ec93eb7a.png",
+      "image_sha256": "d2a60a3cb917ec93eb7aa0b9f0fef69ffed83d3906b0766cd9b2c267f3a19726"
+    },
+    "55": {
+      "source_page_id": "source-page-55",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "440aede230d41e0df9014fdbe6f7a1d3ec44510b2e7534510807a069de95a375",
+      "image_member": "EPUB/images/2fc113fdf680ee171d50.png",
+      "image_sha256": "2fc113fdf680ee171d503cfaa624074dddff0371ac30d2e0281ef8b3c04738c5"
+    },
+    "56": {
+      "source_page_id": "source-page-56",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "56a064c82329e83183bb1ad282245b8e881aff2438c83add654253e5b6faf2a1",
+      "image_member": "EPUB/images/7a5274bfb8fe1fc4009b.png",
+      "image_sha256": "7a5274bfb8fe1fc4009b58ecfb7aebfab24e0b6acaaf704fcd0c1f6b6a02d36d"
+    },
+    "57": {
+      "source_page_id": "source-page-57",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "1f4e1938cdc8783a427362172f87b3787998cd8bc7bd8b56526ba91bc1a6a26e",
+      "image_member": "EPUB/images/a7adacec722c474c8304.png",
+      "image_sha256": "a7adacec722c474c8304851a6469faa462484d25d58e55084415883606e8df48"
+    },
+    "58": {
+      "source_page_id": "source-page-58",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "2c6c304c6f887928ef07437681bd377a7363e7622a5ceac463881d2d8276b174",
+      "image_member": "EPUB/images/a5cc616ee7363aa448e4.png",
+      "image_sha256": "a5cc616ee7363aa448e4d774c573e386867e64cd2d3a5865691ded8e9250f79b"
+    },
+    "59": {
+      "source_page_id": "source-page-59",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "a5675c7d77f7b1b7cab9f9b9ce6b9cc596e023ce861922c4dd8ac232a2e52bc1",
+      "image_member": "EPUB/images/4c812ee5089a1a43ed6a.png",
+      "image_sha256": "4c812ee5089a1a43ed6acd803eb658d589fa574e46af8071bf23fa1b47c8d83d"
+    },
+    "60": {
+      "source_page_id": "source-page-60",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "fc769acf5e03dc105823aae57e9300e1c4eb2a9d19897123b9e05e126c25732a",
+      "image_member": "EPUB/images/605be05df6cace4164a0.png",
+      "image_sha256": "605be05df6cace4164a0417ee73700f8b42b382c8209951f52adf5890ffe0af0"
+    },
+    "61": {
+      "source_page_id": "source-page-61",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "dabfc5620a329e1c230b5e5eca22b570bbe4d4ed386882bb1cc4e20407a7a85c",
+      "image_member": "EPUB/images/d5b614cd0a31112a3a4c.png",
+      "image_sha256": "d5b614cd0a31112a3a4c56e9074199ffce5d9301d15f594593d31f8fc9ea7c32"
+    },
+    "62": {
+      "source_page_id": "source-page-62",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "8085d771c99d4f46e5d0684652b0235a8ad63bb1750c9d56af0c3fb74604e073",
+      "image_member": "EPUB/images/ae98b7e394687b27ab58.png",
+      "image_sha256": "ae98b7e394687b27ab58b1daa0c510e6785ad35064645ffd2aa140895a8bfa20"
+    },
+    "63": {
+      "source_page_id": "source-page-63",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "8e0319775b4d5146239ccb78be09b0c7e783b6a9ae0d91785cc72b265924ca11",
+      "image_member": "EPUB/images/a6dd8f0796313303fcdf.png",
+      "image_sha256": "a6dd8f0796313303fcdf41d7884e6336b2d40f0569be299798e2eeebadb287d7"
+    },
+    "64": {
+      "source_page_id": "source-page-64",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "131f285e437ad66b665c35a4299a055dd7b1868b2b8322815955f2b270d434b4",
+      "image_member": "EPUB/images/dff780fb070def70f34a.png",
+      "image_sha256": "dff780fb070def70f34ab8d74cbcedf2e161ddc4e4881fa048f6d85a5c1fc8d9"
+    },
+    "65": {
+      "source_page_id": "source-page-65",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "3aae69e41afc2ec754a068ab07d06359ad5dba9c46529e57be1e30af03895755",
+      "image_member": "EPUB/images/1b94fc885c48f8103efc.png",
+      "image_sha256": "1b94fc885c48f8103efc61260bc3a61f12c16ff745476248a23c7f092a1b0f1b"
+    },
+    "66": {
+      "source_page_id": "source-page-66",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "7fe3cab82dd546657b05011553281892c0af308f98501bcabd76052031d52169",
+      "image_member": "EPUB/images/1b5b4eabded307b4155f.png",
+      "image_sha256": "1b5b4eabded307b4155ff6d3135b28791e5d6cbb48e8d022bd89095a5a80facc"
+    },
+    "67": {
+      "source_page_id": "source-page-67",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "ad2897848540da876e377d14c729442d3cac52ba6ccf35acf50763f0e7c9d12e",
+      "image_member": "EPUB/images/58e350079c7d08023803.png",
+      "image_sha256": "58e350079c7d08023803827daab6935ec0512a59238fd9a72112754b0b0a5963"
+    },
+    "68": {
+      "source_page_id": "source-page-68",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "658384cd2f6475a8076bbed8f32f609d67a8947ae3d8f4d529df22295779f91e",
+      "image_member": "EPUB/images/3a4b83de3ba157e518d4.png",
+      "image_sha256": "3a4b83de3ba157e518d4254c8f133ffd8df9db480a91d308fc644001076daaf6"
+    },
+    "69": {
+      "source_page_id": "source-page-69",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "563f0cc8caac0d888fcb89e4176d331ce368cfb42fddd0b74bb9fa2b5bdf74b6",
+      "image_member": "EPUB/images/1aa9c3f4c1534993a237.png",
+      "image_sha256": "1aa9c3f4c1534993a237f63c8f0720435a2f3a0186790f1be34fe12cabc1ed80"
+    },
+    "70": {
+      "source_page_id": "source-page-70",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "8ee3062638a7c98a1dd23581b1e468a25a7f1b7f1bed8e3f3dd3c35fbd2a869b",
+      "image_member": "EPUB/images/ffac22308dd1c199d39a.png",
+      "image_sha256": "ffac22308dd1c199d39ab635a6f8d68b0cb4ea4487e598cd7f936d0ebef7f5de"
+    },
+    "71": {
+      "source_page_id": "source-page-71",
+      "member": "EPUB/chapter-0004.xhtml",
+      "text_sha256": "4122b2c176e0e611b9addd1d0dd2b2c17c792441dee79ae12734366e2ec78ce1",
+      "image_member": "EPUB/images/58c50d8b0d9e909332d9.png",
+      "image_sha256": "58c50d8b0d9e909332d954f8746ece1aa0b4f124d8d5292e23f2d6dd71acc58e"
+    },
+    "72": {
+      "source_page_id": "source-page-72",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "d40a9e4172d679dba264bdcd485fba0e711c66c8ada2355e071f727c9c48bca5",
+      "image_member": "EPUB/images/ced0abed9d7e1c8fee62.png",
+      "image_sha256": "ced0abed9d7e1c8fee62e08fe8f8badcb45a6d2780bfcdd6db7649f32b0b8cab"
+    },
+    "73": {
+      "source_page_id": "source-page-73",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "cae5f652f9aff49fdc515ad3ede45928f519af6706ceb630f090da1f1510def5",
+      "image_member": "EPUB/images/44a7b849a4fdd8022757.png",
+      "image_sha256": "44a7b849a4fdd80227571a6ee1db0543d93d98561d6cabfde63eea2e8dd866ed"
+    },
+    "74": {
+      "source_page_id": "source-page-74",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "ed8b5964e9a9325fb34060b237bc3a7f61ee7b44dab194fcbcf1815f07e5960a",
+      "image_member": "EPUB/images/5090a6db1d8342c6a0f5.png",
+      "image_sha256": "5090a6db1d8342c6a0f5cee97a127ea2dcec99bf48ce6ecfcec8a9459a19efa2"
+    },
+    "75": {
+      "source_page_id": "source-page-75",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "f9d9a64158887ca8e6caab61c1ac4e147d1cf8ccde0a9711cf065a910a04cf1e",
+      "image_member": "EPUB/images/cb8360513c18ee7d7522.png",
+      "image_sha256": "cb8360513c18ee7d75225f92b48f2af6d6b2a8bd37fe3e8a7b05238e049b2026"
+    },
+    "76": {
+      "source_page_id": "source-page-76",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "b6281a5f5c03bcf64822d4db85cf42844486abb49c2d1efcfff2869b38b85d9b",
+      "image_member": "EPUB/images/d968090608ffa7b06c60.png",
+      "image_sha256": "d968090608ffa7b06c60145546e2d7d49df27758fb5f21e32e55e5e2a191b691"
+    },
+    "77": {
+      "source_page_id": "source-page-77",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "8ad857f3afd9e902b3b23305f58decac0e2dc797e4a2c8a2214ce5a1261dd274",
+      "image_member": "EPUB/images/7fe0b337fd285589ea90.png",
+      "image_sha256": "7fe0b337fd285589ea902363ee62126730c4a33928594f61b192431275cc7565"
+    },
+    "78": {
+      "source_page_id": "source-page-78",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "1c643589873f7635a0fe1d97861795dc006d9732c8419bea7daa8f3fc1fe0498",
+      "image_member": "EPUB/images/78bb3a7d08729cc88366.png",
+      "image_sha256": "78bb3a7d08729cc883662a53733f316f8194c8b83c875010e2897253670babbd"
+    },
+    "79": {
+      "source_page_id": "source-page-79",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "8f81af38a907ef5b68e7e8524219a201322c66525d557121db7cf615dde93241",
+      "image_member": "EPUB/images/926169b56f03690c417a.png",
+      "image_sha256": "926169b56f03690c417aadee3e580be1d1f9e99a6ae31cb1b0328bafc3f8dd7d"
+    },
+    "80": {
+      "source_page_id": "source-page-80",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "c11f58695ccf11175a53dec85433c8e578bbcc6998550fb1c0a9006934b432a8",
+      "image_member": "EPUB/images/0fa13b482f4899509286.png",
+      "image_sha256": "0fa13b482f4899509286b81ea6b509385e8045ee264eed5d60157bebcc9576cf"
+    },
+    "81": {
+      "source_page_id": "source-page-81",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "6bd6a66ba8e3bd33122c543f7704cb2e90d1eadbb19c332af8d332f0dca36073",
+      "image_member": "EPUB/images/66935bdacae49a69804d.png",
+      "image_sha256": "66935bdacae49a69804d0170c6451ae636340106a3e4b686f815e84320e89ebc"
+    },
+    "82": {
+      "source_page_id": "source-page-82",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "ae67009ceb7076c327bb17b419728a2f96f9b2d53e90c14c884ebcd1196a4cf8",
+      "image_member": "EPUB/images/ffd8308a92563473856b.png",
+      "image_sha256": "ffd8308a92563473856b348541ced3d0e18b50d03aa16dbf8b8c51f6200eda80"
+    },
+    "83": {
+      "source_page_id": "source-page-83",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "0df580d04b72a01ab434714700a8ba8ab2c7b2c21da81755091df5e2a56776b1",
+      "image_member": "EPUB/images/8d5ac4825dd5a738fb3d.png",
+      "image_sha256": "8d5ac4825dd5a738fb3d503120b978718876f947f2ccdceee60f0cbdcb377350"
+    },
+    "84": {
+      "source_page_id": "source-page-84",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "832e4205b6974b6fb8abfae2de212ff5e9892649865016418a135aeef3db1d48",
+      "image_member": "EPUB/images/07d556e20a8f662cb096.png",
+      "image_sha256": "07d556e20a8f662cb0961be22d450223f8c2a78f0dda65823e86da588e753ee8"
+    },
+    "85": {
+      "source_page_id": "source-page-85",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "dbfb547681bec887ac6a6da46fcb3b2c56a510532d1198031266b873d6478264",
+      "image_member": "EPUB/images/a00d1a81da19f6ff6841.png",
+      "image_sha256": "a00d1a81da19f6ff6841719094f3060ca1cfef801c1901e23eda0721d6100dfa"
+    },
+    "86": {
+      "source_page_id": "source-page-86",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "f535781cf488ae768affd6fc70e03fae399c4c552e679502bfcc9876efca01a0",
+      "image_member": "EPUB/images/a841a90b9548c0b679ab.png",
+      "image_sha256": "a841a90b9548c0b679ab02971a7f3bc7cd33da9fd6cf7b9655e27274121c200a"
+    },
+    "87": {
+      "source_page_id": "source-page-87",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "2477e1c703d12dd3821e9bc837e31abb0aa424dd285f07145de6c0b3c34d580c",
+      "image_member": "EPUB/images/642d1a9208e017e08ef4.png",
+      "image_sha256": "642d1a9208e017e08ef426a91b6cabe97b0f497f967f4fbd448723f00ff9cd98"
+    },
+    "88": {
+      "source_page_id": "source-page-88",
+      "member": "EPUB/chapter-0005.xhtml",
+      "text_sha256": "fed788158e424b1e54c6311a4ccc85077c34942d21ee72d232e739e2cf8c3ced",
+      "image_member": "EPUB/images/b0260a21e57f37891b6e.png",
+      "image_sha256": "b0260a21e57f37891b6ed224105d63ab010dd11d760f8bdc8f0bd611882c3c18"
+    },
+    "89": {
+      "source_page_id": "source-page-89",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "1eb837638e709475b5461d691db9d7eba6e07860241db6690fb10ab171011377",
+      "image_member": "EPUB/images/3085de58612fd74d3f48.png",
+      "image_sha256": "3085de58612fd74d3f4816972d13f619d43424d6de9c85f91c518536e00f60d9"
+    },
+    "90": {
+      "source_page_id": "source-page-90",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "d132e2bc859eec3a91ed85d3f0b98d08ff14fe803be2a3f4a7a7fc0ef5d92e56",
+      "image_member": "EPUB/images/c6768de8679121a7b9bb.png",
+      "image_sha256": "c6768de8679121a7b9bbb2f104261453d0a002a1545706d48d9262659de1c432"
+    },
+    "91": {
+      "source_page_id": "source-page-91",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "ff7bdc5aa82210431780368d7403a43985e2fe652999076b4efad24613bbf372",
+      "image_member": "EPUB/images/a8ed3d29ac1938eca347.png",
+      "image_sha256": "a8ed3d29ac1938eca3471f7049b2d5a289add6a9862641c443b75cd21ab56785"
+    },
+    "92": {
+      "source_page_id": "source-page-92",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "ee6d934831674ac1f751bc7f18ebb5578a47c403c94168cdb8db590322477638",
+      "image_member": "EPUB/images/8d5d774dd8e0365cb6a8.png",
+      "image_sha256": "8d5d774dd8e0365cb6a8f90158962c71a36332b1e660b1b364c5e0ad32617c3b"
+    },
+    "93": {
+      "source_page_id": "source-page-93",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "5d78d175ae071b9001ffd8b5bb210a23a75f80c8cfce46649b898b38ddef004d",
+      "image_member": "EPUB/images/71efa8e000e6eaf6ed20.png",
+      "image_sha256": "71efa8e000e6eaf6ed204d9489263d5ca334f3bb57243a45090f08dc7a3f34dd"
+    },
+    "94": {
+      "source_page_id": "source-page-94",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "a69bca30e70e1228af3e5e5eb04139e3a5047c8194024929d592d0bc934d0fe1",
+      "image_member": "EPUB/images/9b56d3dd9581803fedd5.png",
+      "image_sha256": "9b56d3dd9581803fedd5210724a49540e530675071bcfe792f0369ea43b377c0"
+    },
+    "95": {
+      "source_page_id": "source-page-95",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "a2c8de793032769cbea6f8d92eba44dab0c7da474c4cb12e262fe8b3cf34d1d3",
+      "image_member": "EPUB/images/b26e6e9d5386c20daf82.png",
+      "image_sha256": "b26e6e9d5386c20daf827d6ce5b6f79308431ace1adf9d6f19dbc921a3999d93"
+    },
+    "96": {
+      "source_page_id": "source-page-96",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "91e3eaddcf63623887e270c1382c2f32c607d47bf71f3470b0bb64c8e28bac60",
+      "image_member": "EPUB/images/b0ff62a5aad5e9483e60.png",
+      "image_sha256": "b0ff62a5aad5e9483e604d278cefdca93481e3cc16686055f5cac84fb55ec39c"
+    },
+    "97": {
+      "source_page_id": "source-page-97",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "990c536e5ea741e11b5e189b7ad002a3979824b7c2fb287580c3b7da7673a199",
+      "image_member": "EPUB/images/9b36cc0dc0a8dde3c7c4.png",
+      "image_sha256": "9b36cc0dc0a8dde3c7c44527581151cacab25a9707d61e410e6b4745a1cb9c55"
+    },
+    "98": {
+      "source_page_id": "source-page-98",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "139dc772dc7f05e155136b8aed4caeb74ba1a272b19482dc9c2ba5083b06d094",
+      "image_member": "EPUB/images/dfabb73d5aab1142deee.png",
+      "image_sha256": "dfabb73d5aab1142deee118ae3b6dd93798f836505b8cc1348cbde51a96a214b"
+    },
+    "99": {
+      "source_page_id": "source-page-99",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "298bec169ad1f16a8fb7645464efb49be257c36746b5663a8e57dcc507737e3e",
+      "image_member": "EPUB/images/ebf2195f34f7bb4bd9f4.png",
+      "image_sha256": "ebf2195f34f7bb4bd9f4271f2cf54496a2c7c2762cbc4235b2ac340f91d802d5"
+    },
+    "100": {
+      "source_page_id": "source-page-100",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "6f12bbfc57ec5774cd6b7aaad34e45e067558be4a208d71d3dc588ad2d5904d3",
+      "image_member": "EPUB/images/b5ca5c79d089262b85fd.png",
+      "image_sha256": "b5ca5c79d089262b85fdaf770f87da2f5e0ce2042a32038c233af6a963c5ac3e"
+    },
+    "101": {
+      "source_page_id": "source-page-101",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "b72f7159656aa5620320705f1ab412041f868b90908ed15e322540683d265eb9",
+      "image_member": "EPUB/images/36f1256544d22ee4d7e8.png",
+      "image_sha256": "36f1256544d22ee4d7e880ba4683dc458cac997e6393392252843bd937894917"
+    },
+    "102": {
+      "source_page_id": "source-page-102",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "1778503eeda8cd8f5e1d3ecb71824c75a3cef6bef0f56c4a4e294298084d29e6",
+      "image_member": "EPUB/images/f4ba57a79ef971aa69c8.png",
+      "image_sha256": "f4ba57a79ef971aa69c8305401f9c40faea5677cc48f394911f8d550f15fa1ad"
+    },
+    "103": {
+      "source_page_id": "source-page-103",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "9d27331b5f88e61a7c897d34ced9448dea636267c535e1e535c8ac9dab830f41",
+      "image_member": "EPUB/images/72b7eb2be0dc8f46af0e.png",
+      "image_sha256": "72b7eb2be0dc8f46af0e85a0e99992c8cd21715665ede89a0d12336711a32634"
+    },
+    "104": {
+      "source_page_id": "source-page-104",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "e6d5ff29670b86463dda6faaad1802bc294a4eef8cbbaf0fb04c94043d0e1891",
+      "image_member": "EPUB/images/6ed5953bf876a5ebfc46.png",
+      "image_sha256": "6ed5953bf876a5ebfc46a387c15452adf2496f9dac154488c0e19a96d4915cdc"
+    },
+    "105": {
+      "source_page_id": "source-page-105",
+      "member": "EPUB/chapter-0006.xhtml",
+      "text_sha256": "1038b73104d2cd70fe8ebe3a532334465c699c9723ae64b74425d55a06012552",
+      "image_member": "EPUB/images/461e534bcef2a15cd987.png",
+      "image_sha256": "461e534bcef2a15cd9877f25e1dd7c0cd55779d2cb32c503684349c9db46389d"
+    },
+    "106": {
+      "source_page_id": "source-page-106",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "08b5a44ab08f4581d4422ed8bfe19df37b08b924dda70a8b67e8576b38257707",
+      "image_member": "EPUB/images/ab99419199dba2c5f734.png",
+      "image_sha256": "ab99419199dba2c5f734ef5530f3b8583bf2605f028ec6cce62180de6dfe1b8c"
+    },
+    "107": {
+      "source_page_id": "source-page-107",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "7513e8d44622c2e385705057b85151b25bb0d6874627b28b556ef14236d2cd76",
+      "image_member": "EPUB/images/bc7a4c9c7e0daa60cabb.png",
+      "image_sha256": "bc7a4c9c7e0daa60cabbfe1f461b31f613ce4f17df8a29da803de65aefeb824b"
+    },
+    "108": {
+      "source_page_id": "source-page-108",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "36900337ada93939b361a2a034f59b1116226d8a48ce5e2123b00a22895de9af",
+      "image_member": "EPUB/images/1f038f3833257e3a8e4f.png",
+      "image_sha256": "1f038f3833257e3a8e4f4e034a82e1a10e5ccfe71ebd2ed534d3b04b71ed354e"
+    },
+    "109": {
+      "source_page_id": "source-page-109",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "e4c80bff12ac3d1d570e515309ff923144c3465e8386bb7e51f370920fcf72b2",
+      "image_member": "EPUB/images/ac438d835acf562e0fd1.png",
+      "image_sha256": "ac438d835acf562e0fd1f5384794e16cca7f1ec6ca139b24e0c747bdd03e38b7"
+    },
+    "110": {
+      "source_page_id": "source-page-110",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "6d64d7b9cefdafad63da37f812e55092f332bee0cdcefc2e6b5cd03c1a3c4e7b",
+      "image_member": "EPUB/images/b970bb50d575db771070.png",
+      "image_sha256": "b970bb50d575db771070590d8417d74e2c4a831a45df52f4b5707a13dbe72d8f"
+    },
+    "111": {
+      "source_page_id": "source-page-111",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "750d6223a9ed9d991a580d49dc0751635a39d4893b93c1240624b5d259674897",
+      "image_member": "EPUB/images/59c48f813c4a5b35443d.png",
+      "image_sha256": "59c48f813c4a5b35443dc14e5c48cfff76dedcef26568fcd9911feda75a9713a"
+    },
+    "112": {
+      "source_page_id": "source-page-112",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "fac225ec49ce08857448ffc07352ac30891ce85e064628185c5c3e4745de7381",
+      "image_member": "EPUB/images/d89b3c0ac8ea0a121d3e.png",
+      "image_sha256": "d89b3c0ac8ea0a121d3e2ddc850439ce1e0e28e30e56cff146dc97c08b0c7d62"
+    },
+    "113": {
+      "source_page_id": "source-page-113",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "03424042de82ade70b5dab1c98a06a72b76812271e2fe986757f147554c8aa26",
+      "image_member": "EPUB/images/9b5f4aaf08623ea92993.png",
+      "image_sha256": "9b5f4aaf08623ea92993b1f29121ed18704e8667d163f380bc4638e4ebc0753e"
+    },
+    "114": {
+      "source_page_id": "source-page-114",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "eb53f0201bce6e0489b491b8677226d3f32872d2950561a7e4a617d84b698a06",
+      "image_member": "EPUB/images/2b2d87813f7d57c0a7e4.png",
+      "image_sha256": "2b2d87813f7d57c0a7e4b495c260223e419851ede99c6f94e3d8d6719d90aae2"
+    },
+    "115": {
+      "source_page_id": "source-page-115",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "84cff900fadd7ed4fa7d6d5d41d7465919841806412ea56bcbbd505d697a8fee",
+      "image_member": "EPUB/images/e22c8ef3385d4a8f6370.png",
+      "image_sha256": "e22c8ef3385d4a8f637099d02a02541cd1fd3713220d6c0c87a4c88d78a0f329"
+    },
+    "116": {
+      "source_page_id": "source-page-116",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "0d9d4f7a73bf91462fa1c2399276c726f6a18b444ee0b623519cd1b3963e640d",
+      "image_member": "EPUB/images/3c15862a638de5b96b25.png",
+      "image_sha256": "3c15862a638de5b96b251db3d93ecf333ff137bf11484ffc198841b6868c3e77"
+    },
+    "117": {
+      "source_page_id": "source-page-117",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "0bb92ed04ad6fc85b704829d97b9d57e21ef2ed8fa1d6374cb811028b4f1c7fa",
+      "image_member": "EPUB/images/0928d1affa3c6e99ad4c.png",
+      "image_sha256": "0928d1affa3c6e99ad4c51bedfcf05d376d03c8a1613cbd737f3475d983c781f"
+    },
+    "118": {
+      "source_page_id": "source-page-118",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "6a0511879df70aa6f262f288981dda9c37716702debef57a02db284000208b81",
+      "image_member": "EPUB/images/f4b09753f45b99ae9cf4.png",
+      "image_sha256": "f4b09753f45b99ae9cf4114cb34916d73406eb9178c2eaee80d88bc533a7e787"
+    },
+    "119": {
+      "source_page_id": "source-page-119",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "df4f5d637040e90b08df42e933167719d321b1cfda9f546f06b61422f925b0f8",
+      "image_member": "EPUB/images/9cae4218bab694803528.png",
+      "image_sha256": "9cae4218bab694803528a16858368b51373bc58692713fb217390808a145bc31"
+    },
+    "120": {
+      "source_page_id": "source-page-120",
+      "member": "EPUB/chapter-0007.xhtml",
+      "text_sha256": "abc57abff8e5efcecc5ffdc95e0e6c61e526a555c7c829a8b7e83a90ffae81e3",
+      "image_member": "EPUB/images/19577de30a0e46eb3a56.png",
+      "image_sha256": "19577de30a0e46eb3a56ab00ba4767f181e90f81e20afab0e2d4ae9be20fa79b"
+    },
+    "121": {
+      "source_page_id": "source-page-121",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "9cbbfbb05c8a17dc251b5849f4501b3ce0b98863355fdf2cce66a63b32cba284",
+      "image_member": "EPUB/images/09f6a76c2b7fed2e2e68.png",
+      "image_sha256": "09f6a76c2b7fed2e2e68f54824ef175b0f3472ba56dbc57f7df30d4ee6f2f751"
+    },
+    "122": {
+      "source_page_id": "source-page-122",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "a4264de6ab3d404bc6d4e4be3b46766b6a545614bab828ab473cf9b5d4bb20d6",
+      "image_member": "EPUB/images/2a097d7a0c429315857a.png",
+      "image_sha256": "2a097d7a0c429315857a10ad3d59fe9bdabfc05a3bb8c0ecc8194be00d5351c3"
+    },
+    "123": {
+      "source_page_id": "source-page-123",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "118176b560620de74ef6a589cd452547102c416cc90b0bab570099d06952fdd5",
+      "image_member": "EPUB/images/599792de08e9e5c50d33.png",
+      "image_sha256": "599792de08e9e5c50d338208cf6bb6143bc50a1f5d72c0b1d1d53e36d84e2d48"
+    },
+    "124": {
+      "source_page_id": "source-page-124",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "7ee21646290f235a3f4255db38f57a76d8f3ad54861c90f729f26754e0f4c0c6",
+      "image_member": "EPUB/images/2842341d1bcd8d9157cc.png",
+      "image_sha256": "2842341d1bcd8d9157cc78c912179cb49dce576dc028416f93801bafc687b57f"
+    },
+    "125": {
+      "source_page_id": "source-page-125",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "43c57dd7189ec2a34cb035bd1ef2a58dc40ee0e7c77a7b5c124a56fc35fec353",
+      "image_member": "EPUB/images/9f09440bb98eea17bb8c.png",
+      "image_sha256": "9f09440bb98eea17bb8c4f755fb9af93f060c593ad2c6080a2bf60ddc6513893"
+    },
+    "126": {
+      "source_page_id": "source-page-126",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "e4ccd983e849d97d1ca0c2e8eb1d3d63ff7c09699c2e7adf63ff965a2338cd42",
+      "image_member": "EPUB/images/21764c20beada42e7745.png",
+      "image_sha256": "21764c20beada42e7745a406463e48cb037fc008f18e1234ad0d2ff6f2a79368"
+    },
+    "127": {
+      "source_page_id": "source-page-127",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "ea526713208cf73cfd68cbd455a67889b3a73d47a818f31c335d339935f87ed1",
+      "image_member": "EPUB/images/39c207ffc4960a404f72.png",
+      "image_sha256": "39c207ffc4960a404f72078d3c316db3473f5db5343a6b5785224529f1b2a9e0"
+    },
+    "128": {
+      "source_page_id": "source-page-128",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "d3de31188e1d383b5e1ec0cfd02241bfd21bf1b54bd4b228cdabea43a70f1b82",
+      "image_member": "EPUB/images/e46d13c5bb4b3b3d2202.png",
+      "image_sha256": "e46d13c5bb4b3b3d22020d5fe5290cb53e05105dc870688214650dbb04c89240"
+    },
+    "129": {
+      "source_page_id": "source-page-129",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "dfed065c3293c9ca0e39c48b9ce9b2ccb3d61ade4ddc7115f5956c7772f6f9b8",
+      "image_member": "EPUB/images/d3c436e4d21352941d56.png",
+      "image_sha256": "d3c436e4d21352941d566186a69df6ef096eae88923b76f6f035595cf937e11d"
+    },
+    "130": {
+      "source_page_id": "source-page-130",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "f528bf75f8060864ac1389ad9ccb91c79c85c579986a442fadf7661ff4873853",
+      "image_member": "EPUB/images/887373225fa18ea7aac7.png",
+      "image_sha256": "887373225fa18ea7aac729668c0b8dfb6569e8225c530145df5602820d8fb7ad"
+    },
+    "131": {
+      "source_page_id": "source-page-131",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "8d08036d97e04bb7e9315a923b44280d583db8aae391a445a4cde08920a34cf8",
+      "image_member": "EPUB/images/314fdac2b9446a9fc26d.png",
+      "image_sha256": "314fdac2b9446a9fc26d165b633b85bc42219aa2f8f6055526176ecadda80193"
+    },
+    "132": {
+      "source_page_id": "source-page-132",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "fd07be575f9614812572b83f0fc4c24a9254e278c7ae0c83a99e73d9e224894d",
+      "image_member": "EPUB/images/96e93ff914adf979fb28.png",
+      "image_sha256": "96e93ff914adf979fb289605732a63cc4f651be3de647df3475a3b68214f6c9c"
+    },
+    "133": {
+      "source_page_id": "source-page-133",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "d7631546c18edcbee770b53a153d88bd01b35cb2bbedd686551d9927e4a6ee02",
+      "image_member": "EPUB/images/ca747faa3925ec0b37d9.png",
+      "image_sha256": "ca747faa3925ec0b37d93687c153d27cac34e1faa2a86461036a12313050def8"
+    },
+    "134": {
+      "source_page_id": "source-page-134",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "757908269cc3b05edf900e0bdac03a10043f7548c6cde715f91d2849589e0a3a",
+      "image_member": "EPUB/images/6011d89dab2f3d619322.png",
+      "image_sha256": "6011d89dab2f3d61932248933d38b16945fa8ccf92c5ca13da505b8b7501d78e"
+    },
+    "135": {
+      "source_page_id": "source-page-135",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "7f9f60c095780573e50c32e6ce6f5618b19cdc35de780fe0e6c5dc291a8dbcba",
+      "image_member": "EPUB/images/0086913c18d77b2a7450.png",
+      "image_sha256": "0086913c18d77b2a74508b46cc487b1c0d05ef4aa3b6b0d46abbd55a085f809b"
+    },
+    "136": {
+      "source_page_id": "source-page-136",
+      "member": "EPUB/chapter-0008.xhtml",
+      "text_sha256": "106eb40f4036efe293aca24370c6bbbea24a15baf52bcc32d5dfb21d960358fe",
+      "image_member": "EPUB/images/1ab8ed6b165e62eafc98.png",
+      "image_sha256": "1ab8ed6b165e62eafc98cc90959b5d36238f33c9026848c8295cd3fea5b612e3"
+    },
+    "137": {
+      "source_page_id": "source-page-137",
+      "member": "EPUB/chapter-0009.xhtml",
+      "text_sha256": "d259aff3df7252f70ad936e6694e550b0781ca873af90d9e217e58cc195dfb63",
+      "image_member": "EPUB/images/1b45adc5655201d364fb.png",
+      "image_sha256": "1b45adc5655201d364fb74f08bb098484efef3d2a666c20898ee12468c3b4e5d"
+    },
+    "139": {
+      "source_page_id": "source-page-139",
+      "member": "EPUB/chapter-0009.xhtml",
+      "text_sha256": "16d90093e52d2cd2b7b91bf2283a51b723e2eef0d671f76dbeb684dbd8ee2386",
+      "image_member": "EPUB/images/de371ab7371f8314c145.png",
+      "image_sha256": "de371ab7371f8314c14567d4b81cad4944fb7ebd745d8135cb34971e32fa958e"
+    },
+    "140": {
+      "source_page_id": "source-page-140",
+      "member": "EPUB/chapter-0009.xhtml",
+      "text_sha256": "e63417bddf2217568bf5de10401b7833b67d485992d7197c417e2337d809bf42",
+      "image_member": "EPUB/images/ca52cb9359a204ae1304.png",
+      "image_sha256": "ca52cb9359a204ae1304cb719d60c5419c2e5d24d2484ef8d461ef3ef706129d"
+    },
+    "141": {
+      "source_page_id": "source-page-141",
+      "member": "EPUB/chapter-0009.xhtml",
+      "text_sha256": "f680c93fb24f815e3006e75315fca9e2d2155bec1932b2261866fb47b987fd35",
+      "image_member": "EPUB/images/aa3cfc8ccd19d1fae5d9.png",
+      "image_sha256": "aa3cfc8ccd19d1fae5d92c2aab7a2e96ea708c930d9c0eec2821ed6c4cef0c9a"
+    }
+  },
+  "word_seams": [
+    {
+      "passage_id": "ga-027-source-heading-6",
+      "old": "Knor- pelsubstanz",
+      "new": "Knorpelsubstanz",
+      "pages": [
+        42,
+        43
+      ],
+      "evidence": "GA027 retained1991facsimile EPUB SHA-256 fa7122ad236473714f2d44739b0cabfcd354a4b64c49d3faacae7d21c60f3528; source-page-42 and source-page-43: word split only at physical page seam; printed word continues without compound separator. Existing OCR vowel retained for Anwendüng."
+    },
+    {
+      "passage_id": "ga-027-source-heading-12",
+      "old": "Kno- chengebilde",
+      "new": "Knochengebilde",
+      "pages": [
+        68,
+        69
+      ],
+      "evidence": "GA027 retained1991facsimile EPUB SHA-256 fa7122ad236473714f2d44739b0cabfcd354a4b64c49d3faacae7d21c60f3528; source-page-68 and source-page-69: word split only at physical page seam; printed word continues without compound separator. Existing OCR vowel retained for Anwendüng."
+    },
+    {
+      "passage_id": "ga-027-source-heading-16",
+      "old": "Antimonpro- zesse",
+      "new": "Antimonprozesse",
+      "pages": [
+        86,
+        87
+      ],
+      "evidence": "GA027 retained1991facsimile EPUB SHA-256 fa7122ad236473714f2d44739b0cabfcd354a4b64c49d3faacae7d21c60f3528; source-page-86 and source-page-87: word split only at physical page seam; printed word continues without compound separator. Existing OCR vowel retained for Anwendüng."
+    },
+    {
+      "passage_id": "ga-027-source-heading-19",
+      "old": "wich- tigstes",
+      "new": "wichtigstes",
+      "pages": [
+        122,
+        123
+      ],
+      "evidence": "GA027 retained1991facsimile EPUB SHA-256 fa7122ad236473714f2d44739b0cabfcd354a4b64c49d3faacae7d21c60f3528; source-page-122 and source-page-123: word split only at physical page seam; printed word continues without compound separator. Existing OCR vowel retained for Anwendüng."
+    },
+    {
+      "passage_id": "ga-027-source-heading-20",
+      "old": "Anwen- düng",
+      "new": "Anwendüng",
+      "pages": [
+        131,
+        132
+      ],
+      "evidence": "GA027 retained1991facsimile EPUB SHA-256 fa7122ad236473714f2d44739b0cabfcd354a4b64c49d3faacae7d21c60f3528; source-page-131 and source-page-132: word split only at physical page seam; printed word continues without compound separator. Existing OCR vowel retained for Anwendüng."
+    },
+    {
+      "passage_id": "ga-027-source-heading-20",
+      "old": "exsudati- ven",
+      "new": "exsudativen",
+      "pages": [
+        133,
+        134
+      ],
+      "evidence": "GA027 retained1991facsimile EPUB SHA-256 fa7122ad236473714f2d44739b0cabfcd354a4b64c49d3faacae7d21c60f3528; source-page-133 and source-page-134: word split only at physical page seam; printed word continues without compound separator. Existing OCR vowel retained for Anwendüng."
+    }
+  ],
+  "known_gaps": [
+    "Existing OCR spelling (including Anwendüng, ha,2»,NAMENREGISTE R) retained; this review changes layout only.",
+    "Original 20 chapter titles and passageIDs retained. No facsimile page indexes promoted to reader page anchors."
+  ],
+  "table": {
+    "passage_id": "ga-027-source-heading-20",
+    "page": 140,
+    "old": "3 Nach dem Titel folgte: Erster Teil Diese Wörter sind seit der\n2. Auflage weggelassen worden.\n5 Nach der Überschrift Inhaltsangabe folgte der Untertitel\nErster Teil. Dieser Untertitel ist seit der 3. Auflage weggelassen worden.\nHarn statt Hämatin\nihre statt seine\nauch bei statt auch eine Rolle bei\nEiweißbildung statt Eiweißwirkung\nzweimonatigen statt zweimonatlichen\nin statt bei\nbegegneten statt begegnen\nBrennessel statt Brennesselwirkung\nVerdauungsprozeß statt Prozeß\nWeise verarbeitet müssen statt Weise müssen\ndas zum statt das dadurch zum Korrektur nach Manuskript\nLeibe den statt Leibe in den Korrektur nach Manuskript\nDie wenigen Vereinheitlichungen in Orthographie und Interpunktion sind\nnicht eigens nachgewiesen.\n47\n56\n73\n88\n104\n109\n116\n125\n129\n129\n130\n131\n21\n5\n24 f.\n4\n9\n10\n9\n6\n6\n10\n30\n17",
+    "rows": [
+      {
+        "page": "47",
+        "line": "21",
+        "description": "Harn statt Hämatin"
+      },
+      {
+        "page": "56",
+        "line": "5",
+        "description": "ihre statt seine"
+      },
+      {
+        "page": "73",
+        "line": "24 f.",
+        "description": "auch bei statt auch eine Rolle bei"
+      },
+      {
+        "page": "88",
+        "line": "4",
+        "description": "Eiweißbildung statt Eiweißwirkung"
+      },
+      {
+        "page": "104",
+        "line": "9",
+        "description": "zweimonatigen statt zweimonatlichen"
+      },
+      {
+        "page": "109",
+        "line": "10",
+        "description": "in statt bei"
+      },
+      {
+        "page": "116",
+        "line": "9",
+        "description": "begegneten statt begegnen"
+      },
+      {
+        "page": "125",
+        "line": "6",
+        "description": "Brennessel statt Brennesselwirkung"
+      },
+      {
+        "page": "129",
+        "line": "6",
+        "description": "Verdauungsprozeß statt Prozeß"
+      },
+      {
+        "page": "129",
+        "line": "10",
+        "description": "Weise verarbeitet müssen statt Weise müssen"
+      },
+      {
+        "page": "130",
+        "line": "30",
+        "description": "das zum statt das dadurch zum Korrektur nach Manuskript"
+      },
+      {
+        "page": "131",
+        "line": "17",
+        "description": "Leibe den statt Leibe in den Korrektur nach Manuskript"
+      }
+    ],
+    "footer": "Die wenigen Vereinheitlichungen in Orthographie und Interpunktion sind nicht eigens nachgewiesen.",
+    "evidence": "Facsimile source-page-140, retained1991EPUB SHA-256 fa7122ad236473714f2d44739b0cabfcd354a4b64c49d3faacae7d21c60f3528: page and line columns align with14description rows; detached OCR columns relocated, every source token consumed exactly once."
+  }
+}

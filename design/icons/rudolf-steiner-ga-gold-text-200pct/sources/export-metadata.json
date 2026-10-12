@@ -1,0 +1,167 @@
+{
+  "canvas_px": [
+    1024,
+    1024
+  ],
+  "lettering_scale": 2.0,
+  "scale_meaning": "Visible glyph width and height are 200% of the preceding native paths on the SAME 1024px canvas.",
+  "transform": {
+    "formula": "output_xy = 2.0 * source_xy + translation_xy",
+    "translation_xy": [
+      -518.5752064152143,
+      -221.80619194342034
+    ],
+    "source_geometry_center_xy": [
+      515.2876032076072,
+      366.9030959717102
+    ],
+    "output_geometry_center_xy": [
+      512.0,
+      512.0
+    ]
+  },
+  "source_combined_geometry_bbox_xyxy": [
+    282.00695321063006,
+    142.34217374042424,
+    748.5682532045842,
+    591.464018202996
+  ],
+  "output_combined_geometry_bbox_xyxy": [
+    45.43870000604579,
+    62.87815553742815,
+    978.5612999939541,
+    961.121844462572
+  ],
+  "gold_texture": {
+    "input": "sources/input/gold-stamping.png",
+    "native_size_px": [
+      1024,
+      1024
+    ],
+    "sha256": "4a143b4d5884f5cb4b7b9967ab0fcd86f38d1374ee45ce1c03650b0262a2dec0",
+    "sampling": "unchanged 1:1 at the same canvas coordinates"
+  },
+  "antialiasing": "SVG rasterization at 4096x4096; alpha downsampled to 1024x1024 with Lanczos.",
+  "checks": {
+    "exact_geometry_scale_2x": true,
+    "all_geometry_centred": true,
+    "no_clipping": true,
+    "transparent_rgba": true,
+    "texture_rgb_preserved": true,
+    "combined_equals_aligned_individuals": true
+  },
+  "outputs": [
+    {
+      "name": "Rudolf",
+      "png": "02-rudolf-gold-200pct.png",
+      "svg": "vectors/02-rudolf-200pct.svg",
+      "mask": "masks/02-rudolf-mask-200pct.png",
+      "mask_4x": "masks/4x/02-rudolf-mask-200pct-4096.png",
+      "source_geometry_bbox_xyxy": [
+        412.318,
+        142.34217374042424,
+        619.1132003968281,
+        189.75302068584543
+      ],
+      "geometry_bbox_xyxy": [
+        306.06079358478564,
+        62.87815553742815,
+        719.6511943784419,
+        157.6998494282705
+      ],
+      "visible_alpha_bbox_xyxy_exclusive": [
+        303,
+        60,
+        722,
+        160
+      ],
+      "geometry_width_scale": 2.0,
+      "geometry_height_scale": 2.0,
+      "closed_contours": 9
+    },
+    {
+      "name": "Steiner",
+      "png": "03-steiner-gold-200pct.png",
+      "svg": "vectors/03-steiner-200pct.svg",
+      "mask": "masks/03-steiner-mask-200pct.png",
+      "mask_4x": "masks/4x/03-steiner-mask-200pct-4096.png",
+      "source_geometry_bbox_xyxy": [
+        412.4773300094527,
+        218.70182208452826,
+        616.5862032931377,
+        263.97657325212487
+      ],
+      "geometry_bbox_xyxy": [
+        306.37945360369116,
+        215.5974522256362,
+        714.597200171061,
+        306.14695456082933
+      ],
+      "visible_alpha_bbox_xyxy_exclusive": [
+        304,
+        213,
+        717,
+        309
+      ],
+      "geometry_width_scale": 1.9999999999999991,
+      "geometry_height_scale": 1.9999999999999982,
+      "closed_contours": 10
+    },
+    {
+      "name": "GA",
+      "png": "04-ga-gold-200pct.png",
+      "svg": "vectors/04-ga-200pct.svg",
+      "mask": "masks/04-ga-mask-200pct.png",
+      "mask_4x": "masks/4x/04-ga-mask-200pct-4096.png",
+      "source_geometry_bbox_xyxy": [
+        282.00695321063006,
+        357.96539039816304,
+        748.5682532045842,
+        591.464018202996
+      ],
+      "geometry_bbox_xyxy": [
+        45.43870000604579,
+        494.1245888529056,
+        978.5612999939541,
+        961.121844462572
+      ],
+      "visible_alpha_bbox_xyxy_exclusive": [
+        43,
+        492,
+        981,
+        964
+      ],
+      "geometry_width_scale": 2.0000000000000004,
+      "geometry_height_scale": 2.0000000000000013,
+      "closed_contours": 3
+    },
+    {
+      "name": "Rudolf Steiner GA",
+      "png": "rudolf-steiner-ga-gold-200pct.png",
+      "svg": "vectors/05-lettering-combined-200pct.svg",
+      "mask": "masks/05-lettering-combined-mask-200pct.png",
+      "mask_4x": "masks/4x/05-lettering-combined-mask-200pct-4096.png",
+      "source_geometry_bbox_xyxy": [
+        282.00695321063006,
+        142.34217374042424,
+        748.5682532045842,
+        591.464018202996
+      ],
+      "geometry_bbox_xyxy": [
+        45.43870000604579,
+        62.87815553742815,
+        978.5612999939541,
+        961.121844462572
+      ],
+      "visible_alpha_bbox_xyxy_exclusive": [
+        43,
+        60,
+        981,
+        964
+      ],
+      "geometry_width_scale": 2.0000000000000004,
+      "geometry_height_scale": 2.0000000000000004,
+      "closed_contours": 22
+    }
+  ]
+}

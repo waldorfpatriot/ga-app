@@ -1,0 +1,51 @@
+{
+  "reference": "/Users/jonathan/programmier-projekte/ga/design/icons/rudolf-steiner-ga-original-materials/reference/approved-layout.png",
+  "reference_size": [
+    1254,
+    1254
+  ],
+  "canvas": [
+    1024,
+    1024
+  ],
+  "fill": "#DAD4B9",
+  "method": "Red-minus-blue level-zero marching-squares trace; subpixel interpolation; 0.20 source-pixel RDP simplification; corner-aware cubic Bezier paths; evenodd holes; white mask rasterization from SVG at 4x resolution.",
+  "layers": [
+    {
+      "file": "02-rudolf.svg",
+      "bbox_xyxy": [
+        412.318,
+        142.342,
+        619.113,
+        189.753
+      ],
+      "closed_contours": 9,
+      "cubic_segments": 351,
+      "mask": "02-rudolf-mask.png"
+    },
+    {
+      "file": "03-steiner.svg",
+      "bbox_xyxy": [
+        412.478,
+        218.702,
+        616.586,
+        263.977
+      ],
+      "closed_contours": 10,
+      "cubic_segments": 395,
+      "mask": "03-steiner-mask.png"
+    },
+    {
+      "file": "04-ga.svg",
+      "bbox_xyxy": [
+        282.007,
+        357.965,
+        748.569,
+        591.464
+      ],
+      "closed_contours": 3,
+      "cubic_segments": 323,
+      "mask": "04-ga-mask.png"
+    }
+  ]
+}

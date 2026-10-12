@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GACloudKitContainerIdentifier</key>
+	<string>iCloud.com.jonathankutscher.ga</string>
+	<key>GARevenueCatPublicSDKKey</key>
+	<string>$(GA_REVENUECAT_PUBLIC_SDK_KEY)</string>
+	<key>GAAccessBaseURL</key>
+	<string>$(GA_ACCESS_BASE_URL)</string>
+	<key>GA_SERVER_BASE_URL</key>
+	<string>$(GA_SERVER_BASE_URL)</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>GAPrivacyURL</key>
+	<string>https://fototausch.eu/rudolf-steiner-ga/privacy.html</string>
+	<key>GASupportURL</key>
+	<string>https://fototausch.eu/rudolf-steiner-ga/support.html</string>
+</dict>
+</plist>

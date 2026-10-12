@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "work_id": "ga-040",
+  "source_sha256": "9263a2efd8f66c17f6c686a4bf1c169f477331f1e2aa1bf4fea01fcfe950229a",
+  "evidence_docx_sha256": "b0726662c3e73a78b8b202f007afc295a2765b39c020ddb4ba3cfe00e1cfbb88",
+  "scope": "Quellengeprüfte gleichrangige Lesebereiche des Anthroposophischen Seelenkalenders auf S. 9–36 sowie Werkeinheiten der bisherigen EPUB-Sammelpassage auf S. 74–78. Start-/End-Indizes beziehen sich auf die source-bound Recipe-Segmente, nullbasiert und am Ende exklusiv. Eine echte Quellüberschrift oder ein exakt aus dem aktuellen Versbeginn entnommenes Incipit bezeichnet den Bereich. Beide Vorworte und die vier Jahreszeiten stehen unter dem gemeinsamen Seelenkalender-Hauptteil; sämtliche Datumsüberschriften, Nummern und Verse bleiben innerhalb der jeweiligen Jahreszeit. Die Säulenweisheit bleibt eine betitelte Sammlung ihrer vier Sprüche; Tischgebet und Erkenne-Spruch behalten ihre zusammengehörigen Strophen beziehungsweise Zeilen. Keine neue Grenze allein aus Absatzabstand oder Seitenwechsel.",
+  "passages": {
+    "ga-040-doc-heading-2": [
+      {
+        "title": "VORWORT ZUR ERSTEN AUSGABE 1912/13",
+        "label_kind": "source_title",
+        "start_segment": 0,
+        "end_segment": 1,
+        "evidence": "Originalausgabe 1991, S. 9–10: Quellüberschrift VORWORT ZUR ERSTEN AUSGABE 1912/13 in DOC-Absatz 56; zusammengehöriger Vorworttext in Absätzen 57–58, der vor dem zweiten Vorwort in Absatz 59 endet. Original-Inhaltsverzeichnis: Absatz 29 nennt Anthroposophischer Seelenkalender als Hauptteil ab S. 7; Absatz 30 fasst die Vorworte zur ersten und zweiten Ausgabe als Untereintrag ab S. 9 zusammen. Körper-Titelseite in Absatz 45. Beide Vorwortüberschriften 56/59 haben dieselbe Quellenformatierung; das erste Vorwort ist keine Überschrift über das zweite oder die folgenden Jahreszeiten."
+      },
+      {
+        "title": "VORWORT ZUR ZWEITEN AUSGABE 1918",
+        "label_kind": "source_title",
+        "start_segment": 1,
+        "end_segment": 4,
+        "evidence": "Originalausgabe 1991, S. 10: eigenständige Quellüberschrift VORWORT ZUR ZWEITEN AUSGABE 1918 in DOC-Absatz 59; zwei zugehörige Prosaabsätze 60–61. Gemeinsamer Vorworte-Untereintrag im Original-Inhaltsverzeichnis, Absatz 30, unter Anthroposophischer Seelenkalender (Absatz 29, Hauptteil S. 7 und Körper-Titelseite 45). Gleiche Quellenformatierung wie Vorworttitel 56; Abschluss vor FRÜHLING in Absatz 62 auf S. 11."
+      },
+      {
+        "title": "FRÜHLING",
+        "label_kind": "source_title",
+        "start_segment": 4,
+        "end_segment": 44,
+        "evidence": "Originalausgabe 1991, S. 11–17: eigenständige Jahreszeitenüberschrift FRÜHLING in DOC-Absatz 62 unter dem Hauptteil Anthroposophischer Seelenkalender (Original-TOC 29, Körper-Titelseite 45). Datumsüberschriften, Nummern und Wochenverse 1–13 gehören zu den Absätzen 63–120. Der Bereich endet unmittelbar vor SOMMER in Absatz 121; kein Inhalt der zweiten Vorwortüberschrift 59. Die vier Jahreszeitentitel 62/121/168/198 besitzen dieselbe betonte, zentrierte Quellenformatierung."
+      },
+      {
+        "title": "SOMMER",
+        "label_kind": "source_title",
+        "start_segment": 44,
+        "end_segment": 84,
+        "evidence": "Originalausgabe 1991, S. 17–23: eigenständige Jahreszeitenüberschrift SOMMER in DOC-Absatz 121, gleichrangig mit FRÜHLING 62, HERBST 168 und WINTER 198 unter dem Seelenkalender-Hauptteil (Original-TOC 29; Körper-Titelseite 45). Datumsüberschriften, Nummern und Wochenverse 14–26 in Absätzen 122–167 bleiben innerhalb dieses Bereichs. Abschluss vor HERBST in Absatz 168."
+      },
+      {
+        "title": "HERBST",
+        "label_kind": "source_title",
+        "start_segment": 84,
+        "end_segment": 112,
+        "evidence": "Originalausgabe 1991, S. 24–28: eigenständige Jahreszeitenüberschrift HERBST in DOC-Absatz 168, gleichrangig mit FRÜHLING 62, SOMMER 121 und WINTER 198 unter dem Seelenkalender-Hauptteil (Original-TOC 29; Körper-Titelseite 45). Datumsüberschriften, Nummern und Wochenverse 27–35 in Absätzen 169–197 bleiben innerhalb dieses Bereichs. Abschluss vor WINTER in Absatz 198."
+      },
+      {
+        "title": "WINTER",
+        "label_kind": "source_title",
+        "start_segment": 112,
+        "end_segment": 164,
+        "evidence": "Originalausgabe 1991, S. 28–36: eigenständige Jahreszeitenüberschrift WINTER in DOC-Absatz 198, gleichrangig mit FRÜHLING 62, SOMMER 121 und HERBST 168 unter dem Seelenkalender-Hauptteil (Original-TOC 29; Körper-Titelseite 45). Sämtliche zugehörigen Datumsüberschriften, Nummern und Wochenverse 36–52 in Absätzen 199–259 bleiben zusammen; der Bereich endet mit dem Seelenkalender vor dem nächsten Hauptteil."
+      }
+    ],
+    "ga-040-doc-heading-9": [
+      {
+        "title": "DIE VIER SPRÜCHE DER SÄULENWEISHEIT",
+        "label_kind": "source_title",
+        "start_segment": 0,
+        "end_segment": 6,
+        "evidence": "Originalausgabe 1991, S. 74: Quellüberschrift im DOC-Absatz 563, J/B-Kennzeichnungen 564/567, vier getrennte Doppelzeiler 565/566/568/569 und Seitenfooter 570. Originalregister: Überschrift in Absatz 2293 auf S. 281 mit Verweis auf S. 74; eigene Spruchanfänge in Absätzen 2514 (Register S. 290), 2729, 2718 und 2720 (Register S. 298). Die gemeinsame Überschrift gilt nur für diese vier Sprüche; Absatz 571 auf S. 75 beginnt ein anderes Werk."
+      },
+      {
+        "title": "Es leuchten gleich Sternen",
+        "label_kind": "incipit",
+        "start_segment": 6,
+        "end_segment": 7,
+        "evidence": "Originalausgabe 1991, S. 75: selbstständiger sechszeiliger Spruch in DOC-Absätzen 571–576; eigenes Registerincipit in Absatz 2369 auf S. 284, Verweis auf S. 75; Quellenhinweis 2370 nennt Berlin, 19. Januar 1911. Nach dem vollständigen Schluss beginnt in Absatz 577 ein anderer Spruch."
+      },
+      {
+        "title": "Offenbarung durch die Höhen dem Gotte,",
+        "label_kind": "incipit",
+        "start_segment": 7,
+        "end_segment": 8,
+        "evidence": "Originalausgabe 1991, S. 75: vollständiger dreizeiliger Spruch in DOC-Absatz 577; eigener Registereintrag in Absatz 2632 auf S. 294, Verweis auf S. 75; Quellenhinweis 2633 nennt Berlin, 22. Dezember 1908. Der Spruch endet vor der nächsten Quellüberschrift TISCHGEBET in Absatz 579."
+      },
+      {
+        "title": "TISCHGEBET",
+        "label_kind": "source_title",
+        "start_segment": 8,
+        "end_segment": 11,
+        "evidence": "Originalausgabe 1991, S. 76: Quellüberschrift in DOC-Absatz 579; zwei zusammengehörige dreizeilige Strophen in Absätzen 580–582 und 583–585. Originalregister: Überschrift Tischgebet in Absatz 2707 auf S. 297, Verweis auf S. 76. Beide Strophen bilden ein Werk; Absatz 586 auf S. 77 beginnt einen anderen Spruch."
+      },
+      {
+        "title": "Rätsel an Rätsel stellt sich im Raum,",
+        "label_kind": "incipit",
+        "start_segment": 11,
+        "end_segment": 12,
+        "evidence": "Originalausgabe 1991, S. 77: vollständiger sechszeiliger Spruch in DOC-Absätzen 586–587; eigener Registereintrag in Absatz 2641 auf S. 295, Verweis auf S. 77; Quellenhinweis 2642 nennt Wien, 19. März 1910. Der Anschluss Absatz 588 beginnt einen anderen Spruch."
+      },
+      {
+        "title": "Erkenne dich selbst.",
+        "label_kind": "incipit",
+        "start_segment": 12,
+        "end_segment": 13,
+        "evidence": "Originalausgabe 1991, S. 77: die drei aufeinanderfolgenden Erkenne-Zeilen in DOC-Absätzen 588–590 bilden eine gemeinsame Druckeinheit; genau ein zugehöriges Registerincipit in Absatz 2333 auf S. 283, Verweis auf S. 77, mit gemeinsamem Quellenhinweis 2334 zu Berliner Vorträgen 1909/10. Die Ausgabe 1998 bestätigt auf S. 212 die drei Zeilen als einen gemeinsamen Spruch."
+      },
+      {
+        "title": "Gottes schützender segnender Strahl",
+        "label_kind": "incipit",
+        "start_segment": 13,
+        "end_segment": 14,
+        "evidence": "Originalausgabe 1991, S. 78: vollständiger elfzeiliger Spruch in DOC-Absätzen 592–602; eigener Registereintrag in Absatz 2442 auf S. 287, Verweis auf S. 78; Quellenhinweis 2443 nennt Wien, 31. März 1910. Nächste Quellüberschrift PFINGST-STIMMUNG in Absatz 603 auf S. 79."
+      }
+    ]
+  }
+}

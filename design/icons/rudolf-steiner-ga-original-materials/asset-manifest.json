@@ -1,0 +1,376 @@
+{
+  "name": "Rudolf Steiner GA — blue linen and pale gold",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "layerOrderBottomToTop": [
+    "01-linen-background.png",
+    "02-rudolf-gold.png",
+    "03-steiner-gold.png",
+    "04-ga-gold.png"
+  ],
+  "combinedAlternative": [
+    "01-linen-background.png",
+    "alternatives/02-lettering-combined-gold.png"
+  ],
+  "material": "materials/gold-stamping.png",
+  "vectors": [
+    "vectors/02-rudolf.svg",
+    "vectors/03-steiner.svg",
+    "vectors/04-ga.svg"
+  ],
+  "fontsRequired": false,
+  "roundCornersApplied": false,
+  "materialReference": "reference/original-book-cover.png",
+  "layoutReference": "reference/approved-layout.png",
+  "materialMethod": "Built-in ImageGen reference-based reconstruction from the original 300×400 photo. Not exact pixel extraction.",
+  "selectedMaterialSources": {
+    "linen": "sources/linen-imagegen.png",
+    "gold": "sources/gold-imagegen-selected.png"
+  },
+  "letteringMethod": "Native SVG outline trace of the approved layout, exported through alpha masks with the shared reconstructed gold material.",
+  "measuredSourceColorTargets": {
+    "linen": "#3B5D90",
+    "gold": "#DAD4B9"
+  },
+  "recommendedComposerSettings": {
+    "effects": false,
+    "opacity": 1.0,
+    "shadow": "none"
+  },
+  "guide": "IMPORT.txt",
+  "prompts": "sources/final-prompts.txt",
+  "appleGuidance": [
+    "https://developer.apple.com/documentation/xcode/creating-your-app-icon-using-icon-composer",
+    "https://developer.apple.com/design/human-interface-guidelines/app-icons/",
+    "https://developer.apple.com/videos/play/wwdc2025/361/"
+  ],
+  "verification": {
+    "importPNGs": "1024×1024; full-canvas alignment; foreground alpha matches masks exactly",
+    "SVGs": "Paths only; glyph holes preserved; no fonts required",
+    "preview": "Visually inspected; no clipped letters, leftover text, opaque foreground rectangles or rounded outer mask"
+  },
+  "files": [
+    {
+      "file": "01-linen-background.png",
+      "bytes": 2196853,
+      "sha256": "952fd5d85d3487f3a3188035826a856a66fc93b0ff4cd6dc4040b1d01ad89395",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "02-rudolf-gold.png",
+      "bytes": 36240,
+      "sha256": "0603be329e19c908e974a603458c6b08e89f9f04fd611efa5ea90429efdb4788",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        412,
+        142,
+        620,
+        191
+      ]
+    },
+    {
+      "file": "03-steiner-gold.png",
+      "bytes": 34684,
+      "sha256": "d2737eaae3b7adf26206b52d859fce387685aeb2b150f7cd0f716924d0dff042",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        412,
+        218,
+        618,
+        265
+      ]
+    },
+    {
+      "file": "04-ga-gold.png",
+      "bytes": 140231,
+      "sha256": "efa3f002c3c3deec59ea6baccdc7dfdbfc06143ae9528ad0a2e158e7426e582c",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        281,
+        357,
+        750,
+        593
+      ]
+    },
+    {
+      "file": "IMPORT.txt",
+      "bytes": 4244,
+      "sha256": "f5855d0e5123fe872ca2ce0323b9996b4554a6630554bb53ef2201393ec78bf6"
+    },
+    {
+      "file": "alternatives/02-lettering-combined-gold.png",
+      "bytes": 173642,
+      "sha256": "44596e0b86f9d80b5e23621b017c92ada1fbbf21f5fe5c64d0b712fd129789a1",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        281,
+        142,
+        750,
+        593
+      ]
+    },
+    {
+      "file": "masks/02-rudolf-mask.png",
+      "bytes": 10283,
+      "sha256": "2eac070aa8f9a3fcdc8c68de5aa828f12a7e9e5c3e2e687a74cf3c4733e89905",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        412,
+        142,
+        620,
+        191
+      ]
+    },
+    {
+      "file": "masks/03-steiner-mask.png",
+      "bytes": 10259,
+      "sha256": "a027f86f30a26c22e83ed7abb4ac4a88517eca46180e3fb10b803e201ee693f1",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        412,
+        218,
+        618,
+        265
+      ]
+    },
+    {
+      "file": "masks/04-ga-mask.png",
+      "bytes": 20113,
+      "sha256": "cea5cff8aeba3820f64fc9a260406e2c52385883666b63aadd06d445bb9bb69d",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        281,
+        357,
+        750,
+        593
+      ]
+    },
+    {
+      "file": "masks/05-lettering-combined-mask.png",
+      "bytes": 31991,
+      "sha256": "b8525621721533d4663dcadb916ad9decc91f923885cee9dbf98f3f58da17084",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        281,
+        142,
+        750,
+        593
+      ]
+    },
+    {
+      "file": "materials/gold-stamping.png",
+      "bytes": 1957869,
+      "sha256": "4a143b4d5884f5cb4b7b9967ab0fcd86f38d1374ee45ce1c03650b0262a2dec0",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "preview.png",
+      "bytes": 2494150,
+      "sha256": "fdc6cde284eb441e3cada8c792f8ed64fc73f61a8a63c8e776d3dea5d0b1730d",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        255,
+        255
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "reference/approved-layout.png",
+      "bytes": 3062180,
+      "sha256": "df0f555728e3eb2a577f86f13cdcbe6454348dd0aba68360fb914c6e7b654db7",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        3,
+        250
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1254,
+        1254
+      ]
+    },
+    {
+      "file": "reference/original-book-cover.png",
+      "bytes": 198556,
+      "sha256": "7e6273074c540fb8645594a595b3850e1e10859e46ba29ac31ccefd93905d690",
+      "dimensions": [
+        300,
+        400
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "sources/final-prompts.txt",
+      "bytes": 4812,
+      "sha256": "67e83112d1fb221b265765d4921d65d313d622aec4ab22d02141da1571e57b0a"
+    },
+    {
+      "file": "sources/gold-imagegen-selected.png",
+      "bytes": 3475727,
+      "sha256": "70284490d64c7d3e4141077bd1c5d186d483b6be6458d94de98668de683cce56",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "sources/gold-imagegen.png",
+      "bytes": 4184864,
+      "sha256": "61daf9aef136144166f4de93bd3ecc5e72b8d294e8b10a2523fd4f49adcacf79",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "sources/gold-refinement-prompt.txt",
+      "bytes": 1439,
+      "sha256": "34283cd69979ddaff5abeb4fcbd1560dbbd3a34d3c2332e85f74bb68fd67244e"
+    },
+    {
+      "file": "sources/imagegen-prompts.txt",
+      "bytes": 3423,
+      "sha256": "363c233ed2e6777c5871708dd397532688867a43e986da33ec544ee72d121973"
+    },
+    {
+      "file": "sources/lettering-trace.json",
+      "bytes": 1185,
+      "sha256": "283114defab9a581952760e7a3110af208b8745384d2cd0b706b2bcc42a699c9"
+    },
+    {
+      "file": "sources/linen-imagegen.png",
+      "bytes": 4243673,
+      "sha256": "14b2a0f80ccd977666212be85b3a1d287754ff7c64d36363eb26e0dec7804d3c",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "sources/package-assets.py",
+      "bytes": 3570,
+      "sha256": "d2f39cca5abd40485d4392f7156ba0452a88cd36a3aaeeaf4284e70661cffc17"
+    },
+    {
+      "file": "sources/render-material-layers.swift",
+      "bytes": 2364,
+      "sha256": "f03e1f38a677081eedea6e8c6e923126e17063025b5c25a0fec0d7f7f878f474"
+    },
+    {
+      "file": "sources/trace-lettering.py",
+      "bytes": 10916,
+      "sha256": "ab4286627593973ba433ddb2b1c21cf910de10f5bdc92eccb11f4059f334392c"
+    },
+    {
+      "file": "vectors/02-rudolf.svg",
+      "bytes": 17513,
+      "sha256": "fb1c2b53408fbf0c1e3e92b2e0426e897a3c6e1e73395e3478d5af3e440b850f"
+    },
+    {
+      "file": "vectors/03-steiner.svg",
+      "bytes": 19630,
+      "sha256": "5cd56ef713201c6f979efb80583d7cdfe8d78bd5cced5b23cb4cd0eed95dfc98"
+    },
+    {
+      "file": "vectors/04-ga.svg",
+      "bytes": 16014,
+      "sha256": "95ec5d915dc7cc9d050c3603451355582d66ca50bb4171fa37fbada8fb0a614a"
+    },
+    {
+      "file": "vectors/05-lettering-combined.svg",
+      "bytes": 52496,
+      "sha256": "8709893d05228cccdafa9cf9637c07c84461d0111688de8f889579fd06ecb734"
+    }
+  ]
+}

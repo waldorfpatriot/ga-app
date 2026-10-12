@@ -1,0 +1,90 @@
+Rudolf Steiner / GA — Assets für Icon Composer
+
+Die vier Dateien im Hauptordner ergeben das Icon aus diesem Gespräch:
+
+  01-linen-background.png — deckender blauer Leineneinband mit linker Falz
+  02-rudolf-gold.png      — „Rudolf“, transparent, mit Goldstruktur
+  03-steiner-gold.png     — „Steiner“, transparent, mit Goldstruktur
+  04-ga-gold.png          — großes „GA“, transparent, mit Goldstruktur
+
+Alle vier Ebenen liegen auf demselben 1024 × 1024 Pixel großen Canvas.
+Positionen und Größen sind bereits aufeinander abgestimmt. Keine Datei
+hat vorab abgerundete Ecken: Die äußere Maske kommt von Icon Composer.
+
+SO BAUST DU DAS ICON NACH
+
+1. Erstelle in Icon Composer ein Icon für iPhone, iPad und Mac.
+2. Importiere zuerst 01-linen-background.png als unterste Ebene.
+3. Importiere danach die drei Schrift-PNGs darüber. „Rudolf“, „Steiner“
+   und „GA“ lassen sich als eigene Ebenen auswählen und anpassen.
+4. Lass alle Ebenen zunächst zentriert, mit gleicher Canvas-Größe und
+   ohne zusätzlichen Versatz. Transparente Ränder nicht abschneiden.
+5. Schalte auf jeder Ebene unter Liquid Glass den Schalter „Effects“ aus.
+   Deckkraft 100 %. Beginne ohne zusätzliche Schatten, Unschärfe,
+   Transluzenz oder Brechung. So bleibt die fotografische Materialwirkung
+   der PNGs erhalten. Diese Werte sind eine Gestaltungsempfehlung.
+6. Vergleiche die Ansicht mit preview.png. Danach kannst du die Effekte
+   nach Geschmack einschalten und anpassen.
+
+Die Schriftformen sind aus dem zuletzt bestätigten Icon nachgezeichnet.
+„GA“ bleibt deutlich größer als die beiden Namenszeilen. Du benötigst
+keine zusätzliche Schriftinstallation.
+
+WEITERE ASSETS
+
+materials/gold-stamping.png
+  Die vollständige Goldstruktur als 1024px-Materialfläche. Sie ist in den
+  Schrift-PNGs bereits durch die Buchstabenumrisse maskiert. Nicht als
+  zusätzliche volle Ebene über dem Icon importieren.
+
+vectors/02-rudolf.svg, vectors/03-steiner.svg, vectors/04-ga.svg
+  Skalierbare Schriftkonturen als Pfade mit Vollcanvas. Flache Ersatzfarbe
+  #DAD4B9; diese Dateien enthalten keine fotografische Goldstruktur.
+  Für die strukturierte Fassung die PNGs im Hauptordner verwenden.
+
+masks/
+  Dieselben Umrisse als weiße Alpha-Masken. Für das Befüllen mit einer
+  anderen Textur in einem Grafikprogramm; kein zusätzlicher Import nötig.
+
+alternatives/02-lettering-combined-gold.png
+  Alle drei Schriftzeilen gemeinsam als eine transparente Ebene. Nutze
+  entweder diese Datei ODER die drei einzelnen Schrift-PNGs.
+
+vectors/05-lettering-combined.svg
+  Entsprechende gemeinsame, flache Vektorvariante.
+
+preview.png
+  Zusammengefügte Vorschau. Sie ist keine weitere Ebene im Composer.
+
+HERKUNFT UND GENAUIGKEIT
+
+reference/original-book-cover.png ist das ursprüngliche 300 × 400 Pixel
+große Foto aus diesem Gespräch. Es ist die Materialreferenz.
+reference/approved-layout.png ist das zuletzt bestätigte Icon mit dem
+großen „GA“. Es liefert ausschließlich Schriftformen und Anordnung.
+
+Leinen und Gold wurden mit der integrierten Bildgenerierung anhand des
+ursprünglichen Fotos als getrennte Materialien rekonstruiert. Es handelt
+sich um vergrößerte Rekonstruktionen, nicht um unveränderte Pixel-Extrakte.
+Besonders die Goldstruktur ist im kleinen Foto nur in wenigen Pixeln
+sichtbar und daher in der Vergrößerung angenähert.
+
+Als Farbziele wurden direkt im Foto gemessene Medianwerte verwendet:
+  Leinen: RGB 59 / 93 / 144  (#3B5D90)
+  Gold:   RGB 218 / 212 / 185 (#DAD4B9)
+Dies sind fotografische Näherungswerte, keine verbindlichen Materialfarben.
+
+sources/ enthält die unveränderten Generierungsergebnisse, die verwendeten
+Prompts, den reproduzierbaren SVG-Trace und den Export der Gold-Ebenen.
+asset-manifest.json enthält Maße, Alphagrenzen, Herkunft und Prüfsummen.
+
+OFFIZIELLE APPLE-HINWEISE
+
+Canvas, PNG/SVG, Transparenz, Schriften als Pfade und Effects-Schalter:
+https://developer.apple.com/documentation/xcode/creating-your-app-icon-using-icon-composer
+
+Randfüllender Hintergrund und automatische äußere Icon-Maske:
+https://developer.apple.com/design/human-interface-guidelines/app-icons/
+
+Praktische Demonstration:
+https://developer.apple.com/videos/play/wwdc2025/361/

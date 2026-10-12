@@ -1,0 +1,14 @@
+// The public RevenueCat SDK key for the shared iOS/macOS App Store record.
+// This is designed to ship in apps;
+// RevenueCat secret keys, Apple private keys and backend encryption keys never
+// belong in an Xcode build setting.
+GA_REVENUECAT_IOS_SDK_KEY = appl_REhGNbpSKvBhaMwFLFusDLhAavA
+
+// Full service prefixes. The access service appends /api/access independently
+// of the bundled/static catalog service. An empty override uses
+// GA_SERVER_BASE_URL or CatalogClient's default.
+GA_ACCESS_BASE_URL = https:/$()/fototausch.eu/rudolf-steiner-ga
+GA_SERVER_BASE_URL =
+
+// Optional local overrides; their values are expanded into GA/Info.plist.
+#include? "Purchases.local.xcconfig"

@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#203e35">
+    <title>GA · Korrekturwerkstatt</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#reading-main">Zum Text springen</a>
+    <header class="site-header">
+      <a class="brand" href="/proofreading/" aria-label="GA Korrekturwerkstatt Startseite">
+        <span class="brand-mark" aria-hidden="true">GA<span>✦</span></span>
+        <span><strong>Korrekturwerkstatt</strong><small>Rudolf Steiner · Gesamtausgabe</small></span>
+      </a>
+      <div class="header-actions">
+        <span class="saving-indicator" id="save-indicator" role="status">Notizen werden lokal gespeichert</span>
+        <details class="export-menu"><summary>Notizen exportieren <span aria-hidden="true">↓</span></summary><div><a href="/api/proofreading/export?format=markdown" download>Als Markdown</a><a href="/api/proofreading/export?format=json" download>Als JSON</a></div></details>
+      </div>
+    </header>
+
+    <div class="workspace">
+      <aside class="library" aria-label="Gesamtausgabe auswählen">
+        <div class="library-intro"><p class="eyebrow">Die Gesamtausgabe</p><div class="library-title"><h1>Band für Band.</h1><span id="work-count">—</span></div><p>Texte lesen, Änderungen prüfen und Korrekturen festhalten.</p></div>
+        <div class="catalog-summary" id="catalog-summary" aria-label="Bearbeitungsstand"></div>
+        <div class="library-controls">
+          <label class="search-field"><span class="sr-only">GA-Nummer oder Titel suchen</span><span aria-hidden="true">⌕</span><input id="work-search" type="search" placeholder="GA-Nummer oder Titel" autocomplete="off"></label>
+          <label class="filter-field"><span class="sr-only">Bände filtern</span><select id="work-filter"><option value="all">Alle Bände</option><option value="changed">Mit automatischen Änderungen</option><option value="flagged">Mit Prüfhinweisen</option><option value="available">Mit lesbarem Text</option><option value="unreviewed">Noch nicht geprüft</option><option value="in_progress">In Prüfung</option><option value="reviewed">Als geprüft markiert</option><option value="unavailable">Text nicht verfügbar</option></select></label>
+        </div>
+        <p class="list-count" id="list-count" aria-live="polite"></p>
+        <nav id="work-list" class="work-list" aria-label="Bände"><p class="loading-message">Katalog wird geladen …</p></nav>
+        <footer class="library-footer"><span class="status-dot"></span><span id="report-date">Prüfbericht wird geladen</span></footer>
+      </aside>
+
+      <main id="reading-main" class="main" tabindex="-1">
+        <div id="welcome" class="welcome"><span class="welcome-number" aria-hidden="true">GA</span><p class="eyebrow">Ein Ort für sorgfältiges Lesen</p><h2>Die Texte verdienen<br>einen zweiten Blick.</h2><p>Wähle einen Band. Automatische Korrekturen, Stichproben und offene Prüfhinweise sind für jede GA einzeln dokumentiert. Markiere im Text eine Stelle, um eine Notiz anzulegen.</p></div>
+        <div id="work-view" hidden>
+          <header class="work-header">
+            <div class="work-kicker"><span class="eyebrow" id="work-number"></span><span class="source-badge" id="source-status"></span></div>
+            <h2 id="work-title"></h2>
+            <div class="work-meta"><span id="work-description"></span><label class="review-control">Prüfstand <select id="review-status"><option value="unreviewed">Noch nicht geprüft</option><option value="in_progress">In Prüfung</option><option value="reviewed">✓ Geprüft</option></select></label></div>
+            <div class="work-stats" id="work-stats"></div>
+          </header>
+          <div class="tab-bar" role="tablist" aria-label="Ansicht des Bandes">
+            <button id="tab-read" class="tab active" role="tab" aria-selected="true" aria-controls="panel-read" data-tab="read">Lesen <span id="passage-badge"></span></button>
+            <button id="tab-changes" class="tab" role="tab" aria-selected="false" aria-controls="panel-changes" data-tab="changes" tabindex="-1">Änderungen <span id="changes-badge"></span></button>
+            <button id="tab-checks" class="tab" role="tab" aria-selected="false" aria-controls="panel-checks" data-tab="checks" tabindex="-1">Prüfbericht <span id="flags-badge"></span></button>
+          </div>
+          <section id="panel-read" role="tabpanel" aria-labelledby="tab-read" class="tab-panel">
+            <div class="reading-toolbar"><label><span class="contents-label">Inhaltsverzeichnis</span><select id="passage-select"></select></label><div class="passage-buttons"><button id="previous-passage" class="icon-button" aria-label="Vorheriger Abschnitt">←</button><span id="passage-position"></span><button id="next-passage" class="icon-button" aria-label="Nächster Abschnitt">→</button></div></div>
+            <div class="reading-options"><span>Text markieren → Korrektur notieren</span><label>Schriftgröße <input id="font-size" type="range" min="17" max="27" value="21" aria-label="Schriftgröße"><span id="font-size-value">21</span></label></div>
+            <article id="reading-paper" class="reading-paper"><header><p id="passage-page" class="eyebrow"></p><p id="passage-group" class="passage-group" hidden></p><h3 id="passage-title"></h3><p id="passage-dateline" class="passage-dateline" hidden></p></header><div id="passage-text" class="passage-text"></div><details id="source-annotations" class="source-annotations" hidden></details><div id="empty-text" class="empty-state" hidden></div></article>
+            <div class="reading-bottom"><button id="next-passage-bottom" class="button secondary">Nächster Abschnitt <span aria-hidden="true">→</span></button></div>
+          </section>
+          <section id="panel-changes" role="tabpanel" aria-labelledby="tab-changes" class="tab-panel report-panel" hidden></section>
+          <section id="panel-checks" role="tabpanel" aria-labelledby="tab-checks" class="tab-panel report-panel" hidden></section>
+        </div>
+        <div id="main-error" class="error-state" hidden role="alert"></div>
+      </main>
+
+      <aside id="notes-panel" class="notes-panel" aria-label="Korrekturanmerkungen">
+        <header class="notes-header"><div class="notes-kicker"><p class="eyebrow">Dein Lektorat</p><button id="close-notes" class="text-button" type="button">Schließen ×</button></div><div><h2>Notizen</h2><span id="notes-count">0</span></div><p>Zu diesem Band, dauerhaft gespeichert.</p></header>
+        <div id="notes-inactive" class="notes-inactive"><span aria-hidden="true">✎</span><p>Wähle einen Band, um deine Korrekturanmerkungen zu sehen.</p></div>
+        <div id="notes-active" hidden>
+          <form id="note-form" class="note-composer">
+            <div class="composer-heading"><h3 id="composer-title">Neue Notiz</h3><button type="button" id="cancel-edit" class="text-button" hidden>Abbrechen</button></div>
+            <div id="quote-container" class="selected-quote" hidden><div><span id="quote-context"></span><button type="button" id="clear-quote" aria-label="Textmarkierung entfernen">×</button></div><blockquote id="quote-text"></blockquote></div>
+            <p id="selection-hint" class="selection-hint">Markiere eine Textstelle oder schreibe eine allgemeine Notiz zum Band.</p>
+            <label class="sr-only" for="note-body">Korrekturanmerkung</label><textarea id="note-body" rows="4" placeholder="Was soll geändert werden?" required></textarea>
+            <div class="composer-bottom"><label><input id="note-resolved" type="checkbox"> Erledigt</label><button type="submit" id="save-note" class="button primary">Notiz speichern</button></div>
+          </form>
+          <div class="notes-filter"><label><span class="sr-only">Notizen filtern</span><select id="notes-filter"><option value="open">Offene Notizen</option><option value="all">Alle Notizen</option><option value="resolved">Erledigte Notizen</option><option value="passage">Zum aktuellen Abschnitt</option></select></label><span id="notes-filter-count"></span></div>
+          <div id="notes-list" class="notes-list" aria-live="polite"></div>
+        </div>
+      </aside>
+    </div>
+    <div id="note-backdrop" class="note-backdrop" hidden></div>
+    <button id="mobile-notes" class="mobile-notes-toggle" type="button" aria-controls="notes-panel" aria-expanded="false" hidden><span aria-hidden="true">✎</span><span id="mobile-notes-label">Notizen öffnen</span><span id="mobile-notes-count">0</span></button>
+    <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  </body>
+</html>

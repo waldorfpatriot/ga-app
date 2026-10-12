@@ -1,0 +1,760 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7FEF072680998547F6E1A2CA /* ga.icon in Resources */ = {isa = PBXBuildFile; fileRef = 87313382D215632A486FADBA /* ga.icon */; };
+		A00100000000000000000001 /* GAApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000001 /* GAApp.swift */; };
+		A00100000000000000000002 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000002 /* Models.swift */; };
+		A00100000000000000000003 /* SeedLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000003 /* SeedLibrary.swift */; };
+		A00100000000000000000004 /* LibraryScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000004 /* LibraryScreen.swift */; };
+		A00100000000000000000005 /* ReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000005 /* ReaderView.swift */; };
+		A00100000000000000000006 /* GAAppIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000006 /* GAAppIntents.swift */; };
+		A00100000000000000000007 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000007 /* Assets.xcassets */; };
+		A00100000000000000000008 /* BundledContent in Resources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000008 /* BundledContent */; };
+		A00100000000000000000009 /* ReadingStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000009 /* ReadingStore.swift */; };
+		A0010000000000000000000A /* ReadingLibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0020000000000000000000A /* ReadingLibraryView.swift */; };
+		A0010000000000000000000B /* KutschereiBookCover.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0020000000000000000000B /* KutschereiBookCover.swift */; };
+		A0010000000000000000000C /* CoverMaterials in Resources */ = {isa = PBXBuildFile; fileRef = A0020000000000000000000C /* CoverMaterials */; };
+		A0010000000000000000000D /* CoverFonts in Resources */ = {isa = PBXBuildFile; fileRef = A0020000000000000000000D /* CoverFonts */; };
+		A0010000000000000000000E /* NativeReadingText.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0020000000000000000000E /* NativeReadingText.swift */; };
+		A0010000000000000000000F /* ReaderAnnotationControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0020000000000000000000F /* ReaderAnnotationControls.swift */; };
+		A00100000000000000000011 /* GAApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000001 /* GAApp.swift */; };
+		A00100000000000000000012 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000002 /* Models.swift */; };
+		A00100000000000000000013 /* SeedLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000003 /* SeedLibrary.swift */; };
+		A00100000000000000000014 /* LibraryScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000004 /* LibraryScreen.swift */; };
+		A00100000000000000000015 /* ReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000005 /* ReaderView.swift */; };
+		A00100000000000000000016 /* GAAppIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000006 /* GAAppIntents.swift */; };
+		A00100000000000000000017 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000007 /* Assets.xcassets */; };
+		A00100000000000000000018 /* BundledContent in Resources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000008 /* BundledContent */; };
+		A00100000000000000000019 /* ReadingStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000009 /* ReadingStore.swift */; };
+		A0010000000000000000001A /* ReadingLibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0020000000000000000000A /* ReadingLibraryView.swift */; };
+		A0010000000000000000001B /* KutschereiBookCover.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0020000000000000000000B /* KutschereiBookCover.swift */; };
+		A0010000000000000000001C /* CoverMaterials in Resources */ = {isa = PBXBuildFile; fileRef = A0020000000000000000000C /* CoverMaterials */; };
+		A0010000000000000000001D /* CoverFonts in Resources */ = {isa = PBXBuildFile; fileRef = A0020000000000000000000D /* CoverFonts */; };
+		A0010000000000000000001E /* NativeReadingText.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0020000000000000000000E /* NativeReadingText.swift */; };
+		A0010000000000000000001F /* ReaderAnnotationControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0020000000000000000000F /* ReaderAnnotationControls.swift */; };
+		A00100000000000000000020 /* BundledCatalog in Resources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000020 /* BundledCatalog */; };
+		A00100000000000000000030 /* BundledCatalog in Resources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000020 /* BundledCatalog */; };
+		A00100000000000000000031 /* EPUBExporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000031 /* EPUBExporter.swift */; };
+		A00100000000000000000032 /* EPUBExportContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000032 /* EPUBExportContent.swift */; };
+		A00100000000000000000033 /* EPUBShareLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000033 /* EPUBShareLink.swift */; };
+		A00100000000000000000041 /* EPUBExporter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000031 /* EPUBExporter.swift */; };
+		A00100000000000000000042 /* EPUBExportContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000032 /* EPUBExportContent.swift */; };
+		A00100000000000000000043 /* EPUBShareLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00200000000000000000033 /* EPUBShareLink.swift */; };
+		B00100000000000000000001 /* GAReaderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B00200000000000000000001 /* GAReaderUITests.swift */; };
+		B64EE95E03B67125D23181C0 /* ga.icon in Resources */ = {isa = PBXBuildFile; fileRef = 87313382D215632A486FADBA /* ga.icon */; };
+		C00100000000000000000001 /* AccessClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00200000000000000000001 /* AccessClient.swift */; };
+		C0010000000000000000000B /* AccessClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00200000000000000000001 /* AccessClient.swift */; };
+		C00100000000000000000002 /* AccessStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00200000000000000000002 /* AccessStore.swift */; };
+		C0010000000000000000000C /* AccessStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00200000000000000000002 /* AccessStore.swift */; };
+		C00100000000000000000003 /* PurchaseScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00200000000000000000003 /* PurchaseScreen.swift */; };
+		C0010000000000000000000D /* PurchaseScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00200000000000000000003 /* PurchaseScreen.swift */; };
+		C00100000000000000000004 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = C00200000000000000000004 /* PrivacyInfo.xcprivacy */; };
+		C0010000000000000000000E /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = C00200000000000000000004 /* PrivacyInfo.xcprivacy */; };
+		C00100000000000000000007 /* GA.storekit in Resources */ = {isa = PBXBuildFile; fileRef = C00200000000000000000007 /* GA.storekit */; };
+		C00100000000000000000020 /* RevenueCat in Frameworks */ = {isa = PBXBuildFile; productRef = C01100000000000000000001 /* RevenueCat */; };
+		C00100000000000000000021 /* RevenueCat in Frameworks */ = {isa = PBXBuildFile; productRef = C01100000000000000000002 /* RevenueCat */; };
+		C00100000000000000000009 /* ReaderTextReportSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00200000000000000000009 /* ReaderTextReportSheet.swift */; };
+		C0010000000000000000000F /* ReaderTextReportSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = C00200000000000000000009 /* ReaderTextReportSheet.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B01100000000000000000001 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A00800000000000000000001 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A00500000000000000000001;
+			remoteInfo = "GA iOS";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		87313382D215632A486FADBA /* ga.icon */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder.iconcomposer.icon; path = ga.icon; sourceTree = "<group>"; };
+		A00200000000000000000001 /* GAApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GAApp.swift; sourceTree = "<group>"; };
+		A00200000000000000000002 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		A00200000000000000000003 /* SeedLibrary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeedLibrary.swift; sourceTree = "<group>"; };
+		A00200000000000000000004 /* LibraryScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryScreen.swift; sourceTree = "<group>"; };
+		A00200000000000000000005 /* ReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderView.swift; sourceTree = "<group>"; };
+		A00200000000000000000006 /* GAAppIntents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GAAppIntents.swift; sourceTree = "<group>"; };
+		A00200000000000000000007 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A00200000000000000000008 /* BundledContent */ = {isa = PBXFileReference; lastKnownFileType = folder; path = BundledContent; sourceTree = "<group>"; };
+		A00200000000000000000009 /* ReadingStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingStore.swift; sourceTree = "<group>"; };
+		A0020000000000000000000A /* ReadingLibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingLibraryView.swift; sourceTree = "<group>"; };
+		A0020000000000000000000B /* KutschereiBookCover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KutschereiBookCover.swift; sourceTree = "<group>"; };
+		A0020000000000000000000C /* CoverMaterials */ = {isa = PBXFileReference; lastKnownFileType = folder; path = CoverMaterials; sourceTree = "<group>"; };
+		A0020000000000000000000D /* CoverFonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = CoverFonts; sourceTree = "<group>"; };
+		A0020000000000000000000E /* NativeReadingText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativeReadingText.swift; sourceTree = "<group>"; };
+		A0020000000000000000000F /* ReaderAnnotationControls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderAnnotationControls.swift; sourceTree = "<group>"; };
+		A00200000000000000000020 /* BundledCatalog */ = {isa = PBXFileReference; lastKnownFileType = folder; path = BundledCatalog; sourceTree = "<group>"; };
+		A00200000000000000000021 /* GA iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GA iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A00200000000000000000022 /* GA Mac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GA Mac.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A00200000000000000000031 /* EPUBExporter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EPUBExporter.swift; sourceTree = "<group>"; };
+		A00200000000000000000032 /* EPUBExportContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EPUBExportContent.swift; sourceTree = "<group>"; };
+		A00200000000000000000033 /* EPUBShareLink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EPUBShareLink.swift; sourceTree = "<group>"; };
+		B00200000000000000000001 /* GAReaderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GAReaderUITests.swift; sourceTree = "<group>"; };
+		B00200000000000000000002 /* GAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GAUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C00200000000000000000001 /* AccessClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessClient.swift; sourceTree = "<group>"; };
+		C00200000000000000000002 /* AccessStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessStore.swift; sourceTree = "<group>"; };
+		C00200000000000000000003 /* PurchaseScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurchaseScreen.swift; sourceTree = "<group>"; };
+		C00200000000000000000004 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		C00200000000000000000005 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C00200000000000000000006 /* Purchases.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Purchases.xcconfig; sourceTree = "<group>"; };
+		C00200000000000000000007 /* GA.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = GA.storekit; sourceTree = "<group>"; };
+		C00200000000000000000008 /* GAMac.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = GAMac.entitlements; sourceTree = "<group>"; };
+		C00200000000000000000009 /* ReaderTextReportSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderTextReportSheet.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A00300000000000000000001 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C00100000000000000000020 /* RevenueCat in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A00300000000000000000002 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C00100000000000000000021 /* RevenueCat in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B00300000000000000000001 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A00400000000000000000001 = {
+			isa = PBXGroup;
+			children = (
+				A00400000000000000000002 /* GA */,
+				B00400000000000000000001 /* GAUITests */,
+				A00400000000000000000003 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A00400000000000000000002 /* GA */ = {
+			isa = PBXGroup;
+			children = (
+				A00200000000000000000001 /* GAApp.swift */,
+				C00200000000000000000001 /* AccessClient.swift */,
+				C00200000000000000000002 /* AccessStore.swift */,
+				C00200000000000000000003 /* PurchaseScreen.swift */,
+				C00200000000000000000004 /* PrivacyInfo.xcprivacy */,
+				C00200000000000000000005 /* Info.plist */,
+				C00200000000000000000006 /* Purchases.xcconfig */,
+				C00200000000000000000007 /* GA.storekit */,
+				C00200000000000000000008 /* GAMac.entitlements */,
+				A0020000000000000000000A /* ReadingLibraryView.swift */,
+				A0020000000000000000000B /* KutschereiBookCover.swift */,
+				A00200000000000000000009 /* ReadingStore.swift */,
+				A00200000000000000000002 /* Models.swift */,
+				A00200000000000000000003 /* SeedLibrary.swift */,
+				A00200000000000000000004 /* LibraryScreen.swift */,
+				A00200000000000000000005 /* ReaderView.swift */,
+				A00200000000000000000031 /* EPUBExporter.swift */,
+				A00200000000000000000032 /* EPUBExportContent.swift */,
+				A00200000000000000000033 /* EPUBShareLink.swift */,
+				A0020000000000000000000E /* NativeReadingText.swift */,
+				A0020000000000000000000F /* ReaderAnnotationControls.swift */,
+				C00200000000000000000009 /* ReaderTextReportSheet.swift */,
+				A00200000000000000000006 /* GAAppIntents.swift */,
+				A00200000000000000000007 /* Assets.xcassets */,
+				A00200000000000000000008 /* BundledContent */,
+				A00200000000000000000020 /* BundledCatalog */,
+				A0020000000000000000000C /* CoverMaterials */,
+				A0020000000000000000000D /* CoverFonts */,
+				87313382D215632A486FADBA /* ga.icon */,
+			);
+			path = GA;
+			sourceTree = "<group>";
+		};
+		A00400000000000000000003 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A00200000000000000000021 /* GA iOS.app */,
+				A00200000000000000000022 /* GA Mac.app */,
+				B00200000000000000000002 /* GAUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B00400000000000000000001 /* GAUITests */ = {
+			isa = PBXGroup;
+			children = (
+				B00200000000000000000001 /* GAReaderUITests.swift */,
+			);
+			path = GAUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A00500000000000000000001 /* GA iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A00900000000000000000002 /* Build configuration list for PBXNativeTarget "GA iOS" */;
+			buildPhases = (
+				A00600000000000000000001 /* Sources */,
+				A00300000000000000000001 /* Frameworks */,
+				A00700000000000000000001 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "GA iOS";
+			packageProductDependencies = (
+				C01100000000000000000001 /* RevenueCat */,
+			);
+			productName = "GA iOS";
+			productReference = A00200000000000000000021 /* GA iOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A00500000000000000000002 /* GA Mac */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A00900000000000000000003 /* Build configuration list for PBXNativeTarget "GA Mac" */;
+			buildPhases = (
+				A00600000000000000000002 /* Sources */,
+				A00300000000000000000002 /* Frameworks */,
+				A00700000000000000000002 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "GA Mac";
+			packageProductDependencies = (
+				C01100000000000000000002 /* RevenueCat */,
+			);
+			productName = "GA Mac";
+			productReference = A00200000000000000000022 /* GA Mac.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B00500000000000000000001 /* GAUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B00900000000000000000001 /* Build configuration list for PBXNativeTarget "GAUITests" */;
+			buildPhases = (
+				B00600000000000000000001 /* Sources */,
+				B00300000000000000000001 /* Frameworks */,
+				B00700000000000000000001 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B01200000000000000000001 /* PBXTargetDependency */,
+			);
+			name = GAUITests;
+			productName = GAUITests;
+			productReference = B00200000000000000000002 /* GAUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A00800000000000000000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2630;
+				LastUpgradeCheck = 2630;
+				TargetAttributes = {
+					A00500000000000000000001 = {
+						CreatedOnToolsVersion = 26.3;
+						SystemCapabilities = { com.apple.InAppPurchase = { enabled = 1; }; };
+					};
+					A00500000000000000000002 = {
+						CreatedOnToolsVersion = 26.3;
+						SystemCapabilities = { com.apple.InAppPurchase = { enabled = 1; }; };
+					};
+					B00500000000000000000001 = {
+						CreatedOnToolsVersion = 26.3;
+						TestTargetID = A00500000000000000000001;
+					};
+				};
+			};
+			buildConfigurationList = A00900000000000000000001 /* Build configuration list for PBXProject "GA" */;
+			developmentRegion = de;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				de,
+				en,
+				Base,
+			);
+			mainGroup = A00400000000000000000001;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				C01000000000000000000001 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = A00400000000000000000003 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A00500000000000000000001 /* GA iOS */,
+				A00500000000000000000002 /* GA Mac */,
+				B00500000000000000000001 /* GAUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A00700000000000000000001 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C00100000000000000000004 /* PrivacyInfo.xcprivacy in Resources */,
+				A00100000000000000000007 /* Assets.xcassets in Resources */,
+				A00100000000000000000008 /* BundledContent in Resources */,
+				A00100000000000000000020 /* BundledCatalog in Resources */,
+				A0010000000000000000000C /* CoverMaterials in Resources */,
+				A0010000000000000000000D /* CoverFonts in Resources */,
+				7FEF072680998547F6E1A2CA /* ga.icon in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A00700000000000000000002 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C0010000000000000000000E /* PrivacyInfo.xcprivacy in Resources */,
+				A00100000000000000000017 /* Assets.xcassets in Resources */,
+				A00100000000000000000018 /* BundledContent in Resources */,
+				A00100000000000000000030 /* BundledCatalog in Resources */,
+				A0010000000000000000001C /* CoverMaterials in Resources */,
+				A0010000000000000000001D /* CoverFonts in Resources */,
+				B64EE95E03B67125D23181C0 /* ga.icon in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B00700000000000000000001 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C00100000000000000000007 /* GA.storekit in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A00600000000000000000001 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C00100000000000000000001 /* AccessClient.swift in Sources */,
+				C00100000000000000000002 /* AccessStore.swift in Sources */,
+				C00100000000000000000003 /* PurchaseScreen.swift in Sources */,
+				A0010000000000000000000A /* ReadingLibraryView.swift in Sources */,
+				A0010000000000000000000B /* KutschereiBookCover.swift in Sources */,
+				A00100000000000000000009 /* ReadingStore.swift in Sources */,
+				A00100000000000000000001 /* GAApp.swift in Sources */,
+				A00100000000000000000002 /* Models.swift in Sources */,
+				A00100000000000000000003 /* SeedLibrary.swift in Sources */,
+				A00100000000000000000004 /* LibraryScreen.swift in Sources */,
+				A00100000000000000000005 /* ReaderView.swift in Sources */,
+				A00100000000000000000031 /* EPUBExporter.swift in Sources */,
+				A00100000000000000000032 /* EPUBExportContent.swift in Sources */,
+				A00100000000000000000033 /* EPUBShareLink.swift in Sources */,
+				A0010000000000000000000E /* NativeReadingText.swift in Sources */,
+				A0010000000000000000000F /* ReaderAnnotationControls.swift in Sources */,
+				C00100000000000000000009 /* ReaderTextReportSheet.swift in Sources */,
+				A00100000000000000000006 /* GAAppIntents.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A00600000000000000000002 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C0010000000000000000000B /* AccessClient.swift in Sources */,
+				C0010000000000000000000C /* AccessStore.swift in Sources */,
+				C0010000000000000000000D /* PurchaseScreen.swift in Sources */,
+				A0010000000000000000001A /* ReadingLibraryView.swift in Sources */,
+				A0010000000000000000001B /* KutschereiBookCover.swift in Sources */,
+				A00100000000000000000019 /* ReadingStore.swift in Sources */,
+				A00100000000000000000011 /* GAApp.swift in Sources */,
+				A00100000000000000000012 /* Models.swift in Sources */,
+				A00100000000000000000013 /* SeedLibrary.swift in Sources */,
+				A00100000000000000000014 /* LibraryScreen.swift in Sources */,
+				A00100000000000000000015 /* ReaderView.swift in Sources */,
+				A00100000000000000000041 /* EPUBExporter.swift in Sources */,
+				A00100000000000000000042 /* EPUBExportContent.swift in Sources */,
+				A00100000000000000000043 /* EPUBShareLink.swift in Sources */,
+				A0010000000000000000001E /* NativeReadingText.swift in Sources */,
+				A0010000000000000000001F /* ReaderAnnotationControls.swift in Sources */,
+				C0010000000000000000000F /* ReaderTextReportSheet.swift in Sources */,
+				A00100000000000000000016 /* GAAppIntents.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B00600000000000000000001 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B00100000000000000000001 /* GAReaderUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B01200000000000000000001 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A00500000000000000000001 /* GA iOS */;
+			targetProxy = B01100000000000000000001 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		A01000000000000000000001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A01000000000000000000002 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		A01000000000000000000011 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C00200000000000000000006 /* Purchases.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = ga;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGNING_ALLOWED = YES;
+				CODE_SIGN_ENTITLEMENTS = GA/GA.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 4;
+				DEVELOPMENT_ASSET_PATHS = "";
+				DEVELOPMENT_TEAM = ER7U6R25KM;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = GA/Info.plist;
+				GA_REVENUECAT_PUBLIC_SDK_KEY = "$(GA_REVENUECAT_IOS_SDK_KEY)";
+				INFOPLIST_KEY_CFBundleDisplayName = Gesamtausgabe;
+				INFOPLIST_KEY_GACloudKitContainerIdentifier = iCloud.com.jonathankutscher.ga;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.reference";
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jonathankutscher.ga;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A01000000000000000000012 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C00200000000000000000006 /* Purchases.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = ga;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGNING_ALLOWED = YES;
+				CODE_SIGN_ENTITLEMENTS = GA/GA.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 4;
+				DEVELOPMENT_ASSET_PATHS = "";
+				DEVELOPMENT_TEAM = ER7U6R25KM;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = GA/Info.plist;
+				GA_REVENUECAT_PUBLIC_SDK_KEY = "$(GA_REVENUECAT_IOS_SDK_KEY)";
+				INFOPLIST_KEY_CFBundleDisplayName = Gesamtausgabe;
+				INFOPLIST_KEY_GACloudKitContainerIdentifier = iCloud.com.jonathankutscher.ga;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.reference";
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jonathankutscher.ga;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		A01000000000000000000021 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C00200000000000000000006 /* Purchases.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = ga;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGN_ENTITLEMENTS = GA/GAMac.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 4;
+				DEVELOPMENT_TEAM = ER7U6R25KM;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = GA/Info.plist;
+				GA_REVENUECAT_PUBLIC_SDK_KEY = "$(GA_REVENUECAT_IOS_SDK_KEY)";
+				INFOPLIST_KEY_CFBundleDisplayName = Gesamtausgabe;
+				INFOPLIST_KEY_GACloudKitContainerIdentifier = iCloud.com.jonathankutscher.ga;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.books";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jonathankutscher.ga;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SUPPORTED_PLATFORMS = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		A01000000000000000000022 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C00200000000000000000006 /* Purchases.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = ga;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGNING_ALLOWED = YES;
+				CODE_SIGN_ENTITLEMENTS = GA/GAMac.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 4;
+				DEVELOPMENT_TEAM = ER7U6R25KM;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = GA/Info.plist;
+				GA_REVENUECAT_PUBLIC_SDK_KEY = "$(GA_REVENUECAT_IOS_SDK_KEY)";
+				INFOPLIST_KEY_CFBundleDisplayName = Gesamtausgabe;
+				INFOPLIST_KEY_GACloudKitContainerIdentifier = iCloud.com.jonathankutscher.ga;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.books";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jonathankutscher.ga;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SUPPORTED_PLATFORMS = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		B01000000000000000000001 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ER7U6R25KM;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jonathankutscher.ga.uitests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "GA iOS";
+			};
+			name = Debug;
+		};
+		B01000000000000000000002 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ER7U6R25KM;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jonathankutscher.ga.uitests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "GA iOS";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A00900000000000000000001 /* Build configuration list for PBXProject "GA" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A01000000000000000000001 /* Debug */,
+				A01000000000000000000002 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A00900000000000000000002 /* Build configuration list for PBXNativeTarget "GA iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A01000000000000000000011 /* Debug */,
+				A01000000000000000000012 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A00900000000000000000003 /* Build configuration list for PBXNativeTarget "GA Mac" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A01000000000000000000021 /* Debug */,
+				A01000000000000000000022 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B00900000000000000000001 /* Build configuration list for PBXNativeTarget "GAUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B01000000000000000000001 /* Debug */,
+				B01000000000000000000002 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+/* Begin XCRemoteSwiftPackageReference section */
+		C01000000000000000000001 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/RevenueCat/purchases-ios-spm.git";
+			requirement = { kind = exactVersion; version = 5.94.0; };
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		C01100000000000000000001 /* RevenueCat */ = {isa = XCSwiftPackageProductDependency; package = C01000000000000000000001 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */; productName = RevenueCat; };
+		C01100000000000000000002 /* RevenueCat */ = {isa = XCSwiftPackageProductDependency; package = C01000000000000000000001 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */; productName = RevenueCat; };
+/* End XCSwiftPackageProductDependency section */
+
+	};
+	rootObject = A00800000000000000000001 /* Project object */;
+}

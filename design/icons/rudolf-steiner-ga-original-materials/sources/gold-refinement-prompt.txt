@@ -1,0 +1,10 @@
+Mode: built-in ImageGen. Edit target: gold-imagegen.png. Supporting reference: original-book-cover.png.
+Selected result: gold-imagegen-selected.png.
+
+Use case: precise-object-edit.
+Input 1 is the edit target: a square material swatch. Input 2 is the ORIGINAL book photo, whose pale foil lettering is the reference.
+Make one targeted correction to Input 1: match its color and restrained surface finish MUCH more closely to the tiny PALE gold letters of Input 2.
+The current swatch is too yellow/brown and its texture too bumpy and contrasty. Correct the whole material to a LIGHT, LOW-SATURATION GRAYISH CHAMPAGNE-BEIGE gold, with average pixel color extremely close to RGB 218,212,185 (hex #DAD4B9). Blue channel about 185, NOT 140. This precise hue is essential. It should read almost as warm ivory/tarnished silver with a faint gold cast, not golden-yellow.
+Reduce the grain highlight/shadow contrast by approximately 65 percent and remove the raised pebble-like look. Keep just extremely fine irregular foil speckle and an understated imprint of the original linen threads. Mostly smooth matte pale gold stamped surface, with gently worn tiny pores. Original color fidelity is more important than dramatic metallic rendering.
+No dramatic reflections, no crumpling, no hammered/pebbled metal, no chunky fibers.
+Full-canvas opaque square texture, 1024x1024, no letters, no blue, no objects, no borders, no rounded corners, no gradients.

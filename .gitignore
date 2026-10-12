@@ -1,0 +1,69 @@
+.DS_Store
+
+# Xcode local state and build output
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+xcuserdata/
+*.moved-aside
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# SwiftPM/Xcode scratch
+.build/
+
+# Elixir/Phoenix build output and local tooling
+server/_build/
+server/deps/
+server/.elixir_ls/
+server/erl_crash.dump
+server/*.ez
+
+# Local environment
+.env
+.env.*
+
+# Downloaded/generated research artifacts.
+# Keep small public metadata summaries, but do not commit raw scans,
+# full extracted text, or rendered page images until rights/scope cleanup exists.
+research/*
+!research/ia_advancedsearch.json
+!research/ia_metadata_summary.json
+
+# Python validation/import scratch files.
+__pycache__/
+*.pyc
+
+# Private local editorial notes and correction-baseline/source caches.
+server/var/
+
+# Optional workstation purchase overrides. Public production defaults are tracked.
+apple/GA/Purchases.local.xcconfig
+editions/*/apple/Purchases.local.xcconfig
+editions/*/deploy/environment
+editions/*/deploy/backup-key
+
+# Local signed release archives and packages.
+artifacts/app-store/
+
+# Local account/admin verification captures; app screenshots are tracked.
+docs/app-store/*-proof.jpg
+docs/app-store/publishing/*-proof.jpg
+
+# Workstation/private materials outside the GA source snapshot.
+/tmp/
+/output/
+/artifacts/
+*.sqlite3
+*.sqlite3-*
+*.p12
+*.p8
+*.mobileprovision
+*.provisionprofile
+*.pem
+*.key
+
+# Never add actual production environment/backup keys.
+server/deploy/environment
+server/deploy/backup-key

@@ -1,0 +1,353 @@
+{
+  "name": "Rudolf Steiner GA \u2014 gold-textured lettering, 200% size",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "letteringScale": 2.0,
+  "increasePercent": 100,
+  "combinedPNG": "rudolf-steiner-ga-gold-200pct.png",
+  "separatePNGs": [
+    "02-rudolf-gold-200pct.png",
+    "03-steiner-gold-200pct.png",
+    "04-ga-gold-200pct.png"
+  ],
+  "transparentForeground": true,
+  "goldTextureBakedIn": true,
+  "materialChanged": false,
+  "fontsRequired": false,
+  "geometry": "sources/export-metadata.json",
+  "guide": "IMPORT.txt",
+  "files": [
+    {
+      "file": "02-rudolf-gold-200pct.png",
+      "bytes": 62307,
+      "sha256": "854a3e15c0c8e8b0b6f2d39aa1375463d0b00b8766d43343854b0969386d94db",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        303,
+        60,
+        722,
+        160
+      ]
+    },
+    {
+      "file": "03-steiner-gold-200pct.png",
+      "bytes": 57786,
+      "sha256": "ca79cb642b0564e40a830e0248d1450b2240d156c25a5e951a01618a77bc7612",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        304,
+        213,
+        717,
+        309
+      ]
+    },
+    {
+      "file": "04-ga-gold-200pct.png",
+      "bytes": 428854,
+      "sha256": "4eac97d3e1a60123178a06f9348f63fab98cb52902ce7d9f12171a4db9048826",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        43,
+        492,
+        981,
+        964
+      ]
+    },
+    {
+      "file": "IMPORT.txt",
+      "bytes": 1581,
+      "sha256": "bd64438b37eca0faf4ea588a5438ddb240d2572074093a2b7cdf007c5ece8869"
+    },
+    {
+      "file": "masks/02-rudolf-mask-200pct.png",
+      "bytes": 19242,
+      "sha256": "4c92fdd955608c8b5b013809c02f2d9f42acc5df4856555d3b15708064261cc8",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        303,
+        60,
+        722,
+        160
+      ]
+    },
+    {
+      "file": "masks/03-steiner-mask-200pct.png",
+      "bytes": 19614,
+      "sha256": "6108e031fc080ca8feb98385abaa568373122980d77b4d0642a3017cd234de9c",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        304,
+        213,
+        717,
+        309
+      ]
+    },
+    {
+      "file": "masks/04-ga-mask-200pct.png",
+      "bytes": 40237,
+      "sha256": "27c99ef121b2885853f91887ac216058afc91d1fad38d30ffdaf02a3aade17ff",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        43,
+        492,
+        981,
+        964
+      ]
+    },
+    {
+      "file": "masks/05-lettering-combined-mask-200pct.png",
+      "bytes": 66146,
+      "sha256": "fec2095d290fa84fa04e47319dcf5705af3bfeff7224753ebc5fa65f63a0ee80",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        43,
+        60,
+        981,
+        964
+      ]
+    },
+    {
+      "file": "masks/4x/02-rudolf-mask-200pct-4096.png",
+      "bytes": 104248,
+      "sha256": "accc16bc89a01724e9a668bbf90e6ed9e60f8f85985ae7bd8a423d4f010c83fd",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        1224,
+        251,
+        2880,
+        632
+      ]
+    },
+    {
+      "file": "masks/4x/03-steiner-mask-200pct-4096.png",
+      "bytes": 103726,
+      "sha256": "c98dacf97592b158dcb5b8fc818a0ece84f71f867e9434918ff3f6a3b24ddcca",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        1225,
+        862,
+        2860,
+        1226
+      ]
+    },
+    {
+      "file": "masks/4x/04-ga-mask-200pct-4096.png",
+      "bytes": 162657,
+      "sha256": "f06211d738812063a9a5ef6d1a7180f0de9d6a68b92b55e1f44afd626521e159",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        181,
+        1976,
+        3916,
+        3846
+      ]
+    },
+    {
+      "file": "masks/4x/05-lettering-combined-mask-200pct-4096.png",
+      "bytes": 239526,
+      "sha256": "04a89ecbdba4b1a296cb606cb63b28f3364c23febf39e6caab60cd77251b85b0",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        181,
+        251,
+        3916,
+        3846
+      ]
+    },
+    {
+      "file": "preview-on-linen.png",
+      "bytes": 2496387,
+      "sha256": "249c811ac2c75313d3b33cf8665caf5127b66ce514f0fc1fe1e5482ff264b332",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        255,
+        255
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "rudolf-steiner-ga-gold-200pct.png",
+      "bytes": 537688,
+      "sha256": "8e579998e8aa9709829e79b30f96f9ac55a9c6e957c220c0a6b4578c9e093e8f",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alphaBounds": [
+        43,
+        60,
+        981,
+        964
+      ]
+    },
+    {
+      "file": "sources/export-metadata.json",
+      "bytes": 4471,
+      "sha256": "18ab2b4824682f5259ba705afd1e843f4bf413358eb50872b704d4f24197e545"
+    },
+    {
+      "file": "sources/input/gold-stamping.png",
+      "bytes": 1957869,
+      "sha256": "4a143b4d5884f5cb4b7b9967ab0fcd86f38d1374ee45ce1c03650b0262a2dec0",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "sources/input/vectors/02-rudolf.svg",
+      "bytes": 17513,
+      "sha256": "fb1c2b53408fbf0c1e3e92b2e0426e897a3c6e1e73395e3478d5af3e440b850f"
+    },
+    {
+      "file": "sources/input/vectors/03-steiner.svg",
+      "bytes": 19630,
+      "sha256": "5cd56ef713201c6f979efb80583d7cdfe8d78bd5cced5b23cb4cd0eed95dfc98"
+    },
+    {
+      "file": "sources/input/vectors/04-ga.svg",
+      "bytes": 16014,
+      "sha256": "95ec5d915dc7cc9d050c3603451355582d66ca50bb4171fa37fbada8fb0a614a"
+    },
+    {
+      "file": "sources/package-assets.py",
+      "bytes": 2105,
+      "sha256": "40c4b5ed80aa493490166d6053c82fab9aee940a9dfc7eaa7f302413f2d1294e"
+    },
+    {
+      "file": "sources/rebuild-gold-lettering.py",
+      "bytes": 10577,
+      "sha256": "025d46e4eb7ce3a99288f62a7caeabe3d3723bb60ac74f556d0d0aa1e8f8a570"
+    },
+    {
+      "file": "sources/render-preview.swift",
+      "bytes": 1291,
+      "sha256": "7daa57fc4605e00063989a857e7e2ab8458a7430df51c39c7c67f3201d84de95"
+    },
+    {
+      "file": "vectors/02-rudolf-200pct.svg",
+      "bytes": 24099,
+      "sha256": "220b9e73e1c48a2f5a0af390e1c64ef8b14a40df490553c0bb1b6c2f44e92a9d"
+    },
+    {
+      "file": "vectors/03-steiner-200pct.svg",
+      "bytes": 27477,
+      "sha256": "b6fb65f117b439cce9215f5c694652f93b09eba5f3284fbdde82edb80054b643"
+    },
+    {
+      "file": "vectors/04-ga-200pct.svg",
+      "bytes": 22342,
+      "sha256": "08bf0da310e40ac2796b2e9d78970740ce6f763b1a3b9e1f2af4bfc22bf4be06"
+    },
+    {
+      "file": "vectors/05-lettering-combined-200pct.svg",
+      "bytes": 73220,
+      "sha256": "444e06d79ad533673aa003bd7fe402620166816b2c2f3606042270c92a25a390"
+    }
+  ]
+}

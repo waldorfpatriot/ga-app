@@ -1,0 +1,712 @@
+[
+  {
+    "passage_id": "ga-014-pdf-outline-21-6",
+    "kind": "verse_overrun",
+    "pages": [
+      21
+    ],
+    "old": "Und fruchtlos sehen muß ich auch das schöne\nDas zehen Jahre uns vereint. [Band,",
+    "new": "Und fruchtlos sehen muß ich auch das schöne Band,\nDas zehen Jahre uns vereint.",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-21, Maria's opening speech. The right-aligned [Band, is a typographic continuation of the preceding verse ending schöne; the bracket marks the printed overrun, not dialogue. Historical zehen and original punctuation are retained."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-21-6",
+    "old": "Wenn solch Bekenntnis auch recht hart der Seele\nDie allzugern ergründen möchte, [wird",
+    "new": "Wenn solch Bekenntnis auch recht hart der Seele wird\nDie allzugern ergründen möchte,",
+    "pages": [
+      30
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-30 visually reviewed. Right-aligned [wird continues the preceding verse ending Seele."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-21-6",
+    "old": "Es müßte schmelzen wie der Schnee im SonnenDer Wahn, der fremd und wunderbar, [licht",
+    "new": "Es müßte schmelzen wie der Schnee im Sonnenlicht\nDer Wahn, der fremd und wunderbar,",
+    "pages": [
+      39
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-39 visually reviewed. Printed Sonnen- continues with right-aligned [licht. The following distinct verse begins Der Wahn; the OCR lost the hyphen and verse boundary."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-21-6",
+    "old": "Doch blieben mir stets dunkel seine sonderbaren\nIn denen er zutage brachte, [Reden,",
+    "new": "Doch blieben mir stets dunkel seine sonderbaren Reden,\nIn denen er zutage brachte,",
+    "pages": [
+      44
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-44 visually reviewed. Right-aligned [Reden, continues the preceding verse ending sonderbaren."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-21-6",
+    "old": "Von Sehergaben durch mich selbst; [quälen,\nDoch oft, wenn Rätselfragen mich gewaltig",
+    "new": "Von Sehergaben durch mich selbst;\nDoch oft, wenn Rätselfragen mich gewaltig quälen,",
+    "pages": [
+      45
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-45 visually reviewed. The right-aligned [quälen, is positioned one physical row ABOVE its parent verse Doch oft, wenn Rätselfragen mich gewaltig. The semicolon ends the previous verse."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-21-6",
+    "old": "Ein schreckhaft Traumeswesen vor dem GeistesEs legt sich schwer mir auf die Seele, [äuge auf.",
+    "new": "Ein schreckhaft Traumeswesen vor dem Geistesauge auf.\nEs legt sich schwer mir auf die Seele,",
+    "pages": [
+      45
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-45 visually reviewed. Printed Geistes- continues with [auge auf. The scan explicitly reads auge, with no umlaut; OCR äuge is corrected in the restored word Geistesauge. The following distinct verse begins Es legt sich schwer."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-21-6",
+    "old": "Im Menschenherzen wahres Geisteswissen zu\nDer Hochmut kann verführen, [erzeugen.",
+    "new": "Im Menschenherzen wahres Geisteswissen zu erzeugen.\nDer Hochmut kann verführen,",
+    "pages": [
+      46
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-46 visually reviewed. Right-aligned [erzeugen. continues the preceding verse ending zu; surrounding stage directions stay separate."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-21-6",
+    "old": "Den neuen Menschen aus erstorbnem Keim\nWenn solcher Schaffenskraft [geschaffen.",
+    "new": "Den neuen Menschen aus erstorbnem Keim geschaffen.\nWenn solcher Schaffenskraft",
+    "pages": [
+      49
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-49 visually reviewed. Right-aligned [geschaffen. continues the preceding verse ending Keim."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-21-6",
+    "old": "Und recht im Herzen lebt der Seele höchstes\nZu glauben auch in keiner Weise, [Sittenziel,",
+    "new": "Und recht im Herzen lebt der Seele höchstes Sittenziel,\nZu glauben auch in keiner Weise,",
+    "pages": [
+      49
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-49 visually reviewed. Right-aligned [Sittenziel, continues the preceding verse ending höchstes."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-58-7",
+    "old": "Ich bin es selbst. [geheuer\nErkenntnis schmiedet an dich verderblich Un-",
+    "new": "Ich bin es selbst.\nErkenntnis schmiedet an dich verderblich Ungeheuer",
+    "pages": [
+      60
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-60 visually reviewed. The right-aligned [geheuer is positioned one physical row ABOVE its parent verse Erkenntnis ... Un-. Join the hyphenated word Ungeheuer and retain the full stop after selbst."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-58-7",
+    "old": "Wenn unser Denken seine Oberfläche bloß\nIch habe sie recht oft mir vorgehalten. [ergreift,",
+    "new": "Wenn unser Denken seine Oberfläche bloß ergreift,\nIch habe sie recht oft mir vorgehalten.",
+    "pages": [
+      62
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-62 visually reviewed. Right-aligned [ergreift, continues the preceding verse ending bloß."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-65-8",
+    "old": "In dem sich Göttertat verschlingt mit MenschenAis auf dem Pilgerpfad der Seele [leben.",
+    "new": "In dem sich Göttertat verschlingt mit Menschenleben.\nAls auf dem Pilgerpfad der Seele",
+    "pages": [
+      68
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-68 visually reviewed. Printed Menschen- continues with [leben.; the following distinct verse begins Als auf dem Pilgerpfad. The scan explicitly reads Als; fused OCR Ais is corrected while restoring its boundary."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-65-8",
+    "old": "Bereitet hatte dich dein Lebenslauf zum HeilesIn vielen Leben hattest du erworben dir [mittler.",
+    "new": "Bereitet hatte dich dein Lebenslauf zum Heilesmittler.\nIn vielen Leben hattest du erworben dir",
+    "pages": [
+      68
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-68 visually reviewed. Printed Heiles- continues with [mittler.; the following distinct verse begins In vielen Leben."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-65-8",
+    "old": "Der Schönheit edles Wesen, der Tugend höchste\nDu trugst als Geisteserbe sie [Forderung,",
+    "new": "Der Schönheit edles Wesen, der Tugend höchste Forderung,\nDu trugst als Geisteserbe sie",
+    "pages": [
+      68
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-68 visually reviewed. Right-aligned [Forderung, continues the preceding verse ending höchste."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-65-8",
+    "old": "Zu fragen nach des Glückes und des Leides\nAls reife Frucht von vielen Leben [Wurzeln.",
+    "new": "Zu fragen nach des Glückes und des Leides Wurzeln.\nAls reife Frucht von vielen Leben",
+    "pages": [
+      69
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-69 visually reviewed. Right-aligned [Wurzeln. continues the preceding verse ending Leides."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-77-9",
+    "old": "{Der Geist der Elemente verschwindet.)",
+    "new": "(Der Geist der Elemente verschwindet.)",
+    "pages": [
+      85
+    ],
+    "kind": "stage_direction",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-85 visually reviewed. The scan has ordinary round opening and closing parentheses around a small-type stage instruction. Opening brace is OCR corruption. Classify the complete directive as prose.",
+    "source_lines": [
+      "{Der Geist der Elemente verschwindet.)"
+    ]
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-108-12",
+    "old": "Du bist verbunden ihnen durch die SchicksalsSo konnte ihres Wesens Offenbarung [macht.",
+    "new": "Du bist verbunden ihnen durch die Schicksalsmacht.\nSo konnte ihres Wesens Offenbarung",
+    "pages": [
+      118
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-118 visually reviewed. Printed Schicksals- continues with [macht.; the following distinct verse begins So konnte."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-122-13",
+    "kind": "punctuation",
+    "pages": [
+      122
+    ],
+    "old": "in demselben Zimmer wie das Vorspiel",
+    "new": "in demselben Zimmer wie das Vorspiel.",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-122 visually reviewed. The introduction ends with Vorspiel. before the separate SOPHIA speaker label; restore the full stop lost at the previously fused role boundary."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-122-13",
+    "kind": "prose_word_split",
+    "pages": [
+      124,
+      125
+    ],
+    "old": "welche bis zu einer vollendeten Darstel- lung dessen gelangen",
+    "new": "welche bis zu einer vollendeten Darstellung dessen gelangen",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-124 and source-page-125 visually inspected. Sophia’s prose ends source-page-124 with Darstel- and resumes source-page-125 with lung after the running header. The hyphen is physical page-boundary word division; remove it and the joining space to restore Darstellung, retaining surrounding wording."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-122-13",
+    "kind": "prose_word_split",
+    "pages": [
+      126,
+      127
+    ],
+    "old": "Das Gewahrwerden einer unvollkommenen Wiederga- be der sinnenfäiligen Wirklichkeit",
+    "new": "Das Gewahrwerden einer unvollkommenen Wiedergabe der sinnenfäiligen Wirklichkeit",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-126 and source-page-127 visually inspected. Sophia’s prose ends source-page-126 with Wiederga- and resumes source-page-127 with be after the running header. Remove this physical page-boundary word division to restore Wiedergabe. Retain unrelated OCR spelling sinnenfäiligen."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-128-14",
+    "old": "Auch wenn der Glaube an die Quelle fehlt. [dern,\nDoch könnte man in diesem Falle nichts bewunWenn dieser Künstler nicht den Weg beschritten,",
+    "new": "Auch wenn der Glaube an die Quelle fehlt.\nDoch könnte man in diesem Falle nichts bewundern,\nWenn dieser Künstler nicht den Weg beschritten,",
+    "pages": [
+      131
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-131 visually reviewed. The right-aligned [dern, is positioned one physical row ABOVE its parent verse Doch könnte ... bewun-. Join bewundern and restore separate following verse Wenn dieser Künstler."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-128-14",
+    "old": "{Der Vorhang fällt, während Maria und Johannes noch im Zimmer sind.)",
+    "new": "(Der Vorhang fällt, während Maria und Johannes noch im Zimmer sind.)",
+    "pages": [
+      136
+    ],
+    "kind": "stage_direction",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-136 visually reviewed. The scan has round parentheses around the complete two-physical-line small-type stage instruction. Opening brace is OCR corruption. Reflow both physical lines into a prose directive.",
+    "source_lines": [
+      "{Der Vorhang fällt, während Maria und Johannes noch im",
+      "Zimmer sind.)"
+    ]
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-141-16",
+    "old": "Es treibt mir Schaffenslust durch meine Geistes-\n[kraft,",
+    "new": "Es treibt mir Schaffenslust durch meine Geisteskraft,",
+    "pages": [
+      141
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-141 visually reviewed. The right-aligned standalone [kraft, continues preceding printed Geistes-. Join the word Geisteskraft in one logical verse."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-148-17",
+    "old": "Du gabst mir Kraft, das Menschenleben darzustellen konnte schildern, was die Menschen [len.",
+    "new": "Du gabst mir Kraft, das Menschenleben darzustellen.\nIch konnte schildern, was die Menschen",
+    "pages": [
+      149
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-149 visually reviewed. The scan prints darzustel- followed by distinct verse Ich konnte schildern, was die Menschen with right-aligned [len. The OCR fused boundaries, duplicated/attached len and lost Ich; restore both source-verified complete verses."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-148-17",
+    "old": "Die in dem Menschenherzen nach der Wahrheit\nIch mußte stets in meinem Innern [strebt.",
+    "new": "Die in dem Menschenherzen nach der Wahrheit strebt.\nIch mußte stets in meinem Innern",
+    "pages": [
+      149
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile PDF source-page-149 visually reviewed. Right-aligned [strebt. continues preceding verse ending Wahrheit."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-173-21",
+    "old": "Wie schwerster Schmerz nach langem GlückDoch hab' ich wohl gelernt, [empfinden;",
+    "new": "Wie schwerster Schmerz nach langem Glückempfinden;\nDoch hab' ich wohl gelernt,",
+    "pages": [
+      176
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-176 visually checked. The scan prints Glück- followed by right-aligned [empfinden; below it; the next independent verse begins Doch. Remove the typographic overrun bracket and rejoin the word, restoring the verse boundary."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-173-21",
+    "old": "Doch wenn des Irrtums Schein in höchstem GlückErlebnis",
+    "new": "Doch wenn des Irrtums Schein in höchstem Glückerlebnis",
+    "pages": [
+      176
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-176 visually checked. The scan prints Glück- and a right-aligned [erlebnis on the following physical line. The OCR lost the bracket and hyphen and uppercased its fragment; rejoin as Glückerlebnis. This additional overrun was not previously flagged."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-173-21",
+    "old": "Gewaltsam sich als Wahrheit gibt dem MenschenIst Seelenfinsternis nur schwer zu bannen. [sinn,",
+    "new": "Gewaltsam sich als Wahrheit gibt dem Menschensinn,\nIst Seelenfinsternis nur schwer zu bannen.",
+    "pages": [
+      176
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-176 visually checked. The scan prints Menschen- with right-aligned [sinn, below; Ist begins the next separate verse. Restore the split word and verse boundary."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-173-21",
+    "old": "Der wachsend uns gebracht der Freundschaft\nDie reif befunden ward für Ewigkeiten. [Frucht,",
+    "new": "Der wachsend uns gebracht der Freundschaft Frucht,\nDie reif befunden ward für Ewigkeiten.",
+    "pages": [
+      177
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-177 visually checked. The right-aligned [Frucht, completes the preceding verse after Freundschaft."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-173-21",
+    "old": "Der von des Lebens Gegenwart mich führt in jene\nDa meines Freundes Seele [Zeiten,",
+    "new": "Der von des Lebens Gegenwart mich führt in jene Zeiten,\nDa meines Freundes Seele",
+    "pages": [
+      177
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-177 visually checked. The right-aligned [Zeiten, completes the preceding verse after jene."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-191-23",
+    "old": "Den bittern Kelch enttäuschter Forscherträume\nDoch lag mir stets die Meinung ferne, [trank.",
+    "new": "Den bittern Kelch enttäuschter Forscherträume trank.\nDoch lag mir stets die Meinung ferne,",
+    "pages": [
+      192
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-192 visually checked. The right-aligned [trank. completes the preceding verse ending Forscherträume."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-199-24",
+    "old": "Auch schien es früher keinem Menschen wissens-\n[wert.",
+    "new": "Auch schien es früher keinem Menschen wissenswert.",
+    "pages": [
+      200
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-200 visually checked. The scan prints wissens- and below it right-aligned [wert.; this is one logical verse with the word wissenswert."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-199-24",
+    "old": "Verordnet man die strengste Logik und GedankenSie werden meinen Reden abgesprochen, [fügung.",
+    "new": "Verordnet man die strengste Logik und Gedankenfügung.\nSie werden meinen Reden abgesprochen,",
+    "pages": [
+      201
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-201 visually checked. The scan prints Gedanken- with right-aligned [fügung. below; Sie begins a separate verse. The unrelated OCR comma after abgesprochen is retained."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-199-24",
+    "old": "Aus Geisteswelten sich uns offenbart, [verstehn.\nIst nützlich auch den Menschen, die es nicht",
+    "new": "Aus Geisteswelten sich uns offenbart,\nIst nützlich auch den Menschen, die es nicht verstehn.",
+    "pages": [
+      202
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-202 visually checked. The scan places right-aligned [verstehn. above the physical verse it completes, which ends die es nicht. Restore its position at the end of that verse; offenbart, remains the prior verse."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-199-24",
+    "old": "Ein Traum nur -, doch erschütternd war der\nIch weiß, daß ich gewiß in diesem Leben [Traum.",
+    "new": "Ein Traum nur -, doch erschütternd war der Traum.\nIch weiß, daß ich gewiß in diesem Leben",
+    "pages": [
+      213
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-213 visually checked. The right-aligned [Traum. completes the preceding verse after der. Retain the existing dash punctuation."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-223-26",
+    "old": "Seit dieser Zeit ist hoffnungslos all unser ErdenSchon haben unsre Feinde überwältigt [streben.",
+    "new": "Seit dieser Zeit ist hoffnungslos all unser Erdenstreben.\nSchon haben unsre Feinde überwältigt",
+    "pages": [
+      223
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-223 visually checked. The scan prints Erden- followed by right-aligned [streben.; Schon starts a separate verse."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-223-26",
+    "old": "Ich kann nun euch und mir die weitern Worte\nIst's möglich wohl, zu sprechen [sparen.",
+    "new": "Ich kann nun euch und mir die weitern Worte sparen.\nIst's möglich wohl, zu sprechen",
+    "pages": [
+      229
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-229 visually checked. The right-aligned [sparen. completes the preceding verse ending Worte."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-235-27",
+    "old": "Der Mönch, der unsres Nachbarklosters Haupt\nUnd der des Bundes Ziele stets bekämpft, [jetzt ist",
+    "new": "Der Mönch, der unsres Nachbarklosters Haupt jetzt ist\nUnd der des Bundes Ziele stets bekämpft,",
+    "pages": [
+      236
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-236 visually checked. The right-aligned [jetzt ist completes the preceding verse ending Haupt."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-235-27",
+    "old": "Doch wenn ich einsam Feld und Wald durchDa tritt vor meine Seele oft ein Bild, [wandle,",
+    "new": "Doch wenn ich einsam Feld und Wald durchwandle,\nDa tritt vor meine Seele oft ein Bild,",
+    "pages": [
+      241
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-241 visually checked. The scan prints durch- followed by right-aligned [wandle,; Da starts the next verse."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-235-27",
+    "old": "Ihr sollt nicht glauben», - sprach der Meister\n[ferner,",
+    "new": "Ihr sollt nicht glauben», - sprach der Meister ferner,",
+    "pages": [
+      244
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-244 visually checked. The right-aligned [ferner, is a continuation of the preceding verse ending Meister."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-258-29",
+    "old": "Vom Nichts ins Sein, vom Sein ins Nichts sich\n[drängten.",
+    "new": "Vom Nichts ins Sein, vom Sein ins Nichts sich drängten.",
+    "pages": [
+      259
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-259 visually checked. The right-aligned [drängten. continues the preceding verse ending sich."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-308-36",
+    "old": "{Hilarius Gottgetreu mit Bellicosus, Torquatus und Trautmann verlassen den Saal. Ebenso Doktor Strader und Felix Bälde. Es bleiben nur Maria und Thomasius an ihren Plätzen. Es verdunkelt sich der Saal. Nach einer kurzen Pause treten die drei Geistgestalten Philia, Astrid und Luna in einer Lichtwolke auf und gruppieren sich so, daß sie zunächst Maria verdecken. Das folgende ist Geisterlebnis des Thomasius.)",
+    "new": "(Hilarius Gottgetreu mit Bellicosus, Torquatus und Trautmann verlassen den Saal. Ebenso Doktor Strader und Felix Bälde. Es bleiben nur Maria und Thomasius an ihren Plätzen. Es verdunkelt sich der Saal. Nach einer kurzen Pause treten die drei Geistgestalten Philia, Astrid und Luna in einer Lichtwolke auf und gruppieren sich so, daß sie zunächst Maria verdecken. Das folgende ist Geisterlebnis des Thomasius.)",
+    "pages": [
+      314
+    ],
+    "kind": "stage_direction",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-314 visually checked. The scan clearly begins this stage direction with a round parenthesis. It is a single prose instruction spanning physical lines, ending Thomasius.). Replace the OCR opening brace with a parenthesis and reflow its source lines as stage prose.",
+    "source_lines": [
+      "{Hilarius Gottgetreu mit Bellicosus, Torquatus und Trautmann verlassen den Saal. Ebenso Doktor Strader und Felix",
+      "Bälde. Es bleiben nur Maria und Thomasius an ihren Plätzen.",
+      "Es verdunkelt sich der Saal. Nach einer kurzen Pause treten",
+      "die drei Geistgestalten Philia, Astrid und Luna in einer Lichtwolke auf und gruppieren sich so, daß sie zunächst Maria",
+      "verdecken. Das folgende ist Geisterlebnis des Thomasius.)"
+    ]
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-319-37",
+    "old": "Und dann die Schuld durch dich getilgt kann\n[werden.",
+    "new": "Und dann die Schuld durch dich getilgt kann werden.",
+    "pages": [
+      323
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-323 visually checked. The right-aligned [werden. continues the preceding verse ending kann."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-339-39",
+    "old": "{Pause.)",
+    "new": "(Pause.)",
+    "pages": [
+      345
+    ],
+    "kind": "stage_direction",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-345 visually checked. The scan clearly prints a round opening parenthesis in (Pause.). This is stage prose.",
+    "source_lines": [
+      "{Pause.)"
+    ]
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-347-40",
+    "kind": "prose_word_split",
+    "pages": [
+      350,
+      351
+    ],
+    "old": "Beleuchtung tritt ein, es erschei- nen Philia, Astrid, Luna",
+    "new": "Beleuchtung tritt ein, es erscheinen Philia, Astrid, Luna",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-350 and source-page-351 visually inspected. The parenthetical stage direction ends source-page-350 with erschei- and resumes source-page-351 with nen below the running header. It remains one prose direction, and the physical page-boundary hyphen and joining space are removed to restore erscheinen."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-370-42",
+    "old": "AHRIMAN {nur Strader hörhar):",
+    "new": "AHRIMAN (nur Strader hörhar):",
+    "pages": [
+      375
+    ],
+    "kind": "speaker_label",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-375 visually checked. The scan clearly prints a round opening parenthesis after AHRIMAN. Restore speaker attribution recognition; retain unrelated OCR spelling hörhar.",
+    "source_lines": [
+      "AHRIMAN {nur Strader hörhar):"
+    ]
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-370-42",
+    "old": "Ich kann, - betracht' ich dich - nur - klagen,\n[weinen.",
+    "new": "Ich kann, - betracht' ich dich - nur - klagen, weinen.",
+    "pages": [
+      379
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-379 visually checked. The scan has right-aligned [weinen. beside the independent direction (Geht schnell ab.). It completes the preceding spoken verse ending klagen, and must precede the direction in reading order. Split the exact mixed OCR source line into the overrun suffix first and the separate stage direction second.",
+    "mixed_stage_line": "(Geht schnell ab.) [weinen.",
+    "stage_text": "(Geht schnell ab.)",
+    "source_old": "Ich kann, - betracht' ich dich - nur - klagen,\n(Geht schnell ab.) [weinen.",
+    "source_new": "Ich kann, - betracht' ich dich - nur - klagen, weinen.\n\n(Geht schnell ab.)"
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-383-43",
+    "old": "{Vorhang fällt.)",
+    "new": "(Vorhang fällt.)",
+    "pages": [
+      389
+    ],
+    "kind": "stage_direction",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; embedded facsimile source-page-389 visually checked. The scan clearly prints a round opening parenthesis in (Vorhang fällt.). This is stage prose.",
+    "source_lines": [
+      "{Vorhang fällt.)"
+    ]
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-407-46",
+    "old": "Bildes des «Erwachens») als «Seelen», und im Tempel {des",
+    "new": "Bildes des «Erwachens») als «Seelen», und im Tempel (des",
+    "pages": [
+      410
+    ],
+    "kind": "stage_parenthesis",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-410. The inline explanatory parenthesis in the cast/introduction paragraph is printed (des; OCR misread its opening glyph as {. This is a one-glyph evidence-bound parenthesis repair, with no block reclassification. The nearby page409 cast-group bracket is an intentional multi-line brace and remains unchanged."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-423-48",
+    "old": "{Benedictus und Maria verschwinden.)",
+    "new": "(Benedictus und Maria verschwinden.)",
+    "pages": [
+      426
+    ],
+    "kind": "stage_direction",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-426. The independently set stage instruction begins with a round opening parenthesis in print; OCR misread it as a brace. Preserve wording and closing punctuation; classify as parenthetical stage prose.",
+    "source_lines": [
+      "{Benedictus und Maria verschwinden.)"
+    ]
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-423-48",
+    "old": "Doch welche Kraft erregt sich mir, wenn ich\nVerzaubertes Weben [bedenke:",
+    "new": "Doch welche Kraft erregt sich mir, wenn ich bedenke:\nVerzaubertes Weben",
+    "pages": [
+      439
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-439. The right-aligned [bedenke: continues the preceding verse ending ich. The left-aligned italic Verzaubertes Weben starts a separate quoted verse. Remove only the typographic continuation bracket and move the exact fragment."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-423-48",
+    "old": "Ihm wird das Selbst dann nicht mehr wertvoll scheiDas seine besten Kräfte zu den Schatten [nen,",
+    "new": "Ihm wird das Selbst dann nicht mehr wertvoll scheinen,\nDas seine besten Kräfte zu den Schatten",
+    "pages": [
+      439
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-439. Printed schei- ends the first verse; right-aligned [nen, completes scheinen, while Das begins the next verse. OCR fused the two left-aligned verses and omitted the line-end hyphen. Restore the verse boundary and complete the word from the exact continuation."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-458-50",
+    "old": "Dies Wort, mein Freund, es trifft mich tief im\nIch mußte, seit ich Strader näher trat, [Herzen.",
+    "new": "Dies Wort, mein Freund, es trifft mich tief im Herzen.\nIch mußte, seit ich Strader näher trat,",
+    "pages": [
+      460
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-460. Right-aligned [Herzen. continues the preceding verse ending im; the left-aligned Ich mußte starts the next verse."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-458-50",
+    "old": "Die schauen darf, wonach kein Wunsch dich\nErkrafte dich. [brennt.",
+    "new": "Die schauen darf, wonach kein Wunsch dich brennt.\nErkrafte dich.",
+    "pages": [
+      468
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-468. Right-aligned [brennt. continues the preceding verse ending dich; Erkrafte dich. is a distinct short verse."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-458-50",
+    "old": "Das Schwert wird sie mir wahrlich schmieden müsMaria sagt' es mir an meinem Abgrund, [sen. -",
+    "new": "Das Schwert wird sie mir wahrlich schmieden müssen. -\nMaria sagt' es mir an meinem Abgrund,",
+    "pages": [
+      471
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-471. Printed müs- and right-aligned [sen. complete müssen. The left-aligned Maria verse was fused by OCR. Move the exact continuation including retained punctuation to its first verse; retain the existing OCR comma after Abgrund (punctuation outside the overrun reconstruction)."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-458-50",
+    "old": "Erstirbt der Blick im Schauen? - Euch, mein\nWer tötet euch den sichern Seherblick? [Führer?",
+    "new": "Erstirbt der Blick im Schauen? - Euch, mein Führer?\nWer tötet euch den sichern Seherblick?",
+    "pages": [
+      472
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-472. Right-aligned [Führer? completes the preceding verse ending mein. The Wer tötet verse begins at the left margin. Retain all OCR punctuation, excluding the typographic bracket."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-458-50",
+    "old": "Die Flammen fliehn, — sie fliehn mit meinem\n[Denken;",
+    "new": "Die Flammen fliehn, — sie fliehn mit meinem Denken;",
+    "pages": [
+      473
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-473. Right-aligned [Denken; occupies its own physical overrun line and completes the preceding verse ending meinem. The left side of that physical line contains only printed pause dashes, already absent from the OCR; no words are added."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-458-50",
+    "old": "Ein wilder Kampf, - es kämpft mein eignes\n[Denken -",
+    "new": "Ein wilder Kampf, - es kämpft mein eignes Denken -",
+    "pages": [
+      473
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-473. Right-aligned [Denken - occupies a physical overrun line and completes the preceding verse ending eignes. Retain the exact word and punctuation while removing the continuation bracket."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-474-51",
+    "old": "Die Sternenschriftl - dies Wort, - es weckt GedanEs trägt sie mir auf Seelenwogen zu. [ken;",
+    "new": "Die Sternenschriftl - dies Wort, - es weckt Gedanken;\nEs trägt sie mir auf Seelenwogen zu.",
+    "pages": [
+      481
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-481. Printed Gedan- and right-aligned [ken; complete Gedanken; the following left-aligned Es trägt verse was fused by OCR. Restore its boundary and remove only the continuation bracket. The unrelated retained OCR token Sternenschriftl is not changed."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-482-52",
+    "old": "Die Flammen nahn, - sie nahn mit meinem DenVon meinem Welten-Seelen-Ufer dort; [ken -",
+    "new": "Die Flammen nahn, - sie nahn mit meinem Denken -\nVon meinem Welten-Seelen-Ufer dort;",
+    "pages": [
+      487
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-487. Printed Den- and right-aligned [ken - complete Denken; the following left-aligned Von meinem verse was fused by OCR. Restore the two verse lines with exact retained punctuation."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-482-52",
+    "old": "{Bei den letzten Worten erscheint der Geist von Johannes' Jugend. Engelartig, silberlicht.)",
+    "new": "(Bei den letzten Worten erscheint der Geist von Johannes' Jugend. Engelartig, silberlicht.)",
+    "pages": [
+      491
+    ],
+    "kind": "stage_direction",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-491. The separate two-line stage instruction starts with a printed round parenthesis, misread as {. Reclassify its exact source lines as parenthetical stage prose and join physical wrapping without changing words.",
+    "source_lines": [
+      "{Bei den letzten Worten erscheint der Geist von Johannes'",
+      "Jugend. Engelartig, silberlicht.)"
+    ]
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-507-55",
+    "old": "{Es erscheint Astrid.)",
+    "new": "(Es erscheint Astrid.)",
+    "pages": [
+      507
+    ],
+    "kind": "stage_direction",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-507. The separate stage instruction starts with a printed round parenthesis, misread as {. Reclassify as stage prose while preserving words and punctuation.",
+    "source_lines": [
+      "{Es erscheint Astrid.)"
+    ]
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-507-55",
+    "old": "Daß du mir nicht, dem Traume gleich, entschwinIm Licht, das Weltenmitternacht erleuchtet, [dest.",
+    "new": "Daß du mir nicht, dem Traume gleich, entschwindest.\nIm Licht, das Weltenmitternacht erleuchtet,",
+    "pages": [
+      508
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-508. Printed entschwin- and right-aligned [dest. complete entschwindest.; the following left-aligned Im Licht verse was fused by OCR. Restore its boundary and move the exact continuation."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-527-59",
+    "old": "«Entfernt euch nicht von wahrer MystenstimSo klang es wie aus seinen Seelentiefen, [mung»,",
+    "new": "«Entfernt euch nicht von wahrer Mystenstimmung»,\nSo klang es wie aus seinen Seelentiefen,",
+    "pages": [
+      530
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-530. Printed Mystenstim- and right-aligned [mung», complete Mystenstimmung», including the closing quotation and comma. The following So klang verse was fused by OCR; restore its boundary, retaining unrelated OCR punctuation after Seelentiefen."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-533-60",
+    "old": "Von euch sich trennen, - niemals wird's mein\nDem Geist des Hauses widerspräche dies, [Gatte,",
+    "new": "Von euch sich trennen, - niemals wird's mein Gatte,\nDem Geist des Hauses widerspräche dies,",
+    "pages": [
+      533
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-533. Right-aligned [Gatte, continues the preceding verse ending mein; Dem Geist begins the following verse. Move the exact continuation and remove its typographic bracket."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-538-61",
+    "old": "Er schaut mich wohl, doch kennt er mich jetzt\n[nicht.",
+    "new": "Er schaut mich wohl, doch kennt er mich jetzt nicht.",
+    "pages": [
+      541
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-541. Right-aligned [nicht. occupies its own overrun line and completes the preceding verse ending jetzt; it is not a separate spoken verse."
+  },
+  {
+    "passage_id": "ga-014-pdf-outline-538-61",
+    "old": "So bringt er mir noch nicht den SchreckensWenn ich an seiner Seite wirken will, [schmerz,",
+    "new": "So bringt er mir noch nicht den Schreckensschmerz,\nWenn ich an seiner Seite wirken will,",
+    "pages": [
+      541
+    ],
+    "kind": "verse_overrun",
+    "evidence": "Retained 1998 GA 014 EPUB SHA-256 658bfbcd00a8d0f2515b5c48d97ffe09d8052e6150cc3b7f21260eea541b8e7f; visually inspected embedded facsimile source-page-541. Printed Schreckens- and right-aligned [schmerz, complete the compound Schreckensschmerz,; the next left-aligned Wenn ich verse was fused by OCR. Restore its boundary and exact continuation, retaining unrelated OCR comma after will."
+  }
+]
