@@ -108,5 +108,10 @@ außerhalb dieses Repository-Umfangs.
 
 Die enthaltenen Textausgaben behalten ihren dokumentierten Bearbeitungs- und
 Prüfstatus. Die bestehenden Befunde zur Quellenabgrenzung und Rechteprüfung
-stehen in [content-rights.md](app-store/content-rights.md). Dieses Repository
-vergibt keine zusätzliche pauschale Lizenz für den Korpus oder den Quellcode.
+stehen in [content-rights.md](app-store/content-rights.md). Der eigene
+Projektquellcode und die zugehörige Projektdokumentation stehen unter der
+[MIT-Lizenz](../LICENSE). Die Originaltexte Rudolf Steiners sind in Deutschland
+gemeinfrei (Public Domain) und werden unabhängig von der MIT-Lizenz
+bereitgestellt. Die Kennzeichnung umfasst kein späteres Herausgeber- oder
+Verlagsmaterial; die dokumentierten offenen Rechtefragen und vorhandenen
+Drittlizenzen bleiben bestehen. Siehe [Lizenzhinweise in der README](../README.md#lizenz).

@@ -10,6 +10,27 @@ Der bearbeitete Korpus liegt vollständig unter
 [server/priv/content](server/priv/content); für den Betrieb ist kein separates
 Forschungsarchiv erforderlich.
 
+## Lizenz
+
+Der eigene Projektquellcode und die zugehörige Projektdokumentation stehen unter
+der **[MIT-Lizenz](LICENSE)**. Copyright © 2026 Jonathan Kutscher.
+
+**Textkorpus: Public Domain für die Originaltexte Rudolf Steiners.** Steiners
+Originaltexte sind in Deutschland gemeinfrei; sie werden unabhängig von der
+MIT-Lizenz bereitgestellt. Grundlage sind die abgelaufene Schutzfrist für
+Steiners eigenes Urheberrecht und die Fristberechnung nach
+[§ 64](https://www.gesetze-im-internet.de/urhg/__64.html) und
+[§ 69 UrhG](https://www.gesetze-im-internet.de/urhg/__69.html).
+
+Die Public-Domain-Kennzeichnung bezieht sich auf die Steiner-Originaltexte.
+Im aktuellen Korpus enthaltenes späteres Herausgeber- und Verlagsmaterial,
+insbesondere in GA 255b und GA 267, ist davon ausgenommen; dessen Rechte sind
+in den vorhandenen Unterlagen noch nicht geklärt. Die konkreten Befunde und
+weiteren editionsbezogenen Fragen sind unter
+[Inhaltsrechte](docs/app-store/content-rights.md) dokumentiert.
+Mitgelieferte Schriften und andere Drittbestandteile behalten ihre vorhandenen
+Lizenzbedingungen und Herkunftsnachweise.
+
 ## Texte finden
 
 - **[Alle 324 bearbeiteten Texte](server/priv/content)** – vollständiger Textkorpus als JSON beziehungsweise komprimiertes JSON.
@@ -33,7 +54,7 @@ unter `passages[].text`, der erhaltene Ausgangstext unter `passages[].source_tex
 Hinweise zum Repository-Umfang, den Korpusdateien und den Voraussetzungen:
 [Repository und Textkorpus](docs/repository.md). Die bestehenden
 [Prüfbefunde zur Textgrundlage](docs/app-store/content-rights.md) bleiben Teil
-der Dokumentation; diese Ablage vergibt keine neue Lizenz für Texte oder Code.
+der Dokumentation; der Lizenzumfang ist im Abschnitt [Lizenz](#lizenz) beschrieben.
 
 ---
 
