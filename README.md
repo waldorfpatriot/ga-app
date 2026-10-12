@@ -28,7 +28,7 @@ Diese fünf Kernwerke sind unkomprimiert direkt auf GitHub einsehbar:
 Die übrigen 319 Texte liegen als `.json.gz` vor, zum Beispiel
 [GA 120](server/priv/content/ga-120.json.gz). Zum Lesen die Datei herunterladen
 und mit gzip oder einem Archivprogramm entpacken. Der bearbeitete Text steht
-unter `passages[].text`, der erhaltene Ausgangstext unter `source_text`.
+unter `passages[].text`, der erhaltene Ausgangstext unter `passages[].source_text`.
 
 Hinweise zum Repository-Umfang, den Korpusdateien und den Voraussetzungen:
 [Repository und Textkorpus](docs/repository.md). Die bestehenden
